@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2005-02-24
+Version Consolidée au 2005-02-25
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-8)](#2)
