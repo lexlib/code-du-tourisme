@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2005-12-31
+Version Consolidée au 2006-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-8)](#2)
@@ -7636,17 +7636,23 @@ _Cite_:
 Les règles relatives à l'exonération par les conseils généraux de la Guadeloupe, de la Guyane, de la Martinique et de La
 Réunion de la taxe de publicité foncière ou du droit d'enregistrement afférents aux acquisitions d'immeubles que l'acquéreur
 s'engage à affecter à l'exploitation d'un hôtel, d'une résidence de tourisme ou d'un village de vacances classés sont fixées
-par les articles 1594 I bis et 1840 G duodecies du code général des impôts.
+par les articles 1594 I bis et 1840 G ter du code général des impôts.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1594 I bis, 1840 G duodecies
 
 _Codifié par_:
 
   - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+_Modifié par_:
+
+  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 24 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
+  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 25 (V) JORF 8 décembre 2005 en vigueur le 1er janvier 2006
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1594 I bis (VD)
+  - Code général des impôts, CGI. - art. 1840 G ter (V)
 
 
 ###### Article L441-2
