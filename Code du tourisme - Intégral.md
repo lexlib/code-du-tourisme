@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2006-05-25
+Version Consolidée au 2006-07-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-10)](#2)
@@ -4979,32 +4979,36 @@ _Codifié par_:
 
 ###### Article L341-8
 
-Des autorisations d'occupation temporaire du domaine public peuvent être accordées à des personnes publiques ou privées pour
-l'aménagement, l'organisation et la gestion de zones de mouillages et d'équipement léger lorsque les travaux et équipement
-réalisés ne sont pas de nature à entraîner l'affectation irréversible du site.
-
-Ces autorisations sont accordées par priorité aux communes ou groupements de communes ou après leur avis si elles renoncent à
-leur priorité.
+Les règles relatives aux autorisations d'occupation temporaire du domaine public qui peuvent être accordées pour
+l'aménagement, l'organisation et la gestion de zones de mouillages et d'équipement léger sont fixées à l'article L. 2124-5 du
+code général de la propriété des personnes publiques.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - 1 et 2
-  - Loi n°86-2 1986-01-03 art. 28, al
+  - Loi n°86-2 1986-01-03 art. 28, al. 1, al. 2
   - Loi n°86-2 du 3 janvier 1986 - art. 28 (M)
 
 _Codifié par_:
 
   - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
-_Cité par_:
+_Modifié par_:
 
-  - Code du tourisme. - art. L341-13 (V)
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 3 () JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+_Cite_:
+
+  - Code général de la propriété des personnes publiqu - art. L2124-5 (V)
 
 _Nouveaux textes_:
 
   - Code général de la propriété des personnes publiqu - art. L2124-5 (V)
+
+_Cité par_:
+
+  - Code du tourisme. - art. L341-13 (V)
 
 
 ###### Article L341-9
@@ -5030,18 +5034,26 @@ _Cité par_:
 
 ###### Article L341-10
 
-Les règles relatives aux infractions à la police du mouillage sont fixées à l'alinéa 4 de l'article 28 de la loi n° 86-2 du 3
-janvier 1986 relative à l'aménagement, la protection et la mise en valeur du littoral.
+Les infractions à la police du mouillage sont constatées par les officiers et agents de police judiciaire et par les
+fonctionnaires et agents de l'Etat habilités à constater les infractions à la police des ports maritimes, à la police de la
+navigation et à la police de la conservation du domaine public maritime et fluvial. Elles peuvent également, lorsque le
+bénéficiaire de l'autorisation est une collectivité territoriale, être constatées par des fonctionnaires et agents de ces
+collectivités, assermentés et commissionnés à cet effet par le président du conseil régional, le président du conseil général
+ou le maire, selon le cas.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°86-2 du 3 janvier 1986 - art. 28 (M)
 
 _Codifié par_:
 
   - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+
+_Modifié par_:
+
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 3 () JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 _Cité par_:
 
@@ -5050,28 +5062,33 @@ _Cité par_:
 
 ###### Article L341-11
 
-Les dispositions prévues aux articles L. 341-8 à L. 341-10 s'appliquent aux mouillages et équipements légers réalisés sur le
-domaine public fluvial même lorsqu'il n'est pas situé dans les communes définies par l'article 321-2 du code de
-l'environnement. Sur le domaine public fluvial, le pouvoir de délivrer ces autorisations peut être délégué par l'autorité
-compétente, dans les conditions déterminées par celle-ci, à une autorité organisatrice ayant vocation à développer la
-plaisance fluviale dans un bassin de navigation.
+Les règles relatives aux autorisations d'occupation temporaire qui peuvent être accordées pour l'aménagement, l'organisation
+et la gestion de zones de mouillages et d'équipement léger sur le domaine public fluvial sont fixées à l'article L. 2124-14
+du code général de la propriété des personnes publiques.
+
+Les dispositions prévues aux articles L. 341-9 et L. 341-10 s'appliquent aux mouillages et équipements légers réalisés sur le
+domaine public fluvial même lorsqu'il n'est pas situé dans les communes définies par l'article L. 321-2.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - 5
-  - Loi n°86-2 1986-01-03 art. 28, al
-  - Loi n°86-2 du 3 janvier 1986 - art. 28 (M)
+  - Loi n°86-2 1986-01-03 art. 28 al. 5
 
 _Codifié par_:
 
   - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
+_Modifié par_:
+
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 3 () JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
 _Cite_:
 
-  - Code du tourisme L341-8 à L341-10
-  - Code de l'environnement 321-2
+  - Code général de la propriété des personnes publiqu - art. L2124-14 (V)
+  - Code du tourisme L341-9, L341-10, L321-2
+  - Code du tourisme. - art. L341-10 (M)
+  - Code du tourisme. - art. L341-9 (V)
 
 _Nouveaux textes_:
 
@@ -5125,8 +5142,8 @@ _Cité par_:
 
 ###### Article L341-14
 
-Les règles relatives à l'accès des piétons aux plages et celles relatives aux concessions de plage sont fixées par l'article
-L. 321-9 du code de l'environnement.
+Les règles relatives à l'accès des piétons aux plages et celles relatives aux concessions de plage sont fixées par les
+articles L. 321-9 du code de l'environnement et L. 2124-4 du code général de la propriété des personnes publiques.
 
 **Liens relatifs à cet article**
 
@@ -5134,13 +5151,18 @@ _Codifié par_:
 
   - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
 
-_Cité par_:
+_Modifié par_:
 
-  - Code du tourisme. - art. L363-1 (M)
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 3 () JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 _Cite_:
 
-  - Code de l'environnement - art. L321-9 (M)
+  - Code général de la propriété des personnes publ... - art. L2124-4 (V)
+  - Code de l'environnement - art. L321-9 (V)
+
+_Cité par_:
+
+  - Code du tourisme. - art. L363-1 (M)
 
 
 ###### Article L341-15
