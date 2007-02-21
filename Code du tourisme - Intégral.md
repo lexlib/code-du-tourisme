@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2007-01-30
+Version Consolidée au 2007-02-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-10)](#2)
@@ -1992,23 +1992,6 @@ _Cite_:
   - Code du tourisme. - art. L161-1 (VT)
 
 
-###### Article L161-4
-
-Les règles relatives au transfert de compétences de la région ou du département de la Guadeloupe aux conseils municipaux de
-Saint-Martin et de Saint-Barthélemy dans le domaine du tourisme sont fixées par l'article L. 2564-2 du code général des
-collectivités territoriales.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
-_Abrogé par_:
-
-  - Loi n°2007-224 du 21 février 2007 - art. 25 () JORF 22 février 2007
-
-
 ###### Article L161-5
 
 Les dispositions applicables à l'ensemble des communes classées stations de tourisme au sens de la sous-section 2 de la
@@ -2040,7 +2023,7 @@ _Cité par_:
 
 ###### Article L162-1
 
-Le conseil général de Saint-Pierre-et-Miquelon exerce les compétences attribuées aux conseils régionaux et aux conseils
+Le conseil territorial de Saint-Pierre-et-Miquelon exerce les compétences attribuées aux conseils régionaux et aux conseils
 généraux par les chapitres 1er et 2 du titre III du présent livre.
 
 Dans ces articles, les mots : " région " et " département " sont remplacés par les mots : " collectivité territoriale ".
@@ -2053,7 +2036,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2006-437 du 14 avril 2006 - art. 17 () JORF 15 avril 2006
+  - Loi n°2007-223 du 21 février 2007 - art. 20 (V) JORF 22 février 2007
 
 
 ###### Article L162-2
