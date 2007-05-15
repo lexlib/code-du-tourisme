@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2007-05-04
+Version Consolidée au 2007-05-16
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-10)](#2)
@@ -282,54 +282,57 @@ Version Consolidée au 2007-05-04
           - [Section 1 : Aménagement, protection et mise en valeur du littoral. (art. D341-1)](#279)
           - [Section 2 : Ports de plaisance et zones de mouillages. (art. D341-2)](#280)
           - [Section 3 : Accès aux rivages et aux plages. (art. D341-3)](#281)
-        - [Chapitre II : Montagne. (art. D342-1 à R342-15)](#282)
+        - [Chapitre II : Montagne. (art. D342-1 à R342-29)](#282)
           - [Section 2 : Unités touristiques nouvelles. (art. D342-1)](#283)
-          - [Section 3 : Remontées mécaniques et pistes de ski. (art. D342-2 à R342-15)](#284)
-        - [Chapitre III : Espace rural et naturel. (art. D343-1 à D343-6)](#285)
-          - [Section 1 : Activités touristiques en milieu rural. (art. D343-1)](#286)
-          - [Section 2 : Parcs nationaux et régionaux. (art. D343-2 à D343-3)](#287)
-            - [Sous-section 1 : Parcs nationaux. (art. D343-2)](#288)
-            - [Sous-section 2 : Parcs naturels régionaux. (art. D343-3)](#289)
-          - [Section 3 : Itinéraires de randonnée. (art. D343-4)](#290)
-          - [Section 4 : Voies vertes. (art. D343-5)](#291)
-          - [Section 6 : Accueil du public en forêt. (art. D343-6)](#292)
-      - [TITRE V : DISPOSITIONS RELATIVES À LA CORSE. (art. D351-1 à D351-3)](#293)
-        - [Chapitre unique. (art. D351-1 à D351-3)](#294)
-      - [TITRE VI : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER. (art. R361-1 à R363-6)](#295)
-        - [Chapitre Ier : Dispositions relatives à la Guadeloupe, la Guyane, la Martinique et la Réunion. (art. R361-1 à R361-3)](#296)
-        - [Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon. (art. R362-1 à R362-5)](#297)
-        - [Chapitre III : Dispositions relatives à Mayotte. (art. R363-1 à R363-6)](#298)
-    - [LIVRE IV : FINANCEMENT DE L'ACCÈS AUX VACANCES ET FISCALITÉ DU TOURISME. (art. R411-1 à R443-4)](#299)
-      - [TITRE Ier : ACCÈS AUX VACANCES. (art. R411-1 à R412-17)](#300)
-        - [Chapitre Ier : Chèques-vacances. (art. R411-1 à R411-26)](#301)
-          - [Section 1 : Dispositions générales. (art. R411-1 à R411-8)](#302)
-          - [Section 2 : Agence nationale pour les chèques-vacances. (art. R411-9 à R411-26)](#303)
-            - [Sous-section 1 : Missions et moyens (art. R411-9)](#304)
-            - [Sous-section 2 : Conseil d'administration. (art. R411-10 à R411-15)](#305)
-            - [Sous-section 3 : Tutelle (art. R411-16)](#306)
-            - [Sous-section 4 : Directeur général (art. R411-17)](#307)
-            - [Sous-section 5 : Commission d'attribution des aides (art. R411-18)](#308)
-            - [Sous-section 6 : Régime financier et comptable (art. R411-19 à R411-26)](#309)
-        - [Chapitre II : Agrément d'organismes ou de personnes physiques concourant au tourisme social. (art. D412-5 à R412-17)](#310)
-          - [Section 1 : Agrément national délivré à des organismes de tourisme social et familial. (art. D412-5 à R412-6)](#311)
-          - [Section 2 : Agrément des vacances adaptées organisées. (art. R412-8 à R412-17)](#312)
-      - [TITRE II : DISPOSITIONS FISCALES PARTICULIÈRES AUX ACTIVITÉS TOURISTIQUES. (art. D421-1 à D422-8)](#313)
-        - [Chapitre Ier : Ressources et incitations de l'Etat relatives aux activités et hébergements touristiques. (art. D421-1 à D421-4)](#314)
-          - [Section 1 : Assujettissement des hébergements et aménagements touristiques à la taxe sur la valeur ajoutée. (art. D421-1)](#315)
-          - [Section 2 : Dispositions particulières relatives à l'investissement dans l'immobilier de loisirs. (art. D421-2 à D421-3)](#316)
-          - [Section 3 : Dispositions particulières applicables aux agences de voyages et organisateurs de circuits touristiques. (art. D421-4)](#317)
-        - [Chapitre II : Ressources des collectivités territoriales relatives au tourisme. (art. D422-1 à D422-8)](#318)
-          - [Section 1 : Taxe professionnelle. (art. D422-1 à D422-2)](#319)
-          - [Section 2 : Taxes et redevances prélevées au profit des communes et établissements publics de coopération intercommunale. (art. D422-3 à D422-7)](#320)
-            - [Sous-section 1 : Taxe de séjour et taxe de séjour forfaitaire. (art. D422-3 à D422-4)](#321)
-            - [Sous-section 2 : Taxe communale sur les entreprises exploitant des engins de remontée mécanique. (art. D422-5)](#322)
-            - [Sous-section 5 : Taxe sur les activités commerciales non salariées à durée saisonnière. (art. D422-6)](#323)
-            - [Sous-section 6 : Prélèvement sur le produit des jeux dans les casinos. (art. D422-7)](#324)
-          - [Section 3 : Taxes prélevées au profit des départements. (art. D422-8)](#325)
-            - [Sous-section 2 : Taxe départementale sur les entreprises exploitant des engins de remontée mécanique. (art. D422-8)](#326)
-      - [TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER. (art. R442-1 à R443-4)](#327)
-        - [Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon. (art. R442-1 à R442-3)](#328)
-        - [Chapitre III : Dispositions relatives à Mayotte. (art. R443-1 à R443-4)](#329)
+          - [Section 3 : Remontées mécaniques, pistes de ski et tapis roulants. (art. D342-2 à R342-29)](#284)
+            - [Sous-section 1 : Dispositions communes aux remontées mécaniques et aux tapis roulants. (art. D342-2 à R342-20)](#285)
+            - [Sous-section 2 : Dispositions spécifiques aux remontées mécaniques. (art. D342-21 à R342-25)](#286)
+            - [Sous-section 3 : Dispositions spécifiques aux tapis roulants. (art. R342-26 à R342-29)](#287)
+        - [Chapitre III : Espace rural et naturel. (art. D343-1 à D343-6)](#288)
+          - [Section 1 : Activités touristiques en milieu rural. (art. D343-1)](#289)
+          - [Section 2 : Parcs nationaux et régionaux. (art. D343-2 à D343-3)](#290)
+            - [Sous-section 1 : Parcs nationaux. (art. D343-2)](#291)
+            - [Sous-section 2 : Parcs naturels régionaux. (art. D343-3)](#292)
+          - [Section 3 : Itinéraires de randonnée. (art. D343-4)](#293)
+          - [Section 4 : Voies vertes. (art. D343-5)](#294)
+          - [Section 6 : Accueil du public en forêt. (art. D343-6)](#295)
+      - [TITRE V : DISPOSITIONS RELATIVES À LA CORSE. (art. D351-1 à D351-3)](#296)
+        - [Chapitre unique. (art. D351-1 à D351-3)](#297)
+      - [TITRE VI : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER. (art. R361-1 à R363-6)](#298)
+        - [Chapitre Ier : Dispositions relatives à la Guadeloupe, la Guyane, la Martinique et la Réunion. (art. R361-1 à R361-3)](#299)
+        - [Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon. (art. R362-1 à R362-5)](#300)
+        - [Chapitre III : Dispositions relatives à Mayotte. (art. R363-1 à R363-6)](#301)
+    - [LIVRE IV : FINANCEMENT DE L'ACCÈS AUX VACANCES ET FISCALITÉ DU TOURISME. (art. R411-1 à R443-4)](#302)
+      - [TITRE Ier : ACCÈS AUX VACANCES. (art. R411-1 à R412-17)](#303)
+        - [Chapitre Ier : Chèques-vacances. (art. R411-1 à R411-26)](#304)
+          - [Section 1 : Dispositions générales. (art. R411-1 à R411-8)](#305)
+          - [Section 2 : Agence nationale pour les chèques-vacances. (art. R411-9 à R411-26)](#306)
+            - [Sous-section 1 : Missions et moyens (art. R411-9)](#307)
+            - [Sous-section 2 : Conseil d'administration. (art. R411-10 à R411-15)](#308)
+            - [Sous-section 3 : Tutelle (art. R411-16)](#309)
+            - [Sous-section 4 : Directeur général (art. R411-17)](#310)
+            - [Sous-section 5 : Commission d'attribution des aides (art. R411-18)](#311)
+            - [Sous-section 6 : Régime financier et comptable (art. R411-19 à R411-26)](#312)
+        - [Chapitre II : Agrément d'organismes ou de personnes physiques concourant au tourisme social. (art. D412-5 à R412-17)](#313)
+          - [Section 1 : Agrément national délivré à des organismes de tourisme social et familial. (art. D412-5 à R412-6)](#314)
+          - [Section 2 : Agrément des vacances adaptées organisées. (art. R412-8 à R412-17)](#315)
+      - [TITRE II : DISPOSITIONS FISCALES PARTICULIÈRES AUX ACTIVITÉS TOURISTIQUES. (art. D421-1 à D422-8)](#316)
+        - [Chapitre Ier : Ressources et incitations de l'Etat relatives aux activités et hébergements touristiques. (art. D421-1 à D421-4)](#317)
+          - [Section 1 : Assujettissement des hébergements et aménagements touristiques à la taxe sur la valeur ajoutée. (art. D421-1)](#318)
+          - [Section 2 : Dispositions particulières relatives à l'investissement dans l'immobilier de loisirs. (art. D421-2 à D421-3)](#319)
+          - [Section 3 : Dispositions particulières applicables aux agences de voyages et organisateurs de circuits touristiques. (art. D421-4)](#320)
+        - [Chapitre II : Ressources des collectivités territoriales relatives au tourisme. (art. D422-1 à D422-8)](#321)
+          - [Section 1 : Taxe professionnelle. (art. D422-1 à D422-2)](#322)
+          - [Section 2 : Taxes et redevances prélevées au profit des communes et établissements publics de coopération intercommunale. (art. D422-3 à D422-7)](#323)
+            - [Sous-section 1 : Taxe de séjour et taxe de séjour forfaitaire. (art. D422-3 à D422-4)](#324)
+            - [Sous-section 2 : Taxe communale sur les entreprises exploitant des engins de remontée mécanique. (art. D422-5)](#325)
+            - [Sous-section 5 : Taxe sur les activités commerciales non salariées à durée saisonnière. (art. D422-6)](#326)
+            - [Sous-section 6 : Prélèvement sur le produit des jeux dans les casinos. (art. D422-7)](#327)
+          - [Section 3 : Taxes prélevées au profit des départements. (art. D422-8)](#328)
+            - [Sous-section 2 : Taxe départementale sur les entreprises exploitant des engins de remontée mécanique. (art. D422-8)](#329)
+      - [TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER. (art. R442-1 à R443-4)](#330)
+        - [Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon. (art. R442-1 à R442-3)](#331)
+        - [Chapitre III : Dispositions relatives à Mayotte. (art. R443-1 à R443-4)](#332)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME.<a id=2></a>
@@ -21896,57 +21899,69 @@ _Cite_:
   - Code de l'urbanisme - art. R145-1 (V)
 
 
-##### Section 3 : Remontées mécaniques et pistes de ski.<a id=284></a>
+##### Section 3 : Remontées mécaniques, pistes de ski et tapis roulants.<a id=284></a>
+
+##### Sous-section 1 : Dispositions communes aux remontées mécaniques et aux tapis roulants.<a id=285></a>
 
 ###### Article D342-2
 
-Les dispositions des chapitres 1er et 3 du décret n° 2004-85 du 26 janvier 2004 relatif aux enquêtes techniques après
-événements de mer, accident ou incident de transport terrestre s'appliquent aux remontées mécaniques.
+Les dispositions des chapitres 1er et 3 du décret n° 2004-85 du 26 janvier 2004 relatif au enquêtes techniques après
+événements de mer, accident ou incident de transport terrestre s'appliquent aux remontées mécaniques et aux tapis roulants
+mentionnés à l'article L. 342-17-1.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°2004-85 2004-01-26
+  - Décret n°2004-85 du 26 janvier 2004
+  - Code du tourisme. - art. L342-17-1
 
 _Codifié par_:
 
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+  - Décret n°2006-1229 du 6 octobre 2006
 
+_Modifié par_:
 
-###### Article D342-3
-
-Les dispositions du décret n° 2003-426 du 9 mai 2003 relatif à la mise sur le marché des constituants et sous-systèmes
-assurant la sécurité des remontées mécaniques s'appliquent aux remontées mécaniques.
-
-**Nota:**
-
-NOTA : Décret 2007-487 du 30 mars 2007 art. 95 : Le décret du 70-836 du 10 septembre 1970 est abrogé. Toutefois, les
-dispositions de ce décret demeurent en vigueur en tant qu'elles s'appliquent à Saint-Pierre-et-Miquelon et à Mayotte.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°2003-426 2003-05-09
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+  - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
 
 _Abrogé par_:
+
+  - Décret n°2016-29 du 19 janvier 2016 - art. 1
+
+
+###### Article R342-3
+
+La réglementation technique et de sécurité applicable aux remontées mécaniques et aux tapis roulants est définie par arrêté
+du ministre chargé des transports.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2003-425 du 9 mai 2003 - art. 52-1 (Ab)
+  - Décret n°2007-934 du 15 mai 2007 - art. 4 (V)
+  - Arrêté du 17 janvier 2017 (V)
+  - Arrêté du 16 juin 2017 (V)
+  - Code du tourisme. - art. R342-12 (VD)
+  - Code du tourisme. - art. R342-23 (V)
+  - Code du tourisme. - art. R342-26 (V)
+  - Code du tourisme. - art. R342-6 (V)
+  - Code du tourisme. - art. R342-8 (VD)
+
+_Codifié par_:
+
+  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+
+_Créé par_:
 
   - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
 
 
-###### Article D342-4
+###### Article R342-4
 
-Les articles R. 445-1 à R. 445-16 du code de l'urbanisme s'appliquent aux remontées mécaniques.
-
-**Nota:**
-
-NOTA : Décret 2007-487 du 30 mars 2007 art. 95 : Le décret du 70-836 du 10 septembre 1970 est abrogé. Toutefois, les
-dispositions de ce décret demeurent en vigueur en tant qu'elles s'appliquent à Saint-Pierre-et-Miquelon et à Mayotte.
+Pour la construction ou la modification substantielle d'une remontée mécanique ou d'un tapis roulant, il est choisi un maître
+d'oeuvre unique pour le projet, indépendant du maître d'ouvrage, du ou des constructeurs ainsi que de l'exploitant de
+l'installation.
 
 **Liens relatifs à cet article**
 
@@ -21954,19 +21969,25 @@ _Codifié par_:
 
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
-_Abrogé par_:
+_Créé par_:
 
   - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
 
-_Cite_:
+_Cité par_:
 
-  - Code de l'urbanisme R445-1 à R445-16
+  - Décret n°2007-934 du 15 mai 2007 - art. 4 (V)
+  - Arrêté du 9 mai 2008 - art. 11 (V)
+  - Arrêté du 9 mai 2008 - art. 4 (V)
+  - Code du tourisme. - art. R342-26 (V)
+  - Code du tourisme. - art. R342-5 (V)
 
 
 ###### Article R342-5
 
-La réglementation technique et de sécurité applicable aux remontées mécaniques est définie par arrêté du ministre chargé des
-transports.
+A compter du 1er janvier 2009, toute personne exerçant les fonctions du maître d'oeuvre mentionné à l'article R. 342-4 doit
+être préalablement agréée par le ministre chargé des transports. Cet agrément est délivré, après avis du service technique
+des remontées mécaniques et des transports guidés, pour une durée maximale de cinq ans dans les conditions prévues à
+l'article R. 342-16.
 
 **Liens relatifs à cet article**
 
@@ -21988,7 +22009,6 @@ _Cité par_:
   - Arrêté du 30 décembre 2016 - art. 6 (V)
   - Décret n°2017-440 du 30 mars 2017 - art. 8 (V)
   - Arrêté du 16 juin 2017 - art. 4
-  - Code du tourisme. - art. R342-16 (V)
   - Code du tourisme. - art. R342-6 (M)
   - Code du tourisme. - art. R342-7 (M)
 
@@ -21996,12 +22016,21 @@ _Codifié par_:
 
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
+_Modifié par_:
+
+  - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+_Cite_:
+
+  - Code du tourisme. - art. R342-16 (V)
+  - Code du tourisme. - art. R342-4 (V)
+
 
 ###### Article R342-6
 
-Les constructeurs, maîtres d'oeuvre, maîtres d'ouvrage et exploitants sont tenus, chacun en ce qui le concerne, de s'assurer
-que les installations ou équipements sont établis, maintenus, exploités et entretenus en conformité avec les dispositions de
-la réglementation technique et de sécurité en vigueur prévue à l'article R. 342-5.
+Les constructeurs, maîtres d'oeuvre, maîtres d'ouvrage et exploitants de remontées mécaniques et de tapis roulants sont
+tenus, chacun en ce qui le concerne, de s'assurer que les installations ou équipements sont établis, maintenus et exploités
+en conformité avec les dispositions de la réglementation technique et de sécurité prévue à l'article R. 342-3.
 
 **Liens relatifs à cet article**
 
@@ -22013,50 +22042,26 @@ _Codifié par_:
 
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
+_Modifié par_:
+
+  - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
 _Cite_:
 
-  - Code du tourisme. - art. R342-5 (M)
+  - Code du tourisme. - art. R342-3 (V)
 
 
 ###### Article R342-7
 
-Le maître d'ouvrage a l'obligation de désigner un maître d'oeuvre unique, responsable de la conception et de la réalisation
-du projet en conformité avec les règlements en vigueur et les règles de l'art. Le maître d'oeuvre doit s'adjoindre des
-spécialistes pour les domaines ou les fonctions pour lesquels sa compétence propre ou ses moyens sont insuffisants.
+Le contrôle technique et de sécurité de l'Etat sur les remontées mécaniques et les tapis roulants porte notamment sur :
 
-La liste des intervenants à la maîtrise d'oeuvre, la répartition des fonctions et des tâches et la justification des
-compétences respectives notamment par l'indication des références sont soumises au service du contrôle de l'Etat, qui peut
-récuser les compétences qu'il estime insuffisamment établies.
+1° Leur construction, leur modification et leur mise en exploitation ;
 
-Les missions confiées au maître d'oeuvre comprennent obligatoirement :
+2° Leur conformité à la réglementation technique et de sécurité ;
 
-a) La description de l'organisation du projet à réaliser ;
+3° L'exploitation, les règlements d'exploitation et de police ;
 
-b) La vérification de l'adaptation du projet au terrain, notamment en matière de choix d'emplacement des gares et pylônes et
-de type de système de sauvetage ;
-
-c) La vérification de la cohérence générale de la conception du projet, y compris les conditions d'utilisation des
-constituants de sécurité et des sous-systèmes au sens du décret n° 2003-426 du 9 mai 2003 relatif à la mise sur le marché des
-constituants et sous-systèmes assurant la sécurité des remontées mécaniques ;
-
-d) La production du rapport de sécurité prévu par l'article 4 du décret n° 2003-426 du 9 mai 2003 relatif à la mise sur le
-marché des constituants et sous-systèmes assurant la sécurité des remontées mécaniques ;
-
-e) La vérification de la conformité du projet à la réglementation technique et de sécurité prévue à l'article R. 342-5 ;
-
-f) La direction des réunions de chantier et l'établissement de leurs comptes rendus ;
-
-g) La vérification de la conformité de l'installation réalisée au projet adopté ;
-
-h) La réception du génie civil, y compris le contrôle des essais réalisés sur site ;
-
-i) La direction des essais probatoires de l'installation ;
-
-j) L'établissement du dossier de demande d'autorisation de mise en exploitation prévu à l'article R. 445-7 du code de
-l'urbanisme.
-
-Les conditions d'application du présent article sont précisées en tant que de besoin par un arrêté du ministre chargé des
-transports.
+4° Les accidents et incidents d'exploitation.
 
 **Liens relatifs à cet article**
 
@@ -22064,25 +22069,22 @@ _Anciens textes_:
 
   - Décret n°87-815 du 5 octobre 1987 - art. 4 (Ab)
 
-_Cite_:
-
-  - Décret n°2003-426 2003-05-09 art. 4
-  - Code du tourisme. - art. R342-5 (M)
-  - Code de l'urbanisme - art. R445-7 (Ab)
-
 _Codifié par_:
 
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
+_Modifié par_:
+
+  - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
 
 ###### Article R342-8
 
-Les fondations, ancrages et superstructures des remontées mécaniques, à l'exception des téléskis et à l'exclusion des parties
-mobiles ou sujettes à l'usure, sont soumis à un contrôle technique portant sur leur conception et leur exécution.
+Le contrôle du respect de la réglementation technique et de sécurité prévue à l'article R. 342-3 est exercé, sous l'autorité
+du préfet, par les agents du ministère chargé des transports affectés à ces missions. 
 
-Ce contrôle est exercé par un contrôleur technique choisi par le maître d'ouvrage parmi les contrôleurs techniques agréés en
-application des dispositions de l'article L. 111-25 du code de la construction et de l'habitation, dans le respect des règles
-et sous les peines fixées par le code précité en matière de contrôle technique obligatoire.
+Lorsqu'une installation excède les limites territoriales d'un département, un arrêté conjoint des préfets concernés coordonne
+l'action des services de contrôle.
 
 **Liens relatifs à cet article**
 
@@ -22093,6 +22095,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+
+_Modifié par_:
+
+  - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
 
 _Cité par_:
 
@@ -22108,17 +22114,16 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la construction et de l'habitation. - art. L111-25 (V)
+  - Code du tourisme. - art. R342-3 (V)
 
 
 ###### Article R342-9
 
-La conception et les conditions d'exploitation des remontées mécaniques empruntant un tunnel, au regard des risques naturels
-ou technologiques susceptibles d'affecter l'ouvrage, sont soumises à l'avis d'un expert ou organisme qualifié indépendant des
-concepteurs et constructeurs de la remontée mécanique.
+Le préfet peut faire procéder à tout moment à des visites de contrôle des exploitants et de leurs installations destinées à
+vérifier le respect des règles techniques et de sécurité applicables.
 
-Cet expert ou organisme qualifié est choisi par le maître d'ouvrage parmi les experts ou organismes agréés conformément aux
-dispositions de l'article 7 du décret n° 2003-425 du 9 mai 2003 relatif à la sécurité des transports publics guidés.
+Les agents du ministère chargé des transports qui effectuent ces contrôles ont libre accès à toutes les installations et
+peuvent obtenir communication de tous documents ou pièces nécessaires à l'accomplissement de ces contrôles.
 
 **Liens relatifs à cet article**
 
@@ -22126,13 +22131,13 @@ _Anciens textes_:
 
   - Décret n°87-815 du 5 octobre 1987 - art. 5-1 (Ab)
 
-_Cite_:
-
-  - Décret n°2003-425 2003-05-09 art. 7
-
 _Codifié par_:
 
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+
+_Modifié par_:
+
+  - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
 
 _Cité par_:
 
@@ -22141,15 +22146,22 @@ _Cité par_:
 
 ###### Article R342-10
 
-Le contrôle technique et de sécurité de l'Etat sur les remontées mécaniques prévu à l'article L. 342-17 porte notamment :
+Tout accident grave est porté sans délai par l'exploitant de la remontée mécanique ou du tapis roulant en cause à la
+connaissance du préfet et du bureau d'enquêtes sur les accidents de transport terrestre. Cette information porte notamment
+sur les circonstances de l'accident. En outre, l'exploitant adresse au préfet, dans un délai de deux mois, un compte rendu
+sur cet accident qui précise les causes et les conséquences constatées de cet accident. Si la gravité ou les circonstances de
+l'accident l'exigent, le préfet peut soumettre la poursuite de l'exploitation à la production préalable du compte rendu.
 
-1° Sur leur construction et leur mise en exploitation ;
+L'exploitant porte sans délai à la connaissance du préfet tout autre événement affectant la sécurité de l'exploitation.
 
-2° Sur leur conformité à la réglementation technique et de sécurité en vigueur ;
+Le préfet peut demander à l'exploitant d'analyser tout événement lié à la sécurité dont il a connaissance. En outre,
+lorsqu'il estime que cet événement aurait pu conduire à un accident grave, le préfet transmet le rapport d'analyse de cet
+événement établi par l'exploitant au bureau d'enquêtes sur les accidents de transport terrestre.
 
-3° Sur l'exploitation, les règlements d'exploitation et de police ;
+Dans tous les cas prévus par cet article, le préfet peut demander tout élément complémentaire d'information.
 
-4° Sur les accidents et incidents d'exploitation.
+Un arrêté du ministre chargé des transports précise les dispositions du présent article, notamment la nature des accidents
+graves et des événements mentionnés au troisième alinéa.
 
 **Liens relatifs à cet article**
 
@@ -22161,25 +22173,22 @@ _Codifié par_:
 
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
+_Modifié par_:
+
+  - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
 _Cité par_:
 
   - Arrêté du 26 juillet 2010 - art. 1 (V)
   - Arrêté du 26 juillet 2010 - art. 2 (V)
   - Arrêté du 26 juillet 2010 - art. 4 (V)
 
-_Cite_:
-
-  - Code du tourisme. - art. L342-17 (V)
-
 
 ###### Article R342-11
 
-Dans chaque département, le contrôle de l'Etat sur les remontées mécaniques est exercé par le préfet.
-
-Lorsqu'une remontée mécanique dépasse les limites territoriales d'un département, le ministre chargé des transports désigne
-le préfet chargé de coordonner l'action des services du contrôle.
-
-Un arrêté du ministre chargé des transports précise, en tant que de besoin, les modalités d'application de cet article.
+Toute modification du règlement d'exploitation, du règlement de police et, le cas échéant, du plan d'évacuation des usagers
+d'une remontée mécanique ou d'un tapis roulant fait l'objet, préalablement à son entrée en vigueur, d'un avis conforme du
+préfet. L'avis du préfet intervient dans un délai de deux mois après réception de la demande de modification.
 
 **Liens relatifs à cet article**
 
@@ -22190,6 +22199,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+
+_Modifié par_:
+
+  - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
 
 _Cité par_:
 
@@ -22202,17 +22215,17 @@ _Cité par_:
 
 ###### Article R342-12
 
-Les installations font l'objet de visites par les agents chargés du contrôle de l'Etat. Ces visites ont pour but notamment :
+L'exploitant désigne un chef d'exploitation chargé d'assurer la direction technique d'une ou plusieurs remontées mécaniques
+ou tapis roulants et en informe le préfet. 
 
-1° De vérifier si les prescriptions réglementaires sont observées ;
+L'exploitant prend les mesures appropriées pour que l'organisation du travail respecte la réglementation technique et de
+sécurité prévue à l'article R. 342-3 et que le personnel affecté aux tâches de sécurité soit en nombre suffisant et
+correctement formé. 
 
-2° De s'assurer que les vérifications, visites et essais prévus par la réglementation technique ont été effectués ;
+Pour chaque remontée mécanique ou tapis roulant, l'exploitant tient à jour un registre d'exploitation dans lequel sont
+notamment consignées les interventions effectuées en exploitation sur l'installation. 
 
-3° D'effectuer toutes investigations nécessaires à la recherche de la sécurité ;
-
-4° D'effectuer toute enquête administrative consécutive aux accidents ou incidents.
-
-Au cours de ces visites, les agents du contrôle ont un libre accès à toutes les installations.
+Un arrêté du ministre chargé des transports précise, en tant que de besoin, les dispositions du présent article.
 
 **Liens relatifs à cet article**
 
@@ -22223,6 +22236,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+
+_Modifié par_:
+
+  - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
 
 _Cité par_:
 
@@ -22246,20 +22263,20 @@ _Cité par_:
   - Arrêté du 16 juin 2017 - art. 1
   - Code du tourisme. - art. R342-12-4 (VD)
 
+_Cite_:
+
+  - Code du tourisme. - art. R342-3 (V)
+
 
 ###### Article R342-13
 
-Après la mise en exploitation, le préfet peut demander au maître d'ouvrage ou à l'exploitant de remédier à tout défaut ou
-insuffisance de l'installation ou de l'exploitation vis-à-vis de la sécurité.
+Afin de vérifier leur état de fonctionnement et d'entretien, les remontées mécaniques et les tapis roulants font l'objet de
+contrôles réalisés par l'exploitant et de vérifications réalisées par les personnes mentionnées à l'article R. 342-14. Pour
+chaque type d'installation, un arrêté du ministre précise la périodicité et le contenu de ces contrôles et vérifications
+ainsi que les modalités suivant lesquelles les services de contrôle mentionnés à l'article R. 342-8 sont préalablement
+informés. 
 
-7l peut, en outre, interrompre à tout moment, par décision motivée, l'exploitation d'une remontée mécanique si la sécurité
-lui paraît compromise ou si l'exploitant ne se conforme pas aux prescriptions de l'autorisation d'exploiter ou aux règles
-techniques et de sécurité en vigueur. Sauf cas d'urgence, cette interruption n'est prononcée qu'après mise en demeure
-infructueuse, l'exploitant entendu. Le préfet notifie sa décision à l'exploitant par lettre recommandée avec demande d'avis
-de réception postal ou par inscription au registre d'exploitation de l'appareil et en informe l'autorité organisatrice.
-
-Le préfet autorise la reprise de l'exploitation dès que les conditions de sécurité sont rétablies et notifie sa décision dans
-les conditions prévues à l'alinéa ci-dessus.
+L'exploitant transmet au préfet le compte rendu des contrôles et vérifications effectués et les attestations correspondantes.
 
 **Liens relatifs à cet article**
 
@@ -22271,6 +22288,10 @@ _Codifié par_:
 
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
+_Modifié par_:
+
+  - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
 _Cité par_:
 
   - Arrêté du 7 août 2009 - art. 38 (V)
@@ -22280,17 +22301,25 @@ _Cité par_:
   - Arrêté du 9 août 2011 - art. 60 (V)
   - Code du tourisme. - art. R342-14 (V)
 
+_Cite_:
+
+  - Code du tourisme. - art. R342-8 (V)
+
 
 ###### Article R342-14
 
-Les articles 6, 73, 74, 74-1, 77, 80-1 à 80-9, 92 et 93 du décret du 22 mars 1942 sur la police, la sûreté et l'exploitation
-des voies ferrées d'intérêt général et d'intérêt local sont applicables aux services de remontées mécaniques.
+Les personnes qui effectuent les vérifications prévues à l'article R. 342-13 sont indépendantes du maître d'ouvrage, du
+constructeur et de l'exploitant de la remontée mécanique ou du tapis roulant.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+
+_Modifié par_:
+
+  - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
 
 _Cité par_:
 
@@ -22303,23 +22332,22 @@ _Anciens textes_:
 
   - Décret n°1942-03-22 art. 1 dernier alinéa
 
-_Cite_:
-
-  - Décret n°1942-03-22 art. 6, art. 73, art. 74, art. 74-1, art. 77, art. 80-1 à 80-9, art. 92, art. 93
-
 
 ###### Article R342-15
 
-Le fait, pour toute personne, d'utiliser un service de remontée mécanique sans titre de transport ou munie d'un titre de
-transport non valable ou non complété, s'il y a lieu, par les opérations incombant à l'usager, est puni de l'amende prévue
-pour les contraventions de la troisième classe.
-
-Pour les infractions prévues à l'alinéa précédent, le montant de l'indemnité forfaitaire prévue par l'article 529-4 du code
-de procédure pénale est fixé à cinq fois la valeur du forfait journalier valable sur le service considéré, ou, à défaut, à
-cinq fois la valeur du billet aller et retour sur ce service. Le montant de cette indemnité forfaitaire est arrondi à l'euro
-immédiatement supérieur.
+A compter du 1er janvier 2009, les personnes mentionnées à l'article R. 342-14 doivent être préalablement agréées par le
+service technique des remontées mécaniques et des transports guidés. Cet agrément est délivré pour une durée maximale de cinq
+ans dans les conditions prévues à l'article R. 342-16.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+
+_Modifié par_:
+
+  - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
 
 _Cité par_:
 
@@ -22328,15 +22356,41 @@ _Cité par_:
   - Arrêté du 7 août 2009 - art. 2 (V)
   - Arrêté du 25 février 2010 - art. 6 (Ab)
   - Arrêté du 29 septembre 2010 - art. 2 (V)
+  - Décret n°2010-1580 du 17 décembre 2010 - art. 2 (VD)
   - Arrêté du 9 août 2011 - art. 2 (V)
   - Décret n°2014-1271 du 23 octobre 2014 - art. (VD)
   - Arrêté du 30 décembre 2016 - art. 6 (V)
-  - Code du tourisme. - art. R342-16 (V)
-  - Décret n°2010-1580 du 17 décembre 2010 - art. 2 (VD)
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. 529-4 (M)
+  - Code du tourisme. - art. R342-14 (V)
+  - Code du tourisme. - art. R342-16 (V)
+
+_Anciens textes_:
+
+  - Décret n°1942-03-22 art. 80-3 (remontées mécaniques)
+  - Décret n°1942-03-22 art. 80-4 (remontées mécaniques)
+
+
+###### Article R342-16
+
+Les agréments mentionnés aux articles R. 342-5 et R. 342-15 peuvent prévoir que les interventions de leurs bénéficiaires sont
+limitées à certaines catégories d'appareils et à certaines catégories de vérifications. 
+
+L'agrément peut être suspendu ou retiré s'il est constaté qu'une des conditions de sa délivrance n'est plus remplie ou en cas
+d'inobservation de la réglementation. Cette suspension ou ce retrait est prononcé après que le titulaire a été mis à même de
+présenter ses observations. En cas d'urgence, la suspension de l'agrément est immédiate. 
+
+Un arrêté du ministre chargé des transports précise les conditions de délivrance des agréments précités notamment en ce qui
+concerne la qualification, les compétences et les moyens requis de la part des demandeurs ainsi que les conditions de
+suspension ou de retrait.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code du tourisme. - art. R342-15 (V)
+  - Code du tourisme. - art. R342-5 (V)
 
 _Anciens textes_:
 
@@ -22347,10 +22401,484 @@ _Codifié par_:
 
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
+_Créé par_:
 
-#### Chapitre III : Espace rural et naturel.<a id=285></a>
+  - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
 
-##### Section 1 : Activités touristiques en milieu rural.<a id=286></a>
+
+###### Article R342-17
+
+Toute modification susceptible d'affecter la sécurité d'une remontée mécanique ou d'un tapis roulant fait l'objet d'une
+déclaration au préfet au moins un mois avant sa mise en oeuvre. A cette fin, le maître d'ouvrage transmet au préfet un
+dossier décrivant la modification envisagée et comprenant, le cas échéant, le rapport de sécurité prévu par l'article 4 du
+décret n° 2003-426 du 9 mai 2003 susvisé pour la partie modifiée. 
+
+Si, au vu du dossier transmis, il ressort que la modification envisagée remet en cause de manière significative les
+caractéristiques principales de l'installation, son emplacement et la nature des ouvrages ou sa capacité de transport, le
+préfet peut, dans un délai ne pouvant excéder un mois, la soumettre à l'autorisation prévue à l'article L. 472-1 du code de
+l'urbanisme.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2003-426 du 9 mai 2003 - art. 4 (V)
+  - Code de l'urbanisme - art. L472-1 (V)
+
+_Codifié par_:
+
+  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+
+_Créé par_:
+
+  - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+_Cité par_:
+
+  - Arrêté du 7 août 2009 - art. 65 (V)
+  - Arrêté du 7 août 2009 - art. 66 (V)
+  - Arrêté du 29 septembre 2010 - art. 55 (V)
+  - Arrêté du 29 septembre 2010 - art. 56 (V)
+  - Arrêté du 9 août 2011 - art. 74 (V)
+  - Arrêté du 9 août 2011 - art. 75 (V)
+
+_Anciens textes_:
+
+  - Décret n°1942-03-22 art. 80-3 (remontées mécaniques)
+  - Décret n°1942-03-22 art. 80-4 (remontées mécaniques)
+
+
+###### Article R342-18
+
+Le préfet est l'autorité compétente de l'Etat qui peut prescrire la mise en oeuvre d'une ou plusieurs mesures prévues au
+second alinéa du III et au IV de l'article L. 342-17 et, en cas de menace persistante pour la sécurité, imposer la suspension
+ou l'arrêt de l'exploitation de la remontée mécanique ou du tapis roulant en cause. 
+
+Si le défaut constaté sur une installation est susceptible de se rencontrer sur d'autres installations techniquement
+semblables, le préfet peut, après consultation du service technique des remontées mécaniques et des transports guidés,
+prononcer dans les mêmes conditions que celles prévues au IV de l'article L. 342-17 précité, la suspension ou l'arrêt des
+installations concernées. 
+
+En cas d'implantation d'installations techniquement semblables sur plusieurs départements, le ministre chargé des transports
+est l'autorité compétente de l'Etat visée au III et IV de l'article L. 342-17.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+
+_Créé par_:
+
+  - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+_Cité par_:
+
+  - Arrêté du 12 avril 2016 - art. 8 (V)
+
+_Cite_:
+
+  - Code du tourisme. - art. L342-17 (V)
+
+_Anciens textes_:
+
+  - Décret n°1942-03-22 art. 80-3 (remontées mécaniques)
+  - Décret n°1942-03-22 art. 80-4 (remontées mécaniques)
+
+
+###### Article R342-19
+
+Les articles 6,73,74,77,80-1 à 80-9,92 et 93 du décret n° 730 du 22 mars 1942 portant règlement d'administration publique sur
+la police, la sûreté et l'exploitation des voies ferrées d'intérêt général et d'intérêt local sont applicables aux services
+de remontées mécaniques et de tapis roulants.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°1942-03-22 art. 80-3 (remontées mécaniques)
+  - Décret n°1942-03-22 art. 80-4 (remontées mécaniques)
+
+_Cite_:
+
+  - Décret du 22 mars 1942 (V)
+
+_Codifié par_:
+
+  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+
+_Créé par_:
+
+  - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+
+###### Article R342-20
+
+Le fait pour toute personne d'utiliser une remontée mécanique ou tapis roulant sans titre de transport ou muni d'un titre de
+transport non valable est puni de l'amende prévue pour les contraventions de la troisième classe. 
+
+Pour les infractions prévues à l'alinéa précédent, le montant de l'indemnité forfaitaire prévue par l'article 529-4 du code
+de procédure pénale est fixé à cinq fois la valeur du forfait journalier correspondant à la remontée mécanique ou au tapis
+roulant considéré, ou, à défaut, à cinq fois la valeur du billet aller et retour sur cette remontée mécanique ou ce tapis
+roulant. Le montant de cette indemnité forfaitaire est arrondi à l'euro immédiatement supérieur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+
+_Créé par_:
+
+  - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+_Cite_:
+
+  - Code de procédure pénale - art. 529-4 (V)
+
+_Anciens textes_:
+
+  - Décret n°1942-03-22 art. 80-3 (remontées mécaniques)
+  - Décret n°1942-03-22 art. 80-4 (remontées mécaniques)
+
+
+##### Sous-section 2 : Dispositions spécifiques aux remontées mécaniques.<a id=286></a>
+
+###### Article D342-21
+
+Les dispositions du décret n° 2003-426 du 9 mai 2003 relatif à la mise sur le marché des constituants et sous-systèmes
+assurant la sécurité des remontées mécaniques sont applicables aux remontées mécaniques.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2003-426 du 9 mai 2003 (V)
+
+_Codifié par_:
+
+  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+
+_Créé par_:
+
+  - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007 rectificatif JORF 6 octobre 2007
+
+_Cité par_:
+
+  - Décret n°2007-934 du 15 mai 2007 - art. 4 (V)
+  - Code du tourisme. - art. R342-23 (V)
+
+_Anciens textes_:
+
+  - Décret n°1942-03-22 art. 80-3 (remontées mécaniques)
+  - Décret n°1942-03-22 art. 80-4 (remontées mécaniques)
+
+
+###### Article R342-22
+
+Les articles R. 472-1 à R. 472-21 du code de l'urbanisme s'appliquent aux remontées mécaniques.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code de l'urbanisme - art. R472-1 (V)
+
+_Anciens textes_:
+
+  - Décret n°1942-03-22 art. 80-3 (remontées mécaniques)
+  - Décret n°1942-03-22 art. 80-4 (remontées mécaniques)
+
+_Codifié par_:
+
+  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+
+_Créé par_:
+
+  - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007 rectificatif JORF 6 octobre 2007
+
+
+###### Article R342-23
+
+Les fonctions exercées par le maître d'oeuvre prévu à l'article R 342-4 comprennent au moins : 
+
+a) La description de l'organisation du projet ; 
+
+b) La vérification de l'adaptation du projet au terrain, notamment en matière de choix d'emplacement des gares et pylônes et
+de type de système de sauvetage ; 
+
+c) La vérification de la cohérence générale de la conception du projet, y compris les conditions d'utilisation des
+constituants de sécurité et des sous-systèmes au sens du décret n° 2003-426 du 9 mai 2003 mentionné à l'article D. 342-21 ; 
+
+d) La production du rapport de sécurité prévu par l'article 4 du même décret ; 
+
+e) La vérification de la conformité du projet à la réglementation technique et de sécurité prévue à l'article R. 342-3 ; 
+
+f) La direction des réunions de chantier et l'établissement de leurs comptes rendus ; 
+
+g) La vérification de la conformité de l'installation réalisée au projet adopté ; 
+
+h) La réception du génie civil, y compris le contrôle des essais réalisés sur site ; 
+
+i) La direction des essais probatoires de l'installation ; 
+
+j) L'établissement du dossier de demande d'autorisation de mise en exploitation prévu à l'article R. 472-15 du code de
+l'urbanisme. 
+
+Les conditions d'application du présent article sont précisées, en tant que de besoin, par un arrêté du ministre chargé des
+transports.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 7 août 2009 - art. 6 (V)
+  - Arrêté du 9 août 2011 - art. 6 (V)
+
+_Cite_:
+
+  - Code du tourisme. - art. D342-21 (V)
+  - Code du tourisme. - art. R342-3 (V)
+  - Code de l'urbanisme - art. R472-15 (V)
+  - Décret n°2003-426 du 9 mai 2003 (V)
+
+_Anciens textes_:
+
+  - Décret n°1942-03-22 art. 80-3 (remontées mécaniques)
+  - Décret n°1942-03-22 art. 80-4 (remontées mécaniques)
+
+_Codifié par_:
+
+  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+
+_Créé par_:
+
+  - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007 rectificatif JORF 6 octobre 2007
+
+
+###### Article R342-24
+
+Lorsqu'une remontée mécanique emprunte un tunnel d'une longueur de plus de 300 mètres, l'avis sur la sécurité mentionné à
+l'article R. 472-4-5° du code de l'urbanisme est émis par un expert ou organisme qualifié agréé en application de l'article 7
+du décret n° 2003-425 du 9 mai 2003 relatif à la sécurité des transports publics guidés, indépendant du maître d'ouvrage, du
+maître d'oeuvre, du ou des constructeurs et de l'exploitant de l'installation.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°1942-03-22 art. 80-3 (remontées mécaniques)
+  - Décret n°1942-03-22 art. 80-4 (remontées mécaniques)
+
+_Cite_:
+
+  - Décret n°2003-425 du 9 mai 2003 (V)
+  - Code de l'urbanisme - art. R472-4 (V)
+
+_Codifié par_:
+
+  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+
+_Créé par_:
+
+  - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007 rectificatif JORF 6 octobre 2007
+
+
+###### Article R342-25
+
+Les fondations, ancrages et superstructures des remontées mécaniques, à l'exception des téléskis et à l'exclusion des parties
+mobiles ou sujettes à l'usure, sont soumis à un contrôle technique portant sur leur conception et leur exécution. 
+
+Ce contrôle est exercé par un contrôleur technique choisi par le maître d'ouvrage parmi les contrôleurs agréés en application
+des dispositions de l'article L. 111-25 du code de la construction et de l'habitation, dans le respect des règles et sous les
+peines fixées en matière de contrôle technique obligatoire par ce code.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°1942-03-22 art. 80-3 (remontées mécaniques)
+  - Décret n°1942-03-22 art. 80-4 (remontées mécaniques)
+
+_Codifié par_:
+
+  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+
+_Créé par_:
+
+  - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007 rectificatif JORF 6 octobre 2007
+
+_Cité par_:
+
+  - Décret n°2007-934 du 15 mai 2007 - art. 4 (V)
+  - Code de l'urbanisme - art. R472-15 (V)
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. L111-25 (V)
+
+
+##### Sous-section 3 : Dispositions spécifiques aux tapis roulants.<a id=287></a>
+
+###### Article R342-26
+
+Les fonctions exercées par le maître d'oeuvre prévu à l'article R. 342-4 comprennent au moins : 
+
+a) La vérification de l'installation correcte du tapis roulant ; 
+
+b) La vérification du bon fonctionnement de ses systèmes de sécurité et de sa compatibilité, compte tenu des règles
+techniques et de sécurité prises en compte pour sa conception et sa réalisation, avec les conditions prévues pour son
+exploitation ; 
+
+c) L'établissement d'un compte rendu ; 
+
+d) La délivrance d'une attestation démontrant la conformité du tapis roulant aux dispositions de la réglementation technique
+et de sécurité prévue à l'article R. 342-3. 
+
+La liste des vérifications mentionnées aux a et b est fixée par un arrêté du ministre chargé des transports.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+
+_Créé par_:
+
+  - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+_Cité par_:
+
+  - Arrêté du 29 septembre 2010 - art. 36 (V)
+  - Code du tourisme. - art. R342-29 (V)
+
+_Cite_:
+
+  - Code du tourisme. - art. R342-3 (V)
+  - Code du tourisme. - art. R342-4 (V)
+
+_Anciens textes_:
+
+  - Décret n°1942-03-22 art. 80-3 (remontées mécaniques)
+  - Décret n°1942-03-22 art. 80-4 (remontées mécaniques)
+
+
+###### Article R342-27
+
+Les articles R. 472-14 et R. 472-16 à R. 472-21 du code de l'urbanisme s'appliquent aux tapis roulants.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+
+_Créé par_:
+
+  - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+_Cite_:
+
+  - Code de l'urbanisme - art. R472-14 (V)
+  - Code de l'urbanisme - art. R472-16 (V)
+
+_Anciens textes_:
+
+  - Décret n°1942-03-22 art. 80-3 (remontées mécaniques)
+  - Décret n°1942-03-22 art. 80-4 (remontées mécaniques)
+
+
+###### Article R342-28
+
+Lorsque la demande d'autorisation de mise en exploitation prévue à l'article L. 342-17-1 concerne un tapis roulant ne
+présentant pas les mêmes caractéristiques techniques et les mêmes conditions d'utilisation que celles d'un tapis déjà
+autorisé, le préfet sollicite, au titre de l'article R. 472-18 du code de l'urbanisme, l'avis du service technique des
+remontées mécaniques et des transports guidés. 
+
+Cet avis, dénommé " avis de type ", précise notamment les caractéristiques techniques ainsi que les conditions d'utilisation
+du tapis concerné permettant d'assurer la sécurité des usagers. Il est rendu dans un délai de deux mois. 
+
+L'avis de type peut également être sollicité, dans les mêmes conditions que celles prévues à l'alinéa précédent, par un
+constructeur de tapis roulant indépendamment de toute demande d'autorisation de mise en exploitation. 
+
+Un arrêté du ministre chargé des transports précise les conditions dans lesquelles l'avis de type est publié ainsi que celles
+suivant lesquelles le service technique des remontées mécaniques et des transports guidés peut délivrer cet avis pour les
+types de tapis mis en service après le 15 septembre 2004.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+
+_Créé par_:
+
+  - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+_Cité par_:
+
+  - Arrêté du 29 septembre 2010 - art. 35 (V)
+  - Code du tourisme. - art. R342-29 (V)
+
+_Cite_:
+
+  - Code du tourisme. - art. L342-17-1 (V)
+  - Code de l'urbanisme - art. R472-18 (V)
+
+_Anciens textes_:
+
+  - Décret n°1942-03-22 art. 80-3 (remontées mécaniques)
+  - Décret n°1942-03-22 art. 80-4 (remontées mécaniques)
+
+
+###### Article R342-29
+
+Le dossier joint à la demande d'autorisation prévue à l'article R. 342-28 comprend : 
+
+a) La désignation du maître d'ouvrage et de l'exploitant ; 
+
+b) Un plan de situation à une échelle adaptée indiquant l'emplacement ou, le cas échéant, les emplacements retenus pour
+l'implantation de l'appareil et démontrant l'absence de risque naturel ; 
+
+c) L'identification de l'appareil et sa description générale ; 
+
+d) Le cas échéant, l'avis de type mentionné à l'article R. 342-28 portant sur un tapis roulant correspondant à celui objet de
+la demande ; 
+
+e) Les notices techniques, notes de calcul, plans fournis par le constructeur de l'appareil ; 
+
+f) L'attestation et le compte rendu des vérifications mentionnés à l'article R. 342-26 ; 
+
+g) Un projet de règlement d'exploitation ; 
+
+h) Un projet de règlement de police ; 
+
+i) Une attestation d'assurance garantissant la responsabilité civile de l'exploitant.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+
+_Créé par_:
+
+  - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+_Cite_:
+
+  - Code du tourisme. - art. R342-26 (V)
+  - Code du tourisme. - art. R342-28 (V)
+
+_Anciens textes_:
+
+  - Décret n°1942-03-22 art. 80-3 (remontées mécaniques)
+  - Décret n°1942-03-22 art. 80-4 (remontées mécaniques)
+
+
+#### Chapitre III : Espace rural et naturel.<a id=288></a>
+
+##### Section 1 : Activités touristiques en milieu rural.<a id=289></a>
 
 ###### Article D343-1
 
@@ -22386,9 +22914,9 @@ _Codifié par_:
   - PILOTE_SUIVEUR: Code rural - art. D722-4 (V)
 
 
-##### Section 2 : Parcs nationaux et régionaux.<a id=287></a>
+##### Section 2 : Parcs nationaux et régionaux.<a id=290></a>
 
-##### Sous-section 1 : Parcs nationaux.<a id=288></a>
+##### Sous-section 1 : Parcs nationaux.<a id=291></a>
 
 ###### Article D343-2
 
@@ -22402,7 +22930,7 @@ _Codifié par_:
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 
-##### Sous-section 2 : Parcs naturels régionaux.<a id=289></a>
+##### Sous-section 2 : Parcs naturels régionaux.<a id=292></a>
 
 ###### Article D343-3
 
@@ -22416,7 +22944,7 @@ _Codifié par_:
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 
-##### Section 3 : Itinéraires de randonnée.<a id=290></a>
+##### Section 3 : Itinéraires de randonnée.<a id=293></a>
 
 ###### Article D343-4
 
@@ -22434,7 +22962,7 @@ _Codifié par_:
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 
-##### Section 4 : Voies vertes.<a id=291></a>
+##### Section 4 : Voies vertes.<a id=294></a>
 
 ###### Article D343-5
 
@@ -22451,7 +22979,7 @@ _Cite_:
   - Code de la route. - art. R110-2 (V)
 
 
-##### Section 6 : Accueil du public en forêt.<a id=292></a>
+##### Section 6 : Accueil du public en forêt.<a id=295></a>
 
 ###### Article D343-6
 
@@ -22473,9 +23001,9 @@ _Cité par_:
   - Code du tourisme. - art. R361-3 (V)
 
 
-### TITRE V : DISPOSITIONS RELATIVES À LA CORSE.<a id=293></a>
+### TITRE V : DISPOSITIONS RELATIVES À LA CORSE.<a id=296></a>
 
-#### Chapitre unique.<a id=294></a>
+#### Chapitre unique.<a id=297></a>
 
 ###### Article D351-1
 
@@ -22571,9 +23099,9 @@ _Cite_:
   - Code général des collectivités territoriales R4421-10 à R4421-15
 
 
-### TITRE VI : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER.<a id=295></a>
+### TITRE VI : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER.<a id=298></a>
 
-#### Chapitre Ier : Dispositions relatives à la Guadeloupe, la Guyane, la Martinique et la Réunion.<a id=296></a>
+#### Chapitre Ier : Dispositions relatives à la Guadeloupe, la Guyane, la Martinique et la Réunion.<a id=299></a>
 
 ###### Article R361-1
 
@@ -22630,7 +23158,7 @@ _Cite_:
   - Code du tourisme. - art. D343-6 (V)
 
 
-#### Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon.<a id=297></a>
+#### Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon.<a id=300></a>
 
 ###### Article R362-1
 
@@ -22720,7 +23248,7 @@ _Nouveaux textes_:
   - Code du tourisme. - art. R362-4 (V)
 
 
-#### Chapitre III : Dispositions relatives à Mayotte.<a id=298></a>
+#### Chapitre III : Dispositions relatives à Mayotte.<a id=301></a>
 
 ###### Article R363-1
 
@@ -22846,13 +23374,13 @@ _Nouveaux textes_:
   - Code du tourisme. - art. R363-5 (V)
 
 
-## LIVRE IV : FINANCEMENT DE L'ACCÈS AUX VACANCES ET FISCALITÉ DU TOURISME.<a id=299></a>
+## LIVRE IV : FINANCEMENT DE L'ACCÈS AUX VACANCES ET FISCALITÉ DU TOURISME.<a id=302></a>
 
-### TITRE Ier : ACCÈS AUX VACANCES.<a id=300></a>
+### TITRE Ier : ACCÈS AUX VACANCES.<a id=303></a>
 
-#### Chapitre Ier : Chèques-vacances.<a id=301></a>
+#### Chapitre Ier : Chèques-vacances.<a id=304></a>
 
-##### Section 1 : Dispositions générales.<a id=302></a>
+##### Section 1 : Dispositions générales.<a id=305></a>
 
 ###### Article R411-1
 
@@ -23047,9 +23575,9 @@ _Modifié par_:
   - Décret n°2007-107 du 29 janvier 2007 - art. 1 () JORF 30 janvier 2007
 
 
-##### Section 2 : Agence nationale pour les chèques-vacances.<a id=303></a>
+##### Section 2 : Agence nationale pour les chèques-vacances.<a id=306></a>
 
-##### Sous-section 1 : Missions et moyens<a id=304></a>
+##### Sous-section 1 : Missions et moyens<a id=307></a>
 
 ###### Article R411-9
 
@@ -23081,7 +23609,7 @@ _Modifié par_:
   - Décret n°2007-107 du 29 janvier 2007 - art. 2 () JORF 30 janvier 2007
 
 
-##### Sous-section 2 : Conseil d'administration.<a id=305></a>
+##### Sous-section 2 : Conseil d'administration.<a id=308></a>
 
 ###### Article R411-10
 
@@ -23298,7 +23826,7 @@ _Cité par_:
   - Code du tourisme. - art. R411-17 (V)
 
 
-##### Sous-section 3 : Tutelle<a id=306></a>
+##### Sous-section 3 : Tutelle<a id=309></a>
 
 ###### Article R411-16
 
@@ -23339,7 +23867,7 @@ _Cité par_:
   - Code du tourisme. - art. R411-17 (M)
 
 
-##### Sous-section 4 : Directeur général<a id=307></a>
+##### Sous-section 4 : Directeur général<a id=310></a>
 
 ###### Article R411-17
 
@@ -23408,7 +23936,7 @@ _Cite_:
   - Code du tourisme. - art. R411-23 (M)
 
 
-##### Sous-section 5 : Commission d'attribution des aides<a id=308></a>
+##### Sous-section 5 : Commission d'attribution des aides<a id=311></a>
 
 ###### Article R411-18
 
@@ -23445,7 +23973,7 @@ _Cite_:
   - Code du tourisme. - art. L411-15 (M)
 
 
-##### Sous-section 6 : Régime financier et comptable<a id=309></a>
+##### Sous-section 6 : Régime financier et comptable<a id=312></a>
 
 ###### Article R411-19
 
@@ -23661,9 +24189,9 @@ _Cité par_:
   - Code du tourisme. - art. R411-22 (M)
 
 
-#### Chapitre II : Agrément d'organismes ou de personnes physiques concourant au tourisme social.<a id=310></a>
+#### Chapitre II : Agrément d'organismes ou de personnes physiques concourant au tourisme social.<a id=313></a>
 
-##### Section 1 : Agrément national délivré à des organismes de tourisme social et familial.<a id=311></a>
+##### Section 1 : Agrément national délivré à des organismes de tourisme social et familial.<a id=314></a>
 
 ###### Article D412-5
 
@@ -23881,7 +24409,7 @@ _Codifié par_:
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 
-##### Section 2 : Agrément des vacances adaptées organisées.<a id=312></a>
+##### Section 2 : Agrément des vacances adaptées organisées.<a id=315></a>
 
 ###### Article R412-8
 
@@ -24151,11 +24679,11 @@ _Codifié par_:
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 
-### TITRE II : DISPOSITIONS FISCALES PARTICULIÈRES AUX ACTIVITÉS TOURISTIQUES.<a id=313></a>
+### TITRE II : DISPOSITIONS FISCALES PARTICULIÈRES AUX ACTIVITÉS TOURISTIQUES.<a id=316></a>
 
-#### Chapitre Ier : Ressources et incitations de l'Etat relatives aux activités et hébergements touristiques.<a id=314></a>
+#### Chapitre Ier : Ressources et incitations de l'Etat relatives aux activités et hébergements touristiques.<a id=317></a>
 
-##### Section 1 : Assujettissement des hébergements et aménagements touristiques à la taxe sur la valeur ajoutée.<a id=315></a>
+##### Section 1 : Assujettissement des hébergements et aménagements touristiques à la taxe sur la valeur ajoutée.<a id=318></a>
 
 ###### Article D421-1
 
@@ -24178,7 +24706,7 @@ _Cite_:
   - Code du tourisme. - art. L421-1 (V)
 
 
-##### Section 2 : Dispositions particulières relatives à l'investissement dans l'immobilier de loisirs.<a id=316></a>
+##### Section 2 : Dispositions particulières relatives à l'investissement dans l'immobilier de loisirs.<a id=319></a>
 
 ###### Article D421-2
 
@@ -24214,7 +24742,7 @@ _Cite_:
   - Code du tourisme. - art. L421-3-1 (V)
 
 
-##### Section 3 : Dispositions particulières applicables aux agences de voyages et organisateurs de circuits touristiques.<a id=317></a>
+##### Section 3 : Dispositions particulières applicables aux agences de voyages et organisateurs de circuits touristiques.<a id=320></a>
 
 ###### Article D421-4
 
@@ -24229,9 +24757,9 @@ _Codifié par_:
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 
-#### Chapitre II : Ressources des collectivités territoriales relatives au tourisme.<a id=318></a>
+#### Chapitre II : Ressources des collectivités territoriales relatives au tourisme.<a id=321></a>
 
-##### Section 1 : Taxe professionnelle.<a id=319></a>
+##### Section 1 : Taxe professionnelle.<a id=322></a>
 
 ###### Article D422-1
 
@@ -24272,9 +24800,9 @@ _Cite_:
   - Code du tourisme. - art. L422-2 (V)
 
 
-##### Section 2 : Taxes et redevances prélevées au profit des communes et établissements publics de coopération intercommunale.<a id=320></a>
+##### Section 2 : Taxes et redevances prélevées au profit des communes et établissements publics de coopération intercommunale.<a id=323></a>
 
-##### Sous-section 1 : Taxe de séjour et taxe de séjour forfaitaire.<a id=321></a>
+##### Sous-section 1 : Taxe de séjour et taxe de séjour forfaitaire.<a id=324></a>
 
 ###### Article D422-3
 
@@ -24653,7 +25181,7 @@ _Cite_:
   - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R5211-6 (V)
 
 
-##### Sous-section 2 : Taxe communale sur les entreprises exploitant des engins de remontée mécanique.<a id=322></a>
+##### Sous-section 2 : Taxe communale sur les entreprises exploitant des engins de remontée mécanique.<a id=325></a>
 
 ###### Article D422-5
 
@@ -24721,7 +25249,7 @@ _Cite_:
   - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R2333-73 (V)
 
 
-##### Sous-section 5 : Taxe sur les activités commerciales non salariées à durée saisonnière.<a id=323></a>
+##### Sous-section 5 : Taxe sur les activités commerciales non salariées à durée saisonnière.<a id=326></a>
 
 ###### Article D422-6
 
@@ -24741,7 +25269,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. R2333-133 (V)
 
 
-##### Sous-section 6 : Prélèvement sur le produit des jeux dans les casinos.<a id=324></a>
+##### Sous-section 6 : Prélèvement sur le produit des jeux dans les casinos.<a id=327></a>
 
 ###### Article D422-7
 
@@ -24910,9 +25438,9 @@ _Codifié par_:
   - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R2333-82-1 (V)
 
 
-##### Section 3 : Taxes prélevées au profit des départements.<a id=325></a>
+##### Section 3 : Taxes prélevées au profit des départements.<a id=328></a>
 
-##### Sous-section 2 : Taxe départementale sur les entreprises exploitant des engins de remontée mécanique.<a id=326></a>
+##### Sous-section 2 : Taxe départementale sur les entreprises exploitant des engins de remontée mécanique.<a id=329></a>
 
 ###### Article D422-8
 
@@ -24952,9 +25480,9 @@ _Cite_:
   - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R3333-3 (V)
 
 
-### TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER.<a id=327></a>
+### TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER.<a id=330></a>
 
-#### Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon.<a id=328></a>
+#### Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon.<a id=331></a>
 
 ###### Article R442-1
 
@@ -24995,7 +25523,7 @@ _Codifié par_:
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 
-#### Chapitre III : Dispositions relatives à Mayotte.<a id=329></a>
+#### Chapitre III : Dispositions relatives à Mayotte.<a id=332></a>
 
 ###### Article R443-1
 
