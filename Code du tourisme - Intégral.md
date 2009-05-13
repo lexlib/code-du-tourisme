@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2009-03-03
+Version Consolidée au 2009-05-14
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-10)](#2)
@@ -5366,31 +5366,23 @@ _Cité par_:
 
 Les règles relatives aux autorisations d'occupation temporaire qui peuvent être accordées pour l'aménagement, l'organisation
 et la gestion de zones de mouillages et d'équipement léger sur le domaine public fluvial sont fixées à l'article L. 2124-14
-du code général de la propriété des personnes publiques.
+du code général de la propriété des personnes publiques. 
 
 Les dispositions prévues aux articles L. 341-9 et L. 341-10 s'appliquent aux mouillages et équipements légers réalisés sur le
-domaine public fluvial même lorsqu'il n'est pas situé dans les communes définies par l'article L. 321-2.
+domaine public fluvial même lorsqu'il n'est pas situé dans les communes définies par l'article L. 321-2 du code de
+l'environnement.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Loi n°86-2 1986-01-03 art. 28 al. 5
-
-_Codifié par_:
-
-  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
 _Modifié par_:
 
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 3 () JORF 22 avril 2006 en vigueur le 1er juillet 2006
+  - Loi n°2009-526 du 12 mai 2009 - art. 121
 
 _Cite_:
 
-  - Code général de la propriété des personnes publiqu - art. L2124-14 (V)
-  - Code du tourisme L341-9, L341-10, L321-2
-  - Code du tourisme. - art. L341-10 (M)
+  - Code général de la propriété des personnes publ... - art. L2124-14 (V)
   - Code du tourisme. - art. L341-9 (V)
+  - Code de l'environnement - art. L321-2 (V)
 
 _Nouveaux textes_:
 
@@ -7610,42 +7602,37 @@ _Cité par_:
 
 ###### Article L412-2
 
-I. - Toute personne physique ou morale qui organise, en les réalisant ou en les faisant réaliser, des activités de vacances
+I.-Toute personne physique ou morale qui organise, en les réalisant ou en les faisant réaliser, des activités de vacances
 avec hébergement d'une durée supérieure à cinq jours destinées spécifiquement à des groupes constitués de personnes
-handicapées majeures doit bénéficier d'un agrément "Vacances adaptées organisées". Cet agrément, dont les conditions et les
+handicapées majeures doit bénéficier d'un agrément " Vacances adaptées organisées ". Cet agrément, dont les conditions et les
 modalités d'attribution et de retrait sont fixées par décret en Conseil d'Etat, est accordé par le représentant de l'Etat
-dans la région.
+dans la région. 
 
 Si ces activités relèvent du champ d'application des articles L. 211-1 et L. 211-2, cette personne doit en outre être
-titulaire de l'autorisation administrative dans les conditions définies par les chapitres II et III du titre Ier du livre II.
+titulaire de l'autorisation administrative dans les conditions définies par les chapitres II et III du titre Ier du livre
+II. 
 
 Sont dispensés d'agrément les établissements et services soumis à l'autorisation prévue à l'article L. 313-1 du code de
-l'action sociale et des familles qui organisent des séjours de vacances pour leurs usagers dans le cadre de leur activité.
+l'action sociale et des familles qui organisent des séjours de vacances pour leurs usagers dans le cadre de leur activité. 
 
-II. - Le représentant de l'Etat dans le département dans le ressort duquel sont réalisées les activités définies au I peut,
+II.-Le représentant de l'Etat dans le département dans le ressort duquel sont réalisées les activités définies au I peut,
 dans des conditions fixées par décret en Conseil d'Etat, en ordonner la cessation immédiate ou dans le délai nécessaire pour
 organiser le retour des personnes accueillies, lorsque ces activités sont effectuées sans agrément ou lorsque les conditions
 exigées par l'agrément ne sont pas respectées. Le contrôle est confié aux inspecteurs des affaires sanitaires et sociales et
-aux médecins de santé publique de ce département.
+aux médecins de santé publique de ce département. 
 
-III. - Le fait de se livrer aux activités mentionnées au I sans agrément ou de poursuivre l'organisation d'un séjour auquel
-il a été mis fin en application du II est puni de 3 750 euros d'amende. Les personnes morales peuvent être déclarées
-responsables pénalement, dans les conditions prévues à l'article 121-2 du code pénal, de l'infraction définie au présent
-article.
+III.-Le fait de se livrer aux activités mentionnées au I sans agrément ou de poursuivre l'organisation d'un séjour auquel il
+a été mis fin en application du II est puni de 3 750 euros d'amende. 
 
-Les peines encourues par les personnes morales sont l'amende, suivant les modalités définies par l'article 131-38 du code
-pénal, ainsi que les peines prévues aux 2°, 4° et 9° de l'article 131-39 du même code, suivant les modalités prévues par ce
-même code.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, de
+l'infraction définie au présent article encourent, outre l'amende suivant les modalités prévues par l'article 131-38 du code
+pénal, les peines prévues par les 2°, 4° et 9° de l'article 131-39 du même code.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
-_Créé par_:
-
-  - Loi n°2006-437 du 14 avril 2006 - art. 15 () JORF 15 avril 2006
+  - Loi n°2009-526 du 12 mai 2009 - art. 125
 
 _Cité par_:
 
@@ -7654,12 +7641,12 @@ _Cité par_:
 
 _Cite_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
-  - Code de l'action sociale et des familles - art. L313-1 (M)
-  - Code du tourisme. - art. L211-1 (M)
-  - Code du tourisme. - art. L211-2 (V)
+  - Code pénal - art. 121-2 (V)
+  - Code pénal - art. 131-38
+  - Code pénal - art. 131-39
+  - Code de l'action sociale et des familles - art. L313-1 (VT)
+  - Code du tourisme. - art. L211-1 (V)
+  - Code du tourisme. - art. L211-2
 
 
 ### TITRE II : DISPOSITIONS FISCALES PARTICULIÈRES AUX ACTIVITÉS TOURISTIQUES.<a id=124></a>
