@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2009-08-29
+Version Consolidée au 2009-10-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-10)](#2)
@@ -292,10 +292,10 @@ Version Consolidée au 2009-08-29
         - [Chapitre Ier : Dispositions relatives à la Guadeloupe, la Guyane, la Martinique et la Réunion. (art. R361-1 à R361-3)](#289)
         - [Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon. (art. R362-1 à R362-5)](#290)
         - [Chapitre III : Dispositions relatives à Mayotte. (art. R363-1 à R363-6)](#291)
-    - [LIVRE IV : FINANCEMENT DE L'ACCÈS AUX VACANCES ET FISCALITÉ DU TOURISME. (art. R411-1 à R443-4)](#292)
-      - [TITRE Ier : ACCÈS AUX VACANCES. (art. R411-1 à R412-17)](#293)
-        - [Chapitre Ier : Chèques-vacances. (art. R411-1 à R411-26)](#294)
-          - [Section 1 : Dispositions générales. (art. R411-1 à R411-8)](#295)
+    - [LIVRE IV : FINANCEMENT DE L'ACCÈS AUX VACANCES ET FISCALITÉ DU TOURISME. (art. D411-6-1 à R443-4)](#292)
+      - [TITRE Ier : ACCÈS AUX VACANCES. (art. D411-6-1 à R412-17)](#293)
+        - [Chapitre Ier : Chèques-vacances. (art. D411-6-1 à R411-26)](#294)
+          - [Section 1 : Dispositions générales. (art. D411-6-1 à R411-8)](#295)
           - [Section 2 : Agence nationale pour les chèques-vacances. (art. R411-9 à R411-26)](#296)
             - [Sous-section 1 : Missions et moyens (art. R411-9)](#297)
             - [Sous-section 2 : Conseil d'administration. (art. R411-10 à R411-15)](#298)
@@ -22291,6 +22291,31 @@ _Nouveaux textes_:
 #### Chapitre Ier : Chèques-vacances.<a id=294></a>
 
 ##### Section 1 : Dispositions générales.<a id=295></a>
+
+###### Article D411-6-1
+
+La contribution de l'employeur à l'acquisition de chèques-vacances prévue à l'article L. 411-11 ne peut dépasser un
+pourcentage de leur valeur libératoire. Cette contribution est au maximum de : 
+
+80 % de la valeur libératoire des chèques-vacances si la rémunération moyenne des bénéficiaires au cours des trois derniers
+mois précédant l'attribution est inférieure au plafond de la sécurité sociale apprécié sur une base mensuelle ; 
+
+50 % de la valeur libératoire des chèques-vacances si la rémunération moyenne des bénéficiaires au cours des trois derniers
+mois précédant l'attribution est supérieure au plafond de la sécurité sociale apprécié sur une base mensuelle. 
+
+Ces pourcentages sont majorés de 5 % par enfant à charge et de 10 % par enfant handicapé, titulaire de la carte d'invalidité
+ou de la carte "priorité pour personne handicapée", dans la limite de 15 %.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1259 du 19 octobre 2009 - art. 1
+
+_Cite_:
+
+  - Code du tourisme. - art. L411-11
+
 
 ###### Article R411-1
 
