@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2009-12-28 00:00:01 +0100
+Version Consolidée au 2010-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-10)](#2)
@@ -172,157 +172,153 @@ Version Consolidée au 2009-12-28 00:00:01 +0100
       - [TITRE VI : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER. (art. R162-1 à R163-3)](#169)
         - [Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon. (art. R162-1 à R162-2)](#170)
         - [Chapitre III : Dispositions relatives à Mayotte. (art. R163-1 à R163-3)](#171)
-    - [LIVRE II : ACTIVITÉS ET PROFESSIONS DU TOURISME. (art. D211-4 à R243-4)](#172)
-      - [TITRE Ier : ORGANISATION DE LA VENTE DE VOYAGES ET DE SÉJOURS. (art. D211-4 à R213-43)](#173)
-        - [Chapitre Ier : Dispositions communes. (art. D211-4 à R211-19)](#174)
-          - [Section 1 : Dispositions générales. (art. D211-4 à R211-3)](#175)
-          - [Section 2 : Contrat de vente de voyages et de séjours. (art. R211-5 à R211-14-1)](#176)
-          - [Section 4 : Sanctions et mesures conservatoires. (art. R211-14-2)](#177)
-          - [Section 5 : Obligation d'information des passagers aériens sur l'identité du transporteur aérien. (art. R211-15 à R211-19)](#178)
-        - [Chapitre II : Licence d'agent de voyages. (art. R212-1 à R212-48)](#179)
-          - [Section 1 : Dispositions générales. (art. R212-1 à R212-3)](#180)
-          - [Section 2 : Contrat de jouissance d'immeuble à temps partagé. (art. R212-4 à R212-11)](#181)
-          - [Section 3 : Procédure d'attribution, de retrait et de suspension. (art. R212-12 à R212-21)](#182)
-          - [Section 4 : Mandat. (art. R212-22 à R212-23)](#183)
-          - [Section 5 : Aptitude professionnelle. (art. R212-24 à R212-27)](#184)
-          - [Section 6 : Garantie financière. (art. R212-28 à R212-35)](#185)
-          - [Section 7 : Responsabilité civile professionnelle. (art. R212-36 à R212-41)](#186)
-          - [Section 8 : Libre prestation de service. (art. R*212-42 à R212-48)](#187)
-        - [Chapitre III : Autres régimes de vente de voyages et de séjours. (art. R213-1 à R213-43)](#188)
-          - [Section 1 : Agrément. (art. R213-1 à R213-14)](#189)
-            - [Sous-section 1 : Dispositions générales. (art. R213-1 à R213-3)](#190)
-            - [Sous-section 2 : Procédure d'attribution, de retrait et de suspension. (art. R213-4 à R213-7)](#191)
-            - [Sous-section 3 : Garantie financière. (art. R213-8 à R213-13)](#192)
-            - [Sous-section 4 : Responsabilité civile professionnelle. (art. R213-14)](#193)
-          - [Section 2 : Autorisation. (art. R213-15 à R213-27)](#194)
-            - [Sous-section 1 : Dispositions générales. (art. R213-15 à R213-16)](#195)
-            - [Sous-section 2 : Procédure d'attribution, de retrait et de suspension. (art. R213-17 à R213-21)](#196)
-            - [Sous-section 3 : Garantie financière. (art. R213-22 à R213-26)](#197)
-            - [Sous-section 4 : Responsabilité civile professionnelle. (art. R213-27)](#198)
-          - [Section 3 : Habilitation. (art. R213-28 à R213-43)](#199)
-            - [Sous-section 1 : Dispositions générales. (art. R213-28 à R213-30)](#200)
-            - [Sous-section 2 : Procédure d'attribution de retrait et de suspension. (art. R213-31 à R213-36)](#201)
-            - [Sous-section 3 : Garantie financière. (art. R213-37 à R213-42)](#202)
-            - [Sous-section 4 : Responsabilité civile professionnelle. (art. R213-43)](#203)
-      - [TITRE II : DISPOSITIONS RELATIVES AUX VISITES DANS LES MUSÉES ET MONUMENTS HISTORIQUES. (art. D221-5 à D221-24)](#204)
-        - [Chapitre unique : Personnels qualifiés. (art. D221-5 à D221-24)](#205)
-          - [Section 1 : Des personnes qualifiées. (art. D221-5 à R221-4)](#206)
-          - [Section 2 : Des professions de guide-interprète et de conférencier. (art. R221-11 à R221-14)](#207)
-          - [Section 3 : Des aptitudes professionnelles acquises dans les autres Etats membres de l'Union européenne ou parties à l'accord sur l'Espace économique européen. (art. R221-15 à R221-18-1)](#208)
-            - [Sous-section 1 : Liberté d'établissement. (art. R221-15 à R221-18)](#209)
-            - [Sous-section 2  : Libre prestation de services (art. R221-18-1)](#210)
-          - [Section 4 : Diplôme national de guide-interprète national. (art. D221-19 à D221-24)](#211)
-      - [TITRE III : EXPLOITATION DES VÉHICULES DE TOURISME. (art. D231-5 à R233-1)](#212)
-        - [Chapitre Ier : Exploitation de voitures de tourisme de luxe dites de grande remise. (art. D231-5 à R231-9)](#213)
-          - [Section 1 : Dispositions générales. (art. D231-5 à R231-6)](#214)
-          - [Section 2 : Procédure d'attribution. (art. R231-7 à R231-9)](#215)
-        - [Chapitre II : Exploitation des autocars de tourisme. (art. D232-4 à R232-3)](#216)
-        - [Chapitre III : Exploitation d'autres véhicules à usage touristique et de loisirs. (art. R233-1)](#217)
-      - [TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER. (art. R242-1 à R243-4)](#218)
-        - [Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon. (art. R242-1 à R242-3)](#219)
-        - [Chapitre III : Dispositions relatives à Mayotte. (art. R243-1 à R243-4)](#220)
-    - [LIVRE III : ÉQUIPEMENTS ET AMÉNAGEMENTS. (art. D311-2 à R363-5)](#221)
-      - [TITRE Ier : HÔTELS, CAFÉS ET DÉBITS DE BOISSONS. (art. D311-2 à D314-1)](#222)
-        - [Chapitre Ier : Hôtels. (art. D311-2 à R311-14)](#223)
-          - [Section 1 : Rapports entre bailleurs et locataires des immeubles affectés à l'hôtellerie. (art. D311-2 à R311-3)](#224)
-          - [Section 2 : Classement. (art. D311-4 à D311-11)](#225)
-          - [Section 3 : Sanctions. (art. R311-13 à R311-14)](#226)
-        - [Chapitre II : Cafés et débits de boissons. (art. D312-1 à D312-2)](#227)
-        - [Chapitre IV : Débits de boissons ayant pour activité principale l'exploitation d'une piste de danse (art. D314-1)](#228)
-      - [TITRE II : HÉBERGEMENTS AUTRES QUE HÔTELS ET TERRAINS DE CAMPING. (art. D321-1 à D326-3)](#229)
-        - [Chapitre Ier : Résidences de tourisme. (art. D321-1 à R321-11)](#230)
-          - [Section 1 : Dispositions générales. (art. D321-1 à D321-2)](#231)
-          - [Section 2 : Classement. (art. D321-3 à D321-7)](#232)
-          - [Section 3 : Sanctions. (art. R321-8 à R321-11)](#233)
-        - [Chapitre III : Villages résidentiels de tourisme. (art. R323-1 à R323-12)](#234)
-          - [Section 1 : Dispositions générales. (art. R323-1 à R323-3)](#235)
-          - [Section 2 : Classement. (art. D323-5 à R323-4)](#236)
-          - [Section 3 : Sanctions. (art. R323-9 à R323-12)](#237)
-        - [Chapitre IV : Meublés de tourisme et chambres d'hôtes. (art. D324-1 à R324-16)](#238)
-          - [Section 1 : Meublés de tourisme. (art. D324-1 à R324-12)](#239)
-            - [Sous-section 1 : Dispositions générales. (art. D324-1 à R324-1-2)](#240)
-            - [Sous-section 2 : Classement. (art. D324-2 à R*324-9)](#241)
-            - [Sous-section 3 : Sanctions. (art. R324-10 à R324-12)](#242)
-          - [Section 2 : Chambres d'hôtes. (art. D324-13 à R324-16)](#243)
-        - [Chapitre V : Villages et maisons familiales de vacances. (art. D325-1 à R325-23)](#244)
-          - [Section 1 : Villages de vacances. (art. D325-1 à R325-12)](#245)
-            - [Sous-section 1 : Dispositions générales. (art. D325-1 à D325-3)](#246)
-            - [Sous-section 2 : Classement. (art. D325-4 à D325-9)](#247)
-            - [Sous-section 3 : Sanctions. (art. R325-10 à R325-12)](#248)
-          - [Section 2 : Maisons familiales de vacances. (art. D325-13 à R325-23)](#249)
-            - [Sous-section 1 : Dispositions générales. (art. D325-13 à D325-18)](#250)
-            - [Sous-section 2 : Agrément. (art. D325-19 à D325-22)](#251)
-            - [Sous-section 3 : Sanctions. (art. R325-23)](#252)
-        - [Chapitre VI : Refuges de montagne. (art. D326-1 à D326-3)](#253)
-      - [TITRE III : TERRAINS DE CAMPING OU DE CARAVANAGE ET AUTRES TERRAINS AMÉNAGÉS. (art. D331-2 à D333-7)](#254)
-        - [Chapitre Ier : Ouverture et aménagement. (art. D331-2 à R331-11)](#255)
-        - [Chapitre II : Classement. (art. D332-1 à R332-12)](#256)
-          - [Section 1 : Dispositions générales. (art. D332-1 à D332-2)](#257)
-          - [Section 2 : Procédure de classement. (art. D332-3 à R332-8)](#258)
-          - [Section 3 : Sanctions. (art. D332-13 à R332-12)](#259)
-        - [Chapitre III : Règles relatives aux habitations légères de loisirs, aux parcs résidentiels de loisirs et aux résidences mobiles de loisirs. (art. D333-1 à D333-7)](#260)
-          - [Section 1 : Habitations légères de loisirs. (art. D333-1)](#261)
-          - [Section 2 : Parcs résidentiels de loisirs. (art. D333-3 à R333-6)](#262)
-            - [Sous-section 1 : Dispositions générales. (art. D333-3 à D333-4)](#263)
-            - [Sous-section 2 : Classement. (art. D333-5)](#264)
-            - [Sous-section 3 : Sanctions. (art. R333-6)](#265)
-          - [Section 3 : Résidences mobiles de loisirs. (art. D333-7)](#266)
-      - [TITRE IV : AMÉNAGEMENTS ET RÉGLEMENTATION DES ESPACES À VOCATION TOURISTIQUE. (art. D341-1 à D343-6)](#267)
-        - [Chapitre Ier : Littoral. (art. D341-1 à D341-3)](#268)
-          - [Section 1 : Aménagement, protection et mise en valeur du littoral. (art. D341-1)](#269)
-          - [Section 2 : Ports de plaisance et zones de mouillages. (art. D341-2)](#270)
-          - [Section 3 : Accès aux rivages et aux plages. (art. D341-3)](#271)
-        - [Chapitre II : Montagne. (art. D342-1 à R342-29)](#272)
-          - [Section 2 : Unités touristiques nouvelles. (art. D342-1)](#273)
-          - [Section 3 : Remontées mécaniques, pistes de ski et tapis roulants. (art. D342-2 à R342-29)](#274)
-            - [Sous-section 1 : Dispositions communes aux remontées mécaniques et aux tapis roulants. (art. D342-2 à R342-20)](#275)
-            - [Sous-section 2 : Dispositions spécifiques aux remontées mécaniques. (art. D342-21 à R342-25)](#276)
-            - [Sous-section 3 : Dispositions spécifiques aux tapis roulants. (art. R342-26 à R342-29)](#277)
-        - [Chapitre III : Espace rural et naturel. (art. D343-1 à D343-6)](#278)
-          - [Section 1 : Activités touristiques en milieu rural. (art. D343-1)](#279)
-          - [Section 2 : Parcs nationaux et régionaux. (art. D343-2 à D343-3)](#280)
-            - [Sous-section 1 : Parcs nationaux. (art. D343-2)](#281)
-            - [Sous-section 2 : Parcs naturels régionaux. (art. D343-3)](#282)
-          - [Section 3 : Itinéraires de randonnée. (art. D343-4)](#283)
-          - [Section 4 : Voies vertes. (art. D343-5)](#284)
-          - [Section 6 : Accueil du public en forêt. (art. D343-6)](#285)
-      - [TITRE V : DISPOSITIONS RELATIVES À LA CORSE. (art. D351-1 à D351-3)](#286)
-        - [Chapitre unique. (art. D351-1 à D351-3)](#287)
-      - [TITRE VI : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER. (art. R361-1 à R363-5)](#288)
-        - [Chapitre Ier : Dispositions relatives à la Guadeloupe, la Guyane, la Martinique et la Réunion. (art. R361-1 à R361-3)](#289)
-        - [Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon. (art. R362-1 à R362-4)](#290)
-        - [Chapitre III : Dispositions relatives à Mayotte. (art. R363-1 à R363-5)](#291)
-    - [LIVRE IV : FINANCEMENT DE L'ACCÈS AUX VACANCES ET FISCALITÉ DU TOURISME. (art. D411-6-1 à R443-4)](#292)
-      - [TITRE Ier : ACCÈS AUX VACANCES. (art. D411-6-1 à R412-17)](#293)
-        - [Chapitre Ier : Chèques-vacances. (art. D411-6-1 à R411-26)](#294)
-          - [Section 1 : Dispositions générales. (art. D411-6-1 à R411-8)](#295)
-          - [Section 2 : Agence nationale pour les chèques-vacances. (art. R411-9 à R411-26)](#296)
-            - [Sous-section 1 : Missions et moyens (art. R411-9)](#297)
-            - [Sous-section 2 : Conseil d'administration. (art. R411-10 à R411-15)](#298)
-            - [Sous-section 3 : Tutelle (art. R411-16)](#299)
-            - [Sous-section 4 : Directeur général (art. R411-17)](#300)
-            - [Sous-section 5 : Commission d'attribution des aides (art. R411-18)](#301)
-            - [Sous-section 6 : Régime financier et comptable (art. R411-19 à R411-26)](#302)
-        - [Chapitre II : Agrément d'organismes ou de personnes physiques concourant au tourisme social. (art. D412-5 à R412-17)](#303)
-          - [Section 1 : Agrément national délivré à des organismes de tourisme social et familial. (art. D412-5 à R412-6)](#304)
-          - [Section 2 : Agrément des vacances adaptées organisées. (art. R412-8 à R412-17)](#305)
-      - [TITRE II : DISPOSITIONS FISCALES PARTICULIÈRES AUX ACTIVITÉS TOURISTIQUES. (art. D421-1 à D422-8)](#306)
-        - [Chapitre Ier : Ressources et incitations de l'Etat relatives aux activités et hébergements touristiques. (art. D421-1 à D421-4)](#307)
-          - [Section 1 : Assujettissement des hébergements et aménagements touristiques à la taxe sur la valeur ajoutée. (art. D421-1)](#308)
-          - [Section 2 : Dispositions particulières relatives à l'investissement dans l'immobilier de loisirs. (art. D421-2 à D421-3)](#309)
-          - [Section 3 : Dispositions particulières applicables aux agences de voyages et organisateurs de circuits touristiques. (art. D421-4)](#310)
-        - [Chapitre II : Ressources des collectivités territoriales relatives au tourisme. (art. D422-1 à D422-8)](#311)
-          - [Section 1 : Taxe professionnelle. (art. D422-1 à D422-2)](#312)
-          - [Section 2 : Taxes et redevances prélevées au profit des communes et établissements publics de coopération intercommunale. (art. D422-3 à D422-7)](#313)
-            - [Sous-section 1 : Taxe de séjour et taxe de séjour forfaitaire. (art. D422-3 à D422-4)](#314)
-            - [Sous-section 2 : Taxe communale sur les entreprises exploitant des engins de remontée mécanique. (art. D422-5)](#315)
-            - [Sous-section 5 : Taxe sur les activités commerciales non salariées à durée saisonnière. (art. D422-6)](#316)
-            - [Sous-section 6 : Prélèvement sur le produit des jeux dans les casinos. (art. D422-7)](#317)
-          - [Section 3 : Taxes prélevées au profit des départements. (art. D422-8)](#318)
-            - [Sous-section 2 : Taxe départementale sur les entreprises exploitant des engins de remontée mécanique. (art. D422-8)](#319)
-      - [TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER. (art. R442-1 à R443-4)](#320)
-        - [Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon. (art. R442-1 à R442-3)](#321)
-        - [Chapitre III : Dispositions relatives à Mayotte. (art. R443-1 à R443-4)](#322)
+    - [LIVRE II : ACTIVITÉS ET PROFESSIONS DU TOURISME. (art. R211-1 à R243-4)](#172)
+      - [TITRE Ier : ORGANISATION DE LA VENTE DE VOYAGES ET DE SÉJOURS. (art. R211-1 à R211-13)](#173)
+        - [Chapitre Ier : Dispositions communes. (art. R211-1 à R211-13)](#174)
+          - [Section 1 : Dispositions générales. (art. R211-1 à R211-2)](#175)
+          - [Section 2 : Contrat de vente de voyages et de séjours. (art. R211-3 à R211-13)](#176)
+          - [Section 5 : Obligation d'information des passagers aériens sur l'identité du transporteur aérien. (art.  à R211-13)](#177)
+      - [TITRE Ier : DES AGENTS DE VOYAGES ET AUTRES OPERATEURS DE LA VENTE DE VOYAGES ET DE SEJOURS. (art.  à R211-51)](#178)
+        - [Chapitre unique : Régime de la vente de voyages et de séjours. (art.  à R211-51)](#179)
+          - [Section 1 : Dispositions générales. (art.  à R211-13)](#180)
+          - [Section 2 : Contrat de vente de voyages et de séjours. (art.  à R211-13)](#181)
+          - [Section 3 : Sanctions et mesures conservatoires. (art. R211-14)](#182)
+          - [Section 4 : Obligation d'information des passagers aériens sur l'identité du transporteur aérien. (art. R211-15 à R211-19)](#183)
+          - [Section 5 : Obligation et conditions d'immatriculation des agents de voyage et autres opérateurs de la vente de voyages et de séjours. (art. D211-21-1 à R211-25)](#184)
+            - [Sous-section 1 : Procédure d'immatriculation des agents de voyage et autres opérateurs de la vente de voyages et de séjours. (art. D211-21-1 à R211-22)](#185)
+            - [Sous-section 2 : Gestion du registre des agents de voyage et autres opérateurs de la vente de voyages et de séjours. (art. R211-23 à R211-25)](#186)
+          - [Section 6 : Garantie financière. (art. R211-26 à R211-34)](#187)
+          - [Section 7 : Responsabilité civile professionnelle. (art. R211-35 à R211-40)](#188)
+          - [Section 8 : Aptitude professionnelle. (art. R211-41)](#189)
+          - [Section 9 : Contrat de jouissance d'immeuble à temps partagé. (art. R211-42 à R211-49)](#190)
+          - [Section 10 : Liberté d'établissement et libre prestation de service. (art. R211-50 à R211-51)](#191)
+      - [TITRE II : DISPOSITIONS RELATIVES AUX VISITES DANS LES MUSÉES ET MONUMENTS HISTORIQUES. (art. D221-5 à D221-24)](#192)
+        - [Chapitre unique : Personnels qualifiés. (art. D221-5 à D221-24)](#193)
+          - [Section 1 : Des personnes qualifiées. (art. D221-5 à R221-4)](#194)
+          - [Section 2 : Des professions de guide-interprète et de conférencier. (art. R221-11 à R221-14)](#195)
+          - [Section 3 : Des aptitudes professionnelles acquises dans les autres Etats membres de l'Union européenne ou parties à l'accord sur l'Espace économique européen. (art. R221-15 à R221-18-1)](#196)
+            - [Sous-section 1 : Liberté d'établissement. (art. R221-15 à R221-18)](#197)
+            - [Sous-section 2  : Libre prestation de services (art. R221-18-1)](#198)
+          - [Section 4 : Diplôme national de guide-interprète national. (art. D221-19 à D221-24)](#199)
+      - [TITRE III : EXPLOITATION DES VÉHICULES DE TOURISME. (art. D231-1 à R233-1)](#200)
+        - [Chapitre Ier : Exploitation de voitures de tourisme de luxe dites de grande remise. (art. D231-1)](#201)
+          - [Section 1 : Dispositions générales. (art. D231-1)](#202)
+        - [Chapitre Ier : Transport par voitures de tourisme avec chauffeur. (art.  à R231-14)](#203)
+          - [Section 1 : Dispositions générales. (art.  à D231-1)](#204)
+          - [Section 2 : Exploitation de voitures de tourisme avec chauffeur. (art. D231-3-1 à R231-6)](#205)
+            - [Sous-section 1 : Procédure d'immatriculation des entreprises touristiques de transport avec chauffeur. (art. D231-3-1 à R231-4)](#206)
+            - [Sous-section 2 : Radiation. (art. R231-5 à R231-6)](#207)
+          - [Section 3 : Conduite de voitures de tourisme avec chauffeur. (art. D231-7 à D231-12)](#208)
+            - [Sous-section 1 : Conditions d'aptitude à la conduite de voiture de tourisme avec chauffeur (art. D231-7 à D231-11)](#209)
+            - [Sous-section 2 :  Procédure d'attribution et de retrait de la carte  professionnelle de chauffeur de voiture de tourisme (art. D231-12)](#210)
+          - [Section 4 : Sanctions. (art. R231-13 à R231-14)](#211)
+        - [Chapitre III : Exploitation d'autres véhicules à usage touristique et de loisirs. (art.  à R231-14)](#212)
+        - [Chapitre II : Exploitation d'autres véhicules à usage touristique et de loisirs. (art. R233-1)](#213)
+      - [TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER. (art. R242-1 à R243-4)](#214)
+        - [Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon. (art. R242-1 à R242-3)](#215)
+        - [Chapitre III : Dispositions relatives à Mayotte. (art. R243-1 à R243-4)](#216)
+    - [LIVRE III : ÉQUIPEMENTS ET AMÉNAGEMENTS. (art. D311-2 à R363-5)](#217)
+      - [TITRE Ier : HÔTELS, CAFÉS ET DÉBITS DE BOISSONS. (art. D311-2 à D314-1)](#218)
+        - [Chapitre Ier : Hôtels. (art. D311-2 à R311-14)](#219)
+          - [Section 1 : Rapports entre bailleurs et locataires des immeubles affectés à l'hôtellerie. (art. D311-2 à R311-3)](#220)
+          - [Section 2 : Classement. (art. D311-4 à D311-11)](#221)
+          - [Section 3 : Sanctions. (art. R311-13 à R311-14)](#222)
+        - [Chapitre II : Cafés et débits de boissons. (art. D312-1 à D312-2)](#223)
+        - [Chapitre IV : Débits de boissons ayant pour activité principale l'exploitation d'une piste de danse (art. D314-1)](#224)
+      - [TITRE II : HÉBERGEMENTS AUTRES QUE HÔTELS ET TERRAINS DE CAMPING. (art. D321-1 à D326-3)](#225)
+        - [Chapitre Ier : Résidences de tourisme. (art. D321-1 à R321-11)](#226)
+          - [Section 1 : Dispositions générales. (art. D321-1 à D321-2)](#227)
+          - [Section 2 : Classement. (art. D321-3 à D321-7)](#228)
+          - [Section 3 : Sanctions. (art. R321-8 à R321-11)](#229)
+        - [Chapitre III : Villages résidentiels de tourisme. (art. R323-1 à R323-12)](#230)
+          - [Section 1 : Dispositions générales. (art. R323-1 à R323-3)](#231)
+          - [Section 2 : Classement. (art. D323-5 à R323-4)](#232)
+          - [Section 3 : Sanctions. (art. R323-9 à R323-12)](#233)
+        - [Chapitre IV : Meublés de tourisme et chambres d'hôtes. (art. D324-1 à R324-16)](#234)
+          - [Section 1 : Meublés de tourisme. (art. D324-1 à R324-12)](#235)
+            - [Sous-section 1 : Dispositions générales. (art. D324-1 à R324-1-2)](#236)
+            - [Sous-section 2 : Classement. (art. D324-2 à R*324-9)](#237)
+            - [Sous-section 3 : Sanctions. (art. R324-10 à R324-12)](#238)
+          - [Section 2 : Chambres d'hôtes. (art. D324-13 à R324-16)](#239)
+        - [Chapitre V : Villages et maisons familiales de vacances. (art. D325-1 à R325-23)](#240)
+          - [Section 1 : Villages de vacances. (art. D325-1 à R325-12)](#241)
+            - [Sous-section 1 : Dispositions générales. (art. D325-1 à D325-3)](#242)
+            - [Sous-section 2 : Classement. (art. D325-4 à D325-9)](#243)
+            - [Sous-section 3 : Sanctions. (art. R325-10 à R325-12)](#244)
+          - [Section 2 : Maisons familiales de vacances. (art. D325-13 à R325-23)](#245)
+            - [Sous-section 1 : Dispositions générales. (art. D325-13 à D325-18)](#246)
+            - [Sous-section 2 : Agrément. (art. D325-19 à D325-22)](#247)
+            - [Sous-section 3 : Sanctions. (art. R325-23)](#248)
+        - [Chapitre VI : Refuges de montagne. (art. D326-1 à D326-3)](#249)
+      - [TITRE III : TERRAINS DE CAMPING OU DE CARAVANAGE ET AUTRES TERRAINS AMÉNAGÉS. (art. D331-2 à D333-7)](#250)
+        - [Chapitre Ier : Ouverture et aménagement. (art. D331-2 à R331-11)](#251)
+        - [Chapitre II : Classement. (art. D332-1 à R332-12)](#252)
+          - [Section 1 : Dispositions générales. (art. D332-1 à D332-2)](#253)
+          - [Section 2 : Procédure de classement. (art. D332-3 à R332-8)](#254)
+          - [Section 3 : Sanctions. (art. D332-13 à R332-12)](#255)
+        - [Chapitre III : Règles relatives aux habitations légères de loisirs, aux parcs résidentiels de loisirs et aux résidences mobiles de loisirs. (art. D333-1 à D333-7)](#256)
+          - [Section 1 : Habitations légères de loisirs. (art. D333-1)](#257)
+          - [Section 2 : Parcs résidentiels de loisirs. (art. D333-3 à R333-6)](#258)
+            - [Sous-section 1 : Dispositions générales. (art. D333-3 à D333-4)](#259)
+            - [Sous-section 2 : Classement. (art. D333-5)](#260)
+            - [Sous-section 3 : Sanctions. (art. R333-6)](#261)
+          - [Section 3 : Résidences mobiles de loisirs. (art. D333-7)](#262)
+      - [TITRE IV : AMÉNAGEMENTS ET RÉGLEMENTATION DES ESPACES À VOCATION TOURISTIQUE. (art. D341-1 à D343-6)](#263)
+        - [Chapitre Ier : Littoral. (art. D341-1 à D341-3)](#264)
+          - [Section 1 : Aménagement, protection et mise en valeur du littoral. (art. D341-1)](#265)
+          - [Section 2 : Ports de plaisance et zones de mouillages. (art. D341-2)](#266)
+          - [Section 3 : Accès aux rivages et aux plages. (art. D341-3)](#267)
+        - [Chapitre II : Montagne. (art. D342-1 à R342-29)](#268)
+          - [Section 2 : Unités touristiques nouvelles. (art. D342-1)](#269)
+          - [Section 3 : Remontées mécaniques, pistes de ski et tapis roulants. (art. D342-2 à R342-29)](#270)
+            - [Sous-section 1 : Dispositions communes aux remontées mécaniques et aux tapis roulants. (art. D342-2 à R342-20)](#271)
+            - [Sous-section 2 : Dispositions spécifiques aux remontées mécaniques. (art. D342-21 à R342-25)](#272)
+            - [Sous-section 3 : Dispositions spécifiques aux tapis roulants. (art. R342-26 à R342-29)](#273)
+        - [Chapitre III : Espace rural et naturel. (art. D343-1 à D343-6)](#274)
+          - [Section 1 : Activités touristiques en milieu rural. (art. D343-1)](#275)
+          - [Section 2 : Parcs nationaux et régionaux. (art. D343-2 à D343-3)](#276)
+            - [Sous-section 1 : Parcs nationaux. (art. D343-2)](#277)
+            - [Sous-section 2 : Parcs naturels régionaux. (art. D343-3)](#278)
+          - [Section 3 : Itinéraires de randonnée. (art. D343-4)](#279)
+          - [Section 4 : Voies vertes. (art. D343-5)](#280)
+          - [Section 6 : Accueil du public en forêt. (art. D343-6)](#281)
+      - [TITRE V : DISPOSITIONS RELATIVES À LA CORSE. (art. D351-1 à D351-3)](#282)
+        - [Chapitre unique. (art. D351-1 à D351-3)](#283)
+      - [TITRE VI : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER. (art. R361-1 à R363-5)](#284)
+        - [Chapitre Ier : Dispositions relatives à la Guadeloupe, la Guyane, la Martinique et la Réunion. (art. R361-1 à R361-3)](#285)
+        - [Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon. (art. R362-1 à R362-4)](#286)
+        - [Chapitre III : Dispositions relatives à Mayotte. (art. R363-1 à R363-5)](#287)
+    - [LIVRE IV : FINANCEMENT DE L'ACCÈS AUX VACANCES ET FISCALITÉ DU TOURISME. (art. D411-6-1 à R443-4)](#288)
+      - [TITRE Ier : ACCÈS AUX VACANCES. (art. D411-6-1 à R412-17)](#289)
+        - [Chapitre Ier : Chèques-vacances. (art. D411-6-1 à R411-26)](#290)
+          - [Section 1 : Dispositions générales. (art. D411-6-1 à R411-8)](#291)
+          - [Section 2 : Agence nationale pour les chèques-vacances. (art. R411-9 à R411-26)](#292)
+            - [Sous-section 1 : Missions et moyens (art. R411-9)](#293)
+            - [Sous-section 2 : Conseil d'administration. (art. R411-10 à R411-15)](#294)
+            - [Sous-section 3 : Tutelle (art. R411-16)](#295)
+            - [Sous-section 4 : Directeur général (art. R411-17)](#296)
+            - [Sous-section 5 : Commission d'attribution des aides (art. R411-18)](#297)
+            - [Sous-section 6 : Régime financier et comptable (art. R411-19 à R411-26)](#298)
+        - [Chapitre II : Agrément d'organismes ou de personnes physiques concourant au tourisme social. (art. D412-5 à R412-17)](#299)
+          - [Section 1 : Agrément national délivré à des organismes de tourisme social et familial. (art. D412-5 à R412-6)](#300)
+          - [Section 2 : Agrément des vacances adaptées organisées. (art. R412-8 à R412-17)](#301)
+      - [TITRE II : DISPOSITIONS FISCALES PARTICULIÈRES AUX ACTIVITÉS TOURISTIQUES. (art. D421-1 à D422-8)](#302)
+        - [Chapitre Ier : Ressources et incitations de l'Etat relatives aux activités et hébergements touristiques. (art. D421-1 à D421-4)](#303)
+          - [Section 1 : Assujettissement des hébergements et aménagements touristiques à la taxe sur la valeur ajoutée. (art. D421-1)](#304)
+          - [Section 2 : Dispositions particulières relatives à l'investissement dans l'immobilier de loisirs. (art. D421-2 à D421-3)](#305)
+          - [Section 3 : Dispositions particulières applicables aux agences de voyages et organisateurs de circuits touristiques. (art. D421-4)](#306)
+        - [Chapitre II : Ressources des collectivités territoriales relatives au tourisme. (art. D422-1 à D422-8)](#307)
+          - [Section 1 : Taxe professionnelle. (art. D422-1 à D422-2)](#308)
+          - [Section 2 : Taxes et redevances prélevées au profit des communes et établissements publics de coopération intercommunale. (art. D422-3 à D422-7)](#309)
+            - [Sous-section 1 : Taxe de séjour et taxe de séjour forfaitaire. (art. D422-3 à D422-4)](#310)
+            - [Sous-section 2 : Taxe communale sur les entreprises exploitant des engins de remontée mécanique. (art. D422-5)](#311)
+            - [Sous-section 5 : Taxe sur les activités commerciales non salariées à durée saisonnière. (art. D422-6)](#312)
+            - [Sous-section 6 : Prélèvement sur le produit des jeux dans les casinos. (art. D422-7)](#313)
+          - [Section 3 : Taxes prélevées au profit des départements. (art. D422-8)](#314)
+            - [Sous-section 2 : Taxe départementale sur les entreprises exploitant des engins de remontée mécanique. (art. D422-8)](#315)
+      - [TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER. (art. R442-1 à R443-4)](#316)
+        - [Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon. (art. R442-1 à R442-3)](#317)
+        - [Chapitre III : Dispositions relatives à Mayotte. (art. R443-1 à R443-4)](#318)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME.<a id=2></a>
@@ -7341,22 +7337,18 @@ _Cité par_:
 
 ###### Article L422-1
 
-Les règles relatives à l'établissement de la taxe professionnelle applicables aux exploitants d'établissements exerçant une
-activité à caractère saisonnier sont fixées au V de l'article 1478 du code général des impôts.
+Les règles relatives à l'établissement de la cotisation foncière des entreprises applicables aux exploitants d'établissements
+exerçant une activité à caractère saisonnier sont fixées au V de l'article 1478 du code général des impôts.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 1478
-
-_Codifié par_:
-
-  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
 _Modifié par_:
 
-  - Loi n°2006-437 du 14 avril 2006 - art. 29 () JORF 15 avril 2006
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1478 (V)
 
 _Cité par_:
 
@@ -7365,20 +7357,20 @@ _Cité par_:
 
 ###### Article L422-2
 
-Les règles relatives à l'exonération de la taxe professionnelle applicable aux personnes qui louent en meublé des locaux
-classés dans les conditions de l'article L. 324-1 ou des gîtes ruraux sont fixées par l'article 1459 du code général des
-impôts.
+Les règles relatives à l'exonération de la cotisation foncière des entreprises applicable aux personnes qui louent en meublé
+des locaux classés dans les conditions de l'article L. 324-1 ou des gîtes ruraux sont fixées par l'article 1459 du code
+général des impôts.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (VD)
+
 _Cite_:
 
-  - CGI 1459
-  - Code du tourisme. - art. L324-1 (M)
-
-_Codifié par_:
-
-  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+  - Code général des impôts, CGI. - art. 1459 (V)
+  - Code du tourisme. - art. L324-1 (V)
 
 _Cité par_:
 
@@ -7886,34 +7878,34 @@ _Cite_:
 Les règles relatives à la taxe sur les activités commerciales non salariées à durée saisonnière sont fixées par les articles
 L. 2333-88 à L. 2333-90 du code général des collectivités territoriales ci-après reproduits : 
 
-" Art.L. 2333-88 du code général des collectivités territoriales. 
+" Art. L. 2333-88 du code général des collectivités territoriales. 
 
 Toute commune peut, par délibération du conseil municipal, instituer une taxe sur les activités commerciales non salariées à
 durée saisonnière. La taxe est due par l'exploitant de l'emplacement ou du véhicule où s'exerce l'activité concernée. Les
-redevables de la taxe professionnelle au titre d'une activité dans la commune ne sont pas assujettis au paiement de la taxe
-pour cette même activité. 
+redevables de la cotisation foncière des entreprises au titre d'une activité dans la commune ne sont pas assujettis au
+paiement de la taxe pour cette même activité. 
 
-Art.L. 2333-89 du code général des collectivités territoriales. 
+"Art. L. 2333-89 du code général des collectivités territoriales. 
 
 La taxe est assise sur la surface du local ou de l'emplacement où l'activité est exercée. Si elle est exercée exclusivement
-dans un véhicule, la taxe est assise sur le double de la surface du véhicule. Elle est due par jour d'activité. 
+dans un véhicule, la taxe est assise sur le double de la surface du véhicule. Elle est due par jour d'activité." 
 
-Art.L. 2333-90 du code général des collectivités territoriales. 
+"Art. L. 2333-90 du code général des collectivités territoriales. 
 
-Le tarif de la taxe est fixé par une délibération du conseil municipal. Ce tarif uniforme ne peut être inférieur à 0, 76
-euros par mètre carré, ni excéder 9, 15 euros par mètre carré et par jour. "
+Le tarif de la taxe est fixé par une délibération du conseil municipal. Ce tarif uniforme ne peut être inférieur à 0,76 euros
+par mètre carré, ni excéder 9,15 euros par mètre carré et par jour. "
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
 
 **Liens**:
 
-  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-88 (V)
-  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-89 (V)
-  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-90 (V)
+  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-88
+  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-89
+  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2333-90
 
 _Cité par_:
 
@@ -11168,74 +11160,32 @@ _Cité par_:
 
 ##### Section 1 : Dispositions générales.<a id=175></a>
 
-###### Article D211-4
-
-Dans le délai de deux mois suivant la délivrance de l'autorisation tacite, le préfet procède à l'affichage dans les locaux de
-la préfecture du département d'un avis informant les tiers de la nature de l'autorisation, de l'identité du titulaire et de
-l'adresse du siège de l'entreprise s'il s'agit d'une personne physique ou, s'il s'agit d'une personne morale, de la
-dénomination et de la raison sociale, de la forme juridique et de l'adresse du siège social. Dans le même délai, le préfet
-adresse au demandeur un courrier lui indiquant le numéro de licence, d'agrément, d'autorisation ou d'habilitation qui lui a
-été accordé.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Arrêté 1997-07-31 art. 2
-  - Arrêté du 31 juillet 1997 - art. 2 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cité par_:
-
-  - Code du tourisme. - art. R211-2 (V)
-
-
 ###### Article R211-1
 
-Les dispositions réglementaires des titres Ier et II ainsi que celles du chapitre II du titre III sont applicables, sous
-réserve des dispositions prévues à l'article L. 211-3, à toute personne physique ou morale qui se livre ou apporte son
-concours aux opérations mentionnées à l'article L. 211-1.
+Les dispositions réglementaires des titres Ier et II sont applicables, sous réserve des dispositions prévues à l'article L.
+211-3, à toute personne physique ou morale qui se livre ou apporte son concours aux opérations mentionnées à l'article L.
+211-1. 
 
-Les dispositions réglementaires des titres Ier et II ainsi que celles du chapitre II du titre III ne sont pas applicables aux
-transporteurs aériens et ferroviaires délivrant les titres de transport mentionnés respectivement au d et au e de l'article
-L. 211-3, à condition que le prix des titres de transport délivrés à titre accessoire par ces transporteurs n'excède pas 50 %
-du prix de la prestation principale.
+Les dispositions réglementaires des titres Ier et II ne sont pas applicables aux transporteurs aériens et ferroviaires
+délivrant les titres de transport mentionnés respectivement au d et au e de l'article L. 211-3, à condition que le prix des
+titres de transport délivrés à titre accessoire par ces transporteurs n'excède pas 50 % du prix de la prestation principale. 
 
 Les opérations de délivrance des titres de transport prévus à l'alinéa précédent doivent être réalisées par les transporteurs
-aériens ou ferroviaires directement ou au moyen de leur propre matériel automatisé mis en oeuvre sous leur responsabilité.
+aériens ou ferroviaires directement ou au moyen de leur propre matériel automatisé mis en oeuvre sous leur responsabilité. 
 
 La délivrance de titres de transport s'effectue conformément aux textes législatifs et réglementaires ou aux accords
 internationaux propres à l'organisation des transports.
 
-Les personnes titulaires d'une licence d'agent de voyages peuvent, dans le cadre de services occasionnels fournis à
-l'occasion de voyages ou de séjours, assurer par elles-mêmes des transports pour leur propre clientèle, conformément aux
-dispositions du décret n° 85-891 du 16 août 1985 modifié relatif aux transports urbains de personnes et aux transports
-routiers non urbains de personnes, et proposer des guides touristiques venant compléter les informations contenues dans leur
-brochure.
-
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°85-891 1985-08-16
-  - Code du tourisme. - art. L211-1 (M)
-  - Code du tourisme. - art. L211-3 (V)
 
 _Anciens textes_:
 
   - Décret n°94-490 du 15 juin 1994 - art. 1 (M)
   - Décret n°94-490 du 15 juin 1994 - art. 1 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
 
 _Cité par_:
 
@@ -11243,21 +11193,28 @@ _Cité par_:
   - Code du tourisme. - art. R213-5 (VT)
   - Code du tourisme. - art. R221-12 (V)
 
+_Cite_:
+
+  - Code du tourisme. - art. L211-1
+  - Code du tourisme. - art. L211-3
+
 
 ###### Article R211-2
 
-Sauf s'il en est disposé autrement, les compétences dévolues au préfet par les dispositions réglementaires des titres Ier et
-II ainsi que celles du chapitre II du titre III sont exercées par le préfet du département où l'entreprise ou l'organisme a
-son siège. Pour les entreprises ou organismes dont le siège est situé dans la région Ile-de-France, ces compétences sont
-exercées par le préfet de région.
+Les personnes physiques ou morales immatriculées au registre prévu au a de l'article L. 141-3 doivent mentionner le nom ou la
+raison sociale et la forme juridique de l'entreprise ou de l'organisme, leur numéro d'immatriculation, le nom et l'adresse de
+leur garant et de leur assureur dans leur correspondance et les documents contractuels. Ces informations doivent aussi
+figurer, le cas échéant, sur leurs sites internet. Sur les documents non contractuels ou publicitaires doivent figurer le nom
+et l'adresse de l'entreprise ou de l'organisme et son numéro d'immatriculation. 
 
-Les arrêtés préfectoraux pris en application des dispositions réglementaires des titres Ier et II ainsi que celles du
-chapitre II du titre III sont publiés au recueil des actes administratifs du département et, pour la région Ile-de-France, au
-recueil des actes administratifs de la région.
+Les associations ou les organismes sans but lucratif mentionnés au b du III de l'article L. 211-18 font figurer sur leurs
+documents leur nom et adresse, ainsi que le nom, l'adresse et le numéro d'immatriculation de la fédération ou de l'union à
+laquelle ils sont rattachés. Ces informations doivent aussi figurer, le cas échéant, sur leurs sites internet. Les documents
+de nature contractuelle doivent préciser les noms et adresses du garant et de l'assureur de cette fédération ou de cette
+union. 
 
-Les licences, agréments, autorisations et habilitations réputés accordés en application des dispositions réglementaires des
-titres Ier et II ainsi que celles du chapitre II du titre III, en l'absence de réponse du préfet à l'expiration d'un délai de
-quatre mois, font également l'objet de mesures de publicité dans des conditions fixées par les articles R. 211-3 et D. 211-4.
+Toute personne physique ou morale immatriculée au registre mentionné au a de l'article L. 141-3 tient ses livres et documents
+à la disposition du garant et des personnes habilitées à les consulter par le ministre chargé du tourisme.
 
 **Liens relatifs à cet article**
 
@@ -11266,14 +11223,14 @@ _Anciens textes_:
   - Décret n°94-490 du 15 juin 1994 - art. 2 (M)
   - Décret n°94-490 du 15 juin 1994 - art. 2 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
 
 _Cite_:
 
-  - Code du tourisme. - art. D211-4 (V)
-  - Code du tourisme. - art. R211-3 (V)
+  - Code du tourisme. - art. L141-3
+  - Code du tourisme. - art. L211-18
 
 _Cité par_:
 
@@ -11281,13 +11238,21 @@ _Cité par_:
   - Code du tourisme. - art. R221-3 (V)
 
 
+##### Section 2 : Contrat de vente de voyages et de séjours.<a id=176></a>
+
 ###### Article R211-3
 
-En application des articles R. 212-16, R. 213-4, R. 213-17 et R. 213-31, les demandes de licence d'agent de voyages,
-d'agrément de tourisme, d'autorisation ou d'habilitation sont réputées accordées à l'expiration d'un délai de quatre mois à
-compter de la date de la décharge ou de la demande d'avis de réception du dossier complet émis par l'administration. Le
-dossier est réputé complet lorsqu'il comprend les pièces mentionnées au premier alinéa de l'article R. 212-4, aux deuxièmes
-alinéas des articles R. 213-5 et R. 213-18 et à l'article R. 213-33.
+Sous réserve des exclusions prévues aux troisième et quatrième alinéas de l'article L. 211-7, toute offre et toute vente de
+prestations de voyages ou de séjours donnent lieu à la remise de documents appropriés qui répondent aux règles définies par
+la présente section. 
+
+En cas de vente de titres de transport aérien ou de titres de transport sur ligne régulière non accompagnée de prestations
+liées à ces transports, le vendeur délivre à l'acheteur un ou plusieurs billets de passage pour la totalité du voyage, émis
+par le transporteur ou sous sa responsabilité. Dans le cas de transport à la demande, le nom et l'adresse du transporteur,
+pour le compte duquel les billets sont émis, doivent être mentionnés. 
+
+La facturation séparée des divers éléments d'un même forfait touristique ne soustrait pas le vendeur aux obligations qui lui
+sont faites par les dispositions réglementaires de la présente section.
 
 **Liens relatifs à cet article**
 
@@ -11297,42 +11262,112 @@ _Anciens textes_:
   - Arrêté du 31 juillet 1997 - art. 1 (Ab)
   - Code du tourisme. - art. R211-5 (T)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
+
+_Cite_:
+
+  - Code du tourisme. - art. L211-7
 
 _Cité par_:
 
   - Code du tourisme. - art. R211-12 (Ab)
   - Code du tourisme. - art. R211-2 (V)
 
+
+###### Article R211-3-1
+
+L'échange d'informations précontractuelles ou la mise à disposition des conditions contractuelles est effectué par écrit. Ils
+peuvent se faire par voie électronique dans les conditions de validité et d'exercice prévues aux articles 1369-1 à 1369-11 du
+code civil. Sont mentionnés le nom ou la raison sociale et l'adresse du vendeur ainsi que l'indication de son immatriculation
+au registre prévu au a de l'article L. 141-3 ou, le cas échéant, le nom, l'adresse et l'indication de l'immatriculation de la
+fédération ou de l'union mentionnées au deuxième alinéa de l'article R. 211-2.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
+
 _Cite_:
 
-  - Code du tourisme. - art. R212-16 (V)
-  - Code du tourisme. - art. R212-4 (V)
-  - Code du tourisme. - art. R213-17 (V)
-  - Code du tourisme. - art. R213-18 (V)
-  - Code du tourisme. - art. R213-31 (V)
-  - Code du tourisme. - art. R213-33 (V)
-  - Code du tourisme. - art. R213-4 (V)
-  - Code du tourisme. - art. R213-5 (V)
+  - Code civil - art. 1369-1
+  - Code du tourisme. - art. L141-3
+  - Code du tourisme. - art. R211-2
 
 
-##### Section 2 : Contrat de vente de voyages et de séjours.<a id=176></a>
+###### Article R211-4
+
+Préalablement à la conclusion du contrat, le vendeur doit communiquer au consommateur les informations sur les prix, les
+dates et les autres éléments constitutifs des prestations fournies à l'occasion du voyage ou du séjour tels que : 
+
+1° La destination, les moyens, les caractéristiques et les catégories de transports utilisés ; 
+
+2° Le mode d'hébergement, sa situation, son niveau de confort et ses principales caractéristiques, son homologation et son
+classement touristique correspondant à la réglementation ou aux usages du pays d'accueil ; 
+
+3° Les prestations de restauration proposées ; 
+
+4° La description de l'itinéraire lorsqu'il s'agit d'un circuit ; 
+
+5° Les formalités administratives et sanitaires à accomplir par les nationaux ou par les ressortissants d'un autre Etat
+membre de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen en cas, notamment, de
+franchissement des frontières ainsi que leurs délais d'accomplissement ; 
+
+6° Les visites, excursions et les autres services inclus dans le forfait ou éventuellement disponibles moyennant un
+supplément de prix ; 
+
+7° La taille minimale ou maximale du groupe permettant la réalisation du voyage ou du séjour ainsi que, si la réalisation du
+voyage ou du séjour est subordonnée à un nombre minimal de participants, la date limite d'information du consommateur en cas
+d'annulation du voyage ou du séjour ; cette date ne peut être fixée à moins de vingt et un jours avant le départ ; 
+
+8° Le montant ou le pourcentage du prix à verser à titre d'acompte à la conclusion du contrat ainsi que le calendrier de
+paiement du solde ; 
+
+9° Les modalités de révision des prix telles que prévues par le contrat en application de l'article R. 211-8 ; 
+
+10° Les conditions d'annulation de nature contractuelle ; 
+
+11° Les conditions d'annulation définies aux articles R. 211-9, R. 211-10 et R. 211-11 ; 
+
+12° L'information concernant la souscription facultative d'un contrat d'assurance couvrant les conséquences de certains cas
+d'annulation ou d'un contrat d'assistance couvrant certains risques particuliers, notamment les frais de rapatriement en cas
+d'accident ou de maladie ; 
+
+13° Lorsque le contrat comporte des prestations de transport aérien, l'information, pour chaque tronçon de vol, prévue aux
+articles R. 211-15 à R. 211-18.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
+
+_Cité par_:
+
+  - Code du tourisme. - art. R211-11 (V)
+  - Code du tourisme. - art. R211-6 (VD)
+  - Code du tourisme. - art. R211-9 (VD)
+
+_Cite_:
+
+  - Code du tourisme. - art. R211-15
+  - Code du tourisme. - art. R211-8
+
+_Anciens textes_:
+
+  - Code du tourisme. - art. R211-6 (T)
+
 
 ###### Article R211-5
 
-Sous réserve des exclusions prévues aux a et b du deuxième alinéa de l'article L. 211-8, toute offre et toute vente de
-prestations de voyages ou de séjours donnent lieu à la remise de documents appropriés qui répondent aux règles définies par
-la présente section.
+L'information préalable faite au consommateur engage le vendeur, à moins que dans celle-ci le vendeur ne se soit réservé
+expressément le droit d'en modifier certains éléments. Le vendeur doit, dans ce cas, indiquer clairement dans quelle mesure
+cette modification peut intervenir et sur quel éléments.
 
-En cas de vente de titres de transport aérien ou de titres de transport sur ligne régulière non accompagnée de prestations
-liées à ces transports, le vendeur délivre à l'acheteur un ou plusieurs billets de passage pour la totalité du voyage, émis
-par le transporteur ou sous sa responsabilité. Dans le cas de transport à la demande, le nom et l'adresse du transporteur,
-pour le compte duquel les billets sont émis, doivent être mentionnés.
-
-La facturation séparée des divers éléments d'un même forfait touristique ne soustrait pas le vendeur aux obligations qui lui
-sont faites par les dispositions réglementaires de la présente section.
+En tout état de cause, les modifications apportées à l'information préalable doivent être communiquées au consommateur avant
+la conclusion du contrat.
 
 **Liens relatifs à cet article**
 
@@ -11342,17 +11377,9 @@ _Anciens textes_:
   - Décret n°94-490 du 15 juin 1994 - art. 95 (Ab)
   - Code du tourisme. - art. R211-7 (T)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cite_:
-
-  - Code du tourisme. - art. L211-8 (V)
+  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
 
 _Nouveaux textes_:
 
@@ -11367,49 +11394,76 @@ _Cité par_:
 
 ###### Article R211-6
 
-Préalablement à la conclusion du contrat et sur la base d'un support écrit, portant sa raison sociale, son adresse et
-l'indication de son autorisation administrative d'exercice, le vendeur doit communiquer au consommateur les informations sur
-les prix, les dates et les autres éléments constitutifs des prestations fournies à l'occasion du voyage ou du séjour tels
-que :
+Le contrat conclu entre le vendeur et l'acheteur doit être écrit, établi en double exemplaire dont l'un est remis à
+l'acheteur, et signé par les deux parties. Lorsque le contrat est conclu par voie électronique, il est fait application des
+articles 1369-1 à 1369-11 du code civil. Le contrat doit comporter les clauses suivantes : 
 
-1° La destination, les moyens, les caractéristiques et les catégories de transports utilisés ;
+1° Le nom et l'adresse du vendeur, de son garant et de son assureur ainsi que le nom et l'adresse de l'organisateur ; 
 
-2° Le mode d'hébergement, sa situation, son niveau de confort et ses principales caractéristiques, son homologation et son
-classement touristique correspondant à la réglementation ou aux usages du pays d'accueil ;
+2° La destination ou les destinations du voyage et, en cas de séjour fractionné, les différentes périodes et leurs dates ; 
 
-3° Les repas fournis ;
+3° Les moyens, les caractéristiques et les catégories des transports utilisés, les dates et lieux de départ et de retour ; 
 
-4° La description de l'itinéraire lorsqu'il s'agit d'un circuit ;
+4° Le mode d'hébergement, sa situation, son niveau de confort et ses principales caractéristiques et son classement
+touristique en vertu des réglementations ou des usages du pays d'accueil ; 
 
-5° Les formalités administratives et sanitaires à accomplir en cas, notamment, de franchissement des frontières ainsi que
-leurs délais d'accomplissement ;
+5° Les prestations de restauration proposées ; 
 
-6° Les visites, excursions et les autres services inclus dans le forfait ou éventuellement disponibles moyennant un
-supplément de prix ;
+6° L'itinéraire lorsqu'il s'agit d'un circuit ; 
 
-7° La taille minimale ou maximale du groupe permettant la réalisation du voyage ou du séjour ainsi que, si la réalisation du
-voyage ou du séjour est subordonnée à un nombre minimal de participants, la date limite d'information du consommateur en cas
-d'annulation du voyage ou du séjour ; cette date ne peut être fixée à moins de vingt et un jours avant le départ ;
+7° Les visites, les excursions ou autres services inclus dans le prix total du voyage ou du séjour ; 
 
-8° Le montant ou le pourcentage du prix à verser à titre d'acompte à la conclusion du contrat ainsi que le calendrier de
-paiement du solde ;
+8° Le prix total des prestations facturées ainsi que l'indication de toute révision éventuelle de cette facturation en vertu
+des dispositions de l'article R. 211-8 ; 
 
-9° Les modalités de révision des prix telles que prévues par le contrat en application de l'article R. 211-10 ;
+9° L'indication, s'il y a lieu, des redevances ou taxes afférentes à certains services telles que taxes d'atterrissage, de
+débarquement ou d'embarquement dans les ports et aéroports, taxes de séjour lorsqu'elles ne sont pas incluses dans le prix de
+la ou des prestations fournies ; 
 
-10° Les conditions d'annulation de nature contractuelle ;
+10° Le calendrier et les modalités de paiement du prix ; le dernier versement effectué par l'acheteur ne peut être inférieur
+à 30 % du prix du voyage ou du séjour et doit être effectué lors de la remise des documents permettant de réaliser le voyage
+ou le séjour ; 
 
-11° Les conditions d'annulation définies aux articles R. 211-11, R. 211-12 et R. 211-13 ;
+11° Les conditions particulières demandées par l'acheteur et acceptées par le vendeur ; 
 
-12° Les précisions concernant les risques couverts et le montant des garanties souscrites au titre du contrat d'assurance
-couvrant les conséquences de la responsabilité civile professionnelle des agents de voyages et de la responsabilité civile
-des associations et organismes sans but lucratif et des organismes locaux de tourisme ;
+12° Les modalités selon lesquelles l'acheteur peut saisir le vendeur d'une réclamation pour inexécution ou mauvaise exécution
+du contrat, réclamation qui doit être adressée dans les meilleurs délais, par tout moyen permettant d'en obtenir un accusé de
+réception au vendeur, et, le cas échéant, signalée par écrit, à l'organisateur du voyage et au prestataire de services
+concernés ; 
 
-13° L'information concernant la souscription facultative d'un contrat d'assurance couvrant les conséquences de certains cas
-d'annulation ou d'un contrat d'assistance couvrant certains risques particuliers, notamment les frais de rapatriement en cas
-d'accident ou de maladie ;
+13° La date limite d'information de l'acheteur en cas d'annulation du voyage ou du séjour par le vendeur dans le cas où la
+réalisation du voyage ou du séjour est liée à un nombre minimal de participants, conformément aux dispositions du 7° de
+l'article R. 211-4 ; 
 
-14° Lorsque le contrat comporte des prestations de transport aérien, l'information, pour chaque tronçon de vol, prévue aux
-articles R. 211-15 à R. 211-18.
+14° Les conditions d'annulation de nature contractuelle ; 
+
+15° Les conditions d'annulation prévues aux articles R. 211-9, R. 211-10 et R. 211-11 ; 
+
+16° Les précisions concernant les risques couverts et le montant des garanties au titre du contrat d'assurance couvrant les
+conséquences de la responsabilité civile professionnelle du vendeur ; 
+
+17° Les indications concernant le contrat d'assurance couvrant les conséquences de certains cas d'annulation souscrit par
+l'acheteur (numéro de police et nom de l'assureur) ainsi que celles concernant le contrat d'assistance couvrant certains
+risques particuliers, notamment les frais de rapatriement en cas d'accident ou de maladie ; dans ce cas, le vendeur doit
+remettre à l'acheteur un document précisant au minimum les risques couverts et les risques exclus ; 
+
+18° La date limite d'information du vendeur en cas de cession du contrat par l'acheteur ; 
+
+19° L'engagement de fournir à l'acheteur, au moins dix jours avant la date prévue pour son départ, les informations
+suivantes : 
+
+a) Le nom, l'adresse et le numéro de téléphone de la représentation locale du vendeur ou, à défaut, les noms, adresses et
+numéros de téléphone des organismes locaux susceptibles d'aider le consommateur en cas de difficulté ou, à défaut, le numéro
+d'appel permettant d'établir de toute urgence un contact avec le vendeur ; 
+
+b) Pour les voyages et séjours de mineurs à l'étranger, un numéro de téléphone et une adresse permettant d'établir un contact
+direct avec l'enfant ou le responsable sur place de son séjour ; 
+
+20° La clause de résiliation et de remboursement sans pénalités des sommes versées par l'acheteur en cas de non-respect de
+l'obligation d'information prévue au 13° de l'article R. 211-4 ; 
+
+21° L'engagement de fournir à l'acheteur, en temps voulu avant le début du voyage ou du séjour, les heures de départ et
+d'arrivée.
 
 **Liens relatifs à cet article**
 
@@ -11419,23 +11473,15 @@ _Anciens textes_:
   - Décret n°94-490 du 15 juin 1994 - art. 96 (Ab)
   - Code du tourisme. - art. R211-8 (T)
 
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
 _Modifié par_:
 
-  - Décret n°2007-669 du 2 mai 2007 - art. 2 () JORF 4 mai 2007
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 1
+  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
 
 _Cite_:
 
-  - Code du tourisme R211-10, R211-11, R211-12, R211-13, R211-15 à R211-18
-  - Code du tourisme. - art. R211-10 (V)
-  - Code du tourisme. - art. R211-12 (V)
+  - Code civil - art. 1369-1
+  - Code du tourisme. - art. R211-4
+  - Code du tourisme. - art. R211-9
 
 _Cité par_:
 
@@ -11453,12 +11499,12 @@ _Nouveaux textes_:
 
 ###### Article R211-7
 
-L'information préalable faite au consommateur engage le vendeur, à moins que dans celle-ci le vendeur ne se soit réservé
-expressément le droit d'en modifier certains éléments. Le vendeur doit, dans ce cas, indiquer clairement dans quelle mesure
-cette modification peut intervenir et sur quel éléments.
+L'acheteur peut céder son contrat à un cessionnaire qui remplit les mêmes conditions que lui pour effectuer le voyage ou le
+séjour, tant que ce contrat n'a produit aucun effet.
 
-En tout état de cause, les modifications apportées à l'information préalable doivent être communiquées par écrit au
-consommateur avant la conclusion du contrat.
+Sauf stipulation plus favorable au cédant, celui-ci est tenu d'informer le vendeur de sa décision par tout moyen permettant
+d'en obtenir un accusé de réception au plus tard sept jours avant le début du voyage. Lorsqu'il s'agit d'une croisière, ce
+délai est porté à quinze jours. Cette cession n'est soumise, en aucun cas, à une autorisation préalable du vendeur.
 
 **Liens relatifs à cet article**
 
@@ -11468,13 +11514,9 @@ _Anciens textes_:
   - Décret n°94-490 du 15 juin 1994 - art. 97 (Ab)
   - Code du tourisme. - art. R211-9 (T)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 1
+  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
 
 _Nouveaux textes_:
 
@@ -11489,73 +11531,11 @@ _Cité par_:
 
 ###### Article R211-8
 
-Le contrat conclu entre le vendeur et l'acheteur doit être écrit, établi en double exemplaire dont l'un est remis à
-l'acheteur, et signé par les deux parties. Il doit comporter les clauses suivantes :
-
-1° Le nom et l'adresse du vendeur, de son garant et de son assureur ainsi que le nom et l'adresse de l'organisateur ;
-
-2° La destination ou les destinations du voyage et, en cas de séjour fractionné, les différentes périodes et leurs dates ;
-
-3° Les moyens, les caractéristiques et les catégories des transports utilisés, les dates, heures et lieux de départ et de
-retour ;
-
-4° Le mode d'hébergement, sa situation, son niveau de confort et ses principales caractéristiques et son classement
-touristique en vertu des réglementations ou des usages du pays d'accueil ;
-
-5° Le nombre de repas fournis ;
-
-6° L'itinéraire lorsqu'il s'agit d'un circuit ;
-
-7° Les visites, les excursions ou autres services inclus dans le prix total du voyage ou du séjour ;
-
-8° Le prix total des prestations facturées ainsi que l'indication de toute révision éventuelle de cette facturation en vertu
-des dispositions de l'article R. 211-10 ;
-
-9° L'indication, s'il y a lieu, des redevances ou taxes afférentes à certains services telles que taxes d'atterrissage, de
-débarquement ou d'embarquement dans les ports et aéroports, taxes de séjour lorsqu'elles ne sont pas incluses dans le prix de
-la ou des prestations fournies ;
-
-10° Le calendrier et les modalités de paiement du prix ; le dernier versement effectué par l'acheteur ne peut être inférieur
-à 30 % du prix du voyage ou du séjour et doit être effectué lors de la remise des documents permettant de réaliser le voyage
-ou le séjour ;
-
-11° Les conditions particulières demandées par l'acheteur et acceptées par le vendeur ;
-
-12° Les modalités selon lesquelles l'acheteur peut saisir le vendeur d'une réclamation pour inexécution ou mauvaise exécution
-du contrat, réclamation qui doit être adressée dans les meilleurs délais, par lettre recommandée avec demande d'avis de
-réception au vendeur, et, le cas échéant, signalée par écrit, à l'organisateur du voyage et au prestataire de services
-concernés ;
-
-13° La date limite d'information de l'acheteur en cas d'annulation du voyage ou du séjour par le vendeur dans le cas où la
-réalisation du voyage ou du séjour est liée à un nombre minimal de participants, conformément aux dispositions du 7° de
-l'article R. 211-6 ;
-
-14° Les conditions d'annulation de nature contractuelle ;
-
-15° Les conditions d'annulation prévues aux articles R. 211-11, R. 211-12 et R. 211-13 ;
-
-16° Les précisions concernant les risques couverts et le montant des garanties au titre du contrat d'assurance couvrant les
-conséquences de la responsabilité civile professionnelle du vendeur ;
-
-17° Les indications concernant le contrat d'assurance couvrant les conséquences de certains cas d'annulation souscrit par
-l'acheteur (numéro de police et nom de l'assureur) ainsi que celles concernant le contrat d'assistance couvrant certains
-risques particuliers, notamment les frais de rapatriement en cas d'accident ou de maladie ; dans ce cas, le vendeur doit
-remettre à l'acheteur un document précisant au minimum les risques couverts et les risques exclus ;
-
-18° La date limite d'information du vendeur en cas de cession du contrat par l'acheteur ;
-
-19° L'engagement de fournir, par écrit, à l'acheteur, au moins dix jours avant la date prévue pour son départ, les
-informations suivantes :
-
-a) Le nom, l'adresse et le numéro de téléphone de la représentation locale du vendeur ou, à défaut, les noms, adresses et
-numéros de téléphone des organismes locaux susceptibles d'aider le consommateur en cas de difficulté ou, à défaut, le numéro
-d'appel permettant d'établir de toute urgence un contact avec le vendeur ;
-
-b) Pour les voyages et séjours de mineurs à l'étranger, un numéro de téléphone et une adresse permettant d'établir un contact
-direct avec l'enfant ou le responsable sur place de son séjour ;
-
-20° La clause de résiliation et de remboursement sans pénalités des sommes versées par l'acheteur en cas de non-respect de
-l'obligation d'information prévue au 14° de l'article R. 211-6.
+Lorsque le contrat comporte une possibilité expresse de révision du prix, dans les limites prévues à l'article L. 211-12, il
+doit mentionner les modalités précises de calcul, tant à la hausse qu'à la baisse, des variations des prix, et notamment le
+montant des frais de transport et taxes y afférentes, la ou les devises qui peuvent avoir une incidence sur le prix du voyage
+ou du séjour, la part du prix à laquelle s'applique la variation, le cours de la ou des devises retenu comme référence lors
+de l'établissement du prix figurant au contrat.
 
 **Liens relatifs à cet article**
 
@@ -11565,24 +11545,13 @@ _Anciens textes_:
   - Décret n°94-490 du 15 juin 1994 - art. 98 (Ab)
   - Code du tourisme. - art. R211-10 (T)
 
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
 _Modifié par_:
 
-  - Décret n°2007-669 du 2 mai 2007 - art. 2 () JORF 4 mai 2007
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 1
+  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
 
 _Cite_:
 
-  - Code du tourisme. - art. R211-10 (V)
-  - Code du tourisme. - art. R211-11 (M)
-  - Code du tourisme. - art. R211-12 (V)
-  - Code du tourisme. - art. R211-13 (M)
+  - Code du tourisme. - art. L211-12
 
 _Cité par_:
 
@@ -11600,12 +11569,17 @@ _Nouveaux textes_:
 
 ###### Article R211-9
 
-L'acheteur peut céder son contrat à un cessionnaire qui remplit les mêmes conditions que lui pour effectuer le voyage ou le
-séjour, tant que ce contrat n'a produit aucun effet.
+Lorsque, avant le départ de l'acheteur, le vendeur se trouve contraint d'apporter une modification à l'un des éléments
+essentiels du contrat telle qu'une hausse significative du prix et lorsqu'il méconnaît l'obligation d'information mentionnée
+au 13° de l'article R. 211-4, l'acheteur peut, sans préjuger des recours en réparation pour dommages éventuellement subis, et
+après en avoir été informé par le vendeur par tout moyen permettant d'en obtenir un accusé de réception :
 
-Sauf stipulation plus favorable au cédant, celui-ci est tenu d'informer le vendeur de sa décision par lettre recommandée avec
-demande d'avis de réception au plus tard sept jours avant le début du voyage. Lorsqu'il s'agit d'une croisière, ce délai est
-porté à quinze jours. Cette cession n'est soumise, en aucun cas, à une autorisation préalable du vendeur.
+- soit résilier son contrat et obtenir sans pénalité le remboursement immédiat des sommes versées ;
+
+- soit accepter la modification ou le voyage de substitution proposé par le vendeur ; un avenant au contrat précisant les
+modifications apportées est alors signé par les parties ; toute diminution de prix vient en déduction des sommes restant
+éventuellement dues par l'acheteur et, si le paiement déjà effectué par ce dernier excède le prix de la prestation modifiée,
+le trop-perçu doit lui être restitué avant la date de son départ.
 
 **Liens relatifs à cet article**
 
@@ -11615,13 +11589,9 @@ _Anciens textes_:
   - Décret n°94-490 du 15 juin 1994 - art. 99 (Ab)
   - Code du tourisme. - art. R211-11 (T)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 1
+  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
 
 _Cité par_:
 
@@ -11635,11 +11605,14 @@ _Nouveaux textes_:
 
 ###### Article R211-10
 
-Lorsque le contrat comporte une possibilité expresse de révision du prix, dans les limites prévues à l'article L. 211-13, il
-doit mentionner les modalités précises de calcul, tant à la hausse qu'à la baisse, des variations des prix, et notamment le
-montant des frais de transport et taxes y afférentes, la ou les devises qui peuvent avoir une incidence sur le prix du voyage
-ou du séjour, la part du prix à laquelle s'applique la variation, le cours de la ou des devises retenu comme référence lors
-de l'établissement du prix figurant au contrat.
+Dans le cas prévu à l'article L. 211-14, lorsque, avant le départ de l'acheteur, le vendeur annule le voyage ou le séjour, il
+doit informer l'acheteur par tout moyen permettant d'en obtenir un accusé de réception ; l'acheteur, sans préjuger des
+recours en réparation des dommages éventuellement subis, obtient auprès du vendeur le remboursement immédiat et sans pénalité
+des sommes versées ; l'acheteur reçoit, dans ce cas, une indemnité au moins égale à la pénalité qu'il aurait supportée si
+l'annulation était intervenue de son fait à cette date. 
+
+Les dispositions du présent article ne font en aucun cas obstacle à la conclusion d'un accord amiable ayant pour objet
+l'acceptation, par l'acheteur, d'un voyage ou séjour de substitution proposé par le vendeur.
 
 **Liens relatifs à cet article**
 
@@ -11649,17 +11622,13 @@ _Anciens textes_:
   - Décret n°94-490 du 15 juin 1994 - art. 100 (Ab)
   - Code du tourisme. - art. R211-12 (T)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 1
+  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
 
 _Cite_:
 
-  - Code du tourisme. - art. L211-13 (V)
+  - Code du tourisme. - art. L211-14
 
 _Cité par_:
 
@@ -11673,17 +11642,20 @@ _Nouveaux textes_:
 
 ###### Article R211-11
 
-Lorsque, avant le départ de l'acheteur, le vendeur se trouve contraint d'apporter une modification à l'un des éléments
-essentiels du contrat telle qu'une hausse significative du prix et lorsqu'il méconnaît l'obligation d'information mentionnée
-au 14° de l'article R. 211-6, l'acheteur peut, sans préjuger des recours en réparation pour dommages éventuellement subis, et
-après en avoir été informé par le vendeur par lettre recommandée avec demande d'avis de réception :
+Lorsque, après le départ de l'acheteur, le vendeur se trouve dans l'impossibilité de fournir une part prépondérante des
+services prévus au contrat représentant un pourcentage non négligeable du prix honoré par l'acheteur, le vendeur doit
+immédiatement prendre les dispositions suivantes sans préjuger des recours en réparation pour dommages éventuellement subis :
 
-- soit résilier son contrat et obtenir sans pénalité le remboursement immédiat des sommes versées ;
+- soit proposer des prestations en remplacement des prestations prévues en supportant éventuellement tout supplément de prix
+et, si les prestations acceptées par l'acheteur sont de qualité inférieure, le vendeur doit lui rembourser, dès son retour,
+la différence de prix ;
 
-- soit accepter la modification ou le voyage de substitution proposé par le vendeur ; un avenant au contrat précisant les
-modifications apportées est alors signé par les parties ; toute diminution de prix vient en déduction des sommes restant
-éventuellement dues par l'acheteur et, si le paiement déjà effectué par ce dernier excède le prix de la prestation modifiée,
-le trop-perçu doit lui être restitué avant la date de son départ.
+- soit, s'il ne peut proposer aucune prestation de remplacement ou si celles-ci sont refusées par l'acheteur pour des motifs
+valables, fournir à l'acheteur, sans supplément de prix, des titres de transport pour assurer son retour dans des conditions
+pouvant être jugées équivalentes vers le lieu de départ ou vers un autre lieu accepté par les deux parties. 
+
+Les dispositions du présent article sont applicables en cas de non-respect de l'obligation prévue au 13° de l'article R.
+211-4.
 
 **Liens relatifs à cet article**
 
@@ -11693,17 +11665,9 @@ _Anciens textes_:
   - Décret n°94-490 du 15 juin 1994 - art. 101 (Ab)
   - Code du tourisme. - art. R211-13 (T)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Modifié par_:
-
-  - Décret n°2007-669 du 2 mai 2007 - art. 2 () JORF 4 mai 2007
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 1
+  - Code du tourisme. - art. R211-4
 
 _Cité par_:
 
@@ -11718,14 +11682,8 @@ _Nouveaux textes_:
 
 ###### Article R211-12
 
-Dans le cas prévu à l'article L. 211-15, lorsque, avant le départ de l'acheteur, le vendeur annule le voyage ou le séjour, il
-doit informer l'acheteur par lettre recommandée avec demande d'avis de réception ; l'acheteur, sans préjuger des recours en
-réparation des dommages éventuellement subis, obtient auprès du vendeur le remboursement immédiat et sans pénalité des sommes
-versées ; l'acheteur reçoit, dans ce cas, une indemnité au moins égale à la pénalité qu'il aurait supportée si l'annulation
-était intervenue de son fait à cette date.
-
-Les dispositions du présent article ne font en aucun cas obstacle à la conclusion d'un accord amiable ayant pour objet
-l'acceptation, par l'acheteur, d'un voyage ou séjour de substitution proposé par le vendeur.
+Les dispositions des articles R. 211-3 à R. 211-11 doivent obligatoirement être reproduites sur les brochures et les contrats
+de voyages proposés par les personnes mentionnées à l'article L. 211-1.
 
 **Liens relatifs à cet article**
 
@@ -11735,17 +11693,18 @@ _Anciens textes_:
   - Décret n°94-490 du 15 juin 1994 - art. 102 (Ab)
   - Code du tourisme. - art. R211-14 (T)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
 
-**Liens**:
+_Abrogé par_:
 
-  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 1
+  - Décret n°2017-1871 du 29 décembre 2017 - art. 2
 
 _Cite_:
 
-  - Code du tourisme. - art. L211-15 (V)
+  - Code du tourisme. - art. L211-1
+  - Code du tourisme. - art. R211-3
 
 _Nouveaux textes_:
 
@@ -11760,20 +11719,8 @@ _Cité par_:
 
 ###### Article R211-13
 
-Lorsque, après le départ de l'acheteur, le vendeur se trouve dans l'impossibilité de fournir une part prépondérante des
-services prévus au contrat représentant un pourcentage non négligeable du prix honoré par l'acheteur, le vendeur doit
-immédiatement prendre les dispositions suivantes sans préjuger des recours en réparation pour dommages éventuellement subis :
-
-- soit proposer des prestations en remplacement des prestations prévues en supportant éventuellement tout supplément de prix
-et, si les prestations acceptées par l'acheteur sont de qualité inférieure, le vendeur doit lui rembourser, dès son retour,
-la différence de prix ;
-
-- soit, s'il ne peut proposer aucune prestation de remplacement ou si celles-ci sont refusées par l'acheteur pour des motifs
-valables, fournir à l'acheteur, sans supplément de prix, des titres de transport pour assurer son retour dans des conditions
-pouvant être jugées équivalentes vers le lieu de départ ou vers un autre lieu accepté par les deux parties.
-
-Les dispositions du présent article sont applicables en cas de non-respect de l'obligation prévue au 14° de l'article R.
-211-6.
+L'acheteur ne peut plus invoquer le bénéfice de la clause prévue au 20° de l'article R. 211-6 après que la prestation a été
+fournie.
 
 **Liens relatifs à cet article**
 
@@ -11783,17 +11730,13 @@ _Anciens textes_:
   - Décret n°94-490 du 15 juin 1994 - art. 103 (Ab)
   - Code du tourisme. - art. R211-14-1 (T)
 
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
 _Modifié par_:
 
-  - Décret n°2007-669 du 2 mai 2007 - art. 2 () JORF 4 mai 2007
+  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
 
-**Liens**:
+_Abrogé par_:
 
-  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 1
+  - Décret n°2017-1871 du 29 décembre 2017 - art. 2
 
 _Nouveaux textes_:
 
@@ -11805,10 +11748,24 @@ _Cité par_:
   - Code du tourisme. - art. R211-8 (V)
 
 
+##### Section 5 : Obligation d'information des passagers aériens sur l'identité du transporteur aérien.<a id=177></a>
+
+### TITRE Ier : DES AGENTS DE VOYAGES ET AUTRES OPERATEURS DE LA VENTE DE VOYAGES ET DE SEJOURS.<a id=178></a>
+
+#### Chapitre unique : Régime de la vente de voyages et de séjours.<a id=179></a>
+
+##### Section 1 : Dispositions générales.<a id=180></a>
+
+##### Section 2 : Contrat de vente de voyages et de séjours.<a id=181></a>
+
+##### Section 3 : Sanctions et mesures conservatoires.<a id=182></a>
+
 ###### Article R211-14
 
-Les dispositions des articles R. 211-5 à R. 211-13 doivent obligatoirement être reproduites sur les brochures et les contrats
-de voyages proposés par les personnes mentionnées à l'article L. 211-1.
+En cas de non-respect des obligations fixées par le règlement (CE) n° 1107 / 2006 du 5 juillet 2006 concernant les droits des
+personnes handicapées et des personnes à mobilité réduite lorsqu'elles font des voyages aériens, les sanctions applicables
+aux personnes immatriculées au registre mentionné au a de l'article L. 141-3 sont celles prévues par l'article R. 330-20 du
+code de l'aviation civile.
 
 **Liens relatifs à cet article**
 
@@ -11818,81 +11775,21 @@ _Anciens textes_:
   - Décret n°94-490 du 15 juin 1994 - art. 104 (Ab)
   - Code du tourisme. - art. R211-14-2 (T)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 1
+  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
 
 _Cite_:
 
-  - Code du tourisme R211-5 à R211-13, L211-1
-  - Code du tourisme. - art. L211-1 (M)
-
-_Nouveaux textes_:
-
-  - Code du tourisme. - art. R211-12 (Ab)
-
-
-###### Article R211-14-1
-
-L'acheteur ne peut plus invoquer le bénéfice de la clause prévue au 20° de l'article R. 211-8 après que la prestation a été
-fournie.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Créé par_:
-
-  - Décret n°2007-669 du 2 mai 2007 - art. 2 () JORF 4 mai 2007
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Nouveaux textes_:
-
-  - Code du tourisme. - art. R211-13 (Ab)
-
-_Cite_:
-
-  - Code du tourisme. - art. R211-8
-
-
-##### Section 4 : Sanctions et mesures conservatoires.<a id=177></a>
-
-###### Article R211-14-2
-
-Les sanctions applicables aux personnes habilitées au titre du présent code à vendre des titres de transport aérien en cas de
-non-respect des obligations fixées par le règlement (CE) n° 1107 / 2006 du 5 juillet 2006 concernant les droits des personnes
-handicapées et des personnes à mobilité réduite lorsqu'elles font des voyages aériens sont celles prévues par l'article R.
-330-20 du code de l'aviation civile.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-1445 du 22 décembre 2008 - art. 2
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Nouveaux textes_:
-
-  - Code du tourisme. - art. R211-14 (V)
-
-_Cite_:
-
+  - Code du tourisme. - art. L141-3
   - Code de l'aviation civile - art. R330-20
 
+_Nouveaux textes_:
 
-##### Section 5 : Obligation d'information des passagers aériens sur l'identité du transporteur aérien.<a id=178></a>
+  - Code du tourisme. - art. R211-12 (V)
+
+
+##### Section 4 : Obligation d'information des passagers aériens sur l'identité du transporteur aérien.<a id=183></a>
 
 ###### Article R211-15
 
@@ -12048,3464 +11945,1079 @@ _Cite_:
   - Code de l'aviation civile - art. R330-20 (V)
 
 
-#### Chapitre II : Licence d'agent de voyages.<a id=179></a>
+##### Section 5 : Obligation et conditions d'immatriculation des agents de voyage et autres opérateurs de la vente de voyages et de séjours.<a id=184></a>
 
-##### Section 1 : Dispositions générales.<a id=180></a>
+##### Sous-section 1 : Procédure d'immatriculation des agents de voyage et autres opérateurs de la vente de voyages et de séjours.<a id=185></a>
 
-###### Article R212-1
+###### Article D211-21-1
 
-Le titulaire de la licence d'agent de voyages doit mentionner cette qualité par l'indication du numéro de sa licence, du nom
-ou de la raison sociale et de la forme juridique de l'entreprise, du nom et de l'adresse de son garant et de son assureur
-dans sa correspondance, ses documents contractuels remis aux tiers, son enseigne et sa publicité, tant pour son établissement
-principal que pour ses succursales ou points de vente.
+La limite mentionnée au septième alinéa de l'article L. 141-3 est fixée à 150 euros.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1652 du 23 décembre 2009 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2019-674 du 28 juin 2019 - art. 4
+
+_Cite_:
+
+  - Code du tourisme. - art. L141-3
+
+
+###### Article R211-20
+
+La demande d'immatriculation au registre mentionné au a de l'article L. 141-3 est adressée par écrit, le cas échéant par voie
+électronique, à la commission d'immatriculation mentionnée à l'article L. 141-2. 
+
+La demande d'immatriculation est accompagnée de pièces justificatives de la garantie financière et de l'assurance de
+responsabilité civile professionnelle définies aux articles R. 211-26 à R. 211-40 ainsi que de l'aptitude professionnelle en
+application de l'article R. 211-41. 
+
+Lorsqu'il est fait application des dispositions de l'article R. 211-50, la demande est accompagnée de pièces justifiant que
+le demandeur remplit les conditions d'activité fixées par cet article. 
+
+Lorsque la demande d'immatriculation est formulée par une personne physique, elle mentionne l'état civil, la profession et le
+domicile du demandeur ainsi que l'adresse du siège de ses activités et de ses établissements secondaires. 
+
+Lorsque la demande d'immatriculation est présentée au nom d'une personne morale, elle mentionne la dénomination sociale, la
+forme juridique, le cas échéant le montant du capital social, l'adresse du siège social et de ses établissements secondaires,
+ainsi que l'état civil et le domicile du ou des représentants légaux ou statutaires, seuls habilités à présenter la demande.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°94-490 1994-06-15 art. 31 al. 1
-  - Décret n°94-490 du 15 juin 1994 - art. 31 (Ab)
+  - Décret n°2006-315 du 17 mars 2006 - art. 6 (Ab)
 
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
+_Modifié par_:
 
   - Décret n°2009-1650 du 23 décembre 2009 - art. 1
+
+_Cite_:
+
+  - Code du tourisme. - art. L141-2
+  - Code du tourisme. - art. L141-3
+  - Code du tourisme. - art. R211-26 (V)
+  - Code du tourisme. - art. R211-41 (V)
 
 _Cité par_:
 
-  - Code du tourisme. - art. R212-23 (VT)
+  - Code du tourisme. - art. R211-50 (VD)
 
 
-###### Article R212-2
+###### Article R211-21
 
-L'utilisation de toutes autres dénominations ou marques commerciales n'est autorisée que sous réserve de communication au
-préfet. Néanmoins, celui-ci peut refuser à toute agence de voyages l'utilisation d'une dénomination ou d'une marque
-commerciale dont les termes seraient de nature à créer ou à entretenir dans l'esprit du public une confusion avec un
-organisme officiel du tourisme.
+I. ― L'immatriculation est effectuée par la commission d'immatriculation mentionnée à l'article L. 141-2 dans un délai d'un
+mois à compter de la date du récépissé émis par la commission au moment de la réception du dossier complet. La commission
+notifie à l'opérateur de voyages un certificat d'immatriculation comportant son numéro d'immatriculation au registre et la
+date d'enregistrement.
+
+L'immatriculation est réputée acquise en l'absence de décision de la commission dans le délai prévu à l'alinéa précédent. La
+commission est alors tenue de délivrer sans délai un numéro d'immatriculation. 
+
+II. ― Lorsqu'il ressort de l'examen du dossier complet que la demande d'immatriculation n'est pas conforme aux dispositions
+du II de l'article L. 211-18, la commission refuse l'inscription par une décision qu'elle communique au demandeur dans le
+délai prévu au I du présent article. 
+
+III. ― Toute fédération ou union d'associations immatriculée au registre mentionné au a de l'article L. 141-3 communique à la
+commission d'immatriculation mentionnée à l'article L. 141-2 le nom et l'adresse du siège des associations ou des organismes
+sans but lucratif qui en sont membres et dont elle assume la responsabilité. 
+
+IV. ― Les opérateurs de voyages informent la commission d'immatriculation mentionnée à l'article L. 141-2 de tout événement
+pouvant avoir des conséquences sur leur immatriculation, et notamment la cessation d'activité.L'information est transmise
+dans le mois qui précède la modification quand elle peut être anticipée ou sinon au plus tard dans le mois qui suit
+l'événement.
+
+V. ― Il est procédé, tous les trois ans, au renouvellement de l'immatriculation selon les modalités fixées au I du présent
+article.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°94-490 1994-06-15 art. 31 al. 3
-  - Décret n°94-490 du 15 juin 1994 - art. 31 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
+_Créé par_:
 
   - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-
-###### Article R212-3
-
-Le titulaire de la licence d'agent de voyages tient ses livres et documents à la disposition de son garant et des personnes
-habilitées à les consulter par le ministre chargé du tourisme ou le préfet. Le cas échéant, il peut être fait état de ces
-livres et documents devant les commissions départementales de l'action touristique ou le Conseil national du tourisme
-siégeant en formation spécialisée.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 32 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 32 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-
-##### Section 2 : Contrat de jouissance d'immeuble à temps partagé.<a id=181></a>
-
-###### Article R212-4
-
-Lorsque l'agent de voyages envisage de conclure directement un contrat de jouissance d'immeuble à temps partagé régi par les
-articles L. 121-60 à L. 121-76 du code de la consommation, ou de prêter son concours à la conclusion d'un tel contrat, il
-adresse au préfet les pièces suivantes :
-
-1° L'attestation d'une garantie financière suffisante pour couvrir séparément ces activités, affectée au remboursement des
-fonds, effets ou valeurs détenus pour autrui et des sommes dont l'agent de voyages demeure redevable à tout moment sur les
-versements ou remises qui lui ont été faits dans l'exercice de ces activités ;
-
-2° L'attestation d'assurance garantissant la responsabilité civile professionnelle relative à ces activités.
-
-Le préfet accuse réception de ces pièces.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 6-1 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 1
 
 _Cite_:
 
-  - Code de la consommation
+  - Code du tourisme. - art. L141-2
+  - Code du tourisme. - art. L141-3
+  - Code du tourisme. - art. L211-18
 
 _Cité par_:
 
-  - Code du tourisme. - art. R211-3 (V)
-  - Code du tourisme. - art. R212-13 (VT)
-
-_Nouveaux textes_:
-
-  - Code du tourisme. - art. R211-42 (V)
+  - Code du tourisme. - art. R211-22 (VD)
 
 
-###### Article R212-5
+###### Article R211-22
 
-La garantie financière résulte d'un engagement écrit de cautionnement pris par l'un des organismes prévus aux 1° et 2° de
-l'article R. 212-28.
+Toute personne physique ou morale qui, à quelque titre que ce soit, acquiert la majorité du capital social d'une société
+immatriculée au registre mentionné au a de l'article L. 141-3 ou qui est chargée d'en assurer la gérance sous sa
+responsabilité peut en poursuivre l'exploitation pendant le délai nécessaire à l'obtention de l'immatriculation s'il dispose
+du récépissé prévu au I de l'article R. 211-21. 
 
-Cette garantie est affectée spécialement au remboursement des sommes dont l'agent de voyages demeure redevable à tout moment
-sur les versements ou remises qui lui ont été faits dans l'exercice des activités relevant de la présente section.
-
-Elle peut être apportée par le même garant que celui couvrant l'activité prévue au c de l'article L. 212-2.
-
-Le montant de cette garantie est déterminé par le garant dans les conditions prévues aux articles R. 212-6 et R. 212-7.
+Le maintien provisoire de l'immatriculation prend fin à la date de la nouvelle immatriculation ou de la notification du refus
+d'inscription au registre.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 19-1 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cite_:
-
-  - Code du tourisme. - art. L212-2
-  - Code du tourisme. - art. R212-28
-  - Code du tourisme. - art. R212-6
-  - Code du tourisme. - art. R212-7
-
-_Nouveaux textes_:
-
-  - Code du tourisme. - art. R211-43 (V)
-
-
-###### Article R212-6
-
-Le montant minimal de la garantie mentionné au quatrième alinéa de l'article L. 212-4 est fixé à la somme de 100 000 euros.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 19-2 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cite_:
-
-  - Code du tourisme. - art. L212-4
-
-_Nouveaux textes_:
-
-  - Code du tourisme. - art. R211-44 (V)
-
-_Cité par_:
-
-  - Code du tourisme. - art. R212-31 (T)
-  - Code du tourisme. - art. R212-5 (T)
-
-
-###### Article R212-7
-
-Le montant de la garantie est révisé au terme de chaque année et, sauf circonstance particulière dûment justifiée, ne peut
-être inférieur au montant maximum des sommes détenues pour autrui au cours de la précédente période de garantie. Ce montant
-peut en outre être révisé en cours de période à la demande du garant ou de l'agent lorsque les circonstances le justifient.
-
-Pour toute révision du montant de la garantie, le souscripteur communique au garant un relevé délivré par un expert-comptable
-extérieur ou un commissaire aux comptes qui indique le montant le plus élevé des sommes détenues pour autrui au cours de la
-précédente période de garantie. Le garant peut demander à tout moment, suivant le cas, communication du registre des
-versements ou remises prévu au premier alinéa de l'article R. 212-10, du registre des mandats prévu au 3° de l'article R.
-212-11 et du relevé intégral du compte prévu au deuxième alinéa de l'article R. 212-10.
-
-Toute révision de la garantie est communiquée au préfet par le garant.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 19-3 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Nouveaux textes_:
-
-  - Code du tourisme. - art. R211-45 (V)
-
-_Cite_:
-
-  - Code du tourisme. - art. R212-10
-  - Code du tourisme. - art. R212-11
-
-_Cité par_:
-
-  - Code du tourisme. - art. R212-31 (T)
-  - Code du tourisme. - art. R212-5 (T)
-
-
-###### Article R212-8
-
-L'agent de voyages ne peut détenir de fonds, effets ou valeurs excédant le montant de la garantie accordée.
-
-Tous les versements ou remises faits à l'agent de voyages au titre de l'article L. 212-4 doivent être immédiatement
-mentionnés sur le registre des versements ou remises prévu au premier alinéa de l'article R. 212-10.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 19-4 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cite_:
-
-  - Code du tourisme. - art. L212-4
-  - Code du tourisme. - art. R212-10
-
-_Nouveaux textes_:
-
-  - Code du tourisme. - art. R211-46 (V)
-
-
-###### Article R212-9
-
-Lorsque la garantie financière cesse, dans les conditions prévues à l'article R. 212-34, le garant en informe immédiatement,
-par lettre recommandée avec demande d'avis de réception, les personnes ayant fait des versements ou des remises et dont les
-noms et adresses figurent sur le registre des versements ou remises prévu au premier alinéa de l'article R. 212-10. Cette
-lettre indique le délai de trois mois prévu pour la production des créances.
-
-Le garant en informe également le préfet ainsi que l'établissement de crédit auprès duquel est ouvert le compte prévu au
-deuxième alinéa de l'article R. 212-10.
-
-Toutes les créances qui ont pour origine un versement ou une remise faits antérieurement à la date de cessation de la
-garantie restent couvertes par le garant, si elles sont produites par le créancier dans un délai de trois mois à compter de
-la date de réception de la lettre prévue au premier alinéa ci-dessus.
-
-Le garant fait publier simultanément un avis dans la presse mentionnant le délai de trois mois ouvert aux créanciers pour
-produire.
-
-Dès la notification à l'établissement de crédit de la cessation de la garantie, il ne peut plus être procédé à des retraits
-qu'avec l'accord du garant. Si le titulaire du compte refuse d'effectuer un retrait, la désignation d'un administrateur
-provisoire peut être demandée au président du tribunal de grande instance statuant en référé.
-
-En cas de changement de garantie, les fonds provenant des opérations en cours au moment de la cessation de celle-ci ne
-peuvent être transférés à un autre compte de même nature que s'ils sont couverts au titre de la nouvelle garantie.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 19-5 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Nouveaux textes_:
-
-  - Code du tourisme. - art. R211-47 (V)
-
-_Cite_:
-
-  - Code du tourisme. - art. R212-10
-  - Code du tourisme. - art. R212-34
-
-
-###### Article R212-10
-
-La mention de tous les versements ou remises faits à l'agent de voyages doit être immédiatement portée, par ordre
-chronologique, sur un registre des versements ou remises, qui peut être tenu sous forme électronique dans les conditions
-définies aux articles 1316-1 à 1316-4 du code civil et qui est conservé pendant dix ans.
-
-L'agent de voyages est tenu de faire ouvrir, à son nom, dans un établissement de crédit, un compte qui est exclusivement
-affecté à la réception des versements ou remises. Il ne peut être ouvert à son nom qu'un seul compte de cette nature.
-
-Il ne peut y avoir compensation ou convention de fusion entre ce compte et tout autre compte ouvert au nom du même titulaire.
-
-Les modalités d'application du présent article sont fixées par arrêté du ministre chargé du tourisme.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 19-6 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cite_:
-
-  - Code civil
-
-_Nouveaux textes_:
-
-  - Code du tourisme. - art. R211-48 (M)
-
-_Cité par_:
-
-  - Code du tourisme. - art. R212-7 (T)
-  - Code du tourisme. - art. R212-8 (T)
-  - Code du tourisme. - art. R212-9 (T)
-
-
-###### Article R212-11
-
-L'agent de voyages qui, dans les conditions prévues à l'article L. 212-4, prête son concours à la conclusion d'un contrat de
-jouissance d'immeuble à temps partagé le fait en application d'un mandat écrit qui indique le nom du mandataire, l'objet du
-mandat, sa durée et les frais qui pourront être engagés par le mandataire pour l'accomplissement de sa mission.
-
-Le mandat indique également le montant de la rémunération de l'agent de voyages et précise les conditions dans lesquelles les
-parties ou l'une d'entre elles en supportent la charge. Le mandat indique expressément que le mandataire ne peut, en
-application de l'article L. 121-66 du code de la consommation, exiger ou recevoir, directement ou indirectement, aucun bien,
-effet, valeur, somme d'argent, représentatif de commissions ou de frais de recherche, de démarche, de publicité ou
-d'entremise avant l'expiration du délai de rétractation. Le mandataire ne peut exiger ou percevoir d'autres sommes que celles
-prévues par le contrat de jouissance d'immeuble à temps partagé.
-
-L'agent de voyages mentionne par ordre chronologique chaque mandat sur un registre, qui peut être tenu sous forme
-électronique dans les conditions définies aux articles 1316-1 à 1316-4 du code civil et qui est conservé pendant dix ans. Le
-numéro d'inscription sur ce registre est reporté sur chaque exemplaire du mandat.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 32-1 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cite_:
-
-  - Code de la consommation - art. L121-66
-  - Code civil
-  - Code du tourisme. - art. L212-4
-
-_Nouveaux textes_:
-
-  - Code du tourisme. - art. R211-49 (M)
-
-_Cité par_:
-
-  - Code du tourisme. - art. R212-7 (T)
-
-
-##### Section 3 : Procédure d'attribution, de retrait et de suspension.<a id=182></a>
-
-###### Article R212-12
-
-La licence d'agent de voyages est délivrée par arrêté du préfet, sous réserve des dispositions des articles R.* 212-42, R.
-212-43, R. 212-44, R.* 212-45, R. 212-46, R.* 212-47 et R. 212-48.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 4 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 4 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
+_Créé par_:
 
   - Décret n°2009-1650 du 23 décembre 2009 - art. 1
 
 _Cite_:
 
-  - Code du tourisme.
-  - Code du tourisme. - art. R212-43
-  - Code du tourisme. - art. R212-46
-  - Code du tourisme. - art. R212-48
+  - Code du tourisme. - art. L141-3
+  - Code du tourisme. - art. R211-21
 
 
-###### Article R212-13
+##### Sous-section 2 : Gestion du registre des agents de voyage et autres opérateurs de la vente de voyages et de séjours.<a id=186></a>
 
-La demande de licence d'agent de voyages, accompagnée des pièces annexées établies conformément aux dispositions de l'article
-R. 212-4, est adressée au préfet.
+###### Article R211-23
 
-Lorsque la demande de licence est formulée par une personne physique, elle mentionne l'état civil, la profession et le
-domicile du demandeur ainsi que l'adresse du siège de ses activités.
+Dans le mois suivant l'immatriculation au registre mentionné au a de l'article L. 141-3, publicité est faite de cette
+immatriculation sur le site internet de l'agence mentionnée à l'article L. 141-2. 
 
-Lorsque la demande de licence est présentée au nom d'une personne morale, elle mentionne la dénomination sociale, la forme
-juridique, le montant et la répartition du capital social, l'adresse du siège social, ainsi que l'état civil et le domicile
-du ou des représentants légaux, seuls habilités à présenter la demande.
-
-Le préfet, chargé de l'instruction du dossier de demande de licence d'agent de voyages, requiert à cet effet la délivrance de
-l'extrait du bulletin n° 2 du casier judiciaire. Lorsque la demande émane de personnes de nationalité étrangère, celles-ci
-doivent, en outre, produire un document équivalent, délivré depuis moins de trois mois, attestant du fait que le ou les
-demandeurs répondent dans leur pays d'origine aux conditions d'exercice exigées au b de l'article L. 212-2.
+Elle met à jour la liste des opérateurs immatriculés au registre en informant les tiers de l'identité de l'opérateur, de son
+numéro d'immatriculation, de sa dénomination, de sa raison sociale, de sa forme juridique et de l'adresse du siège social de
+l'entreprise ou de l'organisme ainsi que des noms et adresses de son garant et de son assureur.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 5 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 5 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
+_Créé par_:
 
   - Décret n°2009-1650 du 23 décembre 2009 - art. 1
 
 _Cite_:
 
-  - Code du tourisme. - art. L212-2
-  - Code du tourisme. - art. R212-4
-
-_Cité par_:
-
-  - Code du tourisme. - art. R212-14 (VT)
-  - Code du tourisme. - art. R212-17 (VT)
-  - Code du tourisme. - art. R212-21 (VT)
+  - Code du tourisme. - art. L141-2
+  - Code du tourisme. - art. L141-3
 
 
-###### Article R212-14
+###### Article R211-24
 
-La demande de licence doit être accompagnée :
+La commission d'immatriculation mentionnée à l'article L. 141-2 procède à la radiation du registre lorsque l'opérateur de
+voyages ne satisfait plus aux conditions prévues au II de l'article L. 211-18. 
 
-1° De toutes pièces justificatives des indications fournies en application des deuxième et troisième alinéas de l'article R.
-212-13 ;
-
-2° D'un extrait du registre du commerce et des sociétés datant de moins d'un mois si le demandeur est immatriculé à ce
-registre ou du récépissé de demande d'immatriculation s'il est en cours d'immatriculation ;
-
-3° De la justification qu'il est satisfait aux conditions d'aptitude professionnelle spécifiées dans les dispositions
-réglementaires de la section 5 du présent chapitre ;
-
-4° D'un engagement de fournir, à la demande du préfet, les documents justificatifs de garantie financière et d'assurance de
-responsabilité civile professionnelle définies aux articles R. 212-28 à R. 212-41.
+La radiation du registre est notifiée par la commission, par tout moyen permettant d'en obtenir un accusé de réception, à
+l'opérateur qui en fait l'objet.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°94-490 1994-06-15 art. 6 al. 1 à al. 5
-  - Décret n°94-490 du 15 juin 1994 - art. 6 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
+_Créé par_:
 
   - Décret n°2009-1650 du 23 décembre 2009 - art. 1
 
 _Cite_:
 
-  - Code du tourisme.
-  - Code du tourisme. - art. R212-13
-
-_Cité par_:
-
-  - Code du tourisme. - art. R212-17 (VT)
+  - Code du tourisme. - art. L141-2
+  - Code du tourisme. - art. L211-18
 
 
-###### Article R212-15
+###### Article R211-25
 
-La licence n'est délivrée qu'après communication des pièces suivantes :
-
-1° D'un extrait d'immatriculation au registre du commerce et des sociétés ;
-
-2° D'une copie certifiée conforme d'un titre de propriété ou de location relatif à un local à usage commercial ou, le cas
-échéant, en cas de création d'entreprise, d'une notification écrite et préalable au bailleur ou au syndic de la copropriété
-dans les conditions prévues par les articles L. 123-4, L. 123-5, L. 123-10 et L. 123-11 du code de commerce ;
-
-3° De l'attestation de garantie financière suffisante délivrée par un des garants mentionnés à l'article R. 212-28 ;
-
-4° De l'attestation d'assurance contre les conséquences pécuniaires de la responsabilité civile professionnelle délivrée
-conformément à l'article R. 212-41.
-
-Les attestations prévues aux 3° et 4° ci-dessus doivent, le cas échéant, indiquer que la garantie financière et l'assurance
-souscrites couvrent les activités de location de meublés saisonniers à usage touristique mentionnées au b du deuxième alinéa
-de l'article L. 211-8.
+La radiation intervient également à la demande de la personne physique ou morale immatriculée au registre ou lorsque la
+personne morale concernée fait l'objet d'une liquidation judiciaire définitivement prononcée.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°94-490 1994-06-15 art. 6 al. 6 et suivants
-  - Décret n°94-490 du 15 juin 1994 - art. 6 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
+_Créé par_:
 
   - Décret n°2009-1650 du 23 décembre 2009 - art. 1
 
-_Cite_:
 
-  - Code de commerce - art. L123-10
-  - Code de commerce - art. L123-11
-  - Code de commerce - art. L123-4
-  - Code de commerce - art. L123-5
-  - Code du tourisme. - art. L211-8
-  - Code du tourisme. - art. R212-28
-  - Code du tourisme. - art. R212-41
+##### Section 6 : Garantie financière.<a id=187></a>
 
+###### Article R211-26
 
-###### Article R212-16
-
-L'arrêté du préfet est pris après avis de la commission départementale de l'action touristique.
-
-La licence est réputée accordée en l'absence de réponse du préfet à l'expiration d'un délai de quatre mois à compter de la
-date de réception de la demande.
-
-En cas de recours hiérarchique, le ministre chargé du tourisme se prononce après avis du Conseil national du tourisme. La
-composition et le fonctionnement de la formation compétente du Conseil national du tourisme sont fixés par arrêté du ministre
-chargé du tourisme.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 7 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 7 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cité par_:
-
-  - Code du tourisme. - art. R211-3 (V)
-
-
-###### Article R212-17
-
-L'arrêté accordant la licence mentionne le numéro de cette dernière ainsi que le nom du titulaire et l'adresse du siège de
-l'entreprise s'il s'agit d'une personne physique ou, s'il s'agit d'une personne morale, la dénomination et la raison sociale,
-la forme juridique et l'adresse du siège social, le nom du ou des représentants légaux ainsi que celui de la personne
-détenant l'aptitude professionnelle mentionnée à l'article R. 212-24. Il mentionne également le nom et l'adresse du garant de
-l'agent de voyages, ainsi que le nom et l'adresse de l'entreprise d'assurances auprès de laquelle a été souscrit le contrat
-couvrant la responsabilité civile professionnelle.
-
-Tout changement survenant ultérieurement dans les éléments dont la déclaration ou la justification est exigée aux articles R.
-212-13 et R. 212-14 doit être communiqué au préfet qui prend, si nécessaire, un arrêté modificatif.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 8 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 8 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cite_:
-
-  - Code du tourisme. - art. R212-13
-  - Code du tourisme. - art. R212-14
-  - Code du tourisme. - art. R212-24
-
-_Cité par_:
-
-  - Code du tourisme. - art. R212-18 (VT)
-
-
-###### Article R212-18
-
-La licence d'agent de voyages peut faire l'objet d'un retrait provisoire pour une durée maximale de trois mois ou d'un
-retrait définitif lorsque le titulaire :
-
-1° Ne satisfait plus aux conditions prévues aux a, b, c, d et e de l'article L. 212-2 ;
-
-2° A commis des manquements graves ou répétés aux obligations imposées par les dispositions législatives des titres Ier, II
-et du chapitre II du titre III du livre II, notamment ses articles L. 211-7 et L. 221-1, ou par les dispositions
-réglementaires des titres Ier, II et du chapitre II du titre III du présent livre, notamment les articles R. 211-5, R. 211-6,
-R. 211-7, R. 211-8, le dernier alinéa de l'article R. 212-17, les articles R. 212-20, R. 212-21 et R. 212-22, le deuxième
-alinéa de l'article R. 212-30, l'article R. 212-31, le dernier alinéa de l'article R. 212-37 et le dernier alinéa de
-l'article R. 212-41. L'inexécution injustifiée des engagements pris envers les clients et les prestataires de services
-touristiques est au nombre des manquements pouvant donner lieu au retrait provisoire ou définitif de la licence.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 29 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 29 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cite_:
-
-  - Code du tourisme. - art. L211-7
-  - Code du tourisme. - art. L212-2
-  - Code du tourisme. - art. R211-5
-  - Code du tourisme. - art. R211-6
-  - Code du tourisme. - art. R211-7
-  - Code du tourisme. - art. R211-8
-  - Code du tourisme. - art. R212-17
-  - Code du tourisme. - art. R212-20
-  - Code du tourisme. - art. R212-21
-  - Code du tourisme. - art. R212-22
-  - Code du tourisme. - art. R212-30
-  - Code du tourisme. - art. R212-31
-  - Code du tourisme. - art. R212-37
-  - Code du tourisme. - art. R212-41
-
-
-###### Article R212-19
-
-Le retrait de la licence est décidé, après avis de la commission départementale de l'action touristique siégeant en formation
-spécialisée, par arrêté du préfet. Celui-ci en informe les préfets des départements sur le territoire desquels sont situés
-les succursales, les points de vente et les personnes exerçant une activité de mandataire de l'agent de voyages concerné.
-
-En cas de recours hiérarchique, le ministre chargé du tourisme se prononce après avis du Conseil national du tourisme
-siégeant en formation spécialisée.
-
-Le Conseil national du tourisme siégeant en formation spécialisée comprend des représentants des administrations intéressées,
-des représentants des agents de voyages et des prestataires de services touristiques. La composition et le fonctionnement de
-cette formation spécialisée sont précisés par arrêté du ministre chargé du tourisme.
-
-La décision du préfet ou celle du ministre ne peut être prise sans que l'intéressé ait été préalablement avisé des motifs de
-la mesure envisagée et invité à se faire entendre personnellement ou par mandataire soit devant la commission départementale,
-soit devant le Conseil national du tourisme.
-
-Le retrait a lieu sans formalité s'il intervient à la demande du titulaire de la licence ou lorsque l'entreprise concernée
-fait l'objet d'un jugement de liquidation judiciaire.
-
-En cas d'urgence, le préfet peut décider de suspendre immédiatement une licence d'agent de voyages. Cette mesure, qui
-présente un caractère provisoire, cesse de produire effet s'il n'a pas été statué dans un délai de trois mois dans les
-conditions prévues au présent article.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 30 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 30 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cité par_:
-
-  - Code du tourisme. - art. R212-21 (VT)
-
-
-###### Article R212-20
-
-L'ouverture d'une succursale ou d'un point de vente d'agence de voyages doit être déclarée au préfet par le titulaire de la
-licence d'agent de voyages.
-
-A cette déclaration sont annexés :
-
-1° Toutes les pièces justifiant que la personne chargée de diriger la succursale ou le point de vente possède l'aptitude
-professionnelle définie à l'article R. 212-27 ;
-
-2° Un extrait du registre du commerce et des sociétés datant de moins d'un mois portant mention de la succursale ;
-
-3° Une copie certifiée conforme d'un titre de propriété ou de location d'un local à usage commercial concernant la succursale
-ou le point de vente ou, le cas échéant, copie du contrat d'occupation du domaine public en ce qui concerne le point de
-vente ;
-
-4° Une attestation de réévaluation de la garantie financière et d'extension de l'assurance de responsabilité civile
-professionnelle concernant les activités de la succursale ou du point de vente.
-
-Le préfet ne peut faire opposition à l'ouverture d'une succursale ou d'un point de vente que si les documents communiqués
-sont incomplets ou ne satisfont pas aux conditions énoncées ci-dessus.
-
-Le préfet adresse une copie de l'avis d'ouverture à l'agent de voyages et au préfet du lieu de situation de la succursale ou
-du point de vente.
-
-Tout changement intervenant dans l'un des éléments dont la déclaration est exigée au présent article et toute fermeture d'une
-succursale ou d'un point de vente doivent être déclarés au préfet. Celui-ci en informe le préfet du lieu de situation de la
-succursale ou du point de vente.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du tourisme annexe, R212-27
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 26 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 26 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cité par_:
-
-  - Code du tourisme. - art. R212-18 (VT)
-  - Code du tourisme. - art. R212-37 (T)
-
-
-###### Article R212-21
-
-Toute personne physique ou morale qui, à quelque titre que ce soit, acquiert soit la majorité du capital social d'une société
-propriétaire d'un fonds de commerce d'agence de voyages, soit la propriété directe de ce fonds de commerce, ou qui est
-chargée d'en assurer la gérance sous sa responsabilité, ne peut en poursuivre l'exploitation que si elle bénéficie, pendant
-le délai nécessaire à l'obtention de la licence, d'un maintien provisoire, en sa faveur, de la licence délivrée au précédent
-titulaire.
-
-Le maintien provisoire de la licence est accordé par le préfet. La demande de maintien provisoire de licence comporte toutes
-les indications prévues aux deuxième et troisième alinéas de l'article R. 212-13. Elle est accompagnée des pièces suivantes :
-
-- copie des titres relatifs à la propriété ou à la gérance justifiant la demande ;
-
-- attestations de garantie financière et de responsabilité civile professionnelle ;
-
-- justification que le demandeur satisfait aux conditions légales d'aptitude professionnelle ou, en cas de transfert de
-propriété à la suite d'un décès, que l'entreprise emploie, à titre permanent et effectif, une personne possédant cette
-aptitude.
-
-Le maintien provisoire de licence est notifié à l'intéressé par le préfet. Dans un délai de trois mois à compter de cette
-notification, la personne physique ou morale bénéficiaire du maintien provisoire de licence doit présenter une demande de
-licence dans les conditions fixées par les dispositions réglementaires du chapitre II.
-
-Le maintien provisoire de licence prend fin à la date de délivrance de la nouvelle licence ou en cas de décision de
-suspension ou de retrait prise dans les conditions prévues aux articles R. 212-18 et R. 212-19.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 28 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 28 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cite_:
-
-  - Code du tourisme. - art. R212-13
-  - Code du tourisme. - art. R212-19
-
-_Cité par_:
-
-  - Code du tourisme. - art. R212-18 (VT)
-
-
-##### Section 4 : Mandat.<a id=183></a>
-
-###### Article R212-22
-
-La convention de mandat prévue à l'article L. 212-5 précisant les modalités selon lesquelles une personne physique ou morale
-peut se voir confier à titre commercial l'exécution d'opérations mentionnées aux articles L. 211-1 et L. 211-4 ne prend effet
-qu'après approbation du préfet.
-
-La convention doit être conforme aux clauses types qui sont fixées par arrêté du ministre chargé du tourisme.
-
-La convention est présentée au préfet par le titulaire de la licence d'agent de voyages sous la responsabilité duquel va
-s'exercer cette nouvelle activité. Elle est soumise à l'approbation du préfet et doit être accompagnée des documents
-suivants :
-
-- une copie certifiée conforme d'un titre de propriété ou de location relatif à un local à usage commercial ou, le cas
-échéant, en cas de création d'entreprise, une notification écrite et préalable au bailleur ou au syndic de la copropriété
-dans les conditions prévues par les articles L. 123-4, L. 123-5, L. 123-10 et L. 123-11 du code de commerce ;
-
-- toutes pièces justifiant que sont remplies l'ensemble des conditions stipulées dans les clauses types ;
-
-- des documents justificatifs de garantie financière et d'assurance de responsabilité civile professionnelle dans les
-conditions prévues aux articles R. 212-31 et R. 212-41 ;
-
-- une attestation délivrée par un organisme professionnel prouvant que le mandataire a suivi une formation préalable d'au
-moins un mois dans le domaine spécifique de la gestion d'une agence de voyages.
-
-Le préfet requiert la délivrance de l'extrait du bulletin n° 2 du casier judiciaire du dirigeant de l'entreprise ayant reçu
-mandat. Si ce dernier est de nationalité étrangère, il doit, en outre, produire un document équivalent, délivré depuis moins
-de trois mois, attestant qu'il répond, dans son pays d'origine, aux conditions d'exercice exigées aux articles L. 212-5 à L.
-212-7.
-
-La décision approuvant la convention est annexée à l'arrêté délivrant la licence. Elle mentionne le nom, l'adresse et le lieu
-d'exploitation de l'entreprise mandataire ainsi que le nom de son dirigeant ; elle précise la date d'effet d'approbation de
-la convention et la date limite de validité de celle-ci. Une copie de la décision est adressée au mandataire de l'agent de
-voyages et au préfet du lieu d'exercice de celui-ci.
-
-Outre le cas de dénonciation par l'une ou l'autre des parties, une convention cesse d'avoir effet :
-
-- lorsque la licence de l'agent de voyages qui a conclu la convention est retirée ;
-
-- lorsque le dirigeant de l'entreprise exerçant l'activité de mandataire est condamné pour l'une des infractions prévues à
-l'article L. 211-19 ; dans ce cas, la responsabilité du titulaire de la licence reste engagée tant que le préfet n'a pas été
-informé de cette condamnation ;
-
-- au plus tard, à la date d'expiration d'un délai de trois ans suivant la date d'effet de son approbation.
-
-Toute modification survenant dans les éléments exigés pour l'approbation de la convention ou la dénonciation de celle-ci doit
-être déclarée au préfet. Celui-ci en informe le préfet du lieu d'exercice du mandataire.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 27 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 27 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cite_:
-
-  - Code de commerce - art. L123-10
-  - Code de commerce - art. L123-11
-  - Code de commerce - art. L123-4
-  - Code de commerce - art. L123-5
-  - Code du tourisme.
-  - Code du tourisme. - art. L211-1
-  - Code du tourisme. - art. L211-19
-  - Code du tourisme. - art. L211-4
-  - Code du tourisme. - art. L212-5
-  - Code du tourisme. - art. R212-31
-  - Code du tourisme. - art. R212-41
-
-_Cité par_:
-
-  - Code du tourisme. - art. R212-18 (VT)
-  - Code du tourisme. - art. R212-23 (VT)
-  - Code du tourisme. - art. R212-37 (T)
-
-
-###### Article R212-23
-
-Les personnes mentionnées à l'article R. 212-22 sont tenues dans les conditions prévues à l'article R. 212-1 de mentionner le
-nom ou la raison sociale, la forme juridique et le numéro de licence de l'agent dont elles ont reçu mandat.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 1994-06-15 art. 31 al. 2
-  - Décret n°94-490 du 15 juin 1994 - art. 31 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cite_:
-
-  - Code du tourisme. - art. R212-1
-  - Code du tourisme. - art. R212-22
-
-
-##### Section 5 : Aptitude professionnelle.<a id=184></a>
-
-###### Article R212-24
-
-Toute entreprise titulaire de la licence d'agent de voyages doit bénéficier de la collaboration permanente et effective de la
-personne répondant aux conditions d'aptitude professionnelle requises au titre des dispositions réglementaires de la présente
-section.
-
-L'aptitude professionnelle prévue par l'article L. 212-2 est réputée acquise lorsque le demandeur ou, s'il s'agit d'une
-personne morale, l'un des représentants légaux remplit les conditions suivantes :
-
-1° Soit avoir occupé pendant trois années consécutives un emploi de cadre ou assimilé dans :
-
-a) Une agence de voyages, une entreprise exerçant des activités de mandataire d'agent de voyages, une association ou un
-organisme sans but lucratif agréé de tourisme, un organisme local de tourisme autorisé, un organisme de séjours
-linguistiques ;
-
-b) Une administration, une collectivité publique, un établissement public ou tout groupement constitué à leur initiative
-ayant, chacun en ce qui le concerne, des compétences propres dans le domaine du tourisme ;
-
-c) Le département tourisme d'une entreprise de transport par route ou voie ferrée bénéficiant de dérogations prévues par un
-régime législatif antérieur ;
-
-d) Le département tourisme d'une entreprise titulaire de l'habilitation prévue par les dispositions réglementaires de la
-section 3 du chapitre III ;
-
-2° Soit être titulaire de l'un des diplômes suivants :
-
-a) Brevet de technicien supérieur tourisme ou tourisme-loisirs ;
-
-b) Titre ou diplôme de niveau III homologué par la commission technique d'homologation des titres et diplômes de
-l'enseignement technologique ;
-
-c) Licence ou diplôme d'un niveau égal ou supérieur délivré par l'Etat ou par un établissement reconnu par l'Etat.
-
-La personne titulaire d'un de ces diplômes doit, en outre, justifier qu'elle a occupé un emploi répondant aux conditions
-prévues au 1° ci-dessus pendant deux ans au moins ;
-
-3° Soit être titulaire de l'un des diplômes énumérés au 2° ci-dessus et avoir occupé pendant cinq ans soit un emploi de cadre
-dans une entreprise différente de celles mentionnées au 1° du présent article, soit un emploi équivalent dans une
-administration publique.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 1994-06-15 art. 9 sauf dernière phrase
-  - Décret n°94-490 du 15 juin 1994 - art. 9 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cite_:
-
-  - Code du tourisme. - art. L212-2
-
-_Cité par_:
-
-  - Code du tourisme. - art. R212-17 (VT)
-  - Code du tourisme. - art. R212-25 (VT)
-  - Code du tourisme. - art. R213-15 (VT)
-  - Code du tourisme. - art. R213-5 (VT)
-
-
-###### Article R212-25
-
-Pour diriger plus d'une agence de voyages sous leur responsabilité légale, le ou les responsables légaux d'une entreprise
-titulaire d'une licence d'agent de voyages doivent faire appel aux services d'un salarié répondant aux conditions fixées au
-1° ou au 2° de l'article R. 212-24.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 1994-06-15 art. 9 dernière phrase
-  - Décret n°94-490 du 15 juin 1994 - art. 9 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cite_:
-
-  - Code du tourisme. - art. R212-24
-
-
-###### Article R212-26
-
-L'aptitude professionnelle prévue au a de l'article L. 212-2 est réputée acquise par tout ressortissant d'un Etat membre de
-la Communauté européenne ou d'un Etat partie à l'accord instituant l'Espace économique européen qui justifie des qualités
-requises pour être agent de voyages dans ce pays lorsque cette profession y est réglementée ou qui remplit l'une des
-conditions suivantes :
-
-1° Soit avoir exercé des fonctions, de manière effective, dans la branche correspondant à celle d'agent de voyages :
-
-- pendant six années consécutives à titre indépendant ou en qualité de chef d'entreprise, de chef de succursale, d'adjoint au
-chef d'entreprise, de cadre supérieur du secteur commercial ;
-
-- pendant cinq ans au moins en qualité de salarié et trois années consécutives à titre indépendant ou en qualité de chef
-d'entreprise, de chef de succursale, d'adjoint au chef d'entreprise, de cadre supérieur du secteur commercial ;
-
-2° Soit avoir reçu une formation préalable sanctionnée par un certificat reconnu par l'Etat ou jugée pleinement valable par
-un organisme professionnel ; dans ce cas, le candidat à la licence d'agent de voyages doit avoir exercé des fonctions :
-
-- pendant trois années consécutives à titre indépendant ou en qualité de chef d'entreprise, de chef de succursale, d'adjoint
-au chef d'entreprise, de cadre supérieur du secteur commercial ou pendant cinq années consécutives en qualité de salarié s'il
-est en mesure d'attester d'une formation préalable d'au moins trois années ;
-
-- pendant quatre années consécutives dans l'une des différentes fonctions énumérées à l'alinéa ci-dessus ou pendant six
-années en qualité de salarié s'il est en mesure d'attester d'une formation préalable d'au moins deux années.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 10 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 10 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cite_:
-
-  - Code du tourisme. - art. L212-2
-
-
-###### Article R212-27
-
-Les conditions de l'aptitude professionnelle prévue à l'article L. 212-8 en ce qui concerne les personnes chargées de la
-direction d'une succursale ou d'un point de vente d'agence de voyages sont celles requises respectivement à l'article L.
-213-3 ou à l'article L. 213-4, les temps d'activité fixés auxdits articles étant toutefois, en ce cas, réduits de moitié.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 11 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 11 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cite_:
-
-  - Code du tourisme. - art. L212-8
-  - Code du tourisme. - art. L213-3
-  - Code du tourisme. - art. L213-4
-
-
-##### Section 6 : Garantie financière.<a id=185></a>
-
-###### Article R212-28
-
-La garantie financière prévue au c de l'article L. 212-2 résulte d'un engagement écrit de cautionnement pris :
+La garantie financière prévue au a du II de l'article L. 211-18 résulte d'un engagement écrit de cautionnement pris : 
 
 1° Soit par un organisme de garantie collective doté de la personnalité juridique, au moyen d'un fonds de garantie constitué
-à cet effet ;
+à cet effet ; 
 
-2° Soit par un établissement de crédit ou une entreprise d'assurances habilités à donner une garantie financière.
+2° Soit par un établissement de crédit ou une entreprise d'assurances habilités à donner une garantie financière ; 
 
-La garantie financière est spécialement affectée au remboursement en principal des fonds reçus par l'agent de voyages au
-titre des engagements qu'il a contractés à l'égard de sa clientèle pour des prestations en cours ou à servir et permet
-d'assurer, notamment en cas de cessation de paiements ayant entraîné un dépôt de bilan, le rapatriement des voyageurs.
+3° Soit par un groupement d'associations ou d'organismes sans caractère lucratif, immatriculé au registre mentionné au a de
+l'article L. 141-3 et ayant fait l'objet d'une autorisation particulière par un arrêté du ministre chargé du tourisme et
+disposant d'un fonds de solidarité suffisant. 
+
+La garantie financière est spécialement affectée au remboursement en principal des fonds reçus par l'opérateur de voyages au
+titre des engagements qu'il a contractés à l'égard de sa clientèle ou de ses membres pour des prestations en cours ou à
+servir et permet d'assurer, notamment en cas de cessation de paiements ayant entraîné un dépôt de bilan, le rapatriement des
+voyageurs.
 
 L'engagement de garantie financière doit répondre à toutes les dispositions réglementaires de la présente section.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Créé par_:
 
-  - Décret n°94-490 du 15 juin 1994 - art. 12 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 12 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cite_:
-
-  - Code du tourisme. - art. L212-2
-
-_Nouveaux textes_:
-
-  - Code du tourisme. - art. R211-26 (V)
+  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
 
 _Cité par_:
 
-  - Code du tourisme. - art. R212-15 (VT)
-  - Code du tourisme. - art. R212-29 (T)
-  - Code du tourisme. - art. R212-5 (T)
-  - Code du tourisme. - art. R213-43 (VT)
+  - Arrêté du 30 juillet 2019 (VD)
+  - Arrêté du 30 juillet 2019 - art. 1 (VD)
+  - Arrêté du 30 juillet 2019 - art. 2 (VD)
+  - Code du tourisme. - art. R211-20 (V)
+  - Code du tourisme. - art. R211-27 (V)
+  - Code du tourisme. - art. R211-43 (V)
+  - Code du tourisme. - art. R211-51 (VD)
+
+_Cite_:
+
+  - Code du tourisme. - art. L141-3
+  - Code du tourisme. - art. L211-18
+
+_Anciens textes_:
+
+  - Code du tourisme. - art. R212-28 (T)
 
 
-###### Article R212-29
+###### Article R211-27
 
-Les conditions de fonctionnement de l'organisme de garantie collective mentionné à l'article R. 212-28, notamment les
+Les conditions de fonctionnement de l'organisme de garantie collective mentionné à l'article R. 211-26, notamment les
 conditions d'adhésion, de démission, de contrôle sur les adhérents, d'octroi, de retrait et de mise en oeuvre des garanties,
 sont fixées par les statuts et le règlement intérieur de cet organisme, qui sont soumis à l'agrément du ministre chargé du
 tourisme et du ministre chargé de l'économie et des finances.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Créé par_:
 
-  - Décret n°94-490 du 15 juin 1994 - art. 13 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 13 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Nouveaux textes_:
-
-  - Code du tourisme. - art. R211-27 (V)
+  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
 
 _Cite_:
 
-  - Code du tourisme. - art. R212-28
+  - Code du tourisme. - art. R211-26
 
 _Cité par_:
 
-  - Code du tourisme. - art. R212-32 (T)
-  - Code du tourisme. - art. R213-25 (VT)
-  - Code du tourisme. - art. R213-40 (VT)
+  - Code du tourisme. - art. R211-31 (VD)
+
+_Anciens textes_:
+
+  - Code du tourisme. - art. R212-29 (T)
 
 
-###### Article R212-30
+###### Article R211-28
 
 La garantie financière apportée par un établissement de crédit ou par une entreprise d'assurances n'est admise que si cet
 établissement ou cette entreprise a son siège sur le territoire d'un Etat membre de la Communauté européenne, ou d'un Etat
 partie à l'accord instituant l'Espace économique européen, ou une succursale en France. Cette garantie financière doit être,
-dans tous les cas, immédiatement mobilisable pour assurer, dans les conditions prévues par l'article R. 212-32, le
-rapatriement de la clientèle.
+dans tous les cas, immédiatement mobilisable pour assurer, dans les conditions prévues par l'article R. 211-31, le
+rapatriement des voyageurs. 
 
 Pour l'application des dispositions du présent article, les établissements de crédit installés dans la Principauté de Monaco
 sont réputés avoir un siège en France.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Créé par_:
 
-  - Décret n°94-490 du 15 juin 1994 - art. 14 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 14 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Nouveaux textes_:
-
-  - Code du tourisme. - art. R211-28 (V)
-
-_Cité par_:
-
-  - Code du tourisme. - art. R212-18 (VT)
+  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
 
 _Cite_:
 
-  - Code du tourisme. - art. R212-32
-
-
-###### Article R212-32
-
-La garantie intervient sur les seules justifications présentées par le créancier à l'organisme garant établissant que la
-créance est certaine et exigible et que l'agent garanti est défaillant, sans que le garant puisse opposer au créancier le
-bénéfice de division et de discussion.
-
-La défaillance de l'agent garanti peut résulter soit d'un dépôt de bilan, soit d'une sommation de payer par exploit
-d'huissier ou lettre recommandée avec demande d'avis de réception, suivie de refus ou demeurée sans effet pendant un délai de
-quarante-cinq jours à compter de la signification de la sommation.
-
-En cas d'instance en justice, le demandeur doit aviser le garant de l'assignation par lettre recommandée avec demande d'avis
-de réception.
-
-Si le garant conteste l'existence des conditions d'ouverture du droit au paiement ou le montant de la créance, le créancier
-peut assigner directement devant la juridiction compétente.
-
-Par dérogation aux dispositions qui précèdent, la mise en oeuvre, en urgence, de la garantie en vue d'assurer le rapatriement
-des clients d'une agence de voyages est décidée par le préfet qui requiert le garant de libérer, immédiatement et par
-priorité, les fonds nécessaires pour couvrir les frais inhérents à l'opération de rapatriement. Toutefois, si la garantie
-financière résulte d'un organisme de garantie collective mentionné à l'article R. 212-29, cet organisme assure la mise en
-oeuvre immédiate de la garantie par tous moyens en cas d'urgence dûment constatée par le préfet.
-
-**Liens relatifs à cet article**
+  - Code du tourisme. - art. R211-31
 
 _Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 16 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 16 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Nouveaux textes_:
-
-  - Code du tourisme. - art. R211-31 (V)
-
-_Cite_:
-
-  - Code du tourisme. - art. R212-29
-
-_Cité par_:
 
   - Code du tourisme. - art. R212-30 (T)
-  - Code du tourisme. - art. R212-35 (T)
 
 
-###### Article R212-33
+###### Article R211-29
 
-Sauf cas de rapatriement, le paiement est effectué par le garant dans un délai de trois mois à compter de la présentation de
-la demande écrite, accompagnée des justificatifs.
+Lorsque la garantie financière résulte de l'appartenance à un groupement d'associations ou d'organismes sans but lucratif
+immatriculé au registre mentionné au a de l'article L. 141-3, l'association ou l'organisme sans but lucratif doit détenir
+dans ses livres une attestation par laquelle le garant s'engage à se substituer à l'association ou à l'organisme sans but
+lucratif défaillant pour le règlement des créances et le rapatriement éventuel des membres.
 
-En cas de cessation de la garantie avant l'expiration de ce délai, le point de départ de celui-ci est reporté à la date de
-publication de l'avis prévu à l'article R. 212-34.
-
-Si plusieurs demandes sont reçues pendant ce délai, une répartition a lieu au marc le franc dans le cas où le montant total
-des demandes excéderait le montant de la garantie.
-
-Toutefois, si la personne garantie fait l'objet d'une procédure collective pendant le délai fixé au premier alinéa, le
-règlement des créances peut être différé jusqu'au dépôt de l'état des créances au greffe du tribunal dans les conditions des
-articles 109 et suivants du décret n° 2005-1677 pris en application de la loi n° 2005-845 du 26 juillet 2005 de sauvegarde
-des entreprises.
-
-L'organisme de garantie collective, l'entreprise d'assurances ou l'établissement de crédit dont la garantie a été mise en jeu
-est subrogé de plein droit à tous les droits du créancier désintéressé, ainsi qu'il est dit à l'article 2306 du code civil,
-en ce qui concerne la dette de la personne garantie et dans la limite du remboursement ou de la restitution faite par lui.
+L'engagement de cautionnement prend fin suivant les modalités prévues à l'article R. 211-33.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Créé par_:
 
-  - Décret n°94-490 du 15 juin 1994 - art. 17 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 17 (Ab)
+  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
 
 _Cite_:
 
-  - Loi n°2005-845 du 26 juillet 2005
-  - Décret n°2005-1677 du 28 décembre 2005
+  - Code du tourisme. - art. L141-3
+  - Code du tourisme. - art. R211-33
+
+
+###### Article R211-30
+
+Toute personne physique ou morale immatriculée au registre mentionné au a de l'article L. 141-3 doit posséder une garantie
+financière délivrée par un seul garant. La garantie financière s'étend aux activités qui sont exercées par les établissements
+secondaires tels que succursale ou point de vente. 
+
+Un arrêté du ministre chargé du tourisme détermine le montant minimum de la garantie financière en fonction de la nature des
+activités. Il définit, en outre, les modalités de calcul de la garantie en fonction du volume d'affaires réalisé annuellement
+par l'opérateur de voyages. 
+
+Sauf en ce qui concerne la garantie applicable au contrat de jouissance d'immeuble à temps partagé prévue à l'article R.
+211-44, le montant de la garantie financière de chaque personne physique ou morale immatriculée au registre mentionné au a de
+l'article L. 141-3 est calculé annuellement par l'opérateur de voyages en application des règles définies par la présente
+section. A défaut d'exercice antérieur de référence, il est fait application du montant minimum de garantie mentionné à
+l'alinéa précédent. 
+
+En cas de modification importante d'activité en cours d'année, la personne physique ou morale immatriculée est tenue d'en
+informer le garant. Le montant de la garantie financière doit être ajusté en conséquence. 
+
+L'arrêté prévu au deuxième alinéa fixe les conditions dans lesquelles s'effectuent ces réévaluations.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 23 décembre 2009 - art. 4 (V)
+
+_Créé par_:
+
+  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
+
+_Cite_:
+
+  - Code du tourisme. - art. L141-3
+  - Code du tourisme. - art. R211-44 (V)
+
+
+###### Article R211-31
+
+La garantie intervient sur les seules justifications présentées par le créancier à l'organisme garant établissant que la
+créance est certaine et exigible et que l'opérateur de voyages est défaillant, sans que le garant puisse opposer au créancier
+le bénéfice de division et de discussion. 
+
+La défaillance de l'opérateur de voyages peut résulter soit d'un dépôt de bilan, soit d'une sommation de payer par exploit
+d'huissier ou lettre recommandée avec demande d'avis de réception, suivie de refus ou demeurée sans effet pendant un délai de
+quarante-cinq jours à compter de la signification de la sommation. 
+
+En cas d'instance en justice, le demandeur doit aviser le garant de l'assignation par lettre recommandée avec demande d'avis
+de réception. 
+
+Si le garant conteste l'existence des conditions d'ouverture du droit au paiement ou le montant de la créance, le créancier
+peut assigner directement devant la juridiction compétente. 
+
+Par dérogation aux dispositions qui précèdent, la mise en oeuvre, en urgence, de la garantie en vue d'assurer le rapatriement
+des clients ou des membres d'un opérateur de voyages est décidée par le préfet qui requiert le garant de libérer,
+immédiatement et par priorité, les fonds nécessaires pour couvrir les frais inhérents à l'opération de rapatriement.
+Toutefois, si la garantie financière résulte d'un organisme de garantie collective mentionné à l'article R. 211-27, cet
+organisme assure la mise en oeuvre immédiate de la garantie par tous moyens en cas d'urgence dûment constatée par le préfet. 
+
+Les informations nécessaires à la mise en œuvre des dispositions de l'alinéa précédent sont communiquées, en tant que de
+besoin, au préfet par l'organisme mentionné à l'article L. 141-2. 
+
+Les compétences dévolues par le présent article au préfet sont exercées par le préfet du département du lieu d'établissement
+de l'opérateur de vente de voyages et de séjours concerné. Pour les opérateurs dont le lieu d'établissement est situé dans la
+région Ile-de-France, ces compétences sont exercées par le préfet de région.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
+
+_Cite_:
+
+  - Code du tourisme. - art. L141-2
+  - Code du tourisme. - art. R211-27
+
+_Cité par_:
+
+  - Code du tourisme. - art. R211-28 (VD)
+  - Code du tourisme. - art. R211-34 (V)
+
+_Anciens textes_:
+
+  - Code du tourisme. - art. R212-32 (T)
+
+
+###### Article R211-32
+
+Sauf cas de rapatriement, le paiement est effectué par le garant dans un délai de trois mois à compter de la présentation de
+la demande écrite, accompagnée des justificatifs. 
+
+En cas de cessation de la garantie avant l'expiration de ce délai, le point de départ de celui-ci est reporté à la date de
+publication de l'avis prévu à l'article R. 211-33. 
+
+Si plusieurs demandes sont reçues pendant ce délai, une répartition a lieu au marc le franc dans le cas où le montant total
+des demandes excéderait le montant de la garantie. 
+
+Toutefois, si la personne garantie fait l'objet d'une procédure collective pendant le délai fixé au premier alinéa, le
+règlement des créances peut être différé jusqu'au dépôt de l'état des créances au greffe du tribunal dans les conditions
+prévues aux articles R. 624-8 à R. 624-11 du code de commerce.
+
+L'organisme de garantie collective, l'entreprise d'assurances, l'établissement de crédit ou un groupement d'associations ou
+d'organismes sans caractère lucratif dont la garantie a été mise en jeu est subrogé de plein droit à tous les droits du
+créancier désintéressé, ainsi qu'il est dit à l'article 2306 du code civil, en ce qui concerne la dette de la personne
+garantie et dans la limite du remboursement ou de la restitution faite par lui.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
+
+_Cite_:
+
+  - Code de commerce - art. R624-8
   - Code civil - art. 2306
-  - Code du tourisme. - art. R212-34
+  - Code du tourisme. - art. R211-33
 
-_Codifié par_:
+_Anciens textes_:
 
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Nouveaux textes_:
-
-  - Code du tourisme. - art. R211-32 (M)
+  - Code du tourisme. - art. R212-33 (T)
 
 
-###### Article R212-34
+###### Article R211-33
 
 La garantie cesse par son exécution ou pour les raisons suivantes :
 
-- perte de la qualité d'adhérent à l'organisme de garantie collective ou dénonciation de l'engagement de garantie financière
-pris par un établissement de crédit ou une entreprise d'assurances ;
+- perte de la qualité d'adhérent à l'organisme de garantie collective ou à un groupement d'associations ou d'organismes sans
+caractère lucratif ou dénonciation de l'engagement de garantie financière pris par un établissement de crédit ou une
+entreprise d'assurances ;
 
-- retrait de la licence d'agent de voyages.
+- radiation du registre mentionné au a de l'article L. 141-3.
 
-L'organisme garant informe, sans délai, le préfet, par lettre recommandée, de la cessation de la garantie financière.
+L'organisme garant informe, sans délai, la commission d'immatriculation mentionnée à l'article L. 141-2, par tout moyen
+permettant d'en obtenir un accusé de réception, de la cessation de la garantie financière. 
 
 Un avis annonçant la cessation de la garantie et précisant qu'elle cessera à l'expiration d'un délai de trois jours suivant
 la publication dudit avis est publié à la diligence du garant dans deux journaux, dont un quotidien, distribués dans le ou
-les départements où sont installés le siège de l'agence garantie et, le cas échéant, ses succursales, ses points de vente et
-les personnes exerçant une activité de mandataire. L'avis indique qu'un délai de trois mois est ouvert aux créanciers
-éventuels pour produire leurs créances.
+les départements où sont installés le siège de l'opérateur de voyages garanti et, le cas échéant, ses établissements
+secondaires. L'avis indique qu'un délai de trois mois est ouvert aux créanciers éventuels pour produire leurs créances. 
 
-Ces avis sont communiqués le même jour au préfet par le garant.
+Ces avis sont communiqués le même jour par le garant à la commission d'immatriculation mentionnée à l'article L. 141-2 qui en
+assure la publicité sur le site internet de l'agence mentionnée au même article. 
 
-Si le titulaire de la licence bénéficie d'une nouvelle garantie accordée par un autre organisme, il doit en informer le
-public par insertion d'un avis publié dans la presse ou apposé sur son local.
+Si l'opérateur de voyages immatriculé bénéficie d'une nouvelle garantie accordée par un autre organisme, il doit en informer
+la commission d'immatriculation mentionnée à l'article L. 141-2 et le public par insertion d'un avis publié dans la presse ou
+apposé sur son local.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Créé par_:
 
-  - Décret n°94-490 du 15 juin 1994 - art. 18 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 18 (Ab)
+  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Nouveaux textes_:
-
-  - Code du tourisme. - art. R211-33 (M)
+  - Code du tourisme. - art. L141-2
+  - Code du tourisme. - art. L141-3
 
 _Cité par_:
 
-  - Code du tourisme. - art. R212-33 (T)
-  - Code du tourisme. - art. R212-35 (T)
-  - Code du tourisme. - art. R212-9 (T)
-
-
-###### Article R212-35
-
-Sans préjudice de la mise en oeuvre éventuelle des mesures d'urgence prévues à l'article R. 212-32, les créances nées
-antérieurement à la date de cessation de la garantie restent couvertes par le garant si elles sont produites par le créancier
-dans un délai de trois mois à compter de la date des publications prescrites à l'article R. 212-34.
-
-Le garant tient à la disposition du préfet le contenu des demandes qui lui sont présentées et de la suite qui leur est
-donnée.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 19 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 19 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Nouveaux textes_:
-
+  - Code du tourisme. - art. R211-29 (VD)
+  - Code du tourisme. - art. R211-32 (VD)
   - Code du tourisme. - art. R211-34 (V)
-
-_Cite_:
-
-  - Code du tourisme. - art. R212-32
-  - Code du tourisme. - art. R212-34
-
-
-##### Section 7 : Responsabilité civile professionnelle.<a id=186></a>
-
-###### Article R212-36
-
-Le contrat d'assurance souscrit en application du d de l'article L. 212-2 garantissant les conséquences pécuniaires de la
-responsabilité civile professionnelle encourue par les agents de voyages ne peut pas déroger aux dispositions définies à la
-présente section, sauf dans un sens plus favorable aux intérêts des clients.
-
-**Liens relatifs à cet article**
+  - Code du tourisme. - art. R211-47 (VD)
 
 _Anciens textes_:
 
-  - Décret n°94-490 du 15 juin 1994 - art. 20 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 20 (Ab)
+  - Code du tourisme. - art. R212-34 (T)
 
-_Codifié par_:
 
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+###### Article R211-34
 
-**Liens**:
+Sans préjudice de la mise en oeuvre éventuelle des mesures d'urgence prévues à l'article R. 211-31, les créances nées
+antérieurement à la date de cessation de la garantie restent couvertes par le garant si elles sont produites par le créancier
+dans un délai de trois mois à compter de la date des publications prescrites à l'article R. 211-33. 
 
-  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 1
+Le garant tient à la disposition de la commission d'immatriculation mentionnée à l'article L. 141-2 le contenu des demandes
+qui lui sont présentées et de la suite qui leur est donnée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
 
 _Cite_:
 
-  - Code du tourisme. - art. L212-2
+  - Code du tourisme. - art. L141-2
+  - Code du tourisme. - art. R211-31
+  - Code du tourisme. - art. R211-33
 
-_Nouveaux textes_:
+_Anciens textes_:
 
-  - Code du tourisme. - art. R211-35 (V)
+  - Code du tourisme. - art. R212-35 (T)
+
+
+##### Section 7 : Responsabilité civile professionnelle.<a id=188></a>
+
+###### Article R211-35
+
+Le contrat d'assurance souscrit en application du b du II de l'article L. 211-18 garantissant les conséquences pécuniaires de
+la responsabilité civile professionnelle encourue par les opérateurs de voyages ne peut pas déroger aux dispositions définies
+à la présente section, sauf dans un sens plus favorable aux intérêts des voyageurs. 
+
+Dans le cas d'une fédération ou d'une union, le contrat d'assurance doit couvrir dans les conditions prévues par la présente
+section la responsabilité des associations ou organismes sans but lucratif qui en sont membres et dont la fédération ou
+l'union assume la responsabilité.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
+
+_Cite_:
+
+  - Code du tourisme. - art. L211-18
 
 _Cité par_:
 
-  - Code du tourisme. - art. R212-37 (T)
-  - Code du tourisme. - art. R212-39 (T)
-  - Code du tourisme. - art. R212-41 (T)
-
-
-###### Article R212-37
-
-Le contrat d'assurance mentionné à l'article R. 212-36 garantit l'agent de voyages contre les conséquences pécuniaires de la
-responsabilité civile professionnelle telle qu'elle est définie aux articles L. 211-17 et L. 211-18.
-
-La garantie prend également en charge les dommages causés à des clients, à des prestataires de services ou à des tiers par
-suite de fautes, erreurs de fait ou de droit, omissions ou négligences commises à l'occasion de l'offre, de l'organisation et
-de la vente des prestations définies aux articles L. 211-1 et L. 211-4, tant du fait de l'agent de voyages que du fait de ses
-préposés, salariés et non-salariés, ainsi que des personnes qui lui sont liées dans les conditions prévues aux articles R.
-212-20 et R. 212-22.
-
-**Liens relatifs à cet article**
+  - Code du tourisme. - art. R211-36 (V)
+  - Code du tourisme. - art. R211-38 (V)
+  - Code du tourisme. - art. R211-40 (V)
 
 _Anciens textes_:
 
-  - Décret n°94-490 du 15 juin 1994 - art. 21 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 21 (Ab)
+  - Code du tourisme. - art. R212-36 (T)
 
-_Codifié par_:
 
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+###### Article R211-36
 
-**Liens**:
+Le contrat d'assurance mentionné à l'article R. 211-35 garantit l'opérateur de voyages contre les conséquences pécuniaires de
+la responsabilité civile professionnelle telle qu'elle est définie aux articles L. 211-16 et L. 211-17. 
 
-  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 1
+La garantie prend également en charge les dommages causés à des voyageurs, à des prestataires de services ou à des tiers par
+suite de fautes, erreurs de fait ou de droit, omissions ou négligences commises à l'occasion de l'offre, de l'organisation et
+de la vente des prestations définies aux articles L. 211-1 et L. 211-4, tant du fait de l'opérateur de voyages que du fait de
+ses préposés, salariés et non-salariés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
 
 _Cite_:
 
   - Code du tourisme. - art. L211-1
-  - Code du tourisme. - art. L211-17
-  - Code du tourisme. - art. L211-18
-  - Code du tourisme. - art. L211-4
-  - Code du tourisme. - art. R212-20
-  - Code du tourisme. - art. R212-22
-  - Code du tourisme. - art. R212-36
-
-_Nouveaux textes_:
-
-  - Code du tourisme. - art. R211-36 (V)
+  - Code du tourisme. - art. L211-16
+  - Code du tourisme. - art. R211-35
 
 _Cité par_:
 
-  - Code du tourisme. - art. R212-18 (VT)
-  - Code du tourisme. - art. R212-38 (T)
+  - Code du tourisme. - art. R211-37 (V)
+
+_Anciens textes_:
+
+  - Code du tourisme. - art. R212-37 (T)
 
 
-###### Article R212-38
+###### Article R211-37
 
-La garantie mentionnée à l'article R. 212-37, outre les exclusions légales prévues au code des assurances, ne couvre pas :
+La garantie mentionnée à l'article R. 211-36, outre les exclusions légales prévues au code des assurances, ne couvre pas : 
 
-a) Les dommages causés à l'assuré lui-même, à ses ascendants et descendants ;
+a) Les dommages causés à l'assuré lui-même, à ses ascendants et descendants ; 
 
-b) Les dommages causés aux représentants légaux de l'agent de voyages si celui-ci est une personne morale, et à ses
-collaborateurs et préposés dans l'exercice de leurs fonctions ;
+b) Les dommages causés aux représentants légaux de l'opérateur de vente de voyages et de séjours si celui-ci est une personne
+morale, et à ses collaborateurs et préposés dans l'exercice de leurs fonctions ; 
 
-c) Les dommages dus à l'exploitation de moyens de transport dont l'agent de voyages a la propriété, la garde ou l'usage ;
+c) Les dommages dus à l'exploitation de moyens de transport dont l'opérateur de vente de voyages et de séjours a la
+propriété, la garde ou l'usage ; 
 
 d) Les dommages engageant la responsabilité de l'assuré en sa qualité de propriétaire ou d'exploitant d'installations
-hôtelières ou d'hébergements ;
+hôtelières ou d'hébergements ; 
 
 e) Les pertes ou détériorations ou vols des espèces monnayées, billets de banque, fourrures, bijoux et objets précieux,
 confiés à l'assuré ou à ses préposés.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Créé par_:
 
-  - Décret n°94-490 du 15 juin 1994 - art. 22 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 22 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Nouveaux textes_:
-
-  - Code du tourisme. - art. R211-37 (V)
+  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
 
 _Cite_:
 
-  - Code du tourisme. - art. R212-37
+  - Code du tourisme. - art. R211-36
+
+_Anciens textes_:
+
+  - Code du tourisme. - art. R212-38 (T)
 
 
-###### Article R212-39
+###### Article R211-38
 
-Le montant des garanties est librement fixé par les parties au contrat mentionné à l'article R. 212-36 en fonction des
+Le montant des garanties est librement fixé par les parties au contrat mentionné à l'article R. 211-35 en fonction des
 activités mentionnées à l'article L. 211-1 et exercées par l'assuré.
 
 L'assuré doit indiquer clairement, dans ses brochures et sur tout support à caractère contractuel, les risques couverts et
-les garanties souscrites au titre du contrat d'assurance de responsabilité civile professionnelle.
+les garanties souscrites au titre du contrat d'assurance de responsabilité civile professionnelle. 
 
 Lorsque le contrat prévoit une franchise à la charge de l'assuré, elle n'est pas opposable aux tiers lésés.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Créé par_:
 
-  - Décret n°94-490 du 15 juin 1994 - art. 23 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 23 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 1
+  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
 
 _Cite_:
 
   - Code du tourisme. - art. L211-1
-  - Code du tourisme. - art. R212-36
-
-_Nouveaux textes_:
-
-  - Code du tourisme. - art. R211-38 (V)
-
-
-###### Article R212-40
-
-En cas de résiliation du contrat d'assurance ou de suspension de la garantie, l'assuré est tenu d'en informer le préfet
-quinze jours au moins avant la date à laquelle la garantie cessera d'avoir effet. Il doit, dans le même délai, informer
-l'organisme auprès duquel a été contractée la garantie financière prévue au c de l'article L. 212-2.
-
-**Liens relatifs à cet article**
+  - Code du tourisme. - art. R211-35
 
 _Anciens textes_:
 
-  - Décret n°94-490 du 15 juin 1994 - art. 24 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 24 (Ab)
+  - Code du tourisme. - art. R212-39 (T)
 
-_Codifié par_:
 
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+###### Article R211-39
 
-**Liens**:
+En cas de résiliation du contrat d'assurance ou de suspension de la garantie, l'assuré est tenu d'en informer la commission
+d'immatriculation mentionnée à l'article L. 141-2 quinze jours au moins avant la date à laquelle la garantie cessera d'avoir
+effet. Il doit, dans le même délai, informer l'organisme auprès duquel a été contractée la garantie financière prévue au b du
+II de l'article L. 211-18.
 
-  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 1
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
 
 _Cite_:
 
-  - Code du tourisme. - art. L212-2
+  - Code du tourisme. - art. L141-2
+  - Code du tourisme. - art. L211-18
 
-_Nouveaux textes_:
+_Anciens textes_:
 
-  - Code du tourisme. - art. R211-39 (V)
-
-_Cité par_:
-
-  - Code du tourisme. - art. R213-14 (VT)
-  - Code du tourisme. - art. R213-27 (VT)
-  - Code du tourisme. - art. R213-43 (VT)
+  - Code du tourisme. - art. R212-40 (T)
 
 
-###### Article R212-41
+###### Article R211-40
 
-La souscription du contrat mentionné à l'article R. 212-36 est justifiée par la production d'une attestation au préfet.
-Toutefois, la garantie ne prend effet que le lendemain du jour de la délivrance de la licence, à 0 heure.
+La souscription du contrat mentionné à l'article R. 211-35 est justifiée par la production d'une attestation à la commission
+d'immatriculation mentionnée à l'article L. 141-2. Toutefois, la garantie ne prend effet que le lendemain du jour de la
+délivrance de l'immatriculation, à 0 heure. 
 
-Ce document vaut présomption de garantie. Il doit porter nécessairement les mentions suivantes :
+Ce document vaut présomption de garantie. Il doit porter nécessairement les mentions suivantes : 
 
-a) La référence aux dispositions légales et réglementaires ;
+a) La référence aux dispositions légales et réglementaires ; 
 
-b) La raison sociale de l'entreprise d'assurances agréée ;
+b) La raison sociale de l'entreprise d'assurances agréée ; 
 
-c) Le numéro du contrat d'assurance souscrit ;
+c) Le numéro du contrat d'assurance souscrit ; 
 
-d) La période de validité du contrat ;
+d) La période de validité du contrat ; 
 
-e) Le nom et l'adresse précisant s'il y a lieu la raison sociale et l'adresse de l'agent garanti ;
+e) Le nom et l'adresse précisant s'il y a lieu la raison sociale et l'adresse de l'opérateur de voyages garanti ; 
 
 f) L'étendue des garanties.
 
-L'assuré est tenu annuellement d'attester de la validité du contrat souscrit en adressant au préfet une copie certifiée
-conforme du document remis par l'assureur lors du paiement de la prime.
+L'assuré est tenu annuellement d'attester auprès de la commission d'immatriculation mentionnée à l'article L. 141-2 de la
+validité du contrat.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Créé par_:
 
-  - Décret n°94-490 du 15 juin 1994 - art. 25 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 25 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Nouveaux textes_:
-
-  - Code du tourisme. - art. R211-40 (V)
-
-_Cité par_:
-
-  - Code du tourisme. - art. R212-15 (VT)
-  - Code du tourisme. - art. R212-18 (VT)
-  - Code du tourisme. - art. R212-22 (VT)
-  - Code du tourisme. - art. R213-14 (VT)
-  - Code du tourisme. - art. R213-27 (VT)
-  - Code du tourisme. - art. R213-43 (VT)
+  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
 
 _Cite_:
 
-  - Code du tourisme. - art. R212-36
-
-
-##### Section 8 : Libre prestation de service.<a id=187></a>
-
-###### Article R*212-42
-
-Tout ressortissant d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord instituant l'Espace économique
-européen peut, sans être établi sur le territoire national, se livrer ou apporter son concours à une ou plusieurs des
-opérations mentionnées à l'article L. 211-1 et à l'article L. 212-4 s'il est titulaire d'une licence d'agent de voyages lui
-permettant d'exercer ses activités dans le cadre de la libre prestation de services, délivrée par arrêté du ministre chargé
-du tourisme après avis du Conseil national du tourisme.
-
-**Liens relatifs à cet article**
+  - Code du tourisme. - art. L141-2
+  - Code du tourisme. - art. R211-35
 
 _Anciens textes_:
 
-  - Décret n°94-490 1994-06-15 art. 35 al. 1
+  - Code du tourisme. - art. R212-41 (T)
+
+
+##### Section 8 : Aptitude professionnelle.<a id=189></a>
+
+###### Article R211-41
+
+Pour l'application du c du II de l'article L. 211-18, la personne physique ou le représentant de la personne morale
+justifie : 
+
+1° Soit de la réalisation d'un stage en relation avec les activités mentionnées à l'article L. 211-1, effectué auprès d'un
+centre de formation, répondant à des critères fixés par arrêté du ministre chargé du tourisme et d'une durée qui ne peut être
+inférieure à quatre mois ; 
+
+2° Soit d'une expérience professionnelle d'une durée minimale d'un an dans des domaines en rapport avec les opérations
+mentionnées au I de l'article L. 211-1 ou avec des prestations d'hébergement touristique ou de transport touristique. ; 
+
+3° Soit de la possession d'un diplôme, titre ou certificat figurant sur une liste fixée par arrêté pris par les ministres
+chargés du tourisme, de l'éducation et de l'enseignement supérieur.
+
+**Liens relatifs à cet article**
 
 _Cité par_:
 
-  - Décret n°97-1198 du 19 décembre 1997 - art. Annexe (V)
+  - Arrêté du 23 décembre 2009 - art. 1 (V)
+  - Arrêté du 23 décembre 2009 - art. 2 (V)
+  - Code du tourisme. - art. R211-20 (V)
+  - Code du tourisme. - art. R211-50 (V)
 
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Modifié par_:
-
-  - Décret n°2006-1228 du 6 octobre 2006 - art. 1 (V) JORF 7 octobre 2006
-
-_Abrogé par_:
+_Créé par_:
 
   - Décret n°2009-1650 du 23 décembre 2009 - art. 1
 
 _Cite_:
 
   - Code du tourisme. - art. L211-1
-  - Code du tourisme. - art. L212-4
+  - Code du tourisme. - art. L211-18
 
 
-###### Article R*212-45
+##### Section 9 : Contrat de jouissance d'immeuble à temps partagé.<a id=190></a>
 
-Tout changement survenant dans un des éléments ayant conduit à l'attribution de la licence doit être communiqué au ministre
-chargé du tourisme qui prend, si nécessaire, un arrêté modificatif.
+###### Article R211-42
 
-**Liens relatifs à cet article**
+Lorsque l'opérateur de voyages envisage de conclure directement un contrat de jouissance d'immeuble à temps partagé régi par
+les articles L. 121-60 à L. 121-76 du code de la consommation, ou de prêter son concours à la conclusion d'un tel contrat, il
+adresse à la commission d'immatriculation mentionnée à l'article L. 141-2 les pièces suivantes : 
 
-_Anciens textes_:
+1° L'attestation d'une garantie financière suffisante pour couvrir séparément ces activités, affectée au remboursement des
+fonds, effets ou valeurs détenus pour autrui et des sommes dont l'opérateur de voyages demeure redevable à tout moment sur
+les versements ou remises qui lui ont été faits dans l'exercice de ces activités ; 
 
-  - Décret n°94-490 1994-06-15 art. 35 al. 12
+2° L'attestation d'assurance garantissant la responsabilité civile professionnelle relative à ces activités. 
 
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Modifié par_:
-
-  - Décret n°2006-1228 du 6 octobre 2006 - art. 1 (V) JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-
-###### Article R*212-47
-
-Le retrait ou la suspension de la licence est décidé par arrêté du ministre chargé du tourisme.
+La commission d'immatriculation accuse réception de ces pièces.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°94-490 1994-06-15 art. 35 al. 15
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Modifié par_:
-
-  - Décret n°2006-1228 du 6 octobre 2006 - art. 1 (V) JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-
-###### Article R212-43
-
-Lorsque la demande de licence est formulée par une personne physique, elle mentionne le nom et l'adresse du demandeur ainsi
-que l'adresse du lieu d'exploitation.
-
-Lorsque la demande est présentée au nom d'une personne morale, elle mentionne la dénomination sociale et l'adresse du siège
-de l'entreprise ainsi que le nom du ou des représentants légaux seuls habilités à présenter la demande.
-
-La demande doit être accompagnée :
-
-1° D'une attestation officielle délivrée par l'autorité compétente de l'Etat membre d'origine ou de provenance établissant
-que l'intéressé est autorisé à exercer, dans cet Etat, l'activité d'agent de voyages ;
-
-2° D'un document établissant que le demandeur satisfait aux conditions d'exercice exigées au b de l'article L. 212-2 ;
-
-3° De la justification de l'aptitude professionnelle définie par les dispositions réglementaires de la section 5 du chapitre
-II ;
-
-4° Des documents justificatifs de la garantie financière et de l'assurance de responsabilité civile professionnelle délivrées
-par les personnes mentionnées à l'article L. 212-3.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 1994-06-15 art. 35 al. 2 à al. 8
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
+_Créé par_:
 
   - Décret n°2009-1650 du 23 décembre 2009 - art. 1
 
 _Cite_:
 
-  - Code du tourisme. - art. L212-2
-  - Code du tourisme. - art. L212-3
-
-_Cité par_:
-
-  - Code du tourisme. - art. R212-12 (VT)
-
-
-###### Article R212-44
-
-La licence de libre prestation de services est réputée accordée en l'absence de réponse du ministre à l'expiration d'un délai
-de quatre mois à compter de la date de réception de la demande.
-
-L'arrêté accordant la licence mentionne le nom du titulaire, la dénomination sociale et l'adresse du siège de l'entreprise
-ainsi que les noms et adresses du garant et de l'assureur.
-
-Le titulaire de la licence de libre prestation de services adresse chaque année au ministre chargé du tourisme les
-justificatifs concernant sa garantie financière et son assurance de responsabilité civile professionnelle.
-
-**Liens relatifs à cet article**
+  - Code de la consommation - art. L121-60
+  - Code du tourisme. - art. L141-2
 
 _Anciens textes_:
 
-  - Décret n°94-490 1994-06-15 art. 35 al. 9 à al. 11
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
+  - Code du tourisme. - art. R212-4 (T)
 
 
-###### Article R212-46
+###### Article R211-43
 
-La licence peut être retirée sur la demande de son titulaire.
+La garantie financière résulte d'un engagement écrit de cautionnement pris par l'un des organismes prévus à l'article R.
+211-26. 
 
-Elle peut faire l'objet d'un retrait provisoire pour une durée maximale de trois mois non renouvelable ou d'un retrait
-définitif ou d'une suspension immédiate dans les cas prévus pour les agents de voyages établis sur le territoire national
-ainsi qu'en cas de perte de la qualité d'agent de voyages dans l'Etat d'origine ou de provenance.
+Cette garantie est affectée spécialement au remboursement des sommes dont l'opérateur de voyages demeure redevable à tout
+moment sur les versements ou remises qui lui ont été faits dans l'exercice des activités relevant de la présente section. 
+
+Elle peut être apportée par le même garant que celui couvrant l'activité prévue au a du II de l'article L. 211-18. 
+
+Le montant de cette garantie est déterminé par le garant dans les conditions prévues aux articles R. 211-44 et R. 211-45.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°94-490 1994-06-15 art. 35 al. 13, al. 14
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cité par_:
-
-  - Code du tourisme. - art. R212-12 (VT)
-
-
-###### Article R212-48
-
-La décision de retrait provisoire ou définitif, prise après avis du Conseil national du tourisme siégeant en formation
-spécialisée, ne peut intervenir sans que l'intéressé ait été préalablement avisé des motifs de la mesure envisagée et invité
-à se faire entendre personnellement ou par mandataire devant le Conseil national du tourisme.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 1994-06-15 art. 35 al. 16
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cité par_:
-
-  - Code du tourisme. - art. R212-12 (VT)
-
-
-#### Chapitre III : Autres régimes de vente de voyages et de séjours.<a id=188></a>
-
-##### Section 1 : Agrément.<a id=189></a>
-
-##### Sous-section 1 : Dispositions générales.<a id=190></a>
-
-###### Article R213-1
-
-Les associations ou organismes sans but lucratif titulaires de l'agrément ou mentionnés sur l'arrêté agréant une fédération
-ou une union de ces associations ou de ces organismes ne peuvent effectuer les opérations énumérées aux articles L. 211-1 et
-L. 211-4 qu'en faveur de leurs adhérents ou de leurs ressortissants.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 1994-06-15 art. 47 al. 1
-  - Décret n°94-490 du 15 juin 1994 - art. 47 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
+_Créé par_:
 
   - Décret n°2009-1650 du 23 décembre 2009 - art. 1
 
 _Cite_:
 
+  - Code du tourisme. - art. L211-18
+  - Code du tourisme. - art. R211-26
+  - Code du tourisme. - art. R211-44
+
+_Anciens textes_:
+
+  - Code du tourisme. - art. R212-5 (T)
+
+
+###### Article R211-44
+
+Le montant minimal de la garantie mentionné au quatrième alinéa de l'article L. 211-24 est fixé à la somme de 100 000 euros.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
+
+_Cite_:
+
+  - Code du tourisme. - art. L211-24
+
+_Cité par_:
+
+  - Code du tourisme. - art. R211-30 (V)
+  - Code du tourisme. - art. R211-43 (V)
+
+_Anciens textes_:
+
+  - Code du tourisme. - art. R212-6 (T)
+
+
+###### Article R211-45
+
+Le montant de la garantie est révisé au terme de chaque année et, sauf circonstance particulière dûment justifiée, ne peut
+être inférieur au montant maximum des sommes détenues pour autrui au cours de la précédente période de garantie. Ce montant
+peut en outre être révisé en cours de période à la demande du garant ou de l'opérateur lorsque les circonstances le
+justifient. 
+
+Pour toute révision du montant de la garantie, le souscripteur communique au garant un relevé délivré par un expert-comptable
+extérieur ou un commissaire aux comptes qui indique le montant le plus élevé des sommes détenues pour autrui au cours de la
+précédente période de garantie. Le garant peut demander à tout moment, suivant le cas, communication du registre des
+versements ou remises prévu au premier alinéa de l'article R. 211-48, du registre des mandats prévu au troisième alinéa de
+l'article R. 211-49 et du relevé intégral du compte prévu au deuxième alinéa de l'article R. 211-48. 
+
+Toute révision de la garantie est communiquée à la commission d'immatriculation mentionnée à l'article L. 141-2 par le
+garant.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
+
+_Cite_:
+
+  - Code du tourisme. - art. L141-2
+  - Code du tourisme. - art. R211-48
+  - Code du tourisme. - art. R211-49
+
+_Anciens textes_:
+
+  - Code du tourisme. - art. R212-7 (T)
+
+
+###### Article R211-46
+
+L'opérateur de voyages ne peut détenir de fonds, effets ou valeurs excédant le montant de la garantie accordée. 
+
+Tous les versements ou remises faits à l'opérateur de voyages au titre de l'article L. 211-24 doivent être immédiatement
+mentionnés sur le registre des versements ou remises prévu au premier alinéa de l'article R. 211-48.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
+
+_Cite_:
+
+  - Code du tourisme. - art. L211-24
+  - Code du tourisme. - art. R211-48
+
+_Anciens textes_:
+
+  - Code du tourisme. - art. R212-8 (T)
+
+
+###### Article R211-47
+
+Lorsque la garantie financière cesse, dans les conditions prévues à l'article R. 211-33, le garant en informe immédiatement,
+par lettre recommandée avec demande d'avis de réception, les personnes ayant fait des versements ou des remises et dont les
+noms et adresses figurent sur le registre des versements ou remises prévu au premier alinéa de l'article R. 211-48. Cette
+lettre indique le délai de trois mois prévu pour la production des créances. 
+
+Le garant en informe également la commission d'immatriculation mentionnée à l'article L. 141-2 ainsi que l'établissement de
+crédit auprès duquel est ouvert le compte prévu au deuxième alinéa de l'article R. 211-48. 
+
+Toutes les créances qui ont pour origine un versement ou une remise faits antérieurement à la date de cessation de la
+garantie restent couvertes par le garant, si elles sont produites par le créancier dans un délai de trois mois à compter de
+la date de réception de la lettre prévue au premier alinéa ci-dessus. 
+
+Le garant fait publier simultanément un avis dans la presse mentionnant le délai de trois mois ouvert aux créanciers pour
+produire. 
+
+Dès la notification à l'établissement de crédit de la cessation de la garantie, il ne peut plus être procédé à des retraits
+qu'avec l'accord du garant. Si le titulaire du compte refuse d'effectuer un retrait, la désignation d'un administrateur
+provisoire peut être demandée au président du tribunal de grande instance statuant en référé. 
+
+En cas de changement de garantie, les fonds provenant des opérations en cours au moment de la cessation de celle-ci ne
+peuvent être transférés à un autre compte de même nature que s'ils sont couverts au titre de la nouvelle garantie.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
+
+_Cite_:
+
+  - Code du tourisme. - art. L141-2
+  - Code du tourisme. - art. R211-33
+  - Code du tourisme. - art. R211-48
+
+_Anciens textes_:
+
+  - Code du tourisme. - art. R212-9 (T)
+
+
+###### Article R211-48
+
+La mention de tous les versements ou remises faits à l'opérateur de voyages doit être immédiatement portée, par ordre
+chronologique, sur un registre des versements ou remises, qui peut être tenu sous forme électronique dans les conditions
+définies aux articles 1316-1 à 1316-4 du code civil et qui est conservé pendant dix ans.
+
+L'opérateur de voyages est tenu de faire ouvrir, à son nom, dans un établissement de crédit, un compte qui est exclusivement
+affecté à la réception des versements ou remises. Il ne peut être ouvert à son nom qu'un seul compte de cette nature. 
+
+Il ne peut y avoir compensation ou convention de fusion entre ce compte et tout autre compte ouvert au nom du même
+titulaire. 
+
+Les modalités d'application du présent article sont fixées par arrêté du ministre chargé du tourisme.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
+
+_Cite_:
+
+  - Code civil - art. 1316-1
+
+_Cité par_:
+
+  - Code du tourisme. - art. R211-45 (V)
+  - Code du tourisme. - art. R211-46 (V)
+  - Code du tourisme. - art. R211-47 (VD)
+
+_Anciens textes_:
+
+  - Code du tourisme. - art. R212-10 (T)
+
+
+###### Article R211-49
+
+L'opérateur de voyages qui, dans les conditions prévues à l'article L. 211-24, prête son concours à la conclusion d'un
+contrat de jouissance d'immeuble à temps partagé le fait en application d'un mandat écrit qui indique le nom du mandataire,
+l'objet du mandat, sa durée et les frais qui pourront être engagés par le mandataire pour l'accomplissement de sa mission. 
+
+Le mandat indique également le montant de la rémunération de l'opérateur de voyages et précise les conditions dans lesquelles
+les parties ou l'une d'entre elles en supportent la charge. Le mandat indique expressément que le mandataire ne peut, en
+application de l'article L. 121-66 du code de la consommation, exiger ou recevoir, directement ou indirectement, aucun bien,
+effet, valeur, somme d'argent, représentatif de commissions ou de frais de recherche, de démarche, de publicité ou
+d'entremise avant l'expiration du délai de rétractation. Le mandataire ne peut exiger ou percevoir d'autres sommes que celles
+prévues par le contrat de jouissance d'immeuble à temps partagé.
+
+L'opérateur de voyages mentionne par ordre chronologique chaque mandat sur un registre, qui peut être tenu sous forme
+électronique dans les conditions définies aux articles 1316-1 à 1316-4 du code civil et qui est conservé pendant dix ans. Le
+numéro d'inscription sur ce registre est reporté sur chaque exemplaire du mandat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
+
+_Cite_:
+
+  - Code de la consommation - art. L121-66
+  - Code civil - art. 1316-1
+  - Code du tourisme. - art. L211-24
+
+_Cité par_:
+
+  - Code du tourisme. - art. R211-45 (V)
+
+_Anciens textes_:
+
+  - Code du tourisme. - art. R212-11 (T)
+
+
+##### Section 10 : Liberté d'établissement et libre prestation de service.<a id=191></a>
+
+###### Article R211-50
+
+Toute personne physique ou morale ressortissante d'un autre Etat membre de l'Union européenne ou d'un autre Etat partie à
+l'accord sur l'Espace économique européen qui souhaite s'établir en France, pour l'exercice d'activités mentionnées au I de
+l'article L. 211-1, est tenue de déposer une demande d'immatriculation auprès de la commission d'immatriculation mentionnée à
+l'article L. 141-2. 
+
+Outre les obligations de garantie financière et de responsabilité civile professionnelle, l'aptitude professionnelle prévue
+au c du II de l'article L. 211-18 est réputée acquise pour tout ressortissant d'un Etat membre de l'Union européenne ou d'un
+autre Etat partie à l'accord sur l'Espace économique européen dès lors qu'il justifie : 
+
+― soit de la réalisation d'un stage, d'une durée qui ne peut être inférieure à quatre mois, effectué dans un autre Etat
+membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen en lien avec les activités
+mentionnées au I de l'article L. 211-1 et dont l'attestation est délivrée par une autorité compétente de cet Etat ; 
+
+― soit d'une expérience professionnelle d'une durée minimale d'un an dans l'un de ces Etats au cours des dix années précédant
+la présentation du dossier complet de demande d'immatriculation dans des domaines en rapport avec les activités mentionnées
+au I de l'article L. 211-1 ou avec des prestations d'hébergement touristique ou de transport touristique ; 
+
+― soit de la possession d'un diplôme, titre ou certificat délivré par une autorité compétente de l'un de ces Etats permettant
+l'exercice des activités mentionnées au I de l'article L. 211-1 ou des activités de prestations d'hébergement touristique ou
+de transport touristique et attestant d'un niveau de qualification professionnelle au moins équivalent au niveau
+immédiatement inférieur à celui exigé en application de l'article R. 211-41. 
+
+Aux documents constitutifs de la demande d'immatriculation prévue à l'article R. 211-20 est jointe, en tant que de besoin,
+leur traduction en langue française.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
+
+_Cite_:
+
+  - Code du tourisme. - art. L141-2
   - Code du tourisme. - art. L211-1
-  - Code du tourisme. - art. L211-4
-
-
-###### Article R213-2
-
-Tous les documents et correspondances de l'association ou de l'organisme sans but lucratif doivent porter son nom, son
-adresse, ainsi que la mention " Association (ou organisme) de tourisme agréée " suivie du numéro d'agrément. Tous les
-documents de nature contractuelle doivent, en outre, préciser les noms et adresses du garant et de l'entreprise d'assurances.
-
-Les associations ou organismes sans but lucratif inscrits sur l'arrêté d'agrément d'une fédération ou d'une union font
-figurer sur leurs documents leur nom et adresse ainsi que la mention " Association bénéficiaire de l'agrément " suivie du
-nom, de l'adresse et du numéro d'agrément de la fédération ou de l'union. Les documents de nature contractuelle doivent
-préciser les noms et adresses du garant et de l'assureur de la fédération ou de l'union à laquelle ils sont rattachés.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 1994-06-15 art. 50 al. 1, al. 2
-  - Décret n°94-490 du 15 juin 1994 - art. 50 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-
-###### Article R213-3
-
-Dans le cadre d'une information générale sur leurs activités et leurs buts, conformément aux dispositions de l'article L.
-213-2, les associations et organismes sans but lucratif peuvent citer, à titre d'exemples et par année d'exercice, quatre
-destinations programmées dans leurs brochures en indiquant une échelle de prix.
-
-Pour assurer l'information préalable prévue à l'article L. 211-9, les associations ou organismes sans but lucratif peuvent
-remettre aux personnes qui en font la demande des brochures ou des catalogues fournissant l'ensemble des informations
-mentionnées audit article.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 49 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 49 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cite_:
-
-  - Code du tourisme. - art. L211-9
-  - Code du tourisme. - art. L213-2
-
-
-##### Sous-section 2 : Procédure d'attribution, de retrait et de suspension.<a id=191></a>
-
-###### Article R213-4
-
-L'agrément prévu à l'article L. 213-1 est accordé par arrêté du préfet après avis de la commission départementale de l'action
-touristique.
-
-Il est réputé acquis en l'absence de réponse du préfet à l'expiration d'un délai de quatre mois à compter de la date de
-réception de la demande.
-
-En cas de recours hiérarchique, le ministre chargé du tourisme se prononce après avis du Conseil national du tourisme.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 36 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 36 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cite_:
-
-  - Code du tourisme. - art. L213-1
+  - Code du tourisme. - art. L211-18
+  - Code du tourisme. - art. R211-41
 
 _Cité par_:
 
-  - Code du tourisme. - art. R211-3 (V)
+  - Code du tourisme. - art. R211-20 (V)
 
 
-###### Article R213-5
+###### Article R211-51
 
-La demande d'agrément est présentée par l'un des représentants légaux ou statutaires de l'association ou de l'organisme sans
-but lucratif ; elle est adressée au préfet.
+Pour l'application de l'article L. 211-21, toute personne physique ou morale légalement établie dans un autre Etat membre de
+l'Union européenne ou un autre Etat partie à l'accord sur l'Espace économique européen qui souhaite se livrer, de manière
+temporaire et occasionnelle, à l'une des activités figurant au I de l'article L. 211-1 est tenue d'en faire la déclaration
+préalablement à sa première prestation de services. Elle adresse cette déclaration par tout moyen permettant d'en accuser
+réception à la commission d'immatriculation à l'article L. 141-2, accompagnée des documents suivants : 
 
-A la demande sont annexés :
+1° Une preuve de sa nationalité ; 
 
-1° Les statuts, le règlement intérieur, la composition des organes de direction, le rapport moral et financier, les comptes
-du dernier exercice ainsi que tout document utile relatif à l'organisation et au fonctionnement de l'association ou de
-l'organisme sans but lucratif.
+2° Une attestation certifiant qu'elle est légalement établie dans un Etat membre de l'Union européenne ou dans un autre Etat
+partie à l'accord sur l'Espace économique européen pour y exercer les activités mentionnées au I de l'article L. 211-1 ; 
 
-S'il s'agit d'une fédération ou d'une union, toute indication concernant les associations ou organismes sans but lucratif
-dont l'inscription est sollicitée dans l'arrêté d'agrément ;
+3° Une attestation de garantie financière suffisante délivrée par un des garants mentionnés à l'article R. 211-26 ; 
 
-2° Toutes pièces justifiant que l'un des représentants de l'association ou de l'organisme sans but lucratif ou la personne
-chargée de la direction du département tourisme remplit les conditions d'aptitude professionnelle fixées par les dispositions
-réglementaires de la section 5 du chapitre II ; nonobstant les conditions prévues à l'article R. 212-24, l'aptitude
-professionnelle nécessaire pour diriger l'activité tourisme d'une association ou d'un organisme sans but lucratif peut être
-reconnue à toute personne ayant occupé pendant trois années consécutives un emploi de cadre ou assimilé dans une association
-ou un organisme sans but lucratif organisateur de centres de vacances et de loisirs ou d'échanges de jeunes, après avis de la
-commission départementale de l'action touristique ;
+4° Une information sur son état de couverture par une assurance garantissant les conséquences pécuniaires de la
+responsabilité civile professionnelle telle que prévue au b du II de l'article L. 211-18 ; 
 
-3° Les documents justificatifs de la garantie financière et de l'assurance de responsabilité civile définis aux articles R.
-213-8 et R. 213-14 couvrant les opérations mentionnées à l'article R. 211-1 et, le cas échéant, les activités de location de
-meublés saisonniers à usage touristique mentionnées au b du deuxième alinéa de l'article L. 211-8.
+5° Une preuve de ses qualifications professionnelles ou la preuve par tout moyen qu'elle a exercé l'activité d'opérateurs de
+voyages pendant au moins une année au cours des dix dernières années dans l'Etat d'établissement, lorsque cette activité ou
+la formation y conduisant n'y est pas réglementée.
 
-Le préfet requiert un extrait du bulletin n° 2 du casier judiciaire concernant le demandeur et, s'il y a lieu, la personne
-chargée de diriger l'activité tourisme. Si ces personnes sont de nationalité étrangère, elles doivent, en outre, produire un
-document équivalent, délivré depuis moins de trois mois, attestant du fait qu'elles répondent, dans leur pays d'origine, aux
-conditions d'exercice exigées au a de l'article L. 213-3.
+A ces documents est jointe, en tant que de besoin, leur traduction en langue française. 
 
-L'arrêté accordant l'agrément mentionne le numéro de ce dernier, le nom et l'adresse du siège de l'association ou de
-l'organisme sans but lucratif, le nom de la personne chargée de diriger l'activité tourisme ; il précise le mode de la
-garantie financière ainsi que les noms et adresses du garant et de l'assureur.
-
-S'il s'agit d'une fédération ou d'une union, il indique également le nom et l'adresse du siège des associations ou des
-organismes sans but lucratif qui en sont membres et dont elle assume la responsabilité.
-
-Lorsqu'un agrément a été délivré, toute modification survenant dans les éléments dont la déclaration ou la justification est
-exigée pour sa délivrance doit être signalée au préfet qui procède, si nécessaire, à la modification de l'arrêté.
+La déclaration est actualisée en cas de changement dans l'un des éléments mentionnés ci-dessus. Elle est renouvelée une fois
+par an si la personne compte fournir des services d'une manière temporaire et occasionnelle au cours de l'année concernée.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 37 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 37 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
+_Créé par_:
 
   - Décret n°2009-1650 du 23 décembre 2009 - art. 1
 
 _Cite_:
 
-  - Code du tourisme. - art. L211-8
-  - Code du tourisme. - art. L213-3
-  - Code du tourisme. - art. R211-1
-  - Code du tourisme. - art. R212-24
-  - Code du tourisme. - art. R213-14
-  - Code du tourisme. - art. R213-8
-
-_Cité par_:
-
-  - Code du tourisme. - art. R211-3 (V)
-
-
-###### Article R213-6
-
-L'agrément peut faire l'objet d'un retrait provisoire pour une durée maximale de trois mois ou d'un retrait définitif lorsque
-le titulaire :
-
-1° Ne satisfait plus aux conditions prévues aux a, b et c de l'article L. 213-3 ;
-
-2° A commis des manquements graves ou répétés aux obligations imposées par les dispositions législatives des titres Ier et II
-et du chapitre II du titre III du livre II, notamment ses articles L. 211-7 et L. 221-1, ou par les dispositions
-réglementaires des titres Ier et II et du chapitre II du titre III du présent livre, notamment ses articles R. 211-5, R.
-211-6, R. 211-7, R. 211-8, R. 213-2, R. 213-3, R. 213-9, R. 213-13 et R. 213-14 ;
-
-3° A fait l'objet d'une sanction prononcée en application du décret n° 2002-883 du 3 mai 2002 relatif à la protection des
-mineurs à l'occasion des vacances scolaires, des congés professionnels et des loisirs.
-
-L'inexécution injustifiée des engagements pris envers les membres et les prestataires de services touristiques est au nombre
-des manquements pouvant donner lieu au retrait provisoire ou définitif de l'agrément.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 45 (Ab)
-
-_Cite_:
-
-  - Décret n°2002-883 du 3 mai 2002
-  - Code du tourisme. - art. L213-3
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-
-###### Article R213-7
-
-Le retrait de l'agrément est décidé par arrêté du préfet après avis de la commission départementale de l'action touristique
-siégeant en formation spécialisée.
-
-En cas de recours hiérarchique, le ministre chargé du tourisme se prononce après avis du Conseil national du tourisme
-siégeant en formation spécialisée.
-
-La décision du préfet ou celle du ministre ne peut être prise sans que le responsable de l'association ou de l'organisme sans
-but lucratif ait été préalablement avisé des motifs de la mesure envisagée et invité à se faire entendre personnellement ou
-par mandataire soit devant la commission départementale, soit devant le Conseil national du tourisme.
-
-Le retrait a lieu sans formalité s'il intervient à la demande de l'association ou de l'organisme sans but lucratif titulaire
-de l'agrément ou lorsque l'association ou l'organisme concerné fait l'objet de liquidation judiciaire.
-
-Le préfet peut décider de suspendre immédiatement l'agrément si une situation d'urgence le nécessite ou si l'association ou
-l'organisme sans but lucratif se trouve dans l'incapacité de fournir un nouvel engagement de garantie financière ou un
-nouveau contrat d'assurance couvrant les conséquences pécuniaires de la responsabilité civile, lorsque de tels contrats ont
-fait l'objet d'une dénonciation ou d'une résiliation. Cette mesure cesse de produire ses effets s'il n'a pas été statué dans
-un délai de trois mois dans les conditions prévues au présent article.
-
-Le préfet peut, à tout moment, adresser un avertissement à l'association ou à l'organisme sans but lucratif qui se trouve en
-défaut, notamment en cas de plaintes réitérées émanant de prestataires de services touristiques ou de membres.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 46 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-
-##### Sous-section 3 : Garantie financière.<a id=192></a>
-
-###### Article R213-8
-
-La garantie financière prévue au b de l'article L. 213-3 résulte d'un engagement écrit de cautionnement pris :
-
-1° Soit par un organisme de garantie collective doté de la personnalité juridique, au moyen d'un fonds de garantie constitué
-à cet effet ;
-
-2° Soit par un établissement de crédit ou une entreprise d'assurances habilités à donner une garantie financière ;
-
-3° Soit par un groupement d'associations ou d'organismes sans caractère lucratif ayant fait l'objet d'une autorisation
-particulière par arrêté du ministre chargé du tourisme et disposant d'un fonds de solidarité suffisant.
-
-Elle peut également résulter de l'existence d'un fonds de réserve suffisant.
-
-La garantie financière est spécialement affectée au remboursement en principal des fonds reçus par l'association ou
-l'organisme sans but lucratif au titre des engagements qu'il a contractés à l'égard de ses membres pour des prestations en
-cours ou à servir, et permet d'assurer, notamment en cas de cessation de paiements, le rapatriement des membres.
-
-L'engagement de garantie financière doit répondre à toutes les dispositions réglementaires de la présente sous-section.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 38 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cite_:
-
-  - Code du tourisme. - art. L213-3
-
-_Cité par_:
-
-  - Code du tourisme. - art. R213-5 (VT)
-
-
-###### Article R213-9
-
-Le montant minimum de la garantie financière exigée au b de l'article L. 213-3 est fixé par arrêté du ministre chargé du
-tourisme pris après avis du Conseil national du tourisme. Cet arrêté définit, en outre, les modalités de calcul de la
-garantie en fonction des recettes réalisées annuellement par l'association ou l'organisme sans but lucratif au titre des
-opérations mentionnées aux articles L. 211-1 et L. 211-4. A défaut d'exercice antérieur de référence, il est fait application
-du montant minimum de garantie.
-
-Dans ce cadre, le préfet détermine le montant de la garantie financière que doit fournir chaque association ou organisme sans
-but lucratif.
-
-Toute fédération ou union se portant garante d'une ou plusieurs associations ou organismes sans but lucratif supplémentaires
-doit réévaluer le montant de sa garantie pour en obtenir l'inscription sur l'arrêté lui accordant l'agrément.
-
-Les associations ou organismes sans but lucratif sont tenus, pour l'application du présent article, de transmettre au préfet,
-dans les six mois suivant la fin de leur exercice comptable, leur déclaration de recettes ainsi que leur bilan et leur compte
-de résultats.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 39 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 39 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cite_:
-
+  - Code du tourisme. - art. L141-2
   - Code du tourisme. - art. L211-1
-  - Code du tourisme. - art. L211-4
-  - Code du tourisme. - art. L213-3
+  - Code du tourisme. - art. L211-18
+  - Code du tourisme. - art. L211-21
+  - Code du tourisme. - art. R211-26
 
-_Cité par_:
 
-  - Code du tourisme. - art. R213-10 (VT)
+### TITRE II : DISPOSITIONS RELATIVES AUX VISITES DANS LES MUSÉES ET MONUMENTS HISTORIQUES.<a id=192></a>
 
+#### Chapitre unique : Personnels qualifiés.<a id=193></a>
 
-###### Article R213-10
-
-Lorsque la garantie financière résulte d'un engagement de cautionnement pris par un établissement de crédit, une entreprise
-d'assurances ou un organisme de garantie collective, les dispositions réglementaires de la section 6 du chapitre II du
-présent titre s'appliquent, sauf en ce qui concerne le montant de la garantie financière, lequel est fixé conformément à
-l'article R. 213-9.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 40 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 40 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cite_:
-
-  - Code du tourisme. - art. R213-9
-
-
-###### Article R213-11
-
-Lorsque la garantie financière résulte de l'appartenance à un groupement d'associations ou d'organismes sans but lucratif,
-l'association ou l'organisme sans but lucratif doit produire une attestation par laquelle le garant s'engage à se substituer
-à l'association ou à l'organisme sans but lucratif défaillant pour le règlement des créances et le rapatriement éventuel des
-membres, à la demande du préfet.
-
-L'engagement de cautionnement ne prend fin que trois mois après la date, soit de l'arrêté retirant l'agrément, soit de la
-dénonciation du contrat par une des parties. Les membres de l'association ou de l'organisme sans but lucratif sont informés,
-sans délai, de cette circonstance.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 41 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 41 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cité par_:
-
-  - Code du tourisme. - art. R213-13 (VT)
-
-
-###### Article R213-12
-
-Lorsque la garantie financière résulte de l'existence d'un fonds de réserve, l'association ou l'organisme sans but lucratif
-doit produire une convention régulièrement passée avec un établissement de crédit portant mention d'un dépôt au moins égal au
-montant de la garantie financière fixé par le préfet et susceptible d'être mobilisé sur le territoire national dans les
-conditions prévues à l'article R. 213-13. Cette convention doit comporter l'engagement des deux parties de se conformer, en
-ce qui concerne les prélèvements devant être effectués sur ce dépôt, aux dispositions ci-après.
-
-Sur demande du préfet, des prélèvements peuvent être faits sur le fonds de réserve ainsi que sur les intérêts qu'il aurait
-produits pour le règlement des créances entrant dans le champ d'application de la garantie et pour le rapatriement éventuel
-des membres de l'association ou de l'organisme sans but lucratif.
-
-Les associations ou organismes sans but lucratif ne peuvent reprendre la libre disposition de leur fonds de réserve qu'à
-l'expiration d'un délai de quatre mois à compter :
-
-- soit de la notification de l'arrêté leur retirant l'agrément ;
-
-- soit de la présentation d'un document justifiant d'un nouveau mode de garantie financière.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 42 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 42 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cite_:
-
-  - Code du tourisme. - art. R213-13
-
-_Cité par_:
-
-  - Code du tourisme. - art. R213-26 (VT)
-  - Code du tourisme. - art. R213-41 (VT)
-
-
-###### Article R213-13
-
-En cas d'urgence, pour assurer le rapatriement des membres d'associations ou organismes sans but lucratif relevant des
-articles R. 213-11 et R. 213-12, le préfet peut requérir, selon le cas, l'organisme mentionné à l'article R. 213-11 ou
-l'établissement dépositaire du fonds de réserve qui prend l'initiative immédiate de libérer les fonds nécessaires pour
-couvrir les frais inhérents aux opérations de rapatriement.
-
-En dehors de ce cas, les associations ou organismes mentionnés à l'alinéa précédent ne peuvent faire l'objet d'une
-réquisition du préfet que pour le paiement d'une créance ayant pour origine un versement effectué à l'occasion de l'une des
-opérations mentionnées aux articles L. 211-1 et L. 211-4 et à la condition expresse que le créancier soit en mesure de
-justifier de sa créance dans les conditions fixées par les dispositions réglementaires de la section 6 du chapitre II du
-présent titre.
-
-En cas d'instance judiciaire, l'association ou l'organisme sans but lucratif en avise par lettre recommandée le préfet ;
-celui-ci sursoit à se prononcer sur les réclamations tendant à la mise en jeu de la garantie jusqu'au jugement définitif.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 43 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 43 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cite_:
-
-  - Code du tourisme. - art. L211-1
-  - Code du tourisme. - art. L211-4
-  - Code du tourisme. - art. R213-11
-
-_Cité par_:
-
-  - Code du tourisme. - art. R213-12 (VT)
-  - Code du tourisme. - art. R213-26 (VT)
-  - Code du tourisme. - art. R213-41 (VT)
-
-
-##### Sous-section 4 : Responsabilité civile professionnelle.<a id=193></a>
-
-###### Article R213-14
-
-Le contrat d'assurance souscrit en application du c de l'article L. 211-3 garantissant les conséquences pécuniaires de la
-responsabilité civile encourue par les associations ou les organismes sans but lucratif au titre de leurs activités
-touristiques doit répondre aux conditions définies par les dispositions réglementaires de la section 7 du chapitre II du
-présent titre. Ces associations ou organismes doivent se conformer aux dispositions du dernier alinéa de l'article R. 212-40
-et de l'article R. 212-41. Dans le cas d'une fédération ou d'une union, le contrat d'assurance doit couvrir dans les mêmes
-conditions la responsabilité des associations ou organismes sans but lucratif qui en sont membres et dont la fédération ou
-l'union assume la responsabilité.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 44 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 44 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cite_:
-
-  - Code du tourisme. - art. L211-3
-  - Code du tourisme. - art. R212-40
-  - Code du tourisme. - art. R212-41
-
-_Cité par_:
-
-  - Code du tourisme. - art. R213-5 (VT)
-
-
-##### Section 2 : Autorisation.<a id=194></a>
-
-##### Sous-section 1 : Dispositions générales.<a id=195></a>
-
-###### Article R213-15
-
-Les organismes locaux de tourisme mentionnés à l'article L. 213-5 doivent réaliser les opérations prévues audit article dans
-une zone géographique d'intervention précisée par leurs statuts.
-
-Un règlement intérieur, adopté par le conseil d'administration ou l'organe de direction, définit les modalités d'action de
-l'organisme local de tourisme.
-
-La personne chargée de diriger l'organisme doit remplir les conditions d'aptitude professionnelle fixées à l'article R.
-212-24, l'ancienneté des services prévue audit article étant réduite, en ce cas, de moitié. Un arrêté du ministre chargé du
-tourisme détermine les conditions d'aptitude professionnelle exigées du personnel de direction des organismes locaux
-desservant, dans leur zone d'intervention, une population touristique d'une importance réduite ou dont les recettes annuelles
-n'excèdent pas un plafond défini par ce même arrêté.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 51 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 51 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cite_:
-
-  - Code du tourisme. - art. L213-5
-  - Code du tourisme. - art. R212-24
-
-_Cité par_:
-
-  - Code du tourisme. - art. R213-27 (VT)
-
-
-###### Article R213-16
-
-Les organismes locaux de tourisme autorisés doivent clairement faire apparaître leur nom et leur adresse accompagnés de la
-mention " organisme local de tourisme autorisé par arrêté préfectoral " dans leur correspondance, leur enseigne, leur
-publicité.
-
-Leurs documents de nature contractuelle doivent, en outre, préciser les noms et adresses du garant et de l'assureur.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 63 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 63 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cité par_:
-
-  - Code du tourisme. - art. R213-20 (VT)
-
-
-##### Sous-section 2 : Procédure d'attribution, de retrait et de suspension.<a id=196></a>
-
-###### Article R213-17
-
-L'autorisation à laquelle est subordonné le fonctionnement des organismes locaux de tourisme est délivrée par arrêté du
-préfet après avis de la commission départementale de l'action touristique. Elle est réputée accordée en l'absence de réponse
-du préfet à l'expiration d'un délai de quatre mois à compter de la réception de la demande.
-
-En cas de recours hiérarchique, le ministre chargé du tourisme se prononce après avis du Conseil national du tourisme.
-
-Conformément aux dispositions du b de l'article L. 211-3, sont dispensés de l'autorisation susmentionnée les organismes
-locaux qui se bornent à offrir des services dont ils sont eux-mêmes producteurs, notamment par la location de locaux dont ils
-sont propriétaires ou appartenant aux collectivités publiques dont ils relèvent, ou par l'organisation de visites de sites,
-de monuments ou de musées sous la conduite de préposés qu'ils rémunèrent.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 52 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 52 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cite_:
-
-  - Code du tourisme. - art. L211-3
-
-_Cité par_:
-
-  - Code du tourisme. - art. R211-3 (V)
-
-
-###### Article R213-18
-
-La demande d'autorisation est présentée par le dirigeant de l'organisme local de tourisme. Elle est adressée au préfet.
-
-A la demande sont annexées les pièces suivantes :
-
-1° Les statuts, le règlement intérieur, les comptes du dernier exercice, ainsi que tous les documents utiles relatifs à
-l'organisation et au fonctionnement de l'organisme ;
-
-Dans le cas d'un organisme local à vocation communale ou intercommunale, l'accord de la ou des communes concernées pris après
-délibération du ou des conseils municipaux ;
-
-2° Toutes pièces justifiant que la personne chargée de diriger l'organisme remplit les conditions d'aptitude professionnelle
-prévues à l'article R. 213-15 ;
-
-3° Une attestation d'assurance garantissant les conséquences pécuniaires de la responsabilité civile, établie conformément
-aux dispositions de l'article R. 212-41 ;
-
-4° Une attestation de garantie financière délivrée par un des garants mentionnés à l'article R. 213-22.
-
-Les attestations mentionnées aux 3° et 4° ci-dessus doivent, le cas échéant, indiquer que la garantie financière et
-l'assurance souscrites couvrent les activités de location de meublés saisonniers à usage touristique mentionnées au b du
-deuxième alinéa de l'article L. 211-8.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du tourisme annexe, R213-15, R212-41, R213-22, L211-8
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 53 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 53 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cité par_:
-
-  - Code du tourisme. - art. R211-3 (V)
-
-
-###### Article R213-19
-
-L'arrêté accordant l'autorisation mentionne le nom et l'adresse du siège de l'organisme local de tourisme, la zone
-géographique d'intervention, le nom de la personne chargée de la direction ; il précise le mode de garantie financière ainsi
-que les noms et adresses du garant et de l'assureur.
-
-Lorsqu'une autorisation a été délivrée, toute modification survenant dans les éléments dont la déclaration ou la
-justification est exigée pour sa délivrance doit être signalée au préfet ; celui-ci procède, si nécessaire, à la modification
-de l'arrêté.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 54 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 54 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cité par_:
-
-  - Code du tourisme. - art. R213-20 (VT)
-
-
-###### Article R213-20
-
-L'autorisation peut faire l'objet d'un retrait provisoire pour une durée maximale de trois mois, ou d'un retrait définitif
-lorsque l'organisme local de tourisme :
-
-1° Ne satisfait plus aux conditions prévues à l'article L. 213-5 ;
-
-2° A commis des manquements graves ou répétés aux obligations imposées par les dispositions législatives des titres Ier et II
-et du chapitre II du titre III du livre II, notamment ses articles L. 211-7, L. 211-19 et L. 221-1, ou par les dispositions
-réglementaires des titres Ier et II et du chapitre II du titre III du présent livre, notamment ses articles R. 211-5, R.
-211-6, R. 211-7, R. 211-8, R. 213-16, R. 213-19, R. 213-23 et R. 213-27. L'inexécution injustifiée des engagements pris
-envers la clientèle et les prestataires des services touristiques est au nombre des manquements pouvant donner lieu au
-retrait provisoire ou définitif de l'autorisation.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 61 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 61 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cite_:
-
-  - Code du tourisme. - art. L211-19
-  - Code du tourisme. - art. L211-7
-  - Code du tourisme. - art. L213-5
-  - Code du tourisme. - art. L221-1
-  - Code du tourisme. - art. R211-5
-  - Code du tourisme. - art. R211-6
-  - Code du tourisme. - art. R211-7
-  - Code du tourisme. - art. R211-8
-  - Code du tourisme. - art. R213-16
-  - Code du tourisme. - art. R213-19
-  - Code du tourisme. - art. R213-23
-  - Code du tourisme. - art. R213-27
-
-
-###### Article R213-21
-
-Les décisions de retrait sont prises par le préfet après avis de la commission départementale de l'action touristique
-siégeant en formation spécialisée.
-
-En cas de recours hiérarchique, le ministre chargé du tourisme se prononce après avis du Conseil national du tourisme
-siégeant en formation spécialisée.
-
-La décision du préfet ou celle du ministre chargé du tourisme ne peut être prise sans que le dirigeant de l'organisme local
-de tourisme ait été préalablement avisé des motifs de la mesure envisagée et invité à se faire entendre personnellement ou
-par mandataire soit devant la commission départementale, soit devant le Conseil national du tourisme.
-
-Le retrait a lieu sans formalité s'il intervient à la demande de l'organisme local de tourisme concerné.
-
-Le préfet peut décider la suspension immédiate de l'autorisation si l'organisme local de tourisme se trouve dans l'incapacité
-de fournir, dans les délais prescrits, un nouvel engagement de garantie financière ou un nouveau contrat d'assurance, lorsque
-de tels contrats ont fait l'objet d'une dénonciation ou d'une résiliation de la part du garant ou de l'assureur. Cette mesure
-cesse de produire ses effets s'il n'a pas été statué dans un délai de trois mois dans les conditions prévues au présent
-article.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 62 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 62 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-
-##### Sous-section 3 : Garantie financière.<a id=197></a>
-
-###### Article R213-22
-
-La garantie financière prévue à l'article L. 213-5 résulte d'un engagement écrit de cautionnement pris :
-
-1° Soit par un organisme de garantie collective doté de la personnalité juridique, au moyen d'un fonds de garantie constitué
-à cet effet ;
-
-2° Soit par un établissement de crédit ou une entreprise d'assurances habilités à donner une garantie financière.
-
-Elle peut également résulter de l'existence d'un fonds de réserve suffisant.
-
-La garantie financière est spécialement affectée au remboursement en principal des fonds reçus par l'organisme local de
-tourisme au titre des engagements qu'il a contractés à l'égard de sa clientèle pour des prestations en cours ou à servir.
-
-L'engagement de garantie financière doit répondre à toutes les dispositions réglementaires de la présente sous-section.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 55 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 55 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cite_:
-
-  - Code du tourisme. - art. L213-5
-
-
-###### Article R213-23
-
-Le montant minimum de la garantie financière est fixé par arrêté du ministre chargé du tourisme après avis du Conseil
-national du tourisme. Cet arrêté définit, en outre, les modalités de calcul de la garantie en fonction des recettes réalisées
-annuellement par l'organisme local de tourisme au titre des opérations mentionnées aux articles L. 211-1 et L. 211-4 et en
-fonction de l'étendue de la zone géographique où s'exerce son activité. A défaut d'exercice antérieur de référence, il est
-fait application du montant minimum de la garantie.
-
-Dans ce cadre, le montant de la garantie financière que doit fournir chaque organisme local de tourisme est fixé par le
-préfet. A cet effet, un document comptable faisant état de la totalité des sommes encaissées au titre des opérations relevant
-du régime de l'autorisation est transmis annuellement au préfet.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 56 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 56 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cite_:
-
-  - Code du tourisme. - art. L211-1
-  - Code du tourisme. - art. L211-4
-
-_Cité par_:
-
-  - Code du tourisme. - art. R213-20 (VT)
-  - Code du tourisme. - art. R213-24 (VT)
-  - Code du tourisme. - art. R213-25 (VT)
-
-
-###### Article R213-24
-
-Lorsque la garantie financière résulte de l'engagement de cautionnement pris par un établissement de crédit ou une entreprise
-d'assurances, les dispositions réglementaires de la section 6 du chapitre II du présent titre s'appliquent, sauf en ce qui
-concerne le montant de la garantie, lequel est fixé conformément aux dispositions de l'article R. 213-23.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 57 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 57 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cite_:
-
-  - Code du tourisme. - art. R213-23
-
-
-###### Article R213-25
-
-Lorsque la garantie financière résulte d'un engagement de cautionnement pris par un organisme de garantie collective, celui-
-ci obéit pour ses conditions de fonctionnement aux règles définies par l'article R. 212-29.
-
-L'organisme de garantie collective délivre à chaque organisme local affilié une attestation d'adhésion indiquant le montant
-de la garantie requise au titre de l'article R. 213-23. Cette attestation est transmise au préfet.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 58 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 58 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cite_:
-
-  - Code du tourisme. - art. R212-29
-  - Code du tourisme. - art. R213-23
-
-
-###### Article R213-26
-
-Lorsque la garantie financière résulte de l'existence d'un fonds de réserve, les dispositions des articles R. 213-12 et R.
-213-13 s'appliquent en tant que de besoin.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 59 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 59 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cite_:
-
-  - Code du tourisme. - art. R213-12
-  - Code du tourisme. - art. R213-13
-
-
-##### Sous-section 4 : Responsabilité civile professionnelle.<a id=198></a>
-
-###### Article R213-27
-
-Le contrat d'assurance souscrit en application de l'article L. 213-5 garantissant les conséquences pécuniaires de la
-responsabilité civile encourue par les organismes locaux de tourisme au titre des activités réalisées conformément aux
-dispositions de l'article R. 213-15 doit répondre aux conditions définies par les dispositions réglementaires de la section 4
-du chapitre II du présent titre. Ces organismes doivent se conformer aux dispositions du dernier alinéa de l'article R.
-212-40 et de l'article R. 212-41.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 60 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 60 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cite_:
-
-  - Code du tourisme. - art. L213-5
-  - Code du tourisme. - art. R212-40
-  - Code du tourisme. - art. R212-41
-  - Code du tourisme. - art. R213-15
-
-_Cité par_:
-
-  - Code du tourisme. - art. R213-20 (VT)
-
-
-##### Section 3 : Habilitation.<a id=199></a>
-
-##### Sous-section 1 : Dispositions générales.<a id=200></a>
-
-###### Article R213-28
-
-L'habilitation prévue à l'article L. 213-7 est délivrée aux personnes physiques ou morales qui justifient posséder le titre
-ou la qualité suivante :
-
-- gestionnaires d'hébergements classés conformément aux dispositions réglementaires établies par le ministère chargé du
-tourisme, ou groupements chargés de les représenter ;
-
-- gestionnaires d'activités de loisirs qui ont procédé à une déclaration d'ouverture de centre ou qui détiennent un diplôme
-ou un brevet reconnu par l'Etat leur conférant la capacité à intervenir sur un secteur déterminé relevant du domaine des
-loisirs ;
-
-- transporteurs de voyageurs, autres que les transporteurs routiers, dûment autorisés ;
-
-- transporteurs routiers de voyageurs autorisés et disposant d'un matériel classé dans les conditions prévues par les
-dispositions réglementaires du chapitre II du titre III ;
-
-- agents immobiliers et administrateurs de biens dont l'activité est régie par la loi n° 70-9 du 2 janvier 1970 réglementant
-les conditions d'exercice des activités relatives à certaines opérations portant sur les immeubles et les fonds de commerce.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°70-9 du 2 janvier 1970
-  - Code du tourisme. - art. L213-7
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 65 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 65 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cité par_:
-
-  - Code du tourisme. - art. D232-4 (Ab)
-  - Code du tourisme. - art. R213-33 (VT)
-
-
-###### Article R213-29
-
-Les opérations réalisées au titre de l'habilitation ne doivent pas revêtir un caractère prépondérant et doivent représenter,
-dans chaque cas, moins de 50 % de la valeur globale de la prestation vendue ou offerte à la vente à un prix tout compris, à
-moins qu'elles ne présentent un caractère complémentaire et, dans ce cas, que chacune des prestations vendues ou offertes à
-la vente à un prix tout compris ne dépasse pas un montant fixé par arrêté du ministre chargé du tourisme.
-
-Pour les transporteurs de voyageurs, l'arrêté prévu au premier alinéa est pris conjointement par le ministre chargé du
-tourisme et par le ministre chargé des transports.
-
-Dans certaines gares désignées par arrêté des ministres chargés du tourisme et des transports et pour les besoins de la
-desserte des sites aéroportuaires reliés au réseau ferroviaire à grande vitesse, les transporteurs ferroviaires peuvent,
-selon les modalités fixées par cet arrêté, délivrer tous titres de transport aérien dans le cadre de services complémentaires
-offerts à leurs usagers.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 66 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 66 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cité par_:
-
-  - Code du tourisme. - art. R213-35 (VT)
-  - Code du tourisme. - art. R213-43 (VT)
-
-
-###### Article R213-30
-
-Les entreprises titulaires de l'habilitation doivent clairement faire apparaître leur nom et leur adresse accompagnée de la
-mention " Etablissement habilité tourisme par arrêté préfectoral " dans leur correspondance, leur enseigne et leur publicité.
-
-Leurs documents contractuels doivent, en outre, préciser les noms et adresses de leur garant et de leur assureur.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 71 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 71 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cité par_:
-
-  - Code du tourisme. - art. R213-35 (VT)
-
-
-##### Sous-section 2 : Procédure d'attribution de retrait et de suspension.<a id=201></a>
-
-###### Article R213-31
-
-L'habilitation est délivrée par arrêté du préfet après avis de la commission départementale de l'action touristique.
-
-Elle est réputée accordée en l'absence de réponse du préfet à l'expiration d'un délai de quatre mois à compter de la date de
-réception de la demande.
-
-En cas de recours hiérarchique, le ministre chargé du tourisme se prononce après avis du Conseil national du tourisme.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 67 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 67 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cité par_:
-
-  - Code du tourisme. - art. R211-3 (V)
-
-
-###### Article R213-32
-
-La demande d'habilitation, accompagnée des pièces exigées à l'article R. 213-33, est adressée au préfet.
-
-Lorsque la demande est formulée par une personne physique, elle mentionne le nom, le domicile et la profession du demandeur,
-ainsi que l'adresse du lieu d'exploitation.
-
-Lorsque la demande est présentée au nom d'une personne morale, elle mentionne la dénomination sociale, la forme juridique,
-l'adresse du siège social, l'activité exercée par l'entreprise, le nom et le domicile du ou des représentants légaux, seuls
-autorisés à présenter la demande et, s'il y a lieu, le nom de la ou des personnes désignées par le chef d'entreprise pour
-diriger l'activité réalisée au titre de l'habilitation.
-
-Une liste précisant la dénomination et l'adresse de chaque établissement, succursale, agence ou bureau pour lesquels le
-déclarant sollicite le bénéfice de l'habilitation est, s'il y a lieu, jointe à la demande.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 68 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 68 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cite_:
-
-  - Code du tourisme. - art. R213-33
-
-_Cité par_:
-
-  - Code du tourisme. - art. R213-34 (VT)
-
-
-###### Article R213-33
-
-La demande d'habilitation doit être accompagnée :
-
-- de toutes pièces justificatives des titres ou qualités requises au titre de l'article R. 213-28 ;
-
-- d'une présentation des prestations offertes au titre de l'habilitation ;
-
-- des documents justificatifs de garantie financière et de l'assurance garantissant les conséquences pécuniaires de la
-responsabilité civile professionnelle exigées à l'article L. 213-7 et couvrant, le cas échéant, les activités de location de
-meublés saisonniers à usage touristique mentionnées au b du deuxième alinéa de l'article L. 211-8.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 69 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 69 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cite_:
-
-  - Code du tourisme. - art. L211-8
-  - Code du tourisme. - art. L213-7
-  - Code du tourisme. - art. R213-28
-
-_Cité par_:
-
-  - Code du tourisme. - art. R211-3 (V)
-  - Code du tourisme. - art. R213-32 (VT)
-  - Code du tourisme. - art. R213-34 (VT)
-
-
-###### Article R213-34
-
-L'arrêté accordant l'habilitation mentionne soit, s'il s'agit d'une personne physique, le nom, la profession du titulaire et
-l'adresse du lieu d'exploitation, soit, s'il s'agit d'une personne morale, la dénomination et la raison sociale, la forme
-juridique, l'activité professionnelle exercée, l'adresse du siège social ainsi que, le cas échéant, l'adresse du lieu
-d'exploitation et le nom de la personne désignée pour diriger l'activité réalisée au titre de l'habilitation. Il précise le
-mode de garantie financière ainsi que les noms et adresses du garant et de l'assureur.
-
-Il est fait mention de la dénomination et de l'adresse de chacun des établissements, succursales, agences ou bureaux
-déclarés.
-
-Pour chaque établissement, succursale, agence ou bureau déclaré bénéficiaire de l'habilitation, une copie de l'arrêté
-délivrant l'habilitation est adressée au préfet du département du lieu de situation de cet établissement secondaire.
-
-Tout changement survenant ultérieurement dans les éléments dont la déclaration est exigée aux articles R. 213-32 et R. 213-33
-doit être communiqué par le titulaire de l'habilitation au préfet ; celui-ci prend, si nécessaire, un arrêté modificatif et
-en informe les préfets éventuellement concernés.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 70 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 70 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cite_:
-
-  - Code du tourisme. - art. R213-32
-  - Code du tourisme. - art. R213-33
-
-_Cité par_:
-
-  - Code du tourisme. - art. R213-35 (VT)
-
-
-###### Article R213-35
-
-L'habilitation peut être retirée provisoirement, pour une durée maximale de trois mois, ou définitivement lorsque le
-titulaire :
-
-1° Ne satisfait plus aux conditions prévues à l'article L. 213-7, en raison notamment de la perte de la qualité requise au
-titre de l'activité principale ;
-
-2° A commis des manquements graves ou répétés aux obligations imposées par les dispositions législatives des titres Ier et II
-et du chapitre II du titre III du livre II, notamment ses articles L. 211-7, L. 211-19 et L. 221-1, ou par les dispositions
-réglementaires des titres Ier et II et du chapitre II du titre III du présent livre, notamment son article R. 213-29, le
-dernier alinéa de son article R. 213-34 et ses articles R. 211-5, R. 211-6, R. 211-7, R. 211-8, R. 213-30, R. 213-38, R.
-213-43 et R. 232-1.
-
-L'inexécution injustifiée des engagements pris envers la clientèle et les autres prestataires de services touristiques est au
-nombre des manquements pouvant donner lieu au retrait provisoire ou définitif de l'habilitation.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 79 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 79 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cite_:
-
-  - Code du tourisme. - art. L211-19
-  - Code du tourisme. - art. L211-7
-  - Code du tourisme. - art. L213-7
-  - Code du tourisme. - art. L221-1
-  - Code du tourisme. - art. R211-5
-  - Code du tourisme. - art. R211-6
-  - Code du tourisme. - art. R211-7
-  - Code du tourisme. - art. R211-8
-  - Code du tourisme. - art. R213-29
-  - Code du tourisme. - art. R213-30
-  - Code du tourisme. - art. R213-34
-  - Code du tourisme. - art. R213-38
-  - Code du tourisme. - art. R213-43
-  - Code du tourisme. - art. R232-1
-
-
-###### Article R213-36
-
-Le retrait provisoire ou définitif de l'habilitation est décidé par arrêté du préfet après avis de la commission
-départementale de l'action touristique siégeant en formation spécialisée.
-
-Le préfet informe, le cas échéant, les préfets des lieux de situation des établissements, succursales, agences ou bureaux.
-
-En cas de recours hiérarchique, le ministre chargé du tourisme se prononce après avis du Conseil national du tourisme
-siégeant en formation spécialisée.
-
-La décision du préfet ou celle du ministre ne peut être prise sans que l'intéressé ait été préalablement avisé des motifs de
-la mesure envisagée et invité à se faire entendre personnellement ou par mandataire soit devant la commission départementale,
-soit devant le Conseil national du tourisme.
-
-La décision de retrait est prise sans formalité si elle intervient à la demande de l'intéressé ou lorsque l'entreprise
-titulaire de l'habilitation fait l'objet d'un jugement de liquidation judiciaire. En cas d'urgence, le préfet peut décider la
-suspension immédiate de l'habilitation. Cette mesure qui présente un caractère provisoire cesse de produire effet s'il n'a
-pas été statué dans un délai de trois mois dans les conditions prévues au présent article.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 80 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 80 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-
-##### Sous-section 3 : Garantie financière.<a id=202></a>
-
-###### Article R213-37
-
-La garantie financière prévue à l'article L. 213-7 résulte d'un engagement écrit de cautionnement pris :
-
-1° Soit par un organisme de garantie collective doté de la personnalité juridique, au moyen d'un fonds de garantie constitué
-à cet effet ;
-
-2° Soit par un établissement de crédit ou une entreprise d'assurances habilités à donner une garantie financière.
-
-Elle peut également résulter de l'existence d'un fonds de réserve suffisant.
-
-La garantie financière est spécialement affectée au remboursement en principal des fonds reçus par l'entreprise titulaire de
-l'habilitation au titre des engagements qu'elle a contractés à l'égard de sa clientèle pour des prestations en cours ou à
-servir et permet d'assurer, notamment en cas de cessation de paiement ayant entraîné un dépôt de bilan, le rapatriement des
-voyageurs.
-
-L'engagement de garantie financière doit répondre à toutes les dispositions de la présente sous-section.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 72 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 72 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cite_:
-
-  - Code du tourisme. - art. L213-7
-
-
-###### Article R213-38
-
-Le montant minimum de la garantie financière est fixé par catégorie d'activités soumises à habilitation, par arrêté du
-ministre chargé du tourisme après avis du Conseil national du tourisme. Cet arrêté définit, en outre, les modalités de calcul
-de la garantie en fonction des recettes réalisées annuellement au titre des opérations couvertes par l'habilitation en tenant
-compte de la nature des activités exercées par l'entreprise habilitée. A défaut d'exercice antérieur de référence, il est
-fait application du montant minimum de garantie.
-
-Dans ce cadre, le montant de la garantie financière est fixé par le préfet pour chaque titulaire de l'habilitation. A cet
-effet, un document comptable faisant état de la totalité des sommes encaissées au titre des opérations réalisées sous le
-régime de l'habilitation est transmis annuellement au préfet compétent. Cette déclaration précise la nature des activités
-exercées par l'entreprise.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 73 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 73 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cité par_:
-
-  - Code du tourisme. - art. R213-35 (VT)
-  - Code du tourisme. - art. R213-39 (VT)
-  - Code du tourisme. - art. R213-40 (VT)
-
-
-###### Article R213-39
-
-Lorsque la garantie résulte de l'engagement de cautionnement pris par un établissement de crédit ou une entreprise
-d'assurances, les dispositions réglementaires de la section 6 du chapitre II du présent titre s'appliquent, sauf en ce qui
-concerne le montant de la garantie, lequel est fixé conformément aux dispositions de l'article R. 213-38.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 74 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 74 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cite_:
-
-  - Code du tourisme. - art. R213-38
-
-
-###### Article R213-40
-
-Lorsque la garantie financière résulte d'un engagement de cautionnement pris par un organisme de garantie collective, celui-
-ci obéit pour ses conditions de fonctionnement aux règles définies par l'article R. 212-29.
-
-L'organisme de garantie collective délivre à chacune des entreprises habilitées une attestation d'adhésion indiquant le
-montant de la garantie requise au titre de l'article R. 213-38. Cette attestation est transmise au préfet.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 75 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 75 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cite_:
-
-  - Code du tourisme. - art. R212-29
-  - Code du tourisme. - art. R213-38
-
-
-###### Article R213-41
-
-Lorsque la garantie résulte d'un fonds de réserve, les dispositions des articles R. 213-12 et R. 213-13 s'appliquent.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 76 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 76 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cite_:
-
-  - Code du tourisme. - art. R213-12
-  - Code du tourisme. - art. R213-13
-
-
-###### Article R213-42
-
-Pour les agents immobiliers et les administrateurs de biens, la garantie financière résulte de l'attestation délivrée par la
-Caisse des dépôts et consignations.
-
-L'attestation indique qu'elle couvre l'ensemble des opérations réalisées au titre de l'habilitation et les frais éventuels de
-rapatriement. Elle indique également le montant de la garantie.
-
-La garantie financière est mise en oeuvre et cesse dans les conditions prévues par les articles R. 212-32 à R. 212-35.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 77 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 77 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cite_:
-
-  - Code du tourisme.
-
-
-##### Sous-section 4 : Responsabilité civile professionnelle.<a id=203></a>
-
-###### Article R213-43
-
-Le contrat d'assurance souscrit en application de l'article R. 212-28 garantissant les conséquences pécuniaires de la
-responsabilité civile professionnelle encourue par les titulaires de l'habilitation au titre des activités réalisées
-conformément aux dispositions de l'article R. 213-29 doit répondre aux conditions définies par les dispositions
-réglementaires de la section 7 du chapitre II. Les titulaires de l'habilitation doivent se conformer aux dispositions du
-dernier alinéa de l'article R. 212-40 et de l'article R. 212-41.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 78 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 78 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
-
-_Cite_:
-
-  - Code du tourisme. - art. R212-28
-  - Code du tourisme. - art. R212-40
-  - Code du tourisme. - art. R212-41
-  - Code du tourisme. - art. R213-29
-
-_Cité par_:
-
-  - Code du tourisme. - art. R213-35 (VT)
-
-
-### TITRE II : DISPOSITIONS RELATIVES AUX VISITES DANS LES MUSÉES ET MONUMENTS HISTORIQUES.<a id=204></a>
-
-#### Chapitre unique : Personnels qualifiés.<a id=205></a>
-
-##### Section 1 : Des personnes qualifiées.<a id=206></a>
+##### Section 1 : Des personnes qualifiées.<a id=194></a>
 
 ###### Article D221-5
 
@@ -15879,7 +13391,7 @@ _Cite_:
   - Code du tourisme. - art. R221-15
 
 
-##### Section 2 : Des professions de guide-interprète et de conférencier.<a id=207></a>
+##### Section 2 : Des professions de guide-interprète et de conférencier.<a id=195></a>
 
 ###### Article R221-11
 
@@ -15995,9 +13507,9 @@ _Cité par_:
   - Code du tourisme. - art. R221-17 (VT)
 
 
-##### Section 3 : Des aptitudes professionnelles acquises dans les autres Etats membres de l'Union européenne ou parties à l'accord sur l'Espace économique européen.<a id=208></a>
+##### Section 3 : Des aptitudes professionnelles acquises dans les autres Etats membres de l'Union européenne ou parties à l'accord sur l'Espace économique européen.<a id=196></a>
 
-##### Sous-section 1 : Liberté d'établissement.<a id=209></a>
+##### Sous-section 1 : Liberté d'établissement.<a id=197></a>
 
 ###### Article R221-15
 
@@ -16237,7 +13749,7 @@ _Cite_:
   - Code du tourisme. - art. R221-4
 
 
-##### Sous-section 2  : Libre prestation de services<a id=210></a>
+##### Sous-section 2  : Libre prestation de services<a id=198></a>
 
 ###### Article R221-18-1
 
@@ -16269,7 +13781,7 @@ _Nouveaux textes_:
   - Code du tourisme. - art. R221-14 (VD)
 
 
-##### Section 4 : Diplôme national de guide-interprète national.<a id=211></a>
+##### Section 4 : Diplôme national de guide-interprète national.<a id=199></a>
 
 ###### Article D221-19
 
@@ -16400,91 +13912,132 @@ _Anciens textes_:
   - DEPLACE: Décret n°2009-1650 du 23 décembre 2009 - art. 3
 
 
-### TITRE III : EXPLOITATION DES VÉHICULES DE TOURISME.<a id=212></a>
+### TITRE III : EXPLOITATION DES VÉHICULES DE TOURISME.<a id=200></a>
 
-#### Chapitre Ier : Exploitation de voitures de tourisme de luxe dites de grande remise.<a id=213></a>
+#### Chapitre Ier : Exploitation de voitures de tourisme de luxe dites de grande remise.<a id=201></a>
 
-##### Section 1 : Dispositions générales.<a id=214></a>
+##### Section 1 : Dispositions générales.<a id=202></a>
 
-###### Article D231-5
+###### Article D231-1
 
-Le représentant légal de l'entreprise, ou à défaut le directeur de l'activité de grande remise, doit être titulaire du
-certificat d'aptitude à la profession d'entrepreneur de remise et de tourisme délivré dans les conditions définies par arrêté
-du ministre chargé du tourisme.
+Les voitures de tourisme avec chauffeur doivent comporter quatre places au moins et neuf au plus, y compris celle du
+chauffeur. 
 
-**Liens relatifs à cet article**
+Elles doivent être âgées de moins de six ans, sauf s'il s'agit de véhicules de collection, et offrir aux passagers les
+conditions de confort et les aménagements intérieurs correspondant aux besoins de la clientèle fixés par arrêté du ministre
+chargé du tourisme. 
 
-_Anciens textes_:
+Les voitures sont soumises à un contrôle périodique dans les conditions prévues à l'article R. 323-24 du code de la route. 
 
-  - Arrêté 1966-04-18 art. 3
-  - Arrêté du 18 avril 1966 - art. 3 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 2
-
-
-###### Article R231-1
-
-Les voitures de tourisme de luxe dites de grande remise doivent comporter cinq places au moins et sept au plus pour les
-passagers.
-
-Elles doivent être d'un type récent et offrir aux passagers les conditions de confort et les aménagements intérieurs
-correspondant aux besoins de la clientèle.
-
-Elles doivent être munies d'une plaque distinctive délivrée par le préfet après contrôle.
+Elles doivent être munies d'une signalétique distinctive définie par arrêté conjoint du ministre chargé du tourisme et du
+ministre chargé de l'intérieur.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°55-961 du 15 juillet 1955 - art. 5 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 2
 
 _Cité par_:
 
-  - Arrêté du 2 mars 2017 - art. 34
-  - Code du tourisme. - art. R231-3 (V)
+  - Arrêté du 23 décembre 2009 - art. 3 (Ab)
+  - Arrêté du 6 septembre 2010 - art. 1 (VD)
+  - Arrêté du 7 novembre 2013 (V)
+  - Code du tourisme. - art. R231-13 (V)
+  - Code du tourisme. - art. R231-5 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-1652 du 23 décembre 2009 - art. 2
+
+_Cite_:
+
+  - Code de la route. - art. R323-24
+
+
+#### Chapitre Ier : Transport par voitures de tourisme avec chauffeur.<a id=203></a>
+
+##### Section 1 : Dispositions générales.<a id=204></a>
+
+##### Section 2 : Exploitation de voitures de tourisme avec chauffeur.<a id=205></a>
+
+##### Sous-section 1 : Procédure d'immatriculation des entreprises touristiques de transport avec chauffeur.<a id=206></a>
+
+###### Article D231-3-1
+
+La limite mentionnée au septième alinéa de l'article L. 141-3 est fixée à 150 euros.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1652 du 23 décembre 2009 - art. 3
+
+_Abrogé par_:
+
+  - Décret n°2014-1725 du 30 décembre 2014 - art. 4
+
+_Cite_:
+
+  - Code du tourisme. - art. L141-3
 
 
 ###### Article R231-2
 
-Les voitures de tourisme de luxe ne peuvent comporter, sauf dérogation fixée par arrêté préfectoral, de compteur
-horokilométrique.
+La demande d'immatriculation au registre mentionné au b de l'article L. 141-3 est adressée par écrit, le cas échéant sous
+forme électronique, à la commission d'immatriculation mentionnée à l'article L. 141-2.
+
+L'exploitant de voitures de tourisme avec chauffeur doit joindre à sa demande d'immatriculation un état prévisionnel du
+nombre de chauffeurs et de voitures de tourisme retenu pour l'exercice de son activité. 
+
+Lorsque la demande d'immatriculation est formulée par une personne physique, elle mentionne l'état civil, la profession et le
+domicile du demandeur ainsi que l'adresse du siège de ses activités. 
+
+Lorsque la demande d'immatriculation est présentée au nom d'une personne morale, elle mentionne la dénomination sociale, la
+forme juridique, le montant du capital social, l'adresse du siège social, ainsi que l'état civil et le domicile du ou des
+représentants légaux, seuls habilités à présenter la demande.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°55-961 1955-07-15 art. 4 al. 2
   - Décret n°55-961 du 15 juillet 1955 - art. 4 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+  - Décret n°2009-1650 du 23 décembre 2009 - art. 2
+
+_Abrogé par_:
+
+  - Décret n°2014-1725 du 30 décembre 2014 - art. 4
+
+_Cite_:
+
+  - Code du tourisme. - art. L141-2
+  - Code du tourisme. - art. L141-3
 
 _Cité par_:
 
-  - Code du tourisme. - art. R231-3 (V)
+  - Code du tourisme. - art. R231-3 (Ab)
 
 
 ###### Article R231-3
 
-Les voitures de tourisme de luxe sont soumises à un contrôle périodique dans les conditions fixées par l'article R. 323-24 du
-code de la route et destiné à vérifier que le véhicule continue à remplir les conditions mentionnées à l'article R. 231-1.
+I.-L'immatriculation est effectuée par la commission d'immatriculation mentionnée à l'article L. 141-2 dans un délai d'un
+mois à compter de la date du récépissé émis par la commission au moment de la réception du dossier complet. La commission
+notifie à l'exploitant de voitures de tourisme avec chauffeur un certificat d'immatriculation comportant son numéro
+d'immatriculation au registre et la date d'enregistrement.
 
-Dans la négative, l'autorisation pourra être retirée.
+L'immatriculation est réputée acquise en l'absence de décision de la commission dans le délai prévu à l'alinéa précédent. La
+commission est alors tenue de délivrer sans délai un numéro d'immatriculation. 
+
+II.-Les exploitants de voitures de tourisme avec chauffeur informent la commission de tout changement dans les éléments
+d'information prévus au troisième ou quatrième alinéa de l'article R. 231-2, et notamment la cessation
+d'activité.L'information est transmise dans le mois qui précède la modification quand elle peut être anticipée ou sinon au
+plus tard dans le mois qui suit l'événement. 
+
+III.-Lorsqu'il ressort de l'examen du dossier complet que la demande d'immatriculation n'est pas conforme aux dispositions de
+la présente section, la commission prend une décision de refus d'inscription au registre qu'elle communique au demandeur dans
+le délai prévu au I du présent article. 
+
+IV.-Il est procédé, tous les trois ans, au renouvellement de l'immatriculation selon les modalités fixées au I du présent
+article.
 
 **Liens relatifs à cet article**
 
@@ -16492,20 +14045,21 @@ _Anciens textes_:
 
   - Décret n°55-961 du 15 juillet 1955 - art. 6 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+  - Décret n°2009-1650 du 23 décembre 2009 - art. 2
 
 _Cite_:
 
-  - Code du tourisme. - art. R231-1 (V)
-  - Code de la route. - art. R323-24 (M)
+  - Code du tourisme. - art. L141-2
+  - Code du tourisme. - art. R231-2
 
 
 ###### Article R231-4
 
-La voiture de tourisme de luxe ayant fait l'objet d'une location est conduite obligatoirement par un chauffeur muni d'un
-certificat délivré par le préfet dans des conditions prévues par arrêté.
+Dans le mois suivant l'immatriculation au registre mentionné au b de l'article L. 141-3, l'agence mentionnée à l'article L.
+141-2 procède à la mise en ligne d'un avis informant les tiers de l'identité du déclarant, du numéro d'immatriculation, de la
+dénomination, de la raison sociale, de la forme juridique et de l'adresse du siège social de l'entreprise.
 
 **Liens relatifs à cet article**
 
@@ -16513,23 +14067,52 @@ _Anciens textes_:
 
   - Décret n°55-961 du 15 juillet 1955 - art. 7 (Ab)
 
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
 _Cité par_:
 
   - Décret n°2009-1650 du 23 décembre 2009 - art. 19 (V)
   - Code du tourisme. - art. R231-6 (V)
 
+_Modifié par_:
+
+  - Décret n°2009-1650 du 23 décembre 2009 - art. 2
+
+_Cite_:
+
+  - Code du tourisme. - art. L141-2
+  - Code du tourisme. - art. L141-3
+
+
+##### Sous-section 2 : Radiation.<a id=207></a>
+
+###### Article R231-5
+
+Lorsque l'exploitant de voitures de tourisme avec chauffeur ne satisfait plus aux conditions prévues à l'article D. 231-1, la
+commission d'immatriculation mentionnée à l'article L. 141-2 procède à la radiation du registre mentionné au b de l'article
+L. 141-3. 
+
+La radiation du registre est notifiée par la commission par tout moyen permettant d'en obtenir un accusé de réception à
+l'exploitant de voitures de tourisme avec chauffeur qui en fait l'objet.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1650 du 23 décembre 2009 - art. 2
+
+_Cite_:
+
+  - Code du tourisme. - art. L141-2
+  - Code du tourisme. - art. L141-3
+
+_Cité par_:
+
+  - Code du tourisme. - art. R231-3 (Ab)
+
 
 ###### Article R231-6
 
-Un arrêté du ministre chargé des transports et du ministre chargé du tourisme fixe la forme et la durée des licences, les
-règles à appliquer en ce qui concerne l'examen des demandes, la composition des commissions prévues à l'article R. 231-9 et
-les conditions de qualification et de moralité nécessaires pour la délivrance du certificat prévu à l'article R. 231-4.
-
-Une liste des types de voitures admises en grande remise lui est annexée.
+La radiation intervient à la demande de la personne physique ou morale immatriculée au registre ou lorsque la personne morale
+concernée fait l'objet d'une liquidation judiciaire définitivement prononcée.
 
 **Liens relatifs à cet article**
 
@@ -16537,218 +14120,249 @@ _Anciens textes_:
 
   - Décret n°55-961 du 15 juillet 1955 - art. 8 (Ab)
 
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Cite_:
-
-  - Code du tourisme R231-9, R231-4, annexe
-  - Code du tourisme. - art. R231-4 (V)
-  - Code du tourisme. - art. R231-9 (V)
-
-
-##### Section 2 : Procédure d'attribution.<a id=215></a>
-
-###### Article R231-7
-
-Les licences d'entrepreneurs de remise et de tourisme prévues par l'article L. 221-3 sont délivrées par le préfet du
-département du siège de l'exploitation.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Arrêté 1966-04-18 art. 1
-  - Arrêté du 18 avril 1966 - art. 1 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
+_Modifié par_:
 
   - Décret n°2009-1650 du 23 décembre 2009 - art. 2
 
-_Cite_:
-
-  - Code du tourisme.
-
-
-###### Article R231-8
-
-Le préfet statue sur les demandes de licence après avis de la commission départementale de l'action touristique. Passé un
-délai de quatre mois après le dépôt de la demande, cet avis est réputé favorable.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Arrêté 1966-04-18 art. 1 al. 1
-  - Arrêté du 18 avril 1966 - art. 2 (V)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
 _Abrogé par_:
 
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 2
+  - Décret n°2014-1725 du 30 décembre 2014 - art. 4
 
 
-###### Article R231-9
+##### Section 3 : Conduite de voitures de tourisme avec chauffeur.<a id=208></a>
 
-Lorsqu'il est formé un recours hiérarchique auprès du ministre chargé du tourisme contre la décision de refus du préfet
-d'attribuer la licence constatant l'aptitude à l'exercice de la profession d'entrepreneur de remise et de tourisme, le
-ministre recueille l'avis de la formation spécialisée du Conseil national du tourisme mentionnée à l'article D. 122-9.
+##### Sous-section 1 : Conditions d'aptitude à la conduite de voiture de tourisme avec chauffeur<a id=209></a>
+
+###### Article D231-7
+
+Les chauffeurs de voiture de tourisme au sens du présent chapitre doivent justifier :
+
+― soit de la réalisation d'un stage de formation professionnelle effectué auprès d'un centre de formation et répondant à des
+critères fixés par arrêté du ministre chargé du tourisme qui ne peut être d'une durée inférieure à trois mois ;
+
+― soit d'une expérience professionnelle d'une durée minimale d'un an dans des fonctions de chauffeur professionnel au cours
+des dix années précédant la demande de carte professionnelle ;
+
+― soit de la possession d'un diplôme, titre ou certificat figurant sur une liste fixée par arrêté pris par les ministres
+chargés du tourisme, de l'éducation et de l'enseignement supérieur.
+
+Le stage de formation professionnelle mentionné au deuxième alinéa doit comporter des cours d'au moins une langue étrangère.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°55-961 1955-07-15 art. 3 2éme phrase
-  - Décret n°55-961 du 15 juillet 1955 - art. 3 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 2
-
-_Cite_:
-
-  - Code du tourisme. - art. D122-9
 
 _Cité par_:
 
-  - Code du tourisme. - art. R231-6 (V)
+  - Arrêté du 23 décembre 2009 - art. 1 (Ab)
+  - Arrêté du 23 décembre 2009 - art. 2 (Ab)
+  - Décret n°2014-1725 du 30 décembre 2014 - art. 7 (V)
+  - Arrêté du 2 février 2016 - art. 9 (Ab)
+  - Code du tourisme. - art. D231-11 (V)
+  - Code du tourisme. - art. D231-12 (VD)
+
+_Créé par_:
+
+  - Décret n°2009-1652 du 23 décembre 2009 - art. 4
 
 
-#### Chapitre II : Exploitation des autocars de tourisme.<a id=216></a>
+###### Article D231-8
 
-###### Article D232-4
+Pour l'application du premier alinéa de l'article L. 231-2, les chauffeurs doivent être titulaires d'un permis B en cours de
+validité, non affecté par le délai probatoire prévu à l'article L. 223-1 du code de la route.
 
-L'utilisation d'autocars classés est obligatoire pour les transporteurs routiers de voyageurs habilités, au titre des
-articles L. 232-1, L. 231-7 et R. 213-28, à réaliser des prestations touristiques telles que des excursions ou des voyages
-organisés.
+**Nota:**
+
+Conformément à l'article 7 III 4° du décret n° 2014-1725 du 30 décembre  2014, entrent en vigueur à une date fixée par un
+arrêté des ministres  chargés, respectivement, de l'économie et des transports et du ministre  de l'intérieur et au plus tard
+au 1er janvier 2016, l'abrogation des  dispositions du premier alinéa de l'article D.  231-8 du code du tourisme.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Créé par_:
 
-  - Arrêté 2002-03-19 art. 1 al. 2
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+  - Décret n°2009-1652 du 23 décembre 2009 - art. 4
 
 _Abrogé par_:
 
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 2
+  - Décret n°2014-1725 du 30 décembre 2014 - art. 4
+
+_Modifié par_:
+
+  - Décret n°2014-1725 du 30 décembre 2014 - art. 4
+
+_Cité par_:
+
+  - Décret n°2014-1725 du 30 décembre 2014 - art. 7 (V)
+  - Code du tourisme. - art. D231-12 (VD)
 
 _Cite_:
 
-  - Code du tourisme.
-  - Code du tourisme. - art. L232-1
-  - Code du tourisme. - art. R213-28
+  - Code du tourisme. - art. L231-2
+  - Code de la route. - art. L223-1
+  - Code de la route. - art. R221-10
 
 
-###### Article R232-1
+###### Article D231-9
 
-Indépendamment des conditions techniques auxquelles il doit répondre, tout autocar utilisé pour les déplacements de tourisme
-lors d'excursions ou de voyages organisés doit avoir fait l'objet d'un classement sur avis d'un organisme agréé, selon des
-modalités fixées par arrêté du ministre chargé du tourisme.
-
-Ce classement en plusieurs catégories est établi sur la base de critères généraux d'entretien du véhicule et sur des critères
-particuliers reposant principalement sur des notions de qualité et de confort.
-
-L'arrêté du ministre chargé du tourisme détermine les modalités de l'examen auquel est soumis le véhicule. Les
-caractéristiques ainsi que les modalités de distribution et d'acquisition du panonceau qui doit être obligatoirement apposé
-sur l'autocar classé sont fixées par le même arrêté.
+Les chauffeurs de voiture de tourisme doivent être titulaires depuis moins de deux ans de l'unité d'enseignement "prévention
+et secours civiques de niveau 1” prévue par arrêté du ministre de l'intérieur et du ministre chargé de la santé.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Créé par_:
 
-  - Décret n°55-961 1955-07-15 art. 81
-  - Décret n°94-490 du 15 juin 1994 - art. 81 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+  - Décret n°2009-1652 du 23 décembre 2009 - art. 4
 
 _Abrogé par_:
+
+  - Décret n°2014-1725 du 30 décembre 2014 - art. 4
+
+_Cité par_:
+
+  - Code du tourisme. - art. D231-12 (VD)
+
+
+###### Article D231-10
+
+Nul ne peut exercer la profession de chauffeur de voiture de tourisme si figure au bulletin n° 2 de son casier judiciaire :
+
+1° Soit une condamnation définitive pour un délit sanctionné dans le code de la route par une réduction de la moitié du
+nombre maximal de points du permis de conduire ;
+
+2° Soit une condamnation définitive par une juridiction française ou étrangère à une peine criminelle ou à une peine
+correctionnelle d'au moins six mois d'emprisonnement sans sursis pour vol, escroquerie, abus de confiance, atteinte
+volontaire à l'intégrité de la personne, agression sexuelle ou infraction à la législation sur les stupéfiants.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1652 du 23 décembre 2009 - art. 4
+
+
+###### Article D231-11
+
+L'aptitude professionnelle prévue à l'article L. 231-2 est réputée acquise pour tout ressortissant d'un autre Etat membre de
+la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen dès lors qu'il justifie : 
+
+― soit de la réalisation d'un stage de formation professionnelle effectué dans un autre Etat membre de la Communauté
+européenne ou dans un Etat partie à l'accord sur l'Espace économique européen permettant l'exercice de la profession de
+chauffeur professionnel dans le cadre de l'activité mentionnée à l'article L. 231-1 et dont l'attestation est délivrée par
+une autorité compétente de cet Etat ; 
+
+― soit d'une expérience professionnelle d'une durée minimale d'un an dans l'un de ces Etats au cours des dix années précédant
+la présentation de la demande de carte professionnelle dans des fonctions de chauffeur professionnel ; 
+
+― soit de la possession d'un diplôme, titre ou certificat délivré par une autorité compétente de l'un de ces Etats permettant
+l'exercice de la profession de chauffeur professionnel dans le cadre de l'activité mentionnée à l'article L. 231-1 et
+attestant d'un niveau de qualification professionnelle au moins équivalent au niveau immédiatement inférieur à celui exigé en
+application de l'article D. 231-7.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1652 du 23 décembre 2009 - art. 4
+
+_Cité par_:
+
+  - Décret n°2014-1725 du 30 décembre 2014 - art. 7 (V)
+  - Code du tourisme. - art. D231-12 (VD)
+
+_Cite_:
+
+  - Code du tourisme. - art. D231-7
+  - Code du tourisme. - art. L231-1
+  - Code du tourisme. - art. L231-2
+
+
+##### Sous-section 2 :  Procédure d'attribution et de retrait de la carte  professionnelle de chauffeur de voiture de tourisme<a id=210></a>
+
+###### Article D231-12
+
+L'exercice de la profession de chauffeur de voiture de tourisme nécessite d'être titulaire d'une carte professionnelle
+délivrée conformément aux dispositions du présent article. 
+
+La demande de carte de chauffeur de voiture de tourisme est adressée par écrit au préfet du département dans lequel le
+demandeur a élu domicile. Pour le département de Paris, l'autorité compétente est le préfet de police. 
+
+La demande est accompagnée des pièces justifiant les conditions d'aptitude définies aux articles D. 231-7 à D. 231-9 et, le
+cas échéant, D. 231-11. 
+
+Le préfet remet une carte professionnelle de chauffeur de voiture de tourisme dans un délai maximum de deux mois suivant la
+réception du dossier complet. 
+
+La carte professionnelle doit être restituée lorsque le conducteur cesse définitivement son activité professionnelle ou
+lorsqu'une des conditions prévues pour sa délivrance cesse d'être remplie.A défaut, celle-ci est retirée par l'autorité
+administrative compétente.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1652 du 23 décembre 2009 - art. 4
+
+_Cité par_:
+
+  - Décret n°2014-1282 du 23 octobre 2014 - art. (V)
+  - Décret n°2019-1014 du 2 octobre 2019 - art. 1 (V)
+  - Code du tourisme. - art. R231-13 (V)
+  - Code du tourisme. - art. R231-14 (V)
+  - Code du tourisme. - art. R231-5 (Ab)
+
+_Cite_:
+
+  - Code du tourisme. - art. D231-11
+  - Code du tourisme. - art. D231-7
+
+
+##### Section 4 : Sanctions.<a id=211></a>
+
+###### Article R231-13
+
+Est puni de l'amende prévue pour les contraventions de la troisième classe le fait d'exercer l'activité d'exploitant de
+voitures de tourisme avec chauffeur : 
+
+― sans être immatriculé au registre mentionné au b de l'article L. 141-3 ; 
+
+― en utilisant des véhicules non conformes aux caractéristiques prévues aux premier et deuxième alinéas de l'article D. 231-1
+ou qui ne comportent pas la signalétique prévue au dernier alinéa du même article ; 
+
+― en employant des chauffeurs qui ne sont pas titulaires de la carte professionnelle prévue à l'article D. 231-12.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
 
   - Décret n°2009-1650 du 23 décembre 2009 - art. 2
 
 _Cité par_:
 
-  - Code du tourisme. - art. R213-35 (VT)
-  - Code du tourisme. - art. R232-2 (Ab)
-
-
-###### Article R232-2
-
-La demande de classement est adressée par le responsable de l'entreprise de transport à l'organisme agréé mentionné à
-l'article R. 232-1.
-
-Si la demande est présentée par une personne physique, elle précise le nom et l'adresse de l'exploitant, ainsi que l'enseigne
-et l'adresse du lieu d'exploitation.
-
-Si la demande est présentée au nom d'une personne morale, elle mentionne la dénomination sociale, la forme juridique, le
-montant du capital, l'adresse du siège social, ainsi que l'état civil et le domicile du ou des représentants légaux, seuls
-habilités à présenter la demande.
-
-L'organisme agréé adresse au préfet un rapport de classement sur la base duquel le préfet délivre un certificat de
-classement.
-
-Un arrêté du ministre chargé du tourisme établit la liste des documents justificatifs qui doivent être produits à l'appui de
-la demande et précise les informations qui figurent obligatoirement sur le rapport de classement.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°55-961 1955-07-15 art. 82
-  - Décret n°94-490 du 15 juin 1994 - art. 82 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 2
+  - Code de procédure pénale - art. R48-1 (VD)
 
 _Cite_:
 
-  - Code du tourisme. - art. R232-1
+  - Code du tourisme. - art. L141-3
 
 
-###### Article R232-3
+###### Article R231-14
 
-Est puni de l'amende prévue pour les contraventions de la cinquième classe le fait d'utiliser un panonceau dont les
-caractéristiques ne sont pas conformes à celles prévues par arrêté pour l'autocar concerné, ou de ne pas apposer sur cet
-autocar le panonceau exigé, ou d'y apposer un panonceau alors que l'autocar n'a pas fait l'objet d'un classement.
+Le fait d'exercer l'activité de chauffeur de voitures de tourisme sans être titulaire de la carte professionnelle prévue à
+l'article D. 231-12 est puni de l'amende prévue pour les contraventions de la troisième classe.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 83 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
+_Créé par_:
 
   - Décret n°2009-1650 du 23 décembre 2009 - art. 2
 
+_Cité par_:
 
-#### Chapitre III : Exploitation d'autres véhicules à usage touristique et de loisirs.<a id=217></a>
+  - Code de procédure pénale - art. R48-1 (VD)
+
+
+#### Chapitre III : Exploitation d'autres véhicules à usage touristique et de loisirs.<a id=212></a>
+
+#### Chapitre II : Exploitation d'autres véhicules à usage touristique et de loisirs.<a id=213></a>
 
 ###### Article R233-1
 
@@ -16781,9 +14395,9 @@ _Codifié par_:
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 
-### TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER.<a id=218></a>
+### TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER.<a id=214></a>
 
-#### Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon.<a id=219></a>
+#### Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon.<a id=215></a>
 
 ###### Article R242-1
 
@@ -16840,7 +14454,7 @@ _Anciens textes_:
   - Code du tourisme. - art. R242-4 (T)
 
 
-#### Chapitre III : Dispositions relatives à Mayotte.<a id=220></a>
+#### Chapitre III : Dispositions relatives à Mayotte.<a id=216></a>
 
 ###### Article R243-1
 
@@ -16916,13 +14530,13 @@ _Anciens textes_:
   - Code du tourisme. - art. R243-5 (T)
 
 
-## LIVRE III : ÉQUIPEMENTS ET AMÉNAGEMENTS.<a id=221></a>
+## LIVRE III : ÉQUIPEMENTS ET AMÉNAGEMENTS.<a id=217></a>
 
-### TITRE Ier : HÔTELS, CAFÉS ET DÉBITS DE BOISSONS.<a id=222></a>
+### TITRE Ier : HÔTELS, CAFÉS ET DÉBITS DE BOISSONS.<a id=218></a>
 
-#### Chapitre Ier : Hôtels.<a id=223></a>
+#### Chapitre Ier : Hôtels.<a id=219></a>
 
-##### Section 1 : Rapports entre bailleurs et locataires des immeubles affectés à l'hôtellerie.<a id=224></a>
+##### Section 1 : Rapports entre bailleurs et locataires des immeubles affectés à l'hôtellerie.<a id=220></a>
 
 ###### Article D311-2
 
@@ -17028,7 +14642,7 @@ _Cite_:
   - Code du tourisme. - art. L311-2 (V)
 
 
-##### Section 2 : Classement.<a id=225></a>
+##### Section 2 : Classement.<a id=221></a>
 
 ###### Article D311-4
 
@@ -17245,7 +14859,7 @@ _Anciens textes_:
   - Code du tourisme. - art. D311-13 (T)
 
 
-##### Section 3 : Sanctions.<a id=226></a>
+##### Section 3 : Sanctions.<a id=222></a>
 
 ###### Article R311-13
 
@@ -17293,7 +14907,7 @@ _Anciens textes_:
   - Code du tourisme. - art. R311-18 (T)
 
 
-#### Chapitre II : Cafés et débits de boissons.<a id=227></a>
+#### Chapitre II : Cafés et débits de boissons.<a id=223></a>
 
 ###### Article D312-1
 
@@ -17422,7 +15036,7 @@ _Anciens textes_:
   - Code du tourisme. - art. D313-2 (T)
 
 
-#### Chapitre IV : Débits de boissons ayant pour activité principale l'exploitation d'une piste de danse<a id=228></a>
+#### Chapitre IV : Débits de boissons ayant pour activité principale l'exploitation d'une piste de danse<a id=224></a>
 
 ###### Article D314-1
 
@@ -17439,11 +15053,11 @@ _Créé par_:
   - Décret n°2009-1652 du 23 décembre 2009 - art. 15
 
 
-### TITRE II : HÉBERGEMENTS AUTRES QUE HÔTELS ET TERRAINS DE CAMPING.<a id=229></a>
+### TITRE II : HÉBERGEMENTS AUTRES QUE HÔTELS ET TERRAINS DE CAMPING.<a id=225></a>
 
-#### Chapitre Ier : Résidences de tourisme.<a id=230></a>
+#### Chapitre Ier : Résidences de tourisme.<a id=226></a>
 
-##### Section 1 : Dispositions générales.<a id=231></a>
+##### Section 1 : Dispositions générales.<a id=227></a>
 
 ###### Article D321-1
 
@@ -17514,7 +15128,7 @@ _Cité par_:
   - Code du tourisme. - art. R363-5 (V)
 
 
-##### Section 2 : Classement.<a id=232></a>
+##### Section 2 : Classement.<a id=228></a>
 
 ###### Article D321-3
 
@@ -17636,7 +15250,7 @@ _Cité par_:
   - Arrêté du 22 décembre 2010 - art. 1 (VD)
 
 
-##### Section 3 : Sanctions.<a id=233></a>
+##### Section 3 : Sanctions.<a id=229></a>
 
 ###### Article R321-8
 
@@ -17730,9 +15344,9 @@ _Abrogé par_:
   - Décret n°2009-1650 du 23 décembre 2009 - art. 6
 
 
-#### Chapitre III : Villages résidentiels de tourisme.<a id=234></a>
+#### Chapitre III : Villages résidentiels de tourisme.<a id=230></a>
 
-##### Section 1 : Dispositions générales.<a id=235></a>
+##### Section 1 : Dispositions générales.<a id=231></a>
 
 ###### Article R323-1
 
@@ -17789,7 +15403,7 @@ _Codifié par_:
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 
-##### Section 2 : Classement.<a id=236></a>
+##### Section 2 : Classement.<a id=232></a>
 
 ###### Article D323-5
 
@@ -17891,7 +15505,7 @@ _Cité par_:
   - Arrêté du 2 août 2010 - art. 1 (V)
 
 
-##### Section 3 : Sanctions.<a id=237></a>
+##### Section 3 : Sanctions.<a id=233></a>
 
 ###### Article R323-9
 
@@ -17984,11 +15598,11 @@ _Abrogé par_:
   - Décret n°2009-1650 du 23 décembre 2009 - art. 7
 
 
-#### Chapitre IV : Meublés de tourisme et chambres d'hôtes.<a id=238></a>
+#### Chapitre IV : Meublés de tourisme et chambres d'hôtes.<a id=234></a>
 
-##### Section 1 : Meublés de tourisme.<a id=239></a>
+##### Section 1 : Meublés de tourisme.<a id=235></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=240></a>
+##### Sous-section 1 : Dispositions générales.<a id=236></a>
 
 ###### Article D324-1
 
@@ -18032,7 +15646,7 @@ _Cite_:
   - Code du tourisme. - art. L324-1-1
 
 
-##### Sous-section 2 : Classement.<a id=241></a>
+##### Sous-section 2 : Classement.<a id=237></a>
 
 ###### Article D324-2
 
@@ -18230,7 +15844,7 @@ _Cité par_:
   - Code du tourisme. - art. D324-6-1 (VD)
 
 
-##### Sous-section 3 : Sanctions.<a id=242></a>
+##### Sous-section 3 : Sanctions.<a id=238></a>
 
 ###### Article R324-10
 
@@ -18332,7 +15946,7 @@ _Cite_:
   - Code du tourisme. - art. R324-11
 
 
-##### Section 2 : Chambres d'hôtes.<a id=243></a>
+##### Section 2 : Chambres d'hôtes.<a id=239></a>
 
 ###### Article D324-13
 
@@ -18436,11 +16050,11 @@ _Cite_:
   - Code du tourisme. - art. L324-4
 
 
-#### Chapitre V : Villages et maisons familiales de vacances.<a id=244></a>
+#### Chapitre V : Villages et maisons familiales de vacances.<a id=240></a>
 
-##### Section 1 : Villages de vacances.<a id=245></a>
+##### Section 1 : Villages de vacances.<a id=241></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=246></a>
+##### Sous-section 1 : Dispositions générales.<a id=242></a>
 
 ###### Article D325-1
 
@@ -18519,7 +16133,7 @@ _Codifié par_:
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 
-##### Sous-section 2 : Classement.<a id=247></a>
+##### Sous-section 2 : Classement.<a id=243></a>
 
 ###### Article D325-4
 
@@ -18639,7 +16253,7 @@ _Abrogé par_:
   - Décret n°2009-1652 du 23 décembre 2009 - art. 11
 
 
-##### Sous-section 3 : Sanctions.<a id=248></a>
+##### Sous-section 3 : Sanctions.<a id=244></a>
 
 ###### Article R325-10
 
@@ -18721,9 +16335,9 @@ _Cite_:
   - Code du tourisme. - art. R325-11
 
 
-##### Section 2 : Maisons familiales de vacances.<a id=249></a>
+##### Section 2 : Maisons familiales de vacances.<a id=245></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=250></a>
+##### Sous-section 1 : Dispositions générales.<a id=246></a>
 
 ###### Article D325-13
 
@@ -18848,7 +16462,7 @@ _Codifié par_:
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 
-##### Sous-section 2 : Agrément.<a id=251></a>
+##### Sous-section 2 : Agrément.<a id=247></a>
 
 ###### Article D325-19
 
@@ -18916,7 +16530,7 @@ _Codifié par_:
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 
-##### Sous-section 3 : Sanctions.<a id=252></a>
+##### Sous-section 3 : Sanctions.<a id=248></a>
 
 ###### Article R325-23
 
@@ -18939,7 +16553,7 @@ _Codifié par_:
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 
-#### Chapitre VI : Refuges de montagne.<a id=253></a>
+#### Chapitre VI : Refuges de montagne.<a id=249></a>
 
 ###### Article D326-1
 
@@ -19005,9 +16619,9 @@ _Créé par_:
   - Décret n°2007-407 du 23 mars 2007 - art. 1 () JORF 25 mars 2007
 
 
-### TITRE III : TERRAINS DE CAMPING OU DE CARAVANAGE ET AUTRES TERRAINS AMÉNAGÉS.<a id=254></a>
+### TITRE III : TERRAINS DE CAMPING OU DE CARAVANAGE ET AUTRES TERRAINS AMÉNAGÉS.<a id=250></a>
 
-#### Chapitre Ier : Ouverture et aménagement.<a id=255></a>
+#### Chapitre Ier : Ouverture et aménagement.<a id=251></a>
 
 ###### Article D331-2
 
@@ -19217,9 +16831,9 @@ _Anciens textes_:
   - Code de l'urbanisme - art. R443-16 (M)
 
 
-#### Chapitre II : Classement.<a id=256></a>
+#### Chapitre II : Classement.<a id=252></a>
 
-##### Section 1 : Dispositions générales.<a id=257></a>
+##### Section 1 : Dispositions générales.<a id=253></a>
 
 ###### Article D332-1
 
@@ -19279,7 +16893,7 @@ _Cité par_:
   - Code du tourisme. - art. D333-5-3 (VD)
 
 
-##### Section 2 : Procédure de classement.<a id=258></a>
+##### Section 2 : Procédure de classement.<a id=254></a>
 
 ###### Article D332-3
 
@@ -19485,7 +17099,7 @@ _Abrogé par_:
   - Décret n°2009-1652 du 23 décembre 2009 - art. 12
 
 
-##### Section 3 : Sanctions.<a id=259></a>
+##### Section 3 : Sanctions.<a id=255></a>
 
 ###### Article D332-13
 
@@ -19579,9 +17193,9 @@ _Nouveaux textes_:
   - Code du tourisme. - art. R332-8 (VD)
 
 
-#### Chapitre III : Règles relatives aux habitations légères de loisirs, aux parcs résidentiels de loisirs et aux résidences mobiles de loisirs.<a id=260></a>
+#### Chapitre III : Règles relatives aux habitations légères de loisirs, aux parcs résidentiels de loisirs et aux résidences mobiles de loisirs.<a id=256></a>
 
-##### Section 1 : Habitations légères de loisirs.<a id=261></a>
+##### Section 1 : Habitations légères de loisirs.<a id=257></a>
 
 ###### Article D333-1
 
@@ -19601,9 +17215,9 @@ _Cite_:
   - Code de l'urbanisme - art. R421-9
 
 
-##### Section 2 : Parcs résidentiels de loisirs.<a id=262></a>
+##### Section 2 : Parcs résidentiels de loisirs.<a id=258></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=263></a>
+##### Sous-section 1 : Dispositions générales.<a id=259></a>
 
 ###### Article D333-3
 
@@ -19666,7 +17280,7 @@ _Cité par_:
   - Arrêté du 10 avril 2019 - art. (V)
 
 
-##### Sous-section 2 : Classement.<a id=264></a>
+##### Sous-section 2 : Classement.<a id=260></a>
 
 ###### Article D333-5
 
@@ -19691,7 +17305,7 @@ _Cité par_:
   - Arrêté du 10 avril 2019 - art. 1 (V)
 
 
-##### Sous-section 3 : Sanctions.<a id=265></a>
+##### Sous-section 3 : Sanctions.<a id=261></a>
 
 ###### Article R333-6
 
@@ -19717,7 +17331,7 @@ _Cité par_:
   - Code du tourisme. - art. R333-6-1 (VD)
 
 
-##### Section 3 : Résidences mobiles de loisirs.<a id=266></a>
+##### Section 3 : Résidences mobiles de loisirs.<a id=262></a>
 
 ###### Article D333-7
 
@@ -19736,11 +17350,11 @@ _Cite_:
   - Code de l'urbanisme - art. R*111-33
 
 
-### TITRE IV : AMÉNAGEMENTS ET RÉGLEMENTATION DES ESPACES À VOCATION TOURISTIQUE.<a id=267></a>
+### TITRE IV : AMÉNAGEMENTS ET RÉGLEMENTATION DES ESPACES À VOCATION TOURISTIQUE.<a id=263></a>
 
-#### Chapitre Ier : Littoral.<a id=268></a>
+#### Chapitre Ier : Littoral.<a id=264></a>
 
-##### Section 1 : Aménagement, protection et mise en valeur du littoral.<a id=269></a>
+##### Section 1 : Aménagement, protection et mise en valeur du littoral.<a id=265></a>
 
 ###### Article D341-1
 
@@ -19759,7 +17373,7 @@ _Codifié par_:
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 
-##### Section 2 : Ports de plaisance et zones de mouillages.<a id=270></a>
+##### Section 2 : Ports de plaisance et zones de mouillages.<a id=266></a>
 
 ###### Article D341-2
 
@@ -19787,7 +17401,7 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R2124-55 (V)
 
 
-##### Section 3 : Accès aux rivages et aux plages.<a id=271></a>
+##### Section 3 : Accès aux rivages et aux plages.<a id=267></a>
 
 ###### Article D341-3
 
@@ -19813,9 +17427,9 @@ _Cite_:
   - Code de l'urbanisme R160-8 à R160-33
 
 
-#### Chapitre II : Montagne.<a id=272></a>
+#### Chapitre II : Montagne.<a id=268></a>
 
-##### Section 2 : Unités touristiques nouvelles.<a id=273></a>
+##### Section 2 : Unités touristiques nouvelles.<a id=269></a>
 
 ###### Article D342-1
 
@@ -19833,9 +17447,9 @@ _Cite_:
   - Code de l'urbanisme - art. R145-1 (V)
 
 
-##### Section 3 : Remontées mécaniques, pistes de ski et tapis roulants.<a id=274></a>
+##### Section 3 : Remontées mécaniques, pistes de ski et tapis roulants.<a id=270></a>
 
-##### Sous-section 1 : Dispositions communes aux remontées mécaniques et aux tapis roulants.<a id=275></a>
+##### Sous-section 1 : Dispositions communes aux remontées mécaniques et aux tapis roulants.<a id=271></a>
 
 ###### Article D342-2
 
@@ -20476,7 +18090,7 @@ _Anciens textes_:
   - Décret n°1942-03-22 art. 80-4 (remontées mécaniques)
 
 
-##### Sous-section 2 : Dispositions spécifiques aux remontées mécaniques.<a id=276></a>
+##### Sous-section 2 : Dispositions spécifiques aux remontées mécaniques.<a id=272></a>
 
 ###### Article D342-21
 
@@ -20652,7 +18266,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L111-25 (V)
 
 
-##### Sous-section 3 : Dispositions spécifiques aux tapis roulants.<a id=277></a>
+##### Sous-section 3 : Dispositions spécifiques aux tapis roulants.<a id=273></a>
 
 ###### Article R342-26
 
@@ -20810,9 +18424,9 @@ _Anciens textes_:
   - Décret n°1942-03-22 art. 80-4 (remontées mécaniques)
 
 
-#### Chapitre III : Espace rural et naturel.<a id=278></a>
+#### Chapitre III : Espace rural et naturel.<a id=274></a>
 
-##### Section 1 : Activités touristiques en milieu rural.<a id=279></a>
+##### Section 1 : Activités touristiques en milieu rural.<a id=275></a>
 
 ###### Article D343-1
 
@@ -20848,9 +18462,9 @@ _Codifié par_:
   - PILOTE_SUIVEUR: Code rural - art. D722-4 (V)
 
 
-##### Section 2 : Parcs nationaux et régionaux.<a id=280></a>
+##### Section 2 : Parcs nationaux et régionaux.<a id=276></a>
 
-##### Sous-section 1 : Parcs nationaux.<a id=281></a>
+##### Sous-section 1 : Parcs nationaux.<a id=277></a>
 
 ###### Article D343-2
 
@@ -20864,7 +18478,7 @@ _Codifié par_:
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 
-##### Sous-section 2 : Parcs naturels régionaux.<a id=282></a>
+##### Sous-section 2 : Parcs naturels régionaux.<a id=278></a>
 
 ###### Article D343-3
 
@@ -20878,7 +18492,7 @@ _Codifié par_:
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 
-##### Section 3 : Itinéraires de randonnée.<a id=283></a>
+##### Section 3 : Itinéraires de randonnée.<a id=279></a>
 
 ###### Article D343-4
 
@@ -20896,7 +18510,7 @@ _Codifié par_:
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 
-##### Section 4 : Voies vertes.<a id=284></a>
+##### Section 4 : Voies vertes.<a id=280></a>
 
 ###### Article D343-5
 
@@ -20913,7 +18527,7 @@ _Cite_:
   - Code de la route. - art. R110-2 (V)
 
 
-##### Section 6 : Accueil du public en forêt.<a id=285></a>
+##### Section 6 : Accueil du public en forêt.<a id=281></a>
 
 ###### Article D343-6
 
@@ -20935,9 +18549,9 @@ _Cité par_:
   - Code du tourisme. - art. R361-3 (V)
 
 
-### TITRE V : DISPOSITIONS RELATIVES À LA CORSE.<a id=286></a>
+### TITRE V : DISPOSITIONS RELATIVES À LA CORSE.<a id=282></a>
 
-#### Chapitre unique.<a id=287></a>
+#### Chapitre unique.<a id=283></a>
 
 ###### Article D351-1
 
@@ -21033,9 +18647,9 @@ _Cite_:
   - Code général des collectivités territoriales R4421-10 à R4421-15
 
 
-### TITRE VI : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER.<a id=288></a>
+### TITRE VI : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER.<a id=284></a>
 
-#### Chapitre Ier : Dispositions relatives à la Guadeloupe, la Guyane, la Martinique et la Réunion.<a id=289></a>
+#### Chapitre Ier : Dispositions relatives à la Guadeloupe, la Guyane, la Martinique et la Réunion.<a id=285></a>
 
 ###### Article R361-1
 
@@ -21086,7 +18700,7 @@ _Cite_:
   - Code du tourisme. - art. D343-6
 
 
-#### Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon.<a id=290></a>
+#### Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon.<a id=286></a>
 
 ###### Article R362-1
 
@@ -21152,7 +18766,7 @@ _Anciens textes_:
   - Code du tourisme. - art. R362-5 (T)
 
 
-#### Chapitre III : Dispositions relatives à Mayotte.<a id=291></a>
+#### Chapitre III : Dispositions relatives à Mayotte.<a id=287></a>
 
 ###### Article R363-1
 
@@ -21252,13 +18866,13 @@ _Anciens textes_:
   - Code du tourisme. - art. R363-6 (T)
 
 
-## LIVRE IV : FINANCEMENT DE L'ACCÈS AUX VACANCES ET FISCALITÉ DU TOURISME.<a id=292></a>
+## LIVRE IV : FINANCEMENT DE L'ACCÈS AUX VACANCES ET FISCALITÉ DU TOURISME.<a id=288></a>
 
-### TITRE Ier : ACCÈS AUX VACANCES.<a id=293></a>
+### TITRE Ier : ACCÈS AUX VACANCES.<a id=289></a>
 
-#### Chapitre Ier : Chèques-vacances.<a id=294></a>
+#### Chapitre Ier : Chèques-vacances.<a id=290></a>
 
-##### Section 1 : Dispositions générales.<a id=295></a>
+##### Section 1 : Dispositions générales.<a id=291></a>
 
 ###### Article D411-6-1
 
@@ -21478,9 +19092,9 @@ _Modifié par_:
   - Décret n°2007-107 du 29 janvier 2007 - art. 1 () JORF 30 janvier 2007
 
 
-##### Section 2 : Agence nationale pour les chèques-vacances.<a id=296></a>
+##### Section 2 : Agence nationale pour les chèques-vacances.<a id=292></a>
 
-##### Sous-section 1 : Missions et moyens<a id=297></a>
+##### Sous-section 1 : Missions et moyens<a id=293></a>
 
 ###### Article R411-9
 
@@ -21512,7 +19126,7 @@ _Modifié par_:
   - Décret n°2007-107 du 29 janvier 2007 - art. 2 () JORF 30 janvier 2007
 
 
-##### Sous-section 2 : Conseil d'administration.<a id=298></a>
+##### Sous-section 2 : Conseil d'administration.<a id=294></a>
 
 ###### Article R411-10
 
@@ -21729,7 +19343,7 @@ _Cité par_:
   - Code du tourisme. - art. R411-17 (V)
 
 
-##### Sous-section 3 : Tutelle<a id=299></a>
+##### Sous-section 3 : Tutelle<a id=295></a>
 
 ###### Article R411-16
 
@@ -21774,7 +19388,7 @@ _Cité par_:
   - Code du tourisme. - art. R411-17 (M)
 
 
-##### Sous-section 4 : Directeur général<a id=300></a>
+##### Sous-section 4 : Directeur général<a id=296></a>
 
 ###### Article R411-17
 
@@ -21847,7 +19461,7 @@ _Cite_:
   - Code du tourisme. - art. R411-23 (M)
 
 
-##### Sous-section 5 : Commission d'attribution des aides<a id=301></a>
+##### Sous-section 5 : Commission d'attribution des aides<a id=297></a>
 
 ###### Article R411-18
 
@@ -21884,7 +19498,7 @@ _Cite_:
   - Code du tourisme. - art. L411-15 (M)
 
 
-##### Sous-section 6 : Régime financier et comptable<a id=302></a>
+##### Sous-section 6 : Régime financier et comptable<a id=298></a>
 
 ###### Article R411-19
 
@@ -22104,9 +19718,9 @@ _Cité par_:
   - Code du tourisme. - art. R411-22 (M)
 
 
-#### Chapitre II : Agrément d'organismes ou de personnes physiques concourant au tourisme social.<a id=303></a>
+#### Chapitre II : Agrément d'organismes ou de personnes physiques concourant au tourisme social.<a id=299></a>
 
-##### Section 1 : Agrément national délivré à des organismes de tourisme social et familial.<a id=304></a>
+##### Section 1 : Agrément national délivré à des organismes de tourisme social et familial.<a id=300></a>
 
 ###### Article D412-5
 
@@ -22324,7 +19938,7 @@ _Codifié par_:
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 
-##### Section 2 : Agrément des vacances adaptées organisées.<a id=305></a>
+##### Section 2 : Agrément des vacances adaptées organisées.<a id=301></a>
 
 ###### Article R412-8
 
@@ -22594,11 +20208,11 @@ _Codifié par_:
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 
-### TITRE II : DISPOSITIONS FISCALES PARTICULIÈRES AUX ACTIVITÉS TOURISTIQUES.<a id=306></a>
+### TITRE II : DISPOSITIONS FISCALES PARTICULIÈRES AUX ACTIVITÉS TOURISTIQUES.<a id=302></a>
 
-#### Chapitre Ier : Ressources et incitations de l'Etat relatives aux activités et hébergements touristiques.<a id=307></a>
+#### Chapitre Ier : Ressources et incitations de l'Etat relatives aux activités et hébergements touristiques.<a id=303></a>
 
-##### Section 1 : Assujettissement des hébergements et aménagements touristiques à la taxe sur la valeur ajoutée.<a id=308></a>
+##### Section 1 : Assujettissement des hébergements et aménagements touristiques à la taxe sur la valeur ajoutée.<a id=304></a>
 
 ###### Article D421-1
 
@@ -22621,7 +20235,7 @@ _Cite_:
   - Code du tourisme. - art. L421-1 (V)
 
 
-##### Section 2 : Dispositions particulières relatives à l'investissement dans l'immobilier de loisirs.<a id=309></a>
+##### Section 2 : Dispositions particulières relatives à l'investissement dans l'immobilier de loisirs.<a id=305></a>
 
 ###### Article D421-2
 
@@ -22665,7 +20279,7 @@ _Cite_:
   - Code du tourisme. - art. L421-3-1 (V)
 
 
-##### Section 3 : Dispositions particulières applicables aux agences de voyages et organisateurs de circuits touristiques.<a id=310></a>
+##### Section 3 : Dispositions particulières applicables aux agences de voyages et organisateurs de circuits touristiques.<a id=306></a>
 
 ###### Article D421-4
 
@@ -22686,9 +20300,9 @@ _Cite_:
   - Code du tourisme. - art. L421-4
 
 
-#### Chapitre II : Ressources des collectivités territoriales relatives au tourisme.<a id=311></a>
+#### Chapitre II : Ressources des collectivités territoriales relatives au tourisme.<a id=307></a>
 
-##### Section 1 : Taxe professionnelle.<a id=312></a>
+##### Section 1 : Taxe professionnelle.<a id=308></a>
 
 ###### Article D422-1
 
@@ -22729,9 +20343,9 @@ _Cite_:
   - Code du tourisme. - art. L422-2 (V)
 
 
-##### Section 2 : Taxes et redevances prélevées au profit des communes et établissements publics de coopération intercommunale.<a id=313></a>
+##### Section 2 : Taxes et redevances prélevées au profit des communes et établissements publics de coopération intercommunale.<a id=309></a>
 
-##### Sous-section 1 : Taxe de séjour et taxe de séjour forfaitaire.<a id=314></a>
+##### Sous-section 1 : Taxe de séjour et taxe de séjour forfaitaire.<a id=310></a>
 
 ###### Article D422-3
 
@@ -22892,11 +20506,11 @@ En cas de non-paiement, les poursuites sont effectuées comme en matière de con
 " Art.R. 2333-57 du code général des collectivités territoriales. 
 
 En application de l'article L. 2333-40, tout assujetti qui conteste soit l'application qui lui est faite du tarif par
-l'hôtelier, logeur, propriétaire, ou principal locataire, soit la quotité de la taxe qui lui est réclamée, acquitte néanmoins
+l'hôtelier, logeur, propriétaire, ou principal locataire, soit la quotité de la taxe qui lui est réclamée acquitte néanmoins
 le montant de la taxe contestée, sauf à en obtenir le remboursement après qu'il a été statué sur sa réclamation. 
 
-Ces contestations sont portées, quel que soit le montant de la taxe, devant le tribunal d'instance dans le ressort duquel se
-trouve la commune intéressée et sont jugées sans frais. " 
+Ces contestations sont portées, selon le montant de la taxe, devant le tribunal d'instance ou de grande instance, dans le
+ressort duquel se trouve la commune intéressée et sont jugées sans frais. " 
 
 " Art.R. 2333-58 du code général des collectivités territoriales. 
 
@@ -23022,8 +20636,8 @@ A cette fin, il peut demander aux logeurs et hôteliers la communication des pi�
 Tout redevable qui conteste le montant de la taxe qui lui est notifié acquitte néanmoins le montant de la taxe contestée,
 sauf à en obtenir le remboursement après qu'il a été statué sur sa réclamation par le maire. 
 
-Ces réclamations sont portées, quel que soit le montant de la taxe, devant le tribunal d'instance dans le ressort duquel se
-trouve la commune intéressée et sont jugées sans frais. 
+Ces contestations sont portées, selon le montant de la taxe, devant le tribunal d'instance ou de grande instance, dans le
+ressort duquel se trouve la commune intéressée et sont jugées sans frais. 
 
 Toutefois, au préalable, le redevable peut adresser la réclamation au maire qui, le cas échéant, décide du remboursement. " 
 
@@ -23044,10 +20658,6 @@ Cette indemnité de retard donne lieu à l'émission d'un titre de recettes adre
 En cas de non-paiement, les poursuites sont effectuées comme en matière de contributions directes. "
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 **Liens**:
 
@@ -23110,7 +20720,7 @@ _Cite_:
   - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R5211-6 (V)
 
 
-##### Sous-section 2 : Taxe communale sur les entreprises exploitant des engins de remontée mécanique.<a id=315></a>
+##### Sous-section 2 : Taxe communale sur les entreprises exploitant des engins de remontée mécanique.<a id=311></a>
 
 ###### Article D422-5
 
@@ -23178,7 +20788,7 @@ _Cite_:
   - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R2333-73 (V)
 
 
-##### Sous-section 5 : Taxe sur les activités commerciales non salariées à durée saisonnière.<a id=316></a>
+##### Sous-section 5 : Taxe sur les activités commerciales non salariées à durée saisonnière.<a id=312></a>
 
 ###### Article D422-6
 
@@ -23198,7 +20808,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. R2333-133 (V)
 
 
-##### Sous-section 6 : Prélèvement sur le produit des jeux dans les casinos.<a id=317></a>
+##### Sous-section 6 : Prélèvement sur le produit des jeux dans les casinos.<a id=313></a>
 
 ###### Article D422-7
 
@@ -23364,9 +20974,9 @@ _Modifié par_:
   - Décret n°2010-1300 du 29 octobre 2010 - art. 2
 
 
-##### Section 3 : Taxes prélevées au profit des départements.<a id=318></a>
+##### Section 3 : Taxes prélevées au profit des départements.<a id=314></a>
 
-##### Sous-section 2 : Taxe départementale sur les entreprises exploitant des engins de remontée mécanique.<a id=319></a>
+##### Sous-section 2 : Taxe départementale sur les entreprises exploitant des engins de remontée mécanique.<a id=315></a>
 
 ###### Article D422-8
 
@@ -23406,9 +21016,9 @@ _Cite_:
   - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R3333-3 (V)
 
 
-### TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER.<a id=320></a>
+### TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER.<a id=316></a>
 
-#### Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon.<a id=321></a>
+#### Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon.<a id=317></a>
 
 ###### Article R442-1
 
@@ -23449,7 +21059,7 @@ _Codifié par_:
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 
-#### Chapitre III : Dispositions relatives à Mayotte.<a id=322></a>
+#### Chapitre III : Dispositions relatives à Mayotte.<a id=318></a>
 
 ###### Article R443-1
 
