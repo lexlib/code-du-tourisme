@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2010-01-01
+Version Consolidée au 2010-01-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-10)](#2)
@@ -173,152 +173,144 @@ Version Consolidée au 2010-01-01
         - [Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon. (art. R162-1 à R162-2)](#170)
         - [Chapitre III : Dispositions relatives à Mayotte. (art. R163-1 à R163-3)](#171)
     - [LIVRE II : ACTIVITÉS ET PROFESSIONS DU TOURISME. (art. R211-1 à R243-4)](#172)
-      - [TITRE Ier : ORGANISATION DE LA VENTE DE VOYAGES ET DE SÉJOURS. (art. R211-1 à R211-13)](#173)
-        - [Chapitre Ier : Dispositions communes. (art. R211-1 à R211-13)](#174)
+      - [TITRE Ier : DES AGENTS DE VOYAGES ET AUTRES OPERATEURS DE LA VENTE DE VOYAGES ET DE SEJOURS. (art. R211-1 à R211-51)](#173)
+        - [Chapitre unique : Régime de la vente de voyages et de séjours. (art. R211-1 à R211-51)](#174)
           - [Section 1 : Dispositions générales. (art. R211-1 à R211-2)](#175)
           - [Section 2 : Contrat de vente de voyages et de séjours. (art. R211-3 à R211-13)](#176)
-          - [Section 5 : Obligation d'information des passagers aériens sur l'identité du transporteur aérien. (art.  à R211-13)](#177)
-      - [TITRE Ier : DES AGENTS DE VOYAGES ET AUTRES OPERATEURS DE LA VENTE DE VOYAGES ET DE SEJOURS. (art.  à R211-51)](#178)
-        - [Chapitre unique : Régime de la vente de voyages et de séjours. (art.  à R211-51)](#179)
-          - [Section 1 : Dispositions générales. (art.  à R211-13)](#180)
-          - [Section 2 : Contrat de vente de voyages et de séjours. (art.  à R211-13)](#181)
-          - [Section 3 : Sanctions et mesures conservatoires. (art. R211-14)](#182)
-          - [Section 4 : Obligation d'information des passagers aériens sur l'identité du transporteur aérien. (art. R211-15 à R211-19)](#183)
-          - [Section 5 : Obligation et conditions d'immatriculation des agents de voyage et autres opérateurs de la vente de voyages et de séjours. (art. D211-21-1 à R211-25)](#184)
-            - [Sous-section 1 : Procédure d'immatriculation des agents de voyage et autres opérateurs de la vente de voyages et de séjours. (art. D211-21-1 à R211-22)](#185)
-            - [Sous-section 2 : Gestion du registre des agents de voyage et autres opérateurs de la vente de voyages et de séjours. (art. R211-23 à R211-25)](#186)
-          - [Section 6 : Garantie financière. (art. R211-26 à R211-34)](#187)
-          - [Section 7 : Responsabilité civile professionnelle. (art. R211-35 à R211-40)](#188)
-          - [Section 8 : Aptitude professionnelle. (art. R211-41)](#189)
-          - [Section 9 : Contrat de jouissance d'immeuble à temps partagé. (art. R211-42 à R211-49)](#190)
-          - [Section 10 : Liberté d'établissement et libre prestation de service. (art. R211-50 à R211-51)](#191)
-      - [TITRE II : DISPOSITIONS RELATIVES AUX VISITES DANS LES MUSÉES ET MONUMENTS HISTORIQUES. (art. D221-5 à D221-24)](#192)
-        - [Chapitre unique : Personnels qualifiés. (art. D221-5 à D221-24)](#193)
-          - [Section 1 : Des personnes qualifiées. (art. D221-5 à R221-4)](#194)
-          - [Section 2 : Des professions de guide-interprète et de conférencier. (art. R221-11 à R221-14)](#195)
-          - [Section 3 : Des aptitudes professionnelles acquises dans les autres Etats membres de l'Union européenne ou parties à l'accord sur l'Espace économique européen. (art. R221-15 à R221-18-1)](#196)
-            - [Sous-section 1 : Liberté d'établissement. (art. R221-15 à R221-18)](#197)
-            - [Sous-section 2  : Libre prestation de services (art. R221-18-1)](#198)
-          - [Section 4 : Diplôme national de guide-interprète national. (art. D221-19 à D221-24)](#199)
-      - [TITRE III : EXPLOITATION DES VÉHICULES DE TOURISME. (art. D231-1 à R233-1)](#200)
-        - [Chapitre Ier : Exploitation de voitures de tourisme de luxe dites de grande remise. (art. D231-1)](#201)
-          - [Section 1 : Dispositions générales. (art. D231-1)](#202)
-        - [Chapitre Ier : Transport par voitures de tourisme avec chauffeur. (art.  à R231-14)](#203)
-          - [Section 1 : Dispositions générales. (art.  à D231-1)](#204)
-          - [Section 2 : Exploitation de voitures de tourisme avec chauffeur. (art. D231-3-1 à R231-6)](#205)
-            - [Sous-section 1 : Procédure d'immatriculation des entreprises touristiques de transport avec chauffeur. (art. D231-3-1 à R231-4)](#206)
-            - [Sous-section 2 : Radiation. (art. R231-5 à R231-6)](#207)
-          - [Section 3 : Conduite de voitures de tourisme avec chauffeur. (art. D231-7 à D231-12)](#208)
-            - [Sous-section 1 : Conditions d'aptitude à la conduite de voiture de tourisme avec chauffeur (art. D231-7 à D231-11)](#209)
-            - [Sous-section 2 :  Procédure d'attribution et de retrait de la carte  professionnelle de chauffeur de voiture de tourisme (art. D231-12)](#210)
-          - [Section 4 : Sanctions. (art. R231-13 à R231-14)](#211)
-        - [Chapitre III : Exploitation d'autres véhicules à usage touristique et de loisirs. (art.  à R231-14)](#212)
-        - [Chapitre II : Exploitation d'autres véhicules à usage touristique et de loisirs. (art. R233-1)](#213)
-      - [TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER. (art. R242-1 à R243-4)](#214)
-        - [Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon. (art. R242-1 à R242-3)](#215)
-        - [Chapitre III : Dispositions relatives à Mayotte. (art. R243-1 à R243-4)](#216)
-    - [LIVRE III : ÉQUIPEMENTS ET AMÉNAGEMENTS. (art. D311-2 à R363-5)](#217)
-      - [TITRE Ier : HÔTELS, CAFÉS ET DÉBITS DE BOISSONS. (art. D311-2 à D314-1)](#218)
-        - [Chapitre Ier : Hôtels. (art. D311-2 à R311-14)](#219)
-          - [Section 1 : Rapports entre bailleurs et locataires des immeubles affectés à l'hôtellerie. (art. D311-2 à R311-3)](#220)
-          - [Section 2 : Classement. (art. D311-4 à D311-11)](#221)
-          - [Section 3 : Sanctions. (art. R311-13 à R311-14)](#222)
-        - [Chapitre II : Cafés et débits de boissons. (art. D312-1 à D312-2)](#223)
-        - [Chapitre IV : Débits de boissons ayant pour activité principale l'exploitation d'une piste de danse (art. D314-1)](#224)
-      - [TITRE II : HÉBERGEMENTS AUTRES QUE HÔTELS ET TERRAINS DE CAMPING. (art. D321-1 à D326-3)](#225)
-        - [Chapitre Ier : Résidences de tourisme. (art. D321-1 à R321-11)](#226)
-          - [Section 1 : Dispositions générales. (art. D321-1 à D321-2)](#227)
-          - [Section 2 : Classement. (art. D321-3 à D321-7)](#228)
-          - [Section 3 : Sanctions. (art. R321-8 à R321-11)](#229)
-        - [Chapitre III : Villages résidentiels de tourisme. (art. R323-1 à R323-12)](#230)
-          - [Section 1 : Dispositions générales. (art. R323-1 à R323-3)](#231)
-          - [Section 2 : Classement. (art. D323-5 à R323-4)](#232)
-          - [Section 3 : Sanctions. (art. R323-9 à R323-12)](#233)
-        - [Chapitre IV : Meublés de tourisme et chambres d'hôtes. (art. D324-1 à R324-16)](#234)
-          - [Section 1 : Meublés de tourisme. (art. D324-1 à R324-12)](#235)
-            - [Sous-section 1 : Dispositions générales. (art. D324-1 à R324-1-2)](#236)
-            - [Sous-section 2 : Classement. (art. D324-2 à R*324-9)](#237)
-            - [Sous-section 3 : Sanctions. (art. R324-10 à R324-12)](#238)
-          - [Section 2 : Chambres d'hôtes. (art. D324-13 à R324-16)](#239)
-        - [Chapitre V : Villages et maisons familiales de vacances. (art. D325-1 à R325-23)](#240)
-          - [Section 1 : Villages de vacances. (art. D325-1 à R325-12)](#241)
-            - [Sous-section 1 : Dispositions générales. (art. D325-1 à D325-3)](#242)
-            - [Sous-section 2 : Classement. (art. D325-4 à D325-9)](#243)
-            - [Sous-section 3 : Sanctions. (art. R325-10 à R325-12)](#244)
-          - [Section 2 : Maisons familiales de vacances. (art. D325-13 à R325-23)](#245)
-            - [Sous-section 1 : Dispositions générales. (art. D325-13 à D325-18)](#246)
-            - [Sous-section 2 : Agrément. (art. D325-19 à D325-22)](#247)
-            - [Sous-section 3 : Sanctions. (art. R325-23)](#248)
-        - [Chapitre VI : Refuges de montagne. (art. D326-1 à D326-3)](#249)
-      - [TITRE III : TERRAINS DE CAMPING OU DE CARAVANAGE ET AUTRES TERRAINS AMÉNAGÉS. (art. D331-2 à D333-7)](#250)
-        - [Chapitre Ier : Ouverture et aménagement. (art. D331-2 à R331-11)](#251)
-        - [Chapitre II : Classement. (art. D332-1 à R332-12)](#252)
-          - [Section 1 : Dispositions générales. (art. D332-1 à D332-2)](#253)
-          - [Section 2 : Procédure de classement. (art. D332-3 à R332-8)](#254)
-          - [Section 3 : Sanctions. (art. D332-13 à R332-12)](#255)
-        - [Chapitre III : Règles relatives aux habitations légères de loisirs, aux parcs résidentiels de loisirs et aux résidences mobiles de loisirs. (art. D333-1 à D333-7)](#256)
-          - [Section 1 : Habitations légères de loisirs. (art. D333-1)](#257)
-          - [Section 2 : Parcs résidentiels de loisirs. (art. D333-3 à R333-6)](#258)
-            - [Sous-section 1 : Dispositions générales. (art. D333-3 à D333-4)](#259)
-            - [Sous-section 2 : Classement. (art. D333-5)](#260)
-            - [Sous-section 3 : Sanctions. (art. R333-6)](#261)
-          - [Section 3 : Résidences mobiles de loisirs. (art. D333-7)](#262)
-      - [TITRE IV : AMÉNAGEMENTS ET RÉGLEMENTATION DES ESPACES À VOCATION TOURISTIQUE. (art. D341-1 à D343-6)](#263)
-        - [Chapitre Ier : Littoral. (art. D341-1 à D341-3)](#264)
-          - [Section 1 : Aménagement, protection et mise en valeur du littoral. (art. D341-1)](#265)
-          - [Section 2 : Ports de plaisance et zones de mouillages. (art. D341-2)](#266)
-          - [Section 3 : Accès aux rivages et aux plages. (art. D341-3)](#267)
-        - [Chapitre II : Montagne. (art. D342-1 à R342-29)](#268)
-          - [Section 2 : Unités touristiques nouvelles. (art. D342-1)](#269)
-          - [Section 3 : Remontées mécaniques, pistes de ski et tapis roulants. (art. D342-2 à R342-29)](#270)
-            - [Sous-section 1 : Dispositions communes aux remontées mécaniques et aux tapis roulants. (art. D342-2 à R342-20)](#271)
-            - [Sous-section 2 : Dispositions spécifiques aux remontées mécaniques. (art. D342-21 à R342-25)](#272)
-            - [Sous-section 3 : Dispositions spécifiques aux tapis roulants. (art. R342-26 à R342-29)](#273)
-        - [Chapitre III : Espace rural et naturel. (art. D343-1 à D343-6)](#274)
-          - [Section 1 : Activités touristiques en milieu rural. (art. D343-1)](#275)
-          - [Section 2 : Parcs nationaux et régionaux. (art. D343-2 à D343-3)](#276)
-            - [Sous-section 1 : Parcs nationaux. (art. D343-2)](#277)
-            - [Sous-section 2 : Parcs naturels régionaux. (art. D343-3)](#278)
-          - [Section 3 : Itinéraires de randonnée. (art. D343-4)](#279)
-          - [Section 4 : Voies vertes. (art. D343-5)](#280)
-          - [Section 6 : Accueil du public en forêt. (art. D343-6)](#281)
-      - [TITRE V : DISPOSITIONS RELATIVES À LA CORSE. (art. D351-1 à D351-3)](#282)
-        - [Chapitre unique. (art. D351-1 à D351-3)](#283)
-      - [TITRE VI : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER. (art. R361-1 à R363-5)](#284)
-        - [Chapitre Ier : Dispositions relatives à la Guadeloupe, la Guyane, la Martinique et la Réunion. (art. R361-1 à R361-3)](#285)
-        - [Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon. (art. R362-1 à R362-4)](#286)
-        - [Chapitre III : Dispositions relatives à Mayotte. (art. R363-1 à R363-5)](#287)
-    - [LIVRE IV : FINANCEMENT DE L'ACCÈS AUX VACANCES ET FISCALITÉ DU TOURISME. (art. D411-6-1 à R443-4)](#288)
-      - [TITRE Ier : ACCÈS AUX VACANCES. (art. D411-6-1 à R412-17)](#289)
-        - [Chapitre Ier : Chèques-vacances. (art. D411-6-1 à R411-26)](#290)
-          - [Section 1 : Dispositions générales. (art. D411-6-1 à R411-8)](#291)
-          - [Section 2 : Agence nationale pour les chèques-vacances. (art. R411-9 à R411-26)](#292)
-            - [Sous-section 1 : Missions et moyens (art. R411-9)](#293)
-            - [Sous-section 2 : Conseil d'administration. (art. R411-10 à R411-15)](#294)
-            - [Sous-section 3 : Tutelle (art. R411-16)](#295)
-            - [Sous-section 4 : Directeur général (art. R411-17)](#296)
-            - [Sous-section 5 : Commission d'attribution des aides (art. R411-18)](#297)
-            - [Sous-section 6 : Régime financier et comptable (art. R411-19 à R411-26)](#298)
-        - [Chapitre II : Agrément d'organismes ou de personnes physiques concourant au tourisme social. (art. D412-5 à R412-17)](#299)
-          - [Section 1 : Agrément national délivré à des organismes de tourisme social et familial. (art. D412-5 à R412-6)](#300)
-          - [Section 2 : Agrément des vacances adaptées organisées. (art. R412-8 à R412-17)](#301)
-      - [TITRE II : DISPOSITIONS FISCALES PARTICULIÈRES AUX ACTIVITÉS TOURISTIQUES. (art. D421-1 à D422-8)](#302)
-        - [Chapitre Ier : Ressources et incitations de l'Etat relatives aux activités et hébergements touristiques. (art. D421-1 à D421-4)](#303)
-          - [Section 1 : Assujettissement des hébergements et aménagements touristiques à la taxe sur la valeur ajoutée. (art. D421-1)](#304)
-          - [Section 2 : Dispositions particulières relatives à l'investissement dans l'immobilier de loisirs. (art. D421-2 à D421-3)](#305)
-          - [Section 3 : Dispositions particulières applicables aux agences de voyages et organisateurs de circuits touristiques. (art. D421-4)](#306)
-        - [Chapitre II : Ressources des collectivités territoriales relatives au tourisme. (art. D422-1 à D422-8)](#307)
-          - [Section 1 : Taxe professionnelle. (art. D422-1 à D422-2)](#308)
-          - [Section 2 : Taxes et redevances prélevées au profit des communes et établissements publics de coopération intercommunale. (art. D422-3 à D422-7)](#309)
-            - [Sous-section 1 : Taxe de séjour et taxe de séjour forfaitaire. (art. D422-3 à D422-4)](#310)
-            - [Sous-section 2 : Taxe communale sur les entreprises exploitant des engins de remontée mécanique. (art. D422-5)](#311)
-            - [Sous-section 5 : Taxe sur les activités commerciales non salariées à durée saisonnière. (art. D422-6)](#312)
-            - [Sous-section 6 : Prélèvement sur le produit des jeux dans les casinos. (art. D422-7)](#313)
-          - [Section 3 : Taxes prélevées au profit des départements. (art. D422-8)](#314)
-            - [Sous-section 2 : Taxe départementale sur les entreprises exploitant des engins de remontée mécanique. (art. D422-8)](#315)
-      - [TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER. (art. R442-1 à R443-4)](#316)
-        - [Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon. (art. R442-1 à R442-3)](#317)
-        - [Chapitre III : Dispositions relatives à Mayotte. (art. R443-1 à R443-4)](#318)
+          - [Section 3 : Sanctions et mesures conservatoires. (art. R211-14)](#177)
+          - [Section 4 : Obligation d'information des passagers aériens sur l'identité du transporteur aérien. (art. R211-15 à R211-19)](#178)
+          - [Section 5 : Obligation et conditions d'immatriculation des agents de voyage et autres opérateurs de la vente de voyages et de séjours. (art. D211-21-1 à R211-25)](#179)
+            - [Sous-section 1 : Procédure d'immatriculation des agents de voyage et autres opérateurs de la vente de voyages et de séjours. (art. D211-21-1 à R211-22)](#180)
+            - [Sous-section 2 : Gestion du registre des agents de voyage et autres opérateurs de la vente de voyages et de séjours. (art. R211-23 à R211-25)](#181)
+          - [Section 6 : Garantie financière. (art. R211-26 à R211-34)](#182)
+          - [Section 7 : Responsabilité civile professionnelle. (art. R211-35 à R211-40)](#183)
+          - [Section 8 : Aptitude professionnelle. (art. R211-41)](#184)
+          - [Section 9 : Contrat de jouissance d'immeuble à temps partagé. (art. R211-42 à R211-49)](#185)
+          - [Section 10 : Liberté d'établissement et libre prestation de service. (art. R211-50 à R211-51)](#186)
+      - [TITRE II : DISPOSITIONS RELATIVES AUX VISITES DANS LES MUSÉES ET MONUMENTS HISTORIQUES. (art. D221-5 à D221-24)](#187)
+        - [Chapitre unique : Personnels qualifiés. (art. D221-5 à D221-24)](#188)
+          - [Section 1 : Des personnes qualifiées. (art. D221-5 à R221-4)](#189)
+          - [Section 2 : Des professions de guide-interprète et de conférencier. (art. R221-11 à R221-14)](#190)
+          - [Section 3 : Des aptitudes professionnelles acquises dans les autres Etats membres de l'Union européenne ou parties à l'accord sur l'Espace économique européen. (art. R221-15 à R221-18-1)](#191)
+            - [Sous-section 1 : Liberté d'établissement. (art. R221-15 à R221-18)](#192)
+            - [Sous-section 2  : Libre prestation de services (art. R221-18-1)](#193)
+          - [Section 4 : Diplôme national de guide-interprète national. (art. D221-19 à D221-24)](#194)
+      - [TITRE III : EXPLOITATION DES VÉHICULES DE TOURISME. (art. D231-1 à R233-1)](#195)
+        - [Chapitre Ier : Transport par voitures de tourisme avec chauffeur. (art. D231-1 à R231-14)](#196)
+          - [Section 1 : Dispositions générales. (art. D231-1)](#197)
+          - [Section 2 : Exploitation de voitures de tourisme avec chauffeur. (art. D231-3-1 à R231-6)](#198)
+            - [Sous-section 1 : Procédure d'immatriculation des entreprises touristiques de transport avec chauffeur. (art. D231-3-1 à R231-4)](#199)
+            - [Sous-section 2 : Radiation. (art. R231-5 à R231-6)](#200)
+          - [Section 3 : Conduite de voitures de tourisme avec chauffeur. (art. D231-7 à D231-12)](#201)
+            - [Sous-section 1 : Conditions d'aptitude à la conduite de voiture de tourisme avec chauffeur (art. D231-7 à D231-11)](#202)
+            - [Sous-section 2 :  Procédure d'attribution et de retrait de la carte  professionnelle de chauffeur de voiture de tourisme (art. D231-12)](#203)
+          - [Section 4 : Sanctions. (art. R231-13 à R231-14)](#204)
+        - [Chapitre II : Exploitation d'autres véhicules à usage touristique et de loisirs. (art. R233-1)](#205)
+      - [TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER. (art. R242-1 à R243-4)](#206)
+        - [Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon. (art. R242-1 à R242-3)](#207)
+        - [Chapitre III : Dispositions relatives à Mayotte. (art. R243-1 à R243-4)](#208)
+    - [LIVRE III : ÉQUIPEMENTS ET AMÉNAGEMENTS. (art. D311-2 à R363-5)](#209)
+      - [TITRE Ier : HÔTELS, CAFÉS ET DÉBITS DE BOISSONS. (art. D311-2 à D314-1)](#210)
+        - [Chapitre Ier : Hôtels. (art. D311-2 à R311-14)](#211)
+          - [Section 1 : Rapports entre bailleurs et locataires des immeubles affectés à l'hôtellerie. (art. D311-2 à R311-3)](#212)
+          - [Section 2 : Classement. (art. D311-4 à D311-11)](#213)
+          - [Section 3 : Sanctions. (art. R311-13 à R311-14)](#214)
+        - [Chapitre II : Cafés et débits de boissons. (art. D312-1 à D312-2)](#215)
+        - [Chapitre IV : Débits de boissons ayant pour activité principale l'exploitation d'une piste de danse (art. D314-1)](#216)
+      - [TITRE II : HÉBERGEMENTS AUTRES QUE HÔTELS ET TERRAINS DE CAMPING. (art. D321-1 à D326-3)](#217)
+        - [Chapitre Ier : Résidences de tourisme. (art. D321-1 à R321-11)](#218)
+          - [Section 1 : Dispositions générales. (art. D321-1 à D321-2)](#219)
+          - [Section 2 : Classement. (art. D321-3 à D321-7)](#220)
+          - [Section 3 : Sanctions. (art. R321-8 à R321-11)](#221)
+        - [Chapitre III : Villages résidentiels de tourisme. (art. R323-1 à R323-12)](#222)
+          - [Section 1 : Dispositions générales. (art. R323-1 à R323-3)](#223)
+          - [Section 2 : Classement. (art. D323-5 à R323-4)](#224)
+          - [Section 3 : Sanctions. (art. R323-9 à R323-12)](#225)
+        - [Chapitre IV : Meublés de tourisme et chambres d'hôtes. (art. D324-1 à R324-16)](#226)
+          - [Section 1 : Meublés de tourisme. (art. D324-1 à R324-12)](#227)
+            - [Sous-section 1 : Dispositions générales. (art. D324-1 à R324-1-2)](#228)
+            - [Sous-section 2 : Classement. (art. D324-2 à R*324-9)](#229)
+            - [Sous-section 3 : Sanctions. (art. R324-10 à R324-12)](#230)
+          - [Section 2 : Chambres d'hôtes. (art. D324-13 à R324-16)](#231)
+        - [Chapitre V : Villages et maisons familiales de vacances. (art. D325-1 à R325-23)](#232)
+          - [Section 1 : Villages de vacances. (art. D325-1 à R325-12)](#233)
+            - [Sous-section 1 : Dispositions générales. (art. D325-1 à D325-3)](#234)
+            - [Sous-section 2 : Classement. (art. D325-4 à D325-9)](#235)
+            - [Sous-section 3 : Sanctions. (art. R325-10 à R325-12)](#236)
+          - [Section 2 : Maisons familiales de vacances. (art. D325-13 à R325-23)](#237)
+            - [Sous-section 1 : Dispositions générales. (art. D325-13 à D325-18)](#238)
+            - [Sous-section 2 : Agrément. (art. D325-19 à D325-22)](#239)
+            - [Sous-section 3 : Sanctions. (art. R325-23)](#240)
+        - [Chapitre VI : Refuges de montagne. (art. D326-1 à D326-3)](#241)
+      - [TITRE III : TERRAINS DE CAMPING OU DE CARAVANAGE ET AUTRES TERRAINS AMÉNAGÉS. (art. D331-2 à D333-7)](#242)
+        - [Chapitre Ier : Ouverture et aménagement. (art. D331-2 à R331-11)](#243)
+        - [Chapitre II : Classement. (art. D332-1 à R332-12)](#244)
+          - [Section 1 : Dispositions générales. (art. D332-1 à D332-2)](#245)
+          - [Section 2 : Procédure de classement. (art. D332-3 à R332-8)](#246)
+          - [Section 3 : Sanctions. (art. D332-13 à R332-12)](#247)
+        - [Chapitre III : Règles relatives aux habitations légères de loisirs, aux parcs résidentiels de loisirs et aux résidences mobiles de loisirs. (art. D333-1 à D333-7)](#248)
+          - [Section 1 : Habitations légères de loisirs. (art. D333-1)](#249)
+          - [Section 2 : Parcs résidentiels de loisirs. (art. D333-3 à R333-6)](#250)
+            - [Sous-section 1 : Dispositions générales. (art. D333-3 à D333-4)](#251)
+            - [Sous-section 2 : Classement. (art. D333-5)](#252)
+            - [Sous-section 3 : Sanctions. (art. R333-6)](#253)
+          - [Section 3 : Résidences mobiles de loisirs. (art. D333-7)](#254)
+      - [TITRE IV : AMÉNAGEMENTS ET RÉGLEMENTATION DES ESPACES À VOCATION TOURISTIQUE. (art. D341-1 à D343-6)](#255)
+        - [Chapitre Ier : Littoral. (art. D341-1 à D341-3)](#256)
+          - [Section 1 : Aménagement, protection et mise en valeur du littoral. (art. D341-1)](#257)
+          - [Section 2 : Ports de plaisance et zones de mouillages. (art. D341-2)](#258)
+          - [Section 3 : Accès aux rivages et aux plages. (art. D341-3)](#259)
+        - [Chapitre II : Montagne. (art. D342-1 à R342-29)](#260)
+          - [Section 2 : Unités touristiques nouvelles. (art. D342-1)](#261)
+          - [Section 3 : Remontées mécaniques, pistes de ski et tapis roulants. (art. D342-2 à R342-29)](#262)
+            - [Sous-section 1 : Dispositions communes aux remontées mécaniques et aux tapis roulants. (art. D342-2 à R342-20)](#263)
+            - [Sous-section 2 : Dispositions spécifiques aux remontées mécaniques. (art. D342-21 à R342-25)](#264)
+            - [Sous-section 3 : Dispositions spécifiques aux tapis roulants. (art. R342-26 à R342-29)](#265)
+        - [Chapitre III : Espace rural et naturel. (art. D343-1 à D343-6)](#266)
+          - [Section 1 : Activités touristiques en milieu rural. (art. D343-1)](#267)
+          - [Section 2 : Parcs nationaux et régionaux. (art. D343-2 à D343-3)](#268)
+            - [Sous-section 1 : Parcs nationaux. (art. D343-2)](#269)
+            - [Sous-section 2 : Parcs naturels régionaux. (art. D343-3)](#270)
+          - [Section 3 : Itinéraires de randonnée. (art. D343-4)](#271)
+          - [Section 4 : Voies vertes. (art. D343-5)](#272)
+          - [Section 6 : Accueil du public en forêt. (art. D343-6)](#273)
+      - [TITRE V : DISPOSITIONS RELATIVES À LA CORSE. (art. D351-1 à D351-3)](#274)
+        - [Chapitre unique. (art. D351-1 à D351-3)](#275)
+      - [TITRE VI : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER. (art. R361-1 à R363-5)](#276)
+        - [Chapitre Ier : Dispositions relatives à la Guadeloupe, la Guyane, la Martinique et la Réunion. (art. R361-1 à R361-3)](#277)
+        - [Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon. (art. R362-1 à R362-4)](#278)
+        - [Chapitre III : Dispositions relatives à Mayotte. (art. R363-1 à R363-5)](#279)
+    - [LIVRE IV : FINANCEMENT DE L'ACCÈS AUX VACANCES ET FISCALITÉ DU TOURISME. (art. D411-6-1 à R443-4)](#280)
+      - [TITRE Ier : ACCÈS AUX VACANCES. (art. D411-6-1 à R412-17)](#281)
+        - [Chapitre Ier : Chèques-vacances. (art. D411-6-1 à R411-26)](#282)
+          - [Section 1 : Dispositions générales. (art. D411-6-1 à R411-8)](#283)
+          - [Section 2 : Agence nationale pour les chèques-vacances. (art. R411-9 à R411-26)](#284)
+            - [Sous-section 1 : Missions et moyens (art. R411-9)](#285)
+            - [Sous-section 2 : Conseil d'administration. (art. R411-10 à R411-15)](#286)
+            - [Sous-section 3 : Tutelle (art. R411-16)](#287)
+            - [Sous-section 4 : Directeur général (art. R411-17)](#288)
+            - [Sous-section 5 : Commission d'attribution des aides (art. R411-18)](#289)
+            - [Sous-section 6 : Régime financier et comptable (art. R411-19 à R411-26)](#290)
+        - [Chapitre II : Agrément d'organismes ou de personnes physiques concourant au tourisme social. (art. D412-5 à R412-17)](#291)
+          - [Section 1 : Agrément national délivré à des organismes de tourisme social et familial. (art. D412-5 à R412-6)](#292)
+          - [Section 2 : Agrément des vacances adaptées organisées. (art. R412-8 à R412-17)](#293)
+      - [TITRE II : DISPOSITIONS FISCALES PARTICULIÈRES AUX ACTIVITÉS TOURISTIQUES. (art. D421-1 à D422-8)](#294)
+        - [Chapitre Ier : Ressources et incitations de l'Etat relatives aux activités et hébergements touristiques. (art. D421-1 à D421-4)](#295)
+          - [Section 1 : Assujettissement des hébergements et aménagements touristiques à la taxe sur la valeur ajoutée. (art. D421-1)](#296)
+          - [Section 2 : Dispositions particulières relatives à l'investissement dans l'immobilier de loisirs. (art. D421-2 à D421-3)](#297)
+          - [Section 3 : Dispositions particulières applicables aux agences de voyages et organisateurs de circuits touristiques. (art. D421-4)](#298)
+        - [Chapitre II : Ressources des collectivités territoriales relatives au tourisme. (art. D422-1 à D422-8)](#299)
+          - [Section 1 : Taxe professionnelle. (art. D422-1 à D422-2)](#300)
+          - [Section 2 : Taxes et redevances prélevées au profit des communes et établissements publics de coopération intercommunale. (art. D422-3 à D422-7)](#301)
+            - [Sous-section 1 : Taxe de séjour et taxe de séjour forfaitaire. (art. D422-3 à D422-4)](#302)
+            - [Sous-section 2 : Taxe communale sur les entreprises exploitant des engins de remontée mécanique. (art. D422-5)](#303)
+            - [Sous-section 5 : Taxe sur les activités commerciales non salariées à durée saisonnière. (art. D422-6)](#304)
+            - [Sous-section 6 : Prélèvement sur le produit des jeux dans les casinos. (art. D422-7)](#305)
+          - [Section 3 : Taxes prélevées au profit des départements. (art. D422-8)](#306)
+            - [Sous-section 2 : Taxe départementale sur les entreprises exploitant des engins de remontée mécanique. (art. D422-8)](#307)
+      - [TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER. (art. R442-1 à R443-4)](#308)
+        - [Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon. (art. R442-1 à R442-3)](#309)
+        - [Chapitre III : Dispositions relatives à Mayotte. (art. R443-1 à R443-4)](#310)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME.<a id=2></a>
@@ -3997,9 +3989,30 @@ _Nouveaux textes_:
 
 ###### Article L311-6
 
-Les contestations relatives à l'application de la présente section sont jugées conformément aux articles L. 145-56 à L.
-145-60 du code de commerce. Celles qui concernent l'exécution des travaux mentionnés à l'article L. 311-2 ne sont pas
-suspensives de cette exécution.
+La décision de classement d'un hôtel est prise, sur demande de l'exploitant, par l'autorité administrative dans des
+conditions fixées par décret. Ce classement est valable pour une durée de cinq ans.
+
+L'hôtel est classé dans une catégorie, en fonction de critères fixés par un tableau de classement élaboré par l'organisme
+mentionné à l'article L. 141-2 et homologué par arrêté du ministre chargé du tourisme.
+
+S'il souhaite obtenir le classement, l'exploitant doit produire un certificat de visite délivré par un organisme évaluateur.
+Dans des conditions fixées par arrêté du ministre chargé du tourisme, les organismes évaluateurs sont accrédités dans les
+domaines correspondant à leurs missions par l'instance nationale d'accréditation mentionnée à l'article 137 de la loi n°
+2008-776 du 4 août 2008 de modernisation de l'économie, ou tout organisme européen équivalent signataire de l'accord
+multilatéral pris dans le cadre de la coordination européenne des organismes d'accréditation. Ces organismes évaluateurs ne
+peuvent concomitamment commercialiser auprès des exploitants des hôtels qu'ils contrôlent d'autres prestations de services
+que l'évaluation pour laquelle ceux-ci les ont sollicités.
+
+L'autorité administrative transmet sa décision de classement à l'organisme mentionné à l'article L. 141-2. 
+
+Sur proposition de l'organisme mentionné à l'article L. 141-2, le ministre chargé du tourisme peut créer par arrêté un label
+reconnaissant les caractéristiques exceptionnelles d'un hôtel tenant notamment à sa situation géographique, à son intérêt
+historique, esthétique ou patrimonial particulier ainsi qu'aux services qui y sont offerts.
+
+**Nota:**
+
+Loi n° 2009-888 art. 10 III. - Le présent article entre en vigueur à une date fixée par décret et au plus tard six mois après
+la promulgation de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -4007,13 +4020,10 @@ _Anciens textes_:
 
   - Loi n°64-645 du 1 juillet 1964 - art. 5 (Ab)
 
-_Codifié par_:
+_Cite_:
 
-  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
-**Liens**:
-
-  - TRANSFERE: Loi n°2009-888 du 22 juillet 2009 - art. 10
+  - Loi n°2008-776 du 4 août 2008 - art. 137 (V)
+  - Code du tourisme. - art. L141-2 (V)
 
 _Cité par_:
 
@@ -4024,14 +4034,9 @@ _Cité par_:
   - Code du tourisme. - art. D311-6 (VD)
   - Code général de la propriété des personnes publ... - art. R2124-18 (V)
 
-_Cite_:
+_Modifié par_:
 
-  - Code de commerce. - art. L145-56 (V)
-  - Code du tourisme. - art. L311-2 (VT)
-
-_Nouveaux textes_:
-
-  - Code du tourisme. - art. L311-5 (VD)
+  - Loi n°2009-888 du 22 juillet 2009 - art. 10
 
 
 ##### Section 3 : Classement<a id=60></a>
@@ -11018,9 +11023,9 @@ _Cité par_:
 
 ## LIVRE II : ACTIVITÉS ET PROFESSIONS DU TOURISME.<a id=172></a>
 
-### TITRE Ier : ORGANISATION DE LA VENTE DE VOYAGES ET DE SÉJOURS.<a id=173></a>
+### TITRE Ier : DES AGENTS DE VOYAGES ET AUTRES OPERATEURS DE LA VENTE DE VOYAGES ET DE SEJOURS.<a id=173></a>
 
-#### Chapitre Ier : Dispositions communes.<a id=174></a>
+#### Chapitre unique : Régime de la vente de voyages et de séjours.<a id=174></a>
 
 ##### Section 1 : Dispositions générales.<a id=175></a>
 
@@ -11612,17 +11617,7 @@ _Cité par_:
   - Code du tourisme. - art. R211-8 (V)
 
 
-##### Section 5 : Obligation d'information des passagers aériens sur l'identité du transporteur aérien.<a id=177></a>
-
-### TITRE Ier : DES AGENTS DE VOYAGES ET AUTRES OPERATEURS DE LA VENTE DE VOYAGES ET DE SEJOURS.<a id=178></a>
-
-#### Chapitre unique : Régime de la vente de voyages et de séjours.<a id=179></a>
-
-##### Section 1 : Dispositions générales.<a id=180></a>
-
-##### Section 2 : Contrat de vente de voyages et de séjours.<a id=181></a>
-
-##### Section 3 : Sanctions et mesures conservatoires.<a id=182></a>
+##### Section 3 : Sanctions et mesures conservatoires.<a id=177></a>
 
 ###### Article R211-14
 
@@ -11653,7 +11648,7 @@ _Nouveaux textes_:
   - Code du tourisme. - art. R211-12 (V)
 
 
-##### Section 4 : Obligation d'information des passagers aériens sur l'identité du transporteur aérien.<a id=183></a>
+##### Section 4 : Obligation d'information des passagers aériens sur l'identité du transporteur aérien.<a id=178></a>
 
 ###### Article R211-15
 
@@ -11809,9 +11804,9 @@ _Cite_:
   - Code de l'aviation civile - art. R330-20 (V)
 
 
-##### Section 5 : Obligation et conditions d'immatriculation des agents de voyage et autres opérateurs de la vente de voyages et de séjours.<a id=184></a>
+##### Section 5 : Obligation et conditions d'immatriculation des agents de voyage et autres opérateurs de la vente de voyages et de séjours.<a id=179></a>
 
-##### Sous-section 1 : Procédure d'immatriculation des agents de voyage et autres opérateurs de la vente de voyages et de séjours.<a id=185></a>
+##### Sous-section 1 : Procédure d'immatriculation des agents de voyage et autres opérateurs de la vente de voyages et de séjours.<a id=180></a>
 
 ###### Article D211-21-1
 
@@ -11934,7 +11929,7 @@ _Cite_:
   - Code du tourisme. - art. R211-21
 
 
-##### Sous-section 2 : Gestion du registre des agents de voyage et autres opérateurs de la vente de voyages et de séjours.<a id=186></a>
+##### Sous-section 2 : Gestion du registre des agents de voyage et autres opérateurs de la vente de voyages et de séjours.<a id=181></a>
 
 ###### Article R211-23
 
@@ -11989,7 +11984,7 @@ _Créé par_:
   - Décret n°2009-1650 du 23 décembre 2009 - art. 1
 
 
-##### Section 6 : Garantie financière.<a id=187></a>
+##### Section 6 : Garantie financière.<a id=182></a>
 
 ###### Article R211-26
 
@@ -12305,7 +12300,7 @@ _Anciens textes_:
   - Code du tourisme. - art. R212-35 (T)
 
 
-##### Section 7 : Responsabilité civile professionnelle.<a id=188></a>
+##### Section 7 : Responsabilité civile professionnelle.<a id=183></a>
 
 ###### Article R211-35
 
@@ -12490,7 +12485,7 @@ _Anciens textes_:
   - Code du tourisme. - art. R212-41 (T)
 
 
-##### Section 8 : Aptitude professionnelle.<a id=189></a>
+##### Section 8 : Aptitude professionnelle.<a id=184></a>
 
 ###### Article R211-41
 
@@ -12526,7 +12521,7 @@ _Cite_:
   - Code du tourisme. - art. L211-18
 
 
-##### Section 9 : Contrat de jouissance d'immeuble à temps partagé.<a id=190></a>
+##### Section 9 : Contrat de jouissance d'immeuble à temps partagé.<a id=185></a>
 
 ###### Article R211-42
 
@@ -12781,7 +12776,7 @@ _Anciens textes_:
   - Code du tourisme. - art. R212-11 (T)
 
 
-##### Section 10 : Liberté d'établissement et libre prestation de service.<a id=191></a>
+##### Section 10 : Liberté d'établissement et libre prestation de service.<a id=186></a>
 
 ###### Article R211-50
 
@@ -12870,11 +12865,11 @@ _Cite_:
   - Code du tourisme. - art. R211-26
 
 
-### TITRE II : DISPOSITIONS RELATIVES AUX VISITES DANS LES MUSÉES ET MONUMENTS HISTORIQUES.<a id=192></a>
+### TITRE II : DISPOSITIONS RELATIVES AUX VISITES DANS LES MUSÉES ET MONUMENTS HISTORIQUES.<a id=187></a>
 
-#### Chapitre unique : Personnels qualifiés.<a id=193></a>
+#### Chapitre unique : Personnels qualifiés.<a id=188></a>
 
-##### Section 1 : Des personnes qualifiées.<a id=194></a>
+##### Section 1 : Des personnes qualifiées.<a id=189></a>
 
 ###### Article D221-5
 
@@ -13248,7 +13243,7 @@ _Cite_:
   - Code du tourisme. - art. R221-15
 
 
-##### Section 2 : Des professions de guide-interprète et de conférencier.<a id=195></a>
+##### Section 2 : Des professions de guide-interprète et de conférencier.<a id=190></a>
 
 ###### Article R221-11
 
@@ -13363,9 +13358,9 @@ _Cité par_:
   - Code du tourisme. - art. R221-17 (VT)
 
 
-##### Section 3 : Des aptitudes professionnelles acquises dans les autres Etats membres de l'Union européenne ou parties à l'accord sur l'Espace économique européen.<a id=196></a>
+##### Section 3 : Des aptitudes professionnelles acquises dans les autres Etats membres de l'Union européenne ou parties à l'accord sur l'Espace économique européen.<a id=191></a>
 
-##### Sous-section 1 : Liberté d'établissement.<a id=197></a>
+##### Sous-section 1 : Liberté d'établissement.<a id=192></a>
 
 ###### Article R221-15
 
@@ -13605,7 +13600,7 @@ _Cite_:
   - Code du tourisme. - art. R221-4
 
 
-##### Sous-section 2  : Libre prestation de services<a id=198></a>
+##### Sous-section 2  : Libre prestation de services<a id=193></a>
 
 ###### Article R221-18-1
 
@@ -13637,7 +13632,7 @@ _Nouveaux textes_:
   - Code du tourisme. - art. R221-14 (VD)
 
 
-##### Section 4 : Diplôme national de guide-interprète national.<a id=199></a>
+##### Section 4 : Diplôme national de guide-interprète national.<a id=194></a>
 
 ###### Article D221-19
 
@@ -13768,11 +13763,11 @@ _Anciens textes_:
   - DEPLACE: Décret n°2009-1650 du 23 décembre 2009 - art. 3
 
 
-### TITRE III : EXPLOITATION DES VÉHICULES DE TOURISME.<a id=200></a>
+### TITRE III : EXPLOITATION DES VÉHICULES DE TOURISME.<a id=195></a>
 
-#### Chapitre Ier : Exploitation de voitures de tourisme de luxe dites de grande remise.<a id=201></a>
+#### Chapitre Ier : Transport par voitures de tourisme avec chauffeur.<a id=196></a>
 
-##### Section 1 : Dispositions générales.<a id=202></a>
+##### Section 1 : Dispositions générales.<a id=197></a>
 
 ###### Article D231-1
 
@@ -13807,13 +13802,9 @@ _Cite_:
   - Code de la route. - art. R323-24
 
 
-#### Chapitre Ier : Transport par voitures de tourisme avec chauffeur.<a id=203></a>
+##### Section 2 : Exploitation de voitures de tourisme avec chauffeur.<a id=198></a>
 
-##### Section 1 : Dispositions générales.<a id=204></a>
-
-##### Section 2 : Exploitation de voitures de tourisme avec chauffeur.<a id=205></a>
-
-##### Sous-section 1 : Procédure d'immatriculation des entreprises touristiques de transport avec chauffeur.<a id=206></a>
+##### Sous-section 1 : Procédure d'immatriculation des entreprises touristiques de transport avec chauffeur.<a id=199></a>
 
 ###### Article D231-3-1
 
@@ -13938,7 +13929,7 @@ _Cite_:
   - Code du tourisme. - art. L141-3
 
 
-##### Sous-section 2 : Radiation.<a id=207></a>
+##### Sous-section 2 : Radiation.<a id=200></a>
 
 ###### Article R231-5
 
@@ -13985,9 +13976,9 @@ _Abrogé par_:
   - Décret n°2014-1725 du 30 décembre 2014 - art. 4
 
 
-##### Section 3 : Conduite de voitures de tourisme avec chauffeur.<a id=208></a>
+##### Section 3 : Conduite de voitures de tourisme avec chauffeur.<a id=201></a>
 
-##### Sous-section 1 : Conditions d'aptitude à la conduite de voiture de tourisme avec chauffeur<a id=209></a>
+##### Sous-section 1 : Conditions d'aptitude à la conduite de voiture de tourisme avec chauffeur<a id=202></a>
 
 ###### Article D231-7
 
@@ -14131,7 +14122,7 @@ _Cite_:
   - Code du tourisme. - art. L231-2
 
 
-##### Sous-section 2 :  Procédure d'attribution et de retrait de la carte  professionnelle de chauffeur de voiture de tourisme<a id=210></a>
+##### Sous-section 2 :  Procédure d'attribution et de retrait de la carte  professionnelle de chauffeur de voiture de tourisme<a id=203></a>
 
 ###### Article D231-12
 
@@ -14170,7 +14161,7 @@ _Cite_:
   - Code du tourisme. - art. D231-7
 
 
-##### Section 4 : Sanctions.<a id=211></a>
+##### Section 4 : Sanctions.<a id=204></a>
 
 ###### Article R231-13
 
@@ -14215,9 +14206,7 @@ _Cité par_:
   - Code de procédure pénale - art. R48-1 (VD)
 
 
-#### Chapitre III : Exploitation d'autres véhicules à usage touristique et de loisirs.<a id=212></a>
-
-#### Chapitre II : Exploitation d'autres véhicules à usage touristique et de loisirs.<a id=213></a>
+#### Chapitre II : Exploitation d'autres véhicules à usage touristique et de loisirs.<a id=205></a>
 
 ###### Article R233-1
 
@@ -14250,9 +14239,9 @@ _Codifié par_:
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 
-### TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER.<a id=214></a>
+### TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER.<a id=206></a>
 
-#### Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon.<a id=215></a>
+#### Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon.<a id=207></a>
 
 ###### Article R242-1
 
@@ -14309,7 +14298,7 @@ _Anciens textes_:
   - Code du tourisme. - art. R242-4 (T)
 
 
-#### Chapitre III : Dispositions relatives à Mayotte.<a id=216></a>
+#### Chapitre III : Dispositions relatives à Mayotte.<a id=208></a>
 
 ###### Article R243-1
 
@@ -14385,13 +14374,13 @@ _Anciens textes_:
   - Code du tourisme. - art. R243-5 (T)
 
 
-## LIVRE III : ÉQUIPEMENTS ET AMÉNAGEMENTS.<a id=217></a>
+## LIVRE III : ÉQUIPEMENTS ET AMÉNAGEMENTS.<a id=209></a>
 
-### TITRE Ier : HÔTELS, CAFÉS ET DÉBITS DE BOISSONS.<a id=218></a>
+### TITRE Ier : HÔTELS, CAFÉS ET DÉBITS DE BOISSONS.<a id=210></a>
 
-#### Chapitre Ier : Hôtels.<a id=219></a>
+#### Chapitre Ier : Hôtels.<a id=211></a>
 
-##### Section 1 : Rapports entre bailleurs et locataires des immeubles affectés à l'hôtellerie.<a id=220></a>
+##### Section 1 : Rapports entre bailleurs et locataires des immeubles affectés à l'hôtellerie.<a id=212></a>
 
 ###### Article D311-2
 
@@ -14497,7 +14486,7 @@ _Cite_:
   - Code du tourisme. - art. L311-2 (V)
 
 
-##### Section 2 : Classement.<a id=221></a>
+##### Section 2 : Classement.<a id=213></a>
 
 ###### Article D311-4
 
@@ -14714,7 +14703,7 @@ _Anciens textes_:
   - Code du tourisme. - art. D311-13 (T)
 
 
-##### Section 3 : Sanctions.<a id=222></a>
+##### Section 3 : Sanctions.<a id=214></a>
 
 ###### Article R311-13
 
@@ -14762,7 +14751,7 @@ _Anciens textes_:
   - Code du tourisme. - art. R311-18 (T)
 
 
-#### Chapitre II : Cafés et débits de boissons.<a id=223></a>
+#### Chapitre II : Cafés et débits de boissons.<a id=215></a>
 
 ###### Article D312-1
 
@@ -14891,7 +14880,7 @@ _Anciens textes_:
   - Code du tourisme. - art. D313-2 (T)
 
 
-#### Chapitre IV : Débits de boissons ayant pour activité principale l'exploitation d'une piste de danse<a id=224></a>
+#### Chapitre IV : Débits de boissons ayant pour activité principale l'exploitation d'une piste de danse<a id=216></a>
 
 ###### Article D314-1
 
@@ -14908,11 +14897,11 @@ _Créé par_:
   - Décret n°2009-1652 du 23 décembre 2009 - art. 15
 
 
-### TITRE II : HÉBERGEMENTS AUTRES QUE HÔTELS ET TERRAINS DE CAMPING.<a id=225></a>
+### TITRE II : HÉBERGEMENTS AUTRES QUE HÔTELS ET TERRAINS DE CAMPING.<a id=217></a>
 
-#### Chapitre Ier : Résidences de tourisme.<a id=226></a>
+#### Chapitre Ier : Résidences de tourisme.<a id=218></a>
 
-##### Section 1 : Dispositions générales.<a id=227></a>
+##### Section 1 : Dispositions générales.<a id=219></a>
 
 ###### Article D321-1
 
@@ -14982,7 +14971,7 @@ _Cité par_:
   - Code du tourisme. - art. R363-5 (V)
 
 
-##### Section 2 : Classement.<a id=228></a>
+##### Section 2 : Classement.<a id=220></a>
 
 ###### Article D321-3
 
@@ -15096,7 +15085,7 @@ _Cité par_:
   - Arrêté du 22 décembre 2010 - art. 1 (VD)
 
 
-##### Section 3 : Sanctions.<a id=229></a>
+##### Section 3 : Sanctions.<a id=221></a>
 
 ###### Article R321-8
 
@@ -15190,9 +15179,9 @@ _Abrogé par_:
   - Décret n°2009-1650 du 23 décembre 2009 - art. 6
 
 
-#### Chapitre III : Villages résidentiels de tourisme.<a id=230></a>
+#### Chapitre III : Villages résidentiels de tourisme.<a id=222></a>
 
-##### Section 1 : Dispositions générales.<a id=231></a>
+##### Section 1 : Dispositions générales.<a id=223></a>
 
 ###### Article R323-1
 
@@ -15249,7 +15238,7 @@ _Codifié par_:
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 
-##### Section 2 : Classement.<a id=232></a>
+##### Section 2 : Classement.<a id=224></a>
 
 ###### Article D323-5
 
@@ -15351,7 +15340,7 @@ _Cité par_:
   - Arrêté du 2 août 2010 - art. 1 (V)
 
 
-##### Section 3 : Sanctions.<a id=233></a>
+##### Section 3 : Sanctions.<a id=225></a>
 
 ###### Article R323-9
 
@@ -15444,11 +15433,11 @@ _Abrogé par_:
   - Décret n°2009-1650 du 23 décembre 2009 - art. 7
 
 
-#### Chapitre IV : Meublés de tourisme et chambres d'hôtes.<a id=234></a>
+#### Chapitre IV : Meublés de tourisme et chambres d'hôtes.<a id=226></a>
 
-##### Section 1 : Meublés de tourisme.<a id=235></a>
+##### Section 1 : Meublés de tourisme.<a id=227></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=236></a>
+##### Sous-section 1 : Dispositions générales.<a id=228></a>
 
 ###### Article D324-1
 
@@ -15491,7 +15480,7 @@ _Cite_:
   - Code du tourisme. - art. L324-1-1
 
 
-##### Sous-section 2 : Classement.<a id=237></a>
+##### Sous-section 2 : Classement.<a id=229></a>
 
 ###### Article D324-2
 
@@ -15689,7 +15678,7 @@ _Cité par_:
   - Code du tourisme. - art. D324-6-1 (VD)
 
 
-##### Sous-section 3 : Sanctions.<a id=238></a>
+##### Sous-section 3 : Sanctions.<a id=230></a>
 
 ###### Article R324-10
 
@@ -15791,7 +15780,7 @@ _Cite_:
   - Code du tourisme. - art. R324-11
 
 
-##### Section 2 : Chambres d'hôtes.<a id=239></a>
+##### Section 2 : Chambres d'hôtes.<a id=231></a>
 
 ###### Article D324-13
 
@@ -15895,11 +15884,11 @@ _Cite_:
   - Code du tourisme. - art. L324-4
 
 
-#### Chapitre V : Villages et maisons familiales de vacances.<a id=240></a>
+#### Chapitre V : Villages et maisons familiales de vacances.<a id=232></a>
 
-##### Section 1 : Villages de vacances.<a id=241></a>
+##### Section 1 : Villages de vacances.<a id=233></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=242></a>
+##### Sous-section 1 : Dispositions générales.<a id=234></a>
 
 ###### Article D325-1
 
@@ -15978,7 +15967,7 @@ _Codifié par_:
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 
-##### Sous-section 2 : Classement.<a id=243></a>
+##### Sous-section 2 : Classement.<a id=235></a>
 
 ###### Article D325-4
 
@@ -16098,7 +16087,7 @@ _Abrogé par_:
   - Décret n°2009-1652 du 23 décembre 2009 - art. 11
 
 
-##### Sous-section 3 : Sanctions.<a id=244></a>
+##### Sous-section 3 : Sanctions.<a id=236></a>
 
 ###### Article R325-10
 
@@ -16180,9 +16169,9 @@ _Cite_:
   - Code du tourisme. - art. R325-11
 
 
-##### Section 2 : Maisons familiales de vacances.<a id=245></a>
+##### Section 2 : Maisons familiales de vacances.<a id=237></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=246></a>
+##### Sous-section 1 : Dispositions générales.<a id=238></a>
 
 ###### Article D325-13
 
@@ -16307,7 +16296,7 @@ _Codifié par_:
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 
-##### Sous-section 2 : Agrément.<a id=247></a>
+##### Sous-section 2 : Agrément.<a id=239></a>
 
 ###### Article D325-19
 
@@ -16375,7 +16364,7 @@ _Codifié par_:
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 
-##### Sous-section 3 : Sanctions.<a id=248></a>
+##### Sous-section 3 : Sanctions.<a id=240></a>
 
 ###### Article R325-23
 
@@ -16398,7 +16387,7 @@ _Codifié par_:
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 
-#### Chapitre VI : Refuges de montagne.<a id=249></a>
+#### Chapitre VI : Refuges de montagne.<a id=241></a>
 
 ###### Article D326-1
 
@@ -16464,9 +16453,9 @@ _Créé par_:
   - Décret n°2007-407 du 23 mars 2007 - art. 1 () JORF 25 mars 2007
 
 
-### TITRE III : TERRAINS DE CAMPING OU DE CARAVANAGE ET AUTRES TERRAINS AMÉNAGÉS.<a id=250></a>
+### TITRE III : TERRAINS DE CAMPING OU DE CARAVANAGE ET AUTRES TERRAINS AMÉNAGÉS.<a id=242></a>
 
-#### Chapitre Ier : Ouverture et aménagement.<a id=251></a>
+#### Chapitre Ier : Ouverture et aménagement.<a id=243></a>
 
 ###### Article D331-2
 
@@ -16676,9 +16665,9 @@ _Anciens textes_:
   - Code de l'urbanisme - art. R443-16 (M)
 
 
-#### Chapitre II : Classement.<a id=252></a>
+#### Chapitre II : Classement.<a id=244></a>
 
-##### Section 1 : Dispositions générales.<a id=253></a>
+##### Section 1 : Dispositions générales.<a id=245></a>
 
 ###### Article D332-1
 
@@ -16735,7 +16724,7 @@ _Cité par_:
   - Code du tourisme. - art. D333-5-3 (VD)
 
 
-##### Section 2 : Procédure de classement.<a id=254></a>
+##### Section 2 : Procédure de classement.<a id=246></a>
 
 ###### Article D332-3
 
@@ -16937,7 +16926,7 @@ _Abrogé par_:
   - Décret n°2009-1652 du 23 décembre 2009 - art. 12
 
 
-##### Section 3 : Sanctions.<a id=255></a>
+##### Section 3 : Sanctions.<a id=247></a>
 
 ###### Article D332-13
 
@@ -17031,9 +17020,9 @@ _Nouveaux textes_:
   - Code du tourisme. - art. R332-8 (VD)
 
 
-#### Chapitre III : Règles relatives aux habitations légères de loisirs, aux parcs résidentiels de loisirs et aux résidences mobiles de loisirs.<a id=256></a>
+#### Chapitre III : Règles relatives aux habitations légères de loisirs, aux parcs résidentiels de loisirs et aux résidences mobiles de loisirs.<a id=248></a>
 
-##### Section 1 : Habitations légères de loisirs.<a id=257></a>
+##### Section 1 : Habitations légères de loisirs.<a id=249></a>
 
 ###### Article D333-1
 
@@ -17053,9 +17042,9 @@ _Cite_:
   - Code de l'urbanisme - art. R421-9
 
 
-##### Section 2 : Parcs résidentiels de loisirs.<a id=258></a>
+##### Section 2 : Parcs résidentiels de loisirs.<a id=250></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=259></a>
+##### Sous-section 1 : Dispositions générales.<a id=251></a>
 
 ###### Article D333-3
 
@@ -17117,7 +17106,7 @@ _Cité par_:
   - Arrêté du 24 décembre 2014 - art. 3 (V)
 
 
-##### Sous-section 2 : Classement.<a id=260></a>
+##### Sous-section 2 : Classement.<a id=252></a>
 
 ###### Article D333-5
 
@@ -17140,7 +17129,7 @@ _Cité par_:
   - Arrêté du 6 juillet 2010 - art. 1 (V)
 
 
-##### Sous-section 3 : Sanctions.<a id=261></a>
+##### Sous-section 3 : Sanctions.<a id=253></a>
 
 ###### Article R333-6
 
@@ -17166,7 +17155,7 @@ _Cité par_:
   - Code du tourisme. - art. R333-6-1 (VD)
 
 
-##### Section 3 : Résidences mobiles de loisirs.<a id=262></a>
+##### Section 3 : Résidences mobiles de loisirs.<a id=254></a>
 
 ###### Article D333-7
 
@@ -17185,11 +17174,11 @@ _Cite_:
   - Code de l'urbanisme - art. R*111-33
 
 
-### TITRE IV : AMÉNAGEMENTS ET RÉGLEMENTATION DES ESPACES À VOCATION TOURISTIQUE.<a id=263></a>
+### TITRE IV : AMÉNAGEMENTS ET RÉGLEMENTATION DES ESPACES À VOCATION TOURISTIQUE.<a id=255></a>
 
-#### Chapitre Ier : Littoral.<a id=264></a>
+#### Chapitre Ier : Littoral.<a id=256></a>
 
-##### Section 1 : Aménagement, protection et mise en valeur du littoral.<a id=265></a>
+##### Section 1 : Aménagement, protection et mise en valeur du littoral.<a id=257></a>
 
 ###### Article D341-1
 
@@ -17208,7 +17197,7 @@ _Codifié par_:
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 
-##### Section 2 : Ports de plaisance et zones de mouillages.<a id=266></a>
+##### Section 2 : Ports de plaisance et zones de mouillages.<a id=258></a>
 
 ###### Article D341-2
 
@@ -17236,7 +17225,7 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R2124-55 (V)
 
 
-##### Section 3 : Accès aux rivages et aux plages.<a id=267></a>
+##### Section 3 : Accès aux rivages et aux plages.<a id=259></a>
 
 ###### Article D341-3
 
@@ -17262,9 +17251,9 @@ _Cite_:
   - Code de l'urbanisme R160-8 à R160-33
 
 
-#### Chapitre II : Montagne.<a id=268></a>
+#### Chapitre II : Montagne.<a id=260></a>
 
-##### Section 2 : Unités touristiques nouvelles.<a id=269></a>
+##### Section 2 : Unités touristiques nouvelles.<a id=261></a>
 
 ###### Article D342-1
 
@@ -17282,9 +17271,9 @@ _Cite_:
   - Code de l'urbanisme - art. R145-1 (V)
 
 
-##### Section 3 : Remontées mécaniques, pistes de ski et tapis roulants.<a id=270></a>
+##### Section 3 : Remontées mécaniques, pistes de ski et tapis roulants.<a id=262></a>
 
-##### Sous-section 1 : Dispositions communes aux remontées mécaniques et aux tapis roulants.<a id=271></a>
+##### Sous-section 1 : Dispositions communes aux remontées mécaniques et aux tapis roulants.<a id=263></a>
 
 ###### Article D342-2
 
@@ -17925,7 +17914,7 @@ _Anciens textes_:
   - Décret n°1942-03-22 art. 80-4 (remontées mécaniques)
 
 
-##### Sous-section 2 : Dispositions spécifiques aux remontées mécaniques.<a id=272></a>
+##### Sous-section 2 : Dispositions spécifiques aux remontées mécaniques.<a id=264></a>
 
 ###### Article D342-21
 
@@ -18101,7 +18090,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L111-25 (V)
 
 
-##### Sous-section 3 : Dispositions spécifiques aux tapis roulants.<a id=273></a>
+##### Sous-section 3 : Dispositions spécifiques aux tapis roulants.<a id=265></a>
 
 ###### Article R342-26
 
@@ -18259,9 +18248,9 @@ _Anciens textes_:
   - Décret n°1942-03-22 art. 80-4 (remontées mécaniques)
 
 
-#### Chapitre III : Espace rural et naturel.<a id=274></a>
+#### Chapitre III : Espace rural et naturel.<a id=266></a>
 
-##### Section 1 : Activités touristiques en milieu rural.<a id=275></a>
+##### Section 1 : Activités touristiques en milieu rural.<a id=267></a>
 
 ###### Article D343-1
 
@@ -18297,9 +18286,9 @@ _Codifié par_:
   - PILOTE_SUIVEUR: Code rural - art. D722-4 (V)
 
 
-##### Section 2 : Parcs nationaux et régionaux.<a id=276></a>
+##### Section 2 : Parcs nationaux et régionaux.<a id=268></a>
 
-##### Sous-section 1 : Parcs nationaux.<a id=277></a>
+##### Sous-section 1 : Parcs nationaux.<a id=269></a>
 
 ###### Article D343-2
 
@@ -18313,7 +18302,7 @@ _Codifié par_:
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 
-##### Sous-section 2 : Parcs naturels régionaux.<a id=278></a>
+##### Sous-section 2 : Parcs naturels régionaux.<a id=270></a>
 
 ###### Article D343-3
 
@@ -18327,7 +18316,7 @@ _Codifié par_:
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 
-##### Section 3 : Itinéraires de randonnée.<a id=279></a>
+##### Section 3 : Itinéraires de randonnée.<a id=271></a>
 
 ###### Article D343-4
 
@@ -18345,7 +18334,7 @@ _Codifié par_:
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 
-##### Section 4 : Voies vertes.<a id=280></a>
+##### Section 4 : Voies vertes.<a id=272></a>
 
 ###### Article D343-5
 
@@ -18362,7 +18351,7 @@ _Cite_:
   - Code de la route. - art. R110-2 (V)
 
 
-##### Section 6 : Accueil du public en forêt.<a id=281></a>
+##### Section 6 : Accueil du public en forêt.<a id=273></a>
 
 ###### Article D343-6
 
@@ -18384,9 +18373,9 @@ _Cité par_:
   - Code du tourisme. - art. R361-3 (V)
 
 
-### TITRE V : DISPOSITIONS RELATIVES À LA CORSE.<a id=282></a>
+### TITRE V : DISPOSITIONS RELATIVES À LA CORSE.<a id=274></a>
 
-#### Chapitre unique.<a id=283></a>
+#### Chapitre unique.<a id=275></a>
 
 ###### Article D351-1
 
@@ -18482,9 +18471,9 @@ _Cite_:
   - Code général des collectivités territoriales R4421-10 à R4421-15
 
 
-### TITRE VI : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER.<a id=284></a>
+### TITRE VI : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER.<a id=276></a>
 
-#### Chapitre Ier : Dispositions relatives à la Guadeloupe, la Guyane, la Martinique et la Réunion.<a id=285></a>
+#### Chapitre Ier : Dispositions relatives à la Guadeloupe, la Guyane, la Martinique et la Réunion.<a id=277></a>
 
 ###### Article R361-1
 
@@ -18535,7 +18524,7 @@ _Cite_:
   - Code du tourisme. - art. D343-6
 
 
-#### Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon.<a id=286></a>
+#### Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon.<a id=278></a>
 
 ###### Article R362-1
 
@@ -18601,7 +18590,7 @@ _Anciens textes_:
   - Code du tourisme. - art. R362-5 (T)
 
 
-#### Chapitre III : Dispositions relatives à Mayotte.<a id=287></a>
+#### Chapitre III : Dispositions relatives à Mayotte.<a id=279></a>
 
 ###### Article R363-1
 
@@ -18701,13 +18690,13 @@ _Anciens textes_:
   - Code du tourisme. - art. R363-6 (T)
 
 
-## LIVRE IV : FINANCEMENT DE L'ACCÈS AUX VACANCES ET FISCALITÉ DU TOURISME.<a id=288></a>
+## LIVRE IV : FINANCEMENT DE L'ACCÈS AUX VACANCES ET FISCALITÉ DU TOURISME.<a id=280></a>
 
-### TITRE Ier : ACCÈS AUX VACANCES.<a id=289></a>
+### TITRE Ier : ACCÈS AUX VACANCES.<a id=281></a>
 
-#### Chapitre Ier : Chèques-vacances.<a id=290></a>
+#### Chapitre Ier : Chèques-vacances.<a id=282></a>
 
-##### Section 1 : Dispositions générales.<a id=291></a>
+##### Section 1 : Dispositions générales.<a id=283></a>
 
 ###### Article D411-6-1
 
@@ -18927,9 +18916,9 @@ _Modifié par_:
   - Décret n°2007-107 du 29 janvier 2007 - art. 1 () JORF 30 janvier 2007
 
 
-##### Section 2 : Agence nationale pour les chèques-vacances.<a id=292></a>
+##### Section 2 : Agence nationale pour les chèques-vacances.<a id=284></a>
 
-##### Sous-section 1 : Missions et moyens<a id=293></a>
+##### Sous-section 1 : Missions et moyens<a id=285></a>
 
 ###### Article R411-9
 
@@ -18961,7 +18950,7 @@ _Modifié par_:
   - Décret n°2007-107 du 29 janvier 2007 - art. 2 () JORF 30 janvier 2007
 
 
-##### Sous-section 2 : Conseil d'administration.<a id=294></a>
+##### Sous-section 2 : Conseil d'administration.<a id=286></a>
 
 ###### Article R411-10
 
@@ -19178,7 +19167,7 @@ _Cité par_:
   - Code du tourisme. - art. R411-17 (V)
 
 
-##### Sous-section 3 : Tutelle<a id=295></a>
+##### Sous-section 3 : Tutelle<a id=287></a>
 
 ###### Article R411-16
 
@@ -19223,7 +19212,7 @@ _Cité par_:
   - Code du tourisme. - art. R411-17 (M)
 
 
-##### Sous-section 4 : Directeur général<a id=296></a>
+##### Sous-section 4 : Directeur général<a id=288></a>
 
 ###### Article R411-17
 
@@ -19292,7 +19281,7 @@ _Cite_:
   - Code du tourisme. - art. R411-23 (M)
 
 
-##### Sous-section 5 : Commission d'attribution des aides<a id=297></a>
+##### Sous-section 5 : Commission d'attribution des aides<a id=289></a>
 
 ###### Article R411-18
 
@@ -19329,7 +19318,7 @@ _Cite_:
   - Code du tourisme. - art. L411-15 (M)
 
 
-##### Sous-section 6 : Régime financier et comptable<a id=298></a>
+##### Sous-section 6 : Régime financier et comptable<a id=290></a>
 
 ###### Article R411-19
 
@@ -19545,9 +19534,9 @@ _Cité par_:
   - Code du tourisme. - art. R411-22 (M)
 
 
-#### Chapitre II : Agrément d'organismes ou de personnes physiques concourant au tourisme social.<a id=299></a>
+#### Chapitre II : Agrément d'organismes ou de personnes physiques concourant au tourisme social.<a id=291></a>
 
-##### Section 1 : Agrément national délivré à des organismes de tourisme social et familial.<a id=300></a>
+##### Section 1 : Agrément national délivré à des organismes de tourisme social et familial.<a id=292></a>
 
 ###### Article D412-5
 
@@ -19765,7 +19754,7 @@ _Codifié par_:
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 
-##### Section 2 : Agrément des vacances adaptées organisées.<a id=301></a>
+##### Section 2 : Agrément des vacances adaptées organisées.<a id=293></a>
 
 ###### Article R412-8
 
@@ -20035,11 +20024,11 @@ _Codifié par_:
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 
-### TITRE II : DISPOSITIONS FISCALES PARTICULIÈRES AUX ACTIVITÉS TOURISTIQUES.<a id=302></a>
+### TITRE II : DISPOSITIONS FISCALES PARTICULIÈRES AUX ACTIVITÉS TOURISTIQUES.<a id=294></a>
 
-#### Chapitre Ier : Ressources et incitations de l'Etat relatives aux activités et hébergements touristiques.<a id=303></a>
+#### Chapitre Ier : Ressources et incitations de l'Etat relatives aux activités et hébergements touristiques.<a id=295></a>
 
-##### Section 1 : Assujettissement des hébergements et aménagements touristiques à la taxe sur la valeur ajoutée.<a id=304></a>
+##### Section 1 : Assujettissement des hébergements et aménagements touristiques à la taxe sur la valeur ajoutée.<a id=296></a>
 
 ###### Article D421-1
 
@@ -20062,7 +20051,7 @@ _Cite_:
   - Code du tourisme. - art. L421-1 (V)
 
 
-##### Section 2 : Dispositions particulières relatives à l'investissement dans l'immobilier de loisirs.<a id=305></a>
+##### Section 2 : Dispositions particulières relatives à l'investissement dans l'immobilier de loisirs.<a id=297></a>
 
 ###### Article D421-2
 
@@ -20106,7 +20095,7 @@ _Cite_:
   - Code du tourisme. - art. L421-3-1 (V)
 
 
-##### Section 3 : Dispositions particulières applicables aux agences de voyages et organisateurs de circuits touristiques.<a id=306></a>
+##### Section 3 : Dispositions particulières applicables aux agences de voyages et organisateurs de circuits touristiques.<a id=298></a>
 
 ###### Article D421-4
 
@@ -20127,9 +20116,9 @@ _Cite_:
   - Code du tourisme. - art. L421-4
 
 
-#### Chapitre II : Ressources des collectivités territoriales relatives au tourisme.<a id=307></a>
+#### Chapitre II : Ressources des collectivités territoriales relatives au tourisme.<a id=299></a>
 
-##### Section 1 : Taxe professionnelle.<a id=308></a>
+##### Section 1 : Taxe professionnelle.<a id=300></a>
 
 ###### Article D422-1
 
@@ -20170,9 +20159,9 @@ _Cite_:
   - Code du tourisme. - art. L422-2 (V)
 
 
-##### Section 2 : Taxes et redevances prélevées au profit des communes et établissements publics de coopération intercommunale.<a id=309></a>
+##### Section 2 : Taxes et redevances prélevées au profit des communes et établissements publics de coopération intercommunale.<a id=301></a>
 
-##### Sous-section 1 : Taxe de séjour et taxe de séjour forfaitaire.<a id=310></a>
+##### Sous-section 1 : Taxe de séjour et taxe de séjour forfaitaire.<a id=302></a>
 
 ###### Article D422-3
 
@@ -20547,7 +20536,7 @@ _Cite_:
   - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R5211-6 (V)
 
 
-##### Sous-section 2 : Taxe communale sur les entreprises exploitant des engins de remontée mécanique.<a id=311></a>
+##### Sous-section 2 : Taxe communale sur les entreprises exploitant des engins de remontée mécanique.<a id=303></a>
 
 ###### Article D422-5
 
@@ -20615,7 +20604,7 @@ _Cite_:
   - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R2333-73 (V)
 
 
-##### Sous-section 5 : Taxe sur les activités commerciales non salariées à durée saisonnière.<a id=312></a>
+##### Sous-section 5 : Taxe sur les activités commerciales non salariées à durée saisonnière.<a id=304></a>
 
 ###### Article D422-6
 
@@ -20635,7 +20624,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. R2333-133 (V)
 
 
-##### Sous-section 6 : Prélèvement sur le produit des jeux dans les casinos.<a id=313></a>
+##### Sous-section 6 : Prélèvement sur le produit des jeux dans les casinos.<a id=305></a>
 
 ###### Article D422-7
 
@@ -20801,9 +20790,9 @@ _Modifié par_:
   - Décret n°2010-1300 du 29 octobre 2010 - art. 2
 
 
-##### Section 3 : Taxes prélevées au profit des départements.<a id=314></a>
+##### Section 3 : Taxes prélevées au profit des départements.<a id=306></a>
 
-##### Sous-section 2 : Taxe départementale sur les entreprises exploitant des engins de remontée mécanique.<a id=315></a>
+##### Sous-section 2 : Taxe départementale sur les entreprises exploitant des engins de remontée mécanique.<a id=307></a>
 
 ###### Article D422-8
 
@@ -20843,9 +20832,9 @@ _Cite_:
   - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R3333-3 (V)
 
 
-### TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER.<a id=316></a>
+### TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER.<a id=308></a>
 
-#### Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon.<a id=317></a>
+#### Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon.<a id=309></a>
 
 ###### Article R442-1
 
@@ -20886,7 +20875,7 @@ _Codifié par_:
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 
-#### Chapitre III : Dispositions relatives à Mayotte.<a id=318></a>
+#### Chapitre III : Dispositions relatives à Mayotte.<a id=310></a>
 
 ###### Article R443-1
 
