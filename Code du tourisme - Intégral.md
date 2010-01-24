@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2010-01-22
+Version Consolidée au 2010-01-25
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-10)](#2)
@@ -57,12 +57,12 @@ Version Consolidée au 2010-01-22
         - [Chapitre 3 : Dispositions relatives à Mayotte (art. L243-1 à L243-2)](#54)
     - [LIVRE III : ÉQUIPEMENTS ET AMÉNAGEMENTS (art. L311-1 à L363-1)](#55)
       - [TITRE Ier : HÔTELS, RESTAURANTS, CAFÉS ET DÉBITS DE BOISSONS (art. L311-1 à L314-1)](#56)
-        - [Chapitre 1er : Hôtels (art. L311-1 à L311-10)](#57)
-          - [Section 1 : Autorisation d'exploitation (art. L311-1)](#58)
-          - [Section 2 : Rapports entre bailleurs et locataires des immeubles affectés à l'hôtellerie (art. L311-2 à L311-6)](#59)
-          - [Section 3 : Classement (art. L311-7)](#60)
-          - [Section 4 : Sanctions (art. L311-8 à L311-9)](#61)
-          - [Section 5 : Responsabilité des hôteliers (art. L311-10)](#62)
+        - [Chapitre 1er : Hôtels (art. L311-1 à L311-9)](#57)
+          - [Section 1 : Rapports entre bailleurs et locataires des immeubles affectés à l'hôtellerie (art. L311-1 à L311-5)](#58)
+          - [Section 2 : Rapports entre bailleurs et locataires des immeubles affectés à l'hôtellerie (art.  à L311-5)](#59)
+          - [Section 2 : Classement (art. L311-6)](#60)
+          - [Section 3 : Sanctions (art. L311-7 à L311-8)](#61)
+          - [Section 4 : Responsabilité des hôteliers (art. L311-9)](#62)
         - [Chapitre 3 : Cafés et débits de boissons (art. L313-1)](#63)
         - [Chapitre 4 : Débits de boissons ayant pour activité principale l'exploitation d'une piste de danse (art. L314-1)](#64)
       - [TITRE II : HÉBERGEMENTS AUTRES QU'HÔTELS ET TERRAINS DE CAMPING (art. L321-1 à L327-1)](#65)
@@ -3807,55 +3807,9 @@ _Créé par_:
 
 #### Chapitre 1er : Hôtels<a id=57></a>
 
-##### Section 1 : Autorisation d'exploitation<a id=58></a>
+##### Section 1 : Rapports entre bailleurs et locataires des immeubles affectés à l'hôtellerie<a id=58></a>
 
 ###### Article L311-1
-
-Les règles relatives aux constructions nouvelles, aux extensions ou aux transformations d'immeubles existants entraînant la
-constitution d'établissements hôteliers d'une capacité supérieure à trente chambres hors de la région d'Ile-de-France et à
-cinquante chambres dans cette dernière sont fixées au 7° de l'article L. 720-5 du code de commerce ci-après reproduit : 
-
-" Art.L. 720-5 du code de commerce. 
-
-Sont soumis à une autorisation d'exploitation commerciale les projets ayant pour objet : 
-
-Les constructions nouvelles, les extensions ou les transformations d'immeubles existants entraînant la constitution
-d'établissements hôteliers d'une capacité supérieure à trente chambres hors de la région d'Ile-de-France et à cinquante
-chambres dans cette dernière. 
-
-Lorsqu'elle statue sur ces demandes, la commission départementale d'aménagement commercial recueille l'avis préalable de la
-commission départementale d'action touristique, présenté par le délégué régional au tourisme, qui assiste à la séance. Outre
-les critères prévus à l'article L. 720-3, elle statue en prenant en considération la densité d'équipements hôteliers dans la
-zone concernée. "
-
-**Nota:**
-
-L'article L. 720-5 du code de commerce est abrogé par l'article 2 de l'ordonnance n° 2006-673 du 8 juin 2006.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2008-776 du 4 août 2008 - art. 102
-
-**Liens**:
-
-  - PILOTE_SUIVEUR: Code de commerce. - art. L720-5 (Ab)
-
-_Cité par_:
-
-  - Code du tourisme. - art. L311-2 (V)
-  - Code du tourisme. - art. L311-3 (V)
-  - Code du tourisme. - art. L311-4 (V)
-  - Code du tourisme. - art. L311-5 (VD)
-  - Code du tourisme. - art. L361-1 (V)
-  - Code du tourisme. - art. L362-1 (V)
-  - Code du tourisme. - art. R311-1 (V)
-
-
-##### Section 2 : Rapports entre bailleurs et locataires des immeubles affectés à l'hôtellerie<a id=59></a>
-
-###### Article L311-2
 
 Le propriétaire d'un immeuble dans lequel est exploité un hôtel ne peut s'opposer, nonobstant toute stipulation contraire, à
 l'exécution des travaux d'équipement et d'amélioration que le locataire, propriétaire du fonds de commerce, réalise à ses
@@ -3886,18 +3840,52 @@ d'immeubles.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°2009-888 du 22 juillet 2009 - art. 10
+
+_Cite_:
+
+  - Code de commerce - art. L720-5
+
+_Cité par_:
+
+  - Code du tourisme. - art. L311-2 (V)
+  - Code du tourisme. - art. L311-3 (V)
+  - Code du tourisme. - art. L311-4 (V)
+  - Code du tourisme. - art. L311-5 (VD)
+  - Code du tourisme. - art. L361-1 (V)
+  - Code du tourisme. - art. L362-1 (V)
+  - Code du tourisme. - art. R311-1 (V)
+
+_Anciens textes_:
+
+  - Code du tourisme. - art. L311-2 (VT)
+
+
+###### Article L311-2
+
+Le locataire doit, avant de procéder aux travaux, notifier son intention à son propriétaire par lettre recommandée avec
+demande d'avis de réception. Un plan d'exécution et un devis descriptif et estimatif des travaux projetés sont joints à cette
+notification. Dans le cas prévu au deuxième alinéa de l'article L. 311-1, le propriétaire dispose d'un délai de deux mois
+pour informer dans la même forme le locataire de son acceptation ou de son refus. Le défaut de réponse est réputé valoir
+accord.
+
+**Liens relatifs à cet article**
+
 _Anciens textes_:
 
   - Loi n°64-645 du 1 juillet 1964 - art. 1, v. init.
   - Loi n°64-645 du 1 juillet 1964 - art. 1 (Ab)
+  - Code du tourisme. - art. L311-3 (VT)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+  - Loi n°2009-888 du 22 juillet 2009 - art. 10
 
-**Liens**:
+_Cite_:
 
-  - TRANSFERE: Loi n°2009-888 du 22 juillet 2009 - art. 10
+  - Code du tourisme. - art. L311-1
 
 _Nouveaux textes_:
 
@@ -3915,33 +3903,30 @@ _Cité par_:
 
 ###### Article L311-3
 
-Le locataire doit, avant de procéder aux travaux, notifier son intention à son propriétaire par lettre recommandée avec
-demande d'avis de réception. Un plan d'exécution et un devis descriptif et estimatif des travaux projetés sont joints à cette
-notification. Dans le cas prévu au deuxième alinéa de l'article L. 311-2, le propriétaire dispose d'un délai de deux mois
-pour informer dans la même forme le locataire de son acceptation ou de son refus. Le défaut de réponse est réputé valoir
-accord.
+Pendant la durée du bail en cours et celle du bail renouvelé qui lui fait suite et pour une durée de douze années à compter
+de l'expiration du délai d'exécution mentionné à l'article L. 311-2, le propriétaire ne peut prétendre à aucune majoration de
+loyer du fait de l'incorporation à l'immeuble des améliorations résultant de l'exécution des travaux mentionnés à l'article
+L. 311-1.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Loi n°64-645 du 1 juillet 1964 - art. 2 (Ab)
+  - Code du tourisme. - art. L311-4 (VT)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+  - Loi n°2009-888 du 22 juillet 2009 - art. 10
 
-**Liens**:
+_Cite_:
 
-  - TRANSFERE: Loi n°2009-888 du 22 juillet 2009 - art. 10
+  - Code du tourisme. - art. L311-1
+  - Code du tourisme. - art. L311-2
 
 _Nouveaux textes_:
 
   - Code du tourisme. - art. L311-2 (VD)
-
-_Cite_:
-
-  - Code du tourisme. - art. L311-2 (VT)
 
 _Cité par_:
 
@@ -3951,29 +3936,28 @@ _Cité par_:
 
 ###### Article L311-4
 
-Pendant la durée du bail en cours et celle du bail renouvelé qui lui fait suite et pour une durée de douze années à compter
-de l'expiration du délai d'exécution mentionné à l'article L. 311-3, le propriétaire ne peut prétendre à aucune majoration de
-loyer du fait de l'incorporation à l'immeuble des améliorations résultant de l'exécution des travaux mentionnés à l'article
-L. 311-2.
+Lors du départ du locataire ou du cessionnaire du droit au bail, les lieux sont restitués au propriétaire dans l'état où ils
+se trouvent, sans que celui-ci puisse exiger la remise des lieux dans leur état antérieur. 
+
+En cas de refus de renouvellement du bail, le montant de l'indemnité d'éviction prévue par l'article L. 145-14 du code de
+commerce est fixé compte tenu de la plus-value apportée au fonds de commerce par l'exécution des travaux mentionnés à
+l'article L. 311-1.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Loi n°64-645 du 1 juillet 1964 - art. 3 (Ab)
+  - Code du tourisme. - art. L311-5 (VT)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
-**Liens**:
-
-  - TRANSFERE: Loi n°2009-888 du 22 juillet 2009 - art. 10
+  - Loi n°2009-888 du 22 juillet 2009 - art. 10
 
 _Cite_:
 
-  - Code du tourisme. - art. L311-2 (VT)
-  - Code du tourisme. - art. L311-3 (VT)
+  - Code de commerce - art. L145-14
+  - Code du tourisme. - art. L311-1
 
 _Nouveaux textes_:
 
@@ -3982,36 +3966,34 @@ _Nouveaux textes_:
 
 ###### Article L311-5
 
-Lors du départ du locataire ou du cessionnaire du droit au bail, les lieux sont restitués au propriétaire dans l'état où ils
-se trouvent, sans que celui-ci puisse exiger la remise des lieux dans leur état antérieur. 
-
-En cas de refus de renouvellement du bail, le montant de l'indemnité d'éviction prévue par l'article L. 145-14 du code de
-commerce est fixé compte tenu de la plus-value apportée au fonds de commerce par l'exécution des travaux mentionnés à
-l'article L. 311-2.
+Les contestations relatives à l'application de la présente section sont jugées conformément aux articles L. 145-56 à L.
+145-60 du code de commerce. Celles qui concernent l'exécution des travaux mentionnés à l'article L. 311-1 ne sont pas
+suspensives de cette exécution.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Loi n°64-645 du 1 juillet 1964 - art. 4 (Ab)
+  - Code du tourisme. - art. L311-6 (M)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
-**Liens**:
-
-  - TRANSFERE: Loi n°2009-888 du 22 juillet 2009 - art. 10
+  - Loi n°2009-888 du 22 juillet 2009 - art. 10
 
 _Cite_:
 
-  - Code de commerce. - art. L145-14 (V)
-  - Code du tourisme. - art. L311-2 (VT)
+  - Code de commerce - art. L145-56
+  - Code du tourisme. - art. L311-1
 
 _Nouveaux textes_:
 
   - Code du tourisme. - art. L311-4 (VD)
 
+
+##### Section 2 : Rapports entre bailleurs et locataires des immeubles affectés à l'hôtellerie<a id=59></a>
+
+##### Section 2 : Classement<a id=60></a>
 
 ###### Article L311-6
 
@@ -4069,27 +4051,9 @@ _Nouveaux textes_:
   - Code du tourisme. - art. L311-5 (VD)
 
 
-##### Section 3 : Classement<a id=60></a>
+##### Section 3 : Sanctions<a id=61></a>
 
 ###### Article L311-7
-
-L'Etat détermine et met en oeuvre les procédures de classement des hôtels, selon des modalités fixées par décret.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - 2, ecqc le classement des h<CB>tels
-  - Loi n°92-1341 1992-12-23 art. 2, al
-
-_Codifié par_:
-
-  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
-
-##### Section 4 : Sanctions<a id=61></a>
-
-###### Article L311-8
 
 Les infractions aux dispositions applicables en matière de classement et de prix des hôtels sont constatées et poursuivies
 dans les conditions fixées par les articles L. 450-1 à L. 450-3 du code de commerce.
@@ -4098,32 +4062,20 @@ dans les conditions fixées par les articles L. 450-1 à L. 450-3 du code de com
 
 _Anciens textes_:
 
-  - Loi n°66-965 1966-12-26 art. 1, ecqc les h<CB>tels
-  - Loi n°66-965 du 26 décembre 1966 - art. 1 (Ab)
+  - 2, ecqc le classement des h<CB>tels
+  - Loi n°92-1341 1992-12-23 art. 2, al
+  - Code du tourisme. - art. L311-8 (VT)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
-**Liens**:
-
-  - TRANSFERE: Loi n°2009-888 du 22 juillet 2009 - art. 10
-
-_Cité par_:
-
-  - Arrêté du 19 février 2010 - art. 2 (V)
-  - Code du tourisme. - art. L362-1 (V)
+  - Loi n°2009-888 du 22 juillet 2009 - art. 10
 
 _Cite_:
 
-  - Code de commerce. - art. L450-1 (V)
-
-_Nouveaux textes_:
-
-  - Code du tourisme. - art. L311-7 (VD)
+  - Code de commerce - art. L450-1 (V)
 
 
-###### Article L311-9
+###### Article L311-8
 
 Les infractions aux dispositions applicables en matière de classement et de prix des hôtels sont punies d'une amende de 15
 000 euros. Les articles L. 470-1 à L. 470-4 du code de commerce s'appliquent.
@@ -4132,20 +4084,49 @@ Les infractions aux dispositions applicables en matière de classement et de pri
 
 _Anciens textes_:
 
-  - Loi n°66-965 1966-12-26 art. 2, ecqc les h<CB>tels
-  - Loi n°66-965 du 26 décembre 1966 - art. 2 (Ab)
+  - Loi n°66-965 1966-12-26 art. 1, ecqc les h<CB>tels
+  - Loi n°66-965 du 26 décembre 1966 - art. 1 (Ab)
+  - Code du tourisme. - art. L311-9 (VT)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+  - Loi n°2009-888 du 22 juillet 2009 - art. 10
 
-**Liens**:
+_Cité par_:
 
-  - TRANSFERE: Loi n°2009-888 du 22 juillet 2009 - art. 10
+  - Arrêté du 19 février 2010 - art. 2 (V)
+  - Code du tourisme. - art. L362-1 (V)
 
 _Cite_:
 
-  - Code de commerce. - art. L470-1 (V)
+  - Code de commerce - art. L470-1 (V)
+
+_Nouveaux textes_:
+
+  - Code du tourisme. - art. L311-7 (VD)
+
+
+##### Section 4 : Responsabilité des hôteliers<a id=62></a>
+
+###### Article L311-9
+
+Les règles relatives au vol d'objets dans les hôtels ou auberges sont fixées par les articles 1952 à 1954 du code civil.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°66-965 1966-12-26 art. 2, ecqc les h<CB>tels
+  - Loi n°66-965 du 26 décembre 1966 - art. 2 (Ab)
+  - Code du tourisme. - art. L311-10 (VT)
+
+_Modifié par_:
+
+  - Loi n°2009-888 du 22 juillet 2009 - art. 10
+
+_Cite_:
+
+  - Code civil - art. 1952 (V)
 
 _Nouveaux textes_:
 
@@ -4154,35 +4135,6 @@ _Nouveaux textes_:
 _Cité par_:
 
   - Code du tourisme. - art. L362-1 (V)
-
-
-##### Section 5 : Responsabilité des hôteliers<a id=62></a>
-
-###### Article L311-10
-
-Les règles relatives au vol d'objets dans les hôtels ou auberges sont fixées par les articles 1952 à 1954 du code civil.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
-**Liens**:
-
-  - TRANSFERE: Loi n°2009-888 du 22 juillet 2009 - art. 10
-
-_Cite_:
-
-  - Code civil - art. 1952 (V)
-
-_Nouveaux textes_:
-
-  - Code du tourisme. - art. L311-9 (VD)
-
-_Cité par_:
-
-  - Code du tourisme. - art. L363-3 (Ab)
 
 
 #### Chapitre 3 : Cafés et débits de boissons<a id=63></a>
