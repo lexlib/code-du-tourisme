@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2010-07-14
+Version Consolidée au 2010-07-24
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-10)](#2)
@@ -4171,8 +4171,23 @@ _Créé par_:
 
 ###### Article L321-1
 
-L'Etat détermine et met en oeuvre les procédures de classement des résidences de tourisme selon des modalités fixées par
-décret.
+L'Etat détermine les procédures de classement des résidences de tourisme selon des modalités fixées par décret.
+
+L'établissement est classé par l'autorité administrative dans une catégorie en fonction de critères fixés par un tableau de
+classement élaboré par l'organisme mentionné à l'article L. 141-2 et homologué par arrêté du ministre chargé du tourisme.
+
+S'il souhaite obtenir le classement, l'exploitant doit produire un certificat de visite délivré par un organisme évaluateur.
+Dans des conditions fixées par arrêté du ministre chargé du tourisme, les organismes évaluateurs sont accrédités dans les
+domaines correspondant à leurs missions par l'instance nationale d'accréditation mentionnée à l'article 137 de la loi n°
+2008-776 du 4 août 2008 précitée, ou tout organisme européen équivalent signataire de l'accord multilatéral pris dans le
+cadre de la coordination européenne des organismes d'accréditation.
+
+L'autorité administrative transmet sa décision de classement à l'organisme mentionné à l'article L. 141-2.
+
+**Nota:**
+
+Loi n° 2009-888 art. 12 VI. - Le présent article entre en vigueur à une date fixée par décret et au plus tard un an après la
+publication de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -4181,9 +4196,10 @@ _Anciens textes_:
   - 2, ecqc le classement des résidences de tourisme
   - Loi n°92-1341 1992-12-23 art. 2, al
 
-_Codifié par_:
+_Cite_:
 
-  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+  - Loi n°2008-776 du 4 août 2008 - art. 137 (V)
+  - Code du tourisme. - art. L141-2 (V)
 
 _Cité par_:
 
@@ -4198,6 +4214,10 @@ _Cité par_:
   - Code du tourisme. - art. L321-3 (V)
   - Code général des impôts, CGI. - art. 1594 J bis (V)
   - Code général des impôts, CGI. - art. 199 decies G bis (V)
+
+_Modifié par_:
+
+  - Loi n°2009-888 du 22 juillet 2009 - art. 12 (V)
 
 
 ###### Article L321-2
@@ -4301,25 +4321,40 @@ _Codifié par_:
 
 ###### Article L323-1
 
-L'Etat détermine et met en oeuvre les procédures de classement des villages résidentiels de tourisme selon des modalités
-fixées par décret.
+L'Etat détermine les procédures de classement des villages résidentiels de tourisme selon des modalités fixées par décret.
+
+L'établissement est classé par l'autorité administrative dans une catégorie en fonction de critères fixés par un tableau de
+classement élaboré par l'organisme mentionné à l'article L. 141-2 et homologué par arrêté du ministre chargé du tourisme.
+
+S'il souhaite obtenir le classement, l'exploitant doit produire un certificat de visite délivré par un organisme évaluateur.
+Dans des conditions fixées par arrêté du ministre chargé du tourisme, les organismes évaluateurs sont accrédités dans les
+domaines correspondant à leurs missions par l'instance nationale d'accréditation mentionnée à l'article 137 de la loi n°
+2008-776 du 4 août 2008 précitée, ou tout organisme européen équivalent signataire de l'accord multilatéral pris dans le
+cadre de la coordination européenne des organismes d'accréditation.
+
+L'autorité administrative transmet sa décision de classement à l'organisme mentionné à l'article L. 141-2.
+
+**Nota:**
+
+Loi n° 2009-888 art. 12 VI. - Le présent article entre en vigueur à une date fixée par décret et au plus tard un an après la
+publication de la présente loi.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Cite_:
 
-  - 2, ecqc le classement des villages résidentiels de tourisme
-  - Loi n°92-1341 1992-12-23 art. 2, al
-
-_Codifié par_:
-
-  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+  - Loi n°2008-776 du 4 août 2008 - art. 137
+  - Code du tourisme. - art. L141-2
 
 _Cité par_:
 
   - Loi n°2009-888 du 22 juillet 2009 - art. 12 (V)
   - Arrêté du 2 août 2010 - art. 2 (VD)
   - Code du tourisme. - art. D323-5 (V)
+
+_Modifié par_:
+
+  - Loi n°2009-888 du 22 juillet 2009 - art. 12 (V)
 
 
 #### Chapitre 4 : Meublés de tourisme et chambres d'hôtes<a id=68></a>
@@ -4328,7 +4363,23 @@ _Cité par_:
 
 ###### Article L324-1
 
-L'Etat détermine et met en oeuvre les procédures de classement des meublés de tourisme selon des modalités fixées par décret.
+L'Etat détermine les procédures de classement des meublés de tourisme selon des modalités fixées par décret.
+
+L'établissement est classé par l'autorité administrative dans une catégorie en fonction de critères fixés par un tableau de
+classement élaboré par l'organisme mentionné à l'article L. 141-2 et homologué par arrêté du ministre chargé du tourisme.
+
+S'il souhaite obtenir le classement, l'exploitant doit produire un certificat de visite délivré par un organisme évaluateur.
+Dans des conditions fixées par arrêté du ministre chargé du tourisme, les organismes évaluateurs sont accrédités dans les
+domaines correspondant à leurs missions par l'instance nationale d'accréditation mentionnée à l'article 137 de la loi n°
+2008-776 du 4 août 2008 précitée, ou tout organisme européen équivalent signataire de l'accord multilatéral pris dans le
+cadre de la coordination européenne des organismes d'accréditation.
+
+L'autorité administrative transmet sa décision de classement à l'organisme mentionné à l'article L. 141-2.
+
+**Nota:**
+
+Loi n° 2009-888 art. 12 VI. - Le présent article entre en vigueur à une date fixée par décret et au plus tard un an après la
+publication de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -4336,15 +4387,10 @@ _Anciens textes_:
 
   - Loi n°65-997 1965-11-29 art. 58-1, I
 
-_Codifié par_:
+_Cite_:
 
-  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
-
-_Modifié par_:
-
-  - Loi n°2006-437 2006-04-14 art. 21 I, II JORF 15 avril 2006
-  - Loi n°2006-437 du 14 avril 2006 - art. 21 () JORF 15 avril 2006
-  - Loi n°2009-888 du 22 juillet 2009 - art. 12 (V)
+  - Loi n°2008-776 du 4 août 2008 - art. 137
+  - Code du tourisme. - art. L141-2
 
 _Cité par_:
 
@@ -4369,6 +4415,10 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1459 (V)
   - Code général des impôts, CGI. - art. 199 decies G bis (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 322 FA (P)
+
+_Modifié par_:
+
+  - Loi n°2009-888 du 22 juillet 2009 - art. 12 (V)
 
 
 ###### Article L324-1-1
@@ -4441,6 +4491,26 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1407 (V)
 
 
+###### Article L324-3-1
+
+L'Etat détermine les procédures de classement des chambres d'hôtes dans des conditions fixées par décret.
+
+**Nota:**
+
+Loi n° 2009-888 art. 12 VI. - Le présent article entre en vigueur à une date fixée par décret et au plus tard un an après la
+publication de la présente loi.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2009-888 du 22 juillet 2009 - art. 12 (V)
+
+_Abrogé par_:
+
+  - Loi n°2010-853 du 23 juillet 2010 - art. 43
+
+
 ###### Article L324-4
 
 Toute personne qui offre à la location une ou plusieurs chambres d'hôtes doit en avoir préalablement fait la déclaration
@@ -4483,19 +4553,30 @@ _Créé par_:
 
 ###### Article L325-1
 
-L'Etat détermine et met en oeuvre les procédures de classement des villages de vacances, selon des modalités fixées par
-décret.
+L'Etat détermine les procédures de classement des villages de vacances, selon des modalités fixées par décret.
+
+L'établissement est classé par l'autorité administrative dans une catégorie en fonction de critères fixés par un tableau de
+classement élaboré par l'organisme mentionné à l'article L. 141-2 et homologué par arrêté du ministre chargé du tourisme.
+
+S'il souhaite obtenir le classement, l'exploitant doit produire un certificat de visite délivré par un organisme évaluateur.
+Dans des conditions fixées par arrêté du ministre chargé du tourisme, les organismes évaluateurs sont accrédités dans les
+domaines correspondant à leurs missions par l'instance nationale d'accréditation mentionnée à l'article 137 de la loi n°
+2008-776 du 4 août 2008 précitée, ou tout organisme européen équivalent signataire de l'accord multilatéral pris dans le
+cadre de la coordination européenne des organismes d'accréditation.
+
+L'autorité administrative transmet sa décision de classement à l'organisme mentionné à l'article L. 141-2.
+
+**Nota:**
+
+Loi n° 2009-888 art. 12 VI. - Le présent article entre en vigueur à une date fixée par décret et au plus tard un an après la
+publication de la présente loi.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Cite_:
 
-  - 2, ecqc le classement des villages de vacances
-  - Loi n°92-1341 1992-12-23 art. 2, al
-
-_Codifié par_:
-
-  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+  - Loi n°2008-776 du 4 août 2008 - art. 137
+  - Code du tourisme. - art. L141-2
 
 _Cité par_:
 
@@ -4503,6 +4584,10 @@ _Cité par_:
   - Arrêté du 6 juillet 2010 - art. 2 (VD)
   - Code de l'urbanisme - art. *R421-19 (V)
   - Code du tourisme. - art. D325-5 (VD)
+
+_Modifié par_:
+
+  - Loi n°2009-888 du 22 juillet 2009 - art. 12 (V)
 
 
 #### Chapitre 6 : Refuges de montagne<a id=73></a>
@@ -4578,8 +4663,23 @@ _Cite_:
 
 ###### Article L332-1
 
-L'Etat détermine et met en oeuvre les procédures de classement des terrains de camping et caravanage selon des modalités
-fixées par décret.
+L'Etat détermine les procédures de classement des terrains de camping et caravanage selon des modalités fixées par décret.
+
+L'établissement est classé par l'autorité administrative dans une catégorie en fonction de critères fixés par un tableau de
+classement élaboré par l'organisme mentionné à l'article L. 141-2 et homologué par arrêté du ministre chargé du tourisme.
+
+S'il souhaite obtenir le classement, l'exploitant doit produire un certificat de visite délivré par un organisme évaluateur.
+Dans des conditions fixées par arrêté du ministre chargé du tourisme, les organismes évaluateurs sont accrédités dans les
+domaines correspondant à leurs missions par l'instance nationale d'accréditation mentionnée à l'article 137 de la loi n°
+2008-776 du 4 août 2008 précitée, ou tout organisme européen équivalent signataire de l'accord multilatéral pris dans le
+cadre de la coordination européenne des organismes d'accréditation.
+
+L'autorité administrative transmet sa décision de classement à l'organisme mentionné à l'article L. 141-2.
+
+**Nota:**
+
+Loi n° 2009-888 art. 12 VI. - Le présent article entre en vigueur à une date fixée par décret et au plus tard un an après la
+publication de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -4588,9 +4688,10 @@ _Anciens textes_:
   - 2, ecqc le classement des terrains de camping et de caravanage
   - Loi n°92-1341 1992-12-23 art. 2, al
 
-_Codifié par_:
+_Cite_:
 
-  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+  - Loi n°2008-776 du 4 août 2008 - art. 137
+  - Code du tourisme. - art. L141-2
 
 _Cité par_:
 
@@ -4599,6 +4700,10 @@ _Cité par_:
   - Arrêté du 10 avril 2019 - art. 2 (V)
   - Code du tourisme. - art. D332-2 (V)
 
+_Modifié par_:
+
+  - Loi n°2009-888 du 22 juillet 2009 - art. 12 (V)
+
 
 #### Chapitre 3 : Règles relatives aux habitations légères de loisirs et aux parcs résidentiels de loisirs<a id=78></a>
 
@@ -4606,8 +4711,24 @@ _Cité par_:
 
 ###### Article L333-1
 
-L'Etat détermine et met en oeuvre les procédures de classement des parcs résidentiels de loisirs exploités sous régime
-hôtelier, selon des modalités fixées par décret.
+L'Etat détermine les procédures de classement des parcs résidentiels de loisirs exploités sous régime hôtelier, selon des
+modalités fixées par décret.
+
+L'établissement est classé par l'autorité administrative dans une catégorie en fonction de critères fixés par un tableau de
+classement élaboré par l'organisme mentionné à l'article L. 141-2 et homologué par arrêté du ministre chargé du tourisme.
+
+S'il souhaite obtenir le classement, l'exploitant doit produire un certificat de visite délivré par un organisme évaluateur.
+Dans des conditions fixées par arrêté du ministre chargé du tourisme, les organismes évaluateurs sont accrédités dans les
+domaines correspondant à leurs missions par l'instance nationale d'accréditation mentionnée à l'article 137 de la loi n°
+2008-776 du 4 août 2008 précitée, ou tout organisme européen équivalent signataire de l'accord multilatéral pris dans le
+cadre de la coordination européenne des organismes d'accréditation.
+
+L'autorité administrative transmet sa décision de classement à l'organisme mentionné à l'article L. 141-2.
+
+**Nota:**
+
+Loi n° 2009-888 art. 12 VI. - Le présent article entre en vigueur à une date fixée par décret et au plus tard un an après la
+publication de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -4616,9 +4737,10 @@ _Anciens textes_:
   - 2, ecqc les parcs résidentiels de loisirs
   - Loi n°92-1341 1992-12-23 art. 2, al
 
-_Codifié par_:
+_Cite_:
 
-  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+  - Loi n°2008-776 du 4 août 2008 - art. 137
+  - Code du tourisme. - art. L141-2
 
 _Cité par_:
 
@@ -4626,6 +4748,10 @@ _Cité par_:
   - Arrêté du 6 juillet 2010 - art. 2 (VT)
   - Arrêté du 10 avril 2019 - art. 2 (V)
   - Code du tourisme. - art. D333-5-1 (V)
+
+_Modifié par_:
+
+  - Loi n°2009-888 du 22 juillet 2009 - art. 12 (V)
 
 
 ### TITRE IV : AMÉNAGEMENTS ET RÉGLEMENTATION DES ESPACES À VOCATION TOURISTIQUE.<a id=80></a>
