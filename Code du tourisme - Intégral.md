@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2010-07-25
+Version Consolidée au 2010-07-29
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-10)](#2)
@@ -6063,7 +6063,12 @@ biologique de caractère végétal ou animal et constituant une ou plusieurs ét
 que les activités exercées par un exploitant agricole qui sont dans le prolongement de l'acte de production ou qui ont pour
 support l'exploitation. Les activités de cultures marines sont réputées agricoles, nonobstant le statut social dont relèvent
 ceux qui les pratiquent. Il en est de même des activités de préparation et d'entraînement des équidés domestiques en vue de
-leur exploitation, à l'exclusion des activités de spectacle. 
+leur exploitation, à l'exclusion des activités de spectacle. Il en est de même de la production et, le cas échéant, de la
+commercialisation, par un ou plusieurs exploitants agricoles, de biogaz, d'électricité et de chaleur par la méthanisation,
+lorsque cette production est issue pour au moins 50 % de matières provenant de ces exploitations. Les revenus tirés de la
+commercialisation sont considérés comme des revenus agricoles, au prorata de la participation de l'exploitant agricole dans
+la structure exploitant et commercialisant l'énergie produite. Les modalités d'application du présent article sont
+déterminées par décret. 
 
 Les activités agricoles ainsi définies ont un caractère civil. 
 
@@ -6082,7 +6087,14 @@ dans les zones de revitalisation rurale sont fixées par l'article L. 112-18 du 
 
 _Modifié par_:
 
-  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+  - Loi n°2010-874 du 27 juillet 2010 - art. 59
+
+_Cite_:
+
+  - Code rural - art. L112-18 (V)
+  - Code rural - art. L311-1 (V)
+  - Code rural - art. L722-1 (V)
+  - Code rural - art. L722-20 (V)
 
 **Liens**:
 
