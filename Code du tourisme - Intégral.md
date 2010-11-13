@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2010-10-21
+Version Consolidée au 2010-11-14
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-10)](#2)
@@ -8676,7 +8676,7 @@ représentant ;
 
 - le président de l'Assemblée des chambres françaises de commerce et d'industrie (ACFCI) ou son représentant ;
 
-- le président de l'Assemblée permanente des chambres de métiers (APCM) ou son représentant ;
+- le président de l'Assemblée permanente des chambres de métiers et de l'artisanat de région (APCM) ou son représentant ;
 
 - le président de l'Union des chambres de commerce et établissements gestionnaires d'aéroports (UCCEGA) ;
 
@@ -8713,8 +8713,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2010-788 du 12 juillet 2010 - art. 250 (V)
-  - Décret n°2010-886 du 29 juillet 2010 - art. 6 (V)
+  - Décret n°2010-1356 du 11 novembre 2010 - art. 25 (V)
 
 
 ###### Article D122-8
