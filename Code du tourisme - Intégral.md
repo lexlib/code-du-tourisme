@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2010-12-18
+Version Consolidée au 2010-12-23
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-10)](#2)
@@ -15683,7 +15683,7 @@ D. 324-8 dans sa rédaction en vigueur à la date du 22 juillet 2009 ;
 2° Soit de l'agrément délivré par le ministre chargé du tourisme, conformément aux dispositions de l'article R. 324-9 dans sa
 rédaction en vigueur à la date du 22 juillet 2009. 
 
-Au plus tard à compter du 1er janvier 2011, les visites de contrôle effectuées dans ce cadre doivent être réalisées selon une
+Au plus tard à compter du 1er avril 2011, les visites de contrôle effectuées dans ce cadre doivent être réalisées selon une
 procédure bénéficiant d'un niveau de certification fixé par arrêté du ministre chargé du tourisme. 
 
 Le représentant de l'Etat dans le département procède au retrait de l'agrément : 
@@ -15701,12 +15701,9 @@ article.
 _Cite_:
 
   - Loi n°2009-888 du 22 juillet 2009
+  - Code du tourisme. - art. D324-8 (Ab)
   - Code du tourisme. - art. L324-1
-  - Code du tourisme. - art. R*324-9
-
-_Modifié par_:
-
-  - Décret n°2010-759 du 6 juillet 2010 - art. 7
+  - Code du tourisme. - art. R*324-9 (Ab)
 
 _Cité par_:
 
@@ -15715,6 +15712,10 @@ _Cité par_:
   - Arrêté du 6 décembre 2010 - art. 1 (VD)
   - Arrêté du 6 décembre 2010 - art. Annexe I (VD)
   - Arrêté du 7 mai 2012 (V)
+
+_Modifié par_:
+
+  - Décret n°2010-1602 du 20 décembre 2010 - art. 1
 
 
 ##### Sous-section 3 : Sanctions.<a id=229></a>
