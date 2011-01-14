@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2011-01-13
+Version Consolidée au 2011-01-15
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-10)](#2)
@@ -8572,7 +8572,8 @@ représentant ;
 
 - le président du Centre national des monuments nationaux (CMN) ou son représentant ;
 
-- le président de la Réunion des musées nationaux (RMN) ou son représentant ;
+- le président de l'Etablissement public de la Réunion des musées nationaux et du Grand Palais des Champs-Elysées ou son
+représentant ;
 
 - le président de la Fédération des écomusées et des musées de société (FEMS) ou son représentant ;
 
@@ -8708,7 +8709,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2010-1356 du 11 novembre 2010 - art. 25 (V)
+  - Décret n°2011-52 du 13 janvier 2011 - art. 27 (V)
 
 
 ###### Article D122-8
@@ -13188,21 +13189,20 @@ Commission nationale des guides-interprètes et conférenciers. Cet arrêté fix
 règles de constitution du jury. Cet examen est ouvert aux titulaires de diplômes supérieurs sanctionnant une formation de
 quatre années dans les conditions fixées par le même arrêté.
 
-La carte professionnelle de conférencier national est également délivrée sur leur demande aux conférenciers recrutés par la
-Réunion des musées nationaux, aux conférenciers ayant été inscrits sur la liste d'aptitude des musées nationaux, aux
-conférenciers du service des visites-conférences du Centre des monuments nationaux et aux animateurs du patrimoine des villes
-et pays d'art et d'histoire.
+La carte professionnelle de conférencier national est également délivrée sur leur demande aux conférenciers recrutés par
+l'Etablissement public de la Réunion des musées nationaux et du Grand Palais des Champs Elysées, aux conférenciers ayant été
+inscrits sur la liste d'aptitude des musées nationaux, aux conférenciers du service des visites-conférences du Centre des
+monuments nationaux et aux animateurs du patrimoine des villes et pays d'art et d'histoire.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°94-490 du 15 juin 1994 - art. 90 (M)
   - Décret n°94-490 du 15 juin 1994 - art. 90 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+  - Décret n°2011-52 du 13 janvier 2011 - art. 27 (V)
 
 _Cité par_:
 
