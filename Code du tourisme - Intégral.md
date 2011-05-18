@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2011-03-31
+Version Consolidée au 2011-05-19
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-10)](#2)
@@ -26,8 +26,8 @@ Version Consolidée au 2011-03-31
           - [Section 3 : Offices de tourisme de groupements de collectivités territoriales (art. L134-5 à L134-6)](#23)
             - [Sous-section 1 : Dispositions communes (art. L134-5)](#24)
             - [Sous-section 2 : Dispositions particulières applicables aux offices de tourisme intercommunaux constitués sous la forme d'un établissement public industriel et commercial. (art. L134-6)](#25)
-      - [TITRE IV : GROUPEMENTS (art. L141-1 à L141-3)](#26)
-        - [Chapitre unique (art. L141-1 à L141-3)](#27)
+      - [TITRE IV : GROUPEMENTS (art. L141-2 à L141-3)](#26)
+        - [Chapitre unique (art. L141-2 à L141-3)](#27)
       - [TITRE V : DISPOSITIONS RELATIVES À LA CORSE. (art. L151-1 à L151-6)](#28)
         - [Chapitre unique. (art. L151-1 à L151-6)](#29)
       - [TITRE VI : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER. (art. L161-1 à L163-10)](#30)
@@ -1666,32 +1666,6 @@ _Anciens textes_:
 
 #### Chapitre unique<a id=27></a>
 
-###### Article L141-1
-
-Des groupements d'intérêt public peuvent être constitués dans les conditions prévues par les articles L. 341-2 à L. 341-4 du
-code de la recherche en vue de contribuer à des activités de développement ou d'intérêt commun dans le domaine du tourisme.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°92-645 1992-07-13 art. 30
-  - Loi n°92-645 du 13 juillet 1992 - art. 30 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance n°2004-1391 du 20 décembre 2004
-
-_Abrogé par_:
-
-  - Loi n°2011-525 du 17 mai 2011 - art. 118
-
-_Cité par_:
-
-  - Code du tourisme. - art. D141-1 (Ab)
-  - Code du tourisme. - art. L162-2 (V)
-
-
 ###### Article L141-2
 
 Le groupement d'intérêt économique " Atout France, agence de développement touristique de la France ”, placé sous la tutelle
@@ -2297,25 +2271,24 @@ _Modifié par_:
 
 ###### Article L162-2
 
-Les dispositions des articles L. 133-1 à L. 133-18, L. 134-2, L. 134-3 et L. 141-1 sont remplacées, s'il y a lieu, par les
-dispositions du code des communes applicables localement ayant le même objet.
+Les dispositions des articles L. 133-1 à L. 133-18, 
+L. 134-2 et L. 134-3 sont remplacées, s'il y a lieu, par les dispositions du code des communes applicables localement ayant
+le même objet.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+  - Ordonnance n°2004-1391 du 20 décembre 2004
 
 _Modifié par_:
 
-  - Loi n°2006-437 du 14 avril 2006 - art. 7 (V) JORF 15 avril 2006
+  - Loi n°2011-525 du 17 mai 2011 - art. 119
 
 _Cite_:
 
-  - Code du tourisme L133-1 à L133-18, L134-2, L134-3, L141-1
-  - Code du tourisme. - art. L134-2 (V)
-  - Code du tourisme. - art. L134-3 (M)
-  - Code du tourisme. - art. L141-1 (V)
+  - Code du tourisme. - art. L133-1
+  - Code du tourisme. - art. L134-2
 
 _Cité par_:
 
