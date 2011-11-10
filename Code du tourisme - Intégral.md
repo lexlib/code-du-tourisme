@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2011-10-09
+Version Consolidée au 2011-11-11
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-10)](#2)
@@ -12555,7 +12555,9 @@ justifie :
 
 1° Soit de la réalisation d'un stage en relation avec les activités mentionnées à l'article L. 211-1, effectué auprès d'un
 centre de formation, répondant à des critères fixés par arrêté du ministre chargé du tourisme et d'une durée qui ne peut être
-inférieure à quatre mois ; 
+inférieure à quatre mois ou, pour les associations et organismes sans but lucratif dont l'objet principal n'est pas
+l'organisation de voyages et de séjours, auprès d'une structure dispensant un programme de formation agréé par arrêté du
+ministre chargé du tourisme ; 
 
 2° Soit d'une expérience professionnelle d'une durée minimale d'un an dans des domaines en rapport avec les opérations
 mentionnées au I de l'article L. 211-1 ou avec des prestations d'hébergement touristique ou de transport touristique. ; 
@@ -12570,11 +12572,15 @@ _Cité par_:
   - Arrêté du 23 décembre 2009 - art. 1 (V)
   - Arrêté du 23 décembre 2009 - art. 2 (V)
   - Code du tourisme. - art. R211-20 (V)
-  - Code du tourisme. - art. R211-50 (V)
+  - Code du tourisme. - art. R211-50 (VD)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
+  - Décret n°2011-1477 du 8 novembre 2011 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2017-1871 du 29 décembre 2017 - art. 5
 
 _Cite_:
 
