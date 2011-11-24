@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2011-11-11
+Version Consolidée au 2011-11-25
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-10)](#2)
@@ -256,10 +256,10 @@ Version Consolidée au 2011-11-11
             - [Sous-section 3 : Sanctions. (art. R333-6 à R333-6-1)](#253)
           - [Section 3 : Résidences mobiles de loisirs. (art. D333-7)](#254)
       - [TITRE IV : AMÉNAGEMENTS ET RÉGLEMENTATION DES ESPACES À VOCATION TOURISTIQUE. (art. D341-1 à D343-6)](#255)
-        - [Chapitre Ier : Littoral. (art. D341-1 à D341-3)](#256)
+        - [Chapitre Ier : Littoral. (art. D341-1 à D341-6)](#256)
           - [Section 1 : Aménagement, protection et mise en valeur du littoral. (art. D341-1)](#257)
-          - [Section 2 : Ports de plaisance et zones de mouillages. (art. D341-2)](#258)
-          - [Section 3 : Accès aux rivages et aux plages. (art. D341-3)](#259)
+          - [Section 2 : Ports de plaisance et zones de mouillages. (art. D341-2 à R341-5)](#258)
+          - [Section 3 : Accès aux rivages et aux plages. (art. D341-6)](#259)
         - [Chapitre II : Montagne. (art. D342-1 à R342-29)](#260)
           - [Section 2 : Unités touristiques nouvelles. (art. D342-1)](#261)
           - [Section 3 : Remontées mécaniques, pistes de ski et tapis roulants. (art. D342-2 à R342-29)](#262)
@@ -17401,18 +17401,22 @@ _Cite_:
 ###### Article D341-1
 
 Les règles relatives à l'occupation des plages faisant l'objet d'une concession, à l'attribution des concessions de plage et
-des sous-traités d'exploitation, à la résiliation des concessions et des conventions d'exploitation, sont fixées par le
-décret n° 2006-608 du 26 mai 2006 relatif aux concessions de plage.
+des sous-traités d'exploitation, à la résiliation des concessions et des conventions d'exploitation, sont fixées par les
+articles R. 2124-13 à R. 2124-38 du code général de la propriété des personnes publiques.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Décret n°2006-608 2006-05-26
-
 _Codifié par_:
 
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+  - Décret n°2006-1229 du 6 octobre 2006
+
+_Modifié par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 12
+
+_Cite_:
+
+  - Code général de la propriété des personnes publiques. - art. R2124-13
 
 
 ##### Section 2 : Ports de plaisance et zones de mouillages.<a id=258></a>
@@ -17421,52 +17425,148 @@ _Codifié par_:
 
 Les règles relatives à l'occupation temporaire du domaine public maritime, en dehors des limites des ports, en vue de
 l'aménagement, de l'organisation et la gestion des zones de mouillages et d'équipements légers destinées à l'accueil et au
-stationnement des navires et bateaux de plaisance, sont fixées par le décret n° 91-1110 du 22 octobre 1991 relatif aux
-autorisations d'occupation temporaire concernant les zones de mouillages et d'équipements légers sur le domaine public
-maritime.
+stationnement des navires et bateaux de plaisance, sont fixées par les articles R. 2124-39 à R. 2124-55 du code général de la
+propriété des personnes publiques.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Décret n°91-1110 1991-10-22
-
 _Codifié par_:
 
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+  - Décret n°2006-1229 du 6 octobre 2006
+
+_Modifié par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 12
+
+_Cite_:
+
+  - Code général de la propriété des personnes publiques. - art. R2124-39
 
 _Cité par_:
 
   - Code du tourisme. - art. R361-2 (V)
-  - Code général de la propriété des personnes publ... - art. R2124-39 (V)
   - Code général de la propriété des personnes publ... - art. R2124-50 (V)
+  - Code général de la propriété des personnes publ... - art. R2124-55 (V)
+
+
+###### Article D341-3
+
+Les règles relatives à l'occupation du domaine public fluvial en vue de l'aménagement, de l'organisation et de la gestion des
+zones de mouillages et d'équipements légers sont fixées à la présente section et à l'article R. 2124-58 du code général de la
+propriété des personnes publiques.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-1229 du 6 octobre 2006
+
+_Modifié par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 12
+
+_Cite_:
+
+  - Code général de la propriété des personnes publiques. - art. R2124-58
+
+
+###### Article R341-4
+
+Les règles générales de la police du mouillage mentionnées à l'article L. 341-13, applicables au domaine public fluvial et au
+domaine public maritime, sont définies dans un règlement de police établi, selon le cas, par arrêté du préfet ou par un
+arrêté conjoint du préfet et du préfet maritime, pris après consultation du titulaire de l'autorisation. Ce règlement définit
+les chenaux d'accès et les règles de navigation dans ces chenaux et au voisinage de la zone, les mesures à prendre pour le
+balisage de la zone de mouillages, les prescriptions relatives à la conservation du domaine, la sécurité des personnes et des
+biens, la prévention et la lutte contre les accidents et les incendies et contre les pollutions de toute nature. 
+
+Un mois au plus tard après la notification qui lui est faite de cet arrêté, le titulaire de l'autorisation ou le gestionnaire
+adresse au chef du service compétent les consignes précisant à l'égard des usagers les conditions d'utilisation des ouvrages,
+outillages, installations et services, les règles prises pour la lutte contre l'incendie ainsi que les mesures relatives à la
+conservation et la propreté du plan d'eau et à la protection des navires et embarcations. 
+
+Le titulaire affiche ces consignes, les porte à la connaissance des usagers et met en place les panneaux nécessaires. 
+
+Lorsque la zone de mouillages n'est pas accessible par voie de terre aux véhicules spécialisés d'incendie et de secours, le
+titulaire de l'autorisation en informe les usagers au moyen de marques apparentes visibles de terre et du plan d'eau. 
+
+L'autorisation ne fait pas obstacle à l'adoption par l'autorité compétente de toute mesure relative à la police de la
+conservation et de l'utilisation du domaine public, à la police de la navigation, à la police des eaux et de la pêche et aux
+règles de sécurité. 
+
+Le balisage de la zone de mouillages et de ses accès est réalisé et entretenu à ses frais par le titulaire de l'autorisation
+selon les instructions de l'autorité compétente. 
+
+Le titulaire est tenu d'informer sans délai le service chargé de la signalisation maritime ou fluviale de tout changement
+constaté dans la situation du balisage.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 12
+
+_Cite_:
+
+  - Code du tourisme. - art. L341-13
+
+_Cité par_:
+
+  - Code du tourisme. - art. R341-5 (V)
+  - Code du tourisme. - art. R361-2 (V)
+  - Code général de la propriété des personnes publ... - art. R2124-39 (V)
+  - Code général de la propriété des personnes publ... - art. R2124-55 (V)
+
+
+###### Article R341-5
+
+Indépendamment des infractions relatives à la conservation du domaine public qui demeurent soumises au régime de la
+contravention de grande voirie, les infractions aux dispositions des règlements de police du mouillage mentionnés à l'article
+R. 341-4 seront punies des peines d'amende prévues pour les contraventions de la 2e classe. 
+
+En cas de récidive, il sera fait application des peines d'amende prévues pour les contraventions de la 3e classe. 
+
+Sera puni des peines d'amende prévues pour les contraventions de la 4e classe quiconque aura refusé d'exécuter les ordres
+donnés par les fonctionnaires et agents compétents en matière de police du mouillage concernant les mouvements des navires,
+bateaux et autres embarcations ou le respect des dispositions des règlements de police du mouillage mentionnés à l'article R.
+341-4. 
+
+En cas de récidive, il sera fait application des peines d'amende prévues pour les contraventions de la 5e classe.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 12
+
+_Cite_:
+
+  - Code du tourisme. - art. R341-4
+
+_Cité par_:
+
   - Code général de la propriété des personnes publ... - art. R2124-55 (V)
 
 
 ##### Section 3 : Accès aux rivages et aux plages.<a id=259></a>
 
-###### Article D341-3
+###### Article D341-6
 
 Les règles relatives aux servitudes de passage affectant les propriétés privées riveraines du domaine public maritime sont
 fixées par les dispositions des articles R. 160-8 à R. 160-33 du code de l'urbanisme.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Créé par_:
 
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 12
 
-**Liens**:
+_Anciens textes_:
 
-  - TRANSFERE: Décret n°2011-1612 du 22 novembre 2011 - art. 12
-
-_Nouveaux textes_:
-
-  - Code du tourisme. - art. D341-6 (M)
+  - Code du tourisme. - art. D341-3 (T)
 
 _Cite_:
 
-  - Code de l'urbanisme R160-8 à R160-33
+  - Code de l'urbanisme - art. R*160-8
 
 
 #### Chapitre II : Montagne.<a id=260></a>
@@ -18710,24 +18810,24 @@ _Modifié par_:
 
 ###### Article R361-2
 
-Dans les départements d'outre-mer, les pouvoirs attribués par le décret mentionné à l'article D. 341-2 au préfet maritime
-sont exercés par les autorités mentionnées à l'article 1er du décret n° 2005-1514 du 6 décembre 2005 relatif à l'organisation
-outre-mer de l'action de l'Etat en mer.
+Dans les départements d'outre-mer, les pouvoirs attribués par l'article R. 341-4 au préfet maritime sont exercés par les
+autorités mentionnées à l'article 1er du décret n° 2005-1514 du 6 décembre 2005 relatif à l'organisation outre-mer de
+l'action de l'Etat en mer.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°91-1110 1991-10-22 art. 21
-
 _Cite_:
 
-  - Décret n°2005-1514 du 6 décembre 2005 - art. 1, v. init.
-  - Code du tourisme. - art. D341-2 (V)
+  - Décret n°2005-1514 du 6 décembre 2005 - art. 1
+  - Code du tourisme. - art. R341-4
 
 _Codifié par_:
 
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+  - Décret n°2006-1229 du 6 octobre 2006
+
+_Modifié par_:
+
+  - Décret n°2011-1612 du 22 novembre 2011 - art. 12
 
 
 ###### Article R361-3
