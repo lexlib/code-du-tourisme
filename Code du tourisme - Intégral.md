@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2012-03-24
+Version Consolidée au 2012-03-31
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-10)](#2)
@@ -189,10 +189,10 @@ Version Consolidée au 2012-03-24
       - [TITRE II : DISPOSITIONS RELATIVES AUX VISITES DANS LES MUSÉES ET MONUMENTS HISTORIQUES. (art. D221-5 à D221-24)](#186)
         - [Chapitre unique : Personnels qualifiés. (art. D221-5 à D221-24)](#187)
           - [Section 1 : Des personnes qualifiées. (art. D221-5 à R221-4)](#188)
-          - [Section 2 : Des professions de guide-interprète et de conférencier. (art. R221-11 à R221-14)](#189)
-          - [Section 3 : Des aptitudes professionnelles acquises dans les autres Etats membres de l'Union européenne ou parties à l'accord sur l'Espace économique européen. (art. R221-15 à R221-18-1)](#190)
-            - [Sous-section 1 : Liberté d'établissement. (art. R221-15 à R221-18)](#191)
-            - [Sous-section 2  : Libre prestation de services (art. R221-18-1)](#192)
+          - [Section 2 : De la profession de guide-conférencier (art. R221-11)](#189)
+          - [Section 3 : Des aptitudes professionnelles acquises dans les autres Etats membres de l'Union européenne ou parties à l'accord sur l'Espace économique européen. (art. R221-12 à R221-14)](#190)
+            - [Sous-section 1 : Liberté d'établissement. (art. R221-12 à R221-13)](#191)
+            - [Sous-section 2  : Libre prestation de services (art. R221-14)](#192)
           - [Section 4 : Diplôme national de guide-interprète national. (art. D221-19 à D221-24)](#193)
       - [TITRE III : EXPLOITATION DES VÉHICULES DE TOURISME. (art. D231-1 à R233-1)](#194)
         - [Chapitre Ier : Transport par voitures de tourisme avec chauffeur. (art. D231-1 à R231-14)](#195)
@@ -12792,48 +12792,25 @@ _Cite_:
 
 ###### Article D221-5
 
-La Commission nationale des guides-interprètes et conférenciers comprend, sous la présidence du ministre chargé du tourisme
-ou de son représentant, six membres représentant les administrations publiques, six membres représentant les professions et
-six membres représentant les organismes professionnels.
+La Commission nationale des guides-conférenciers comprend, sous la présidence du ministre chargé du tourisme ou de son
+représentant :
 
-Les membres représentant les professions et les organismes professionnels disposent de suppléants.
-
-En cas d'absence du titulaire, le suppléant a voix délibérative.
-
-La commission est composée de :
-
-1° Au titre des administrations publiques :
-
-- deux représentants du ministre chargé de la culture ;
-
-- un représentant du ministre chargé de l'éducation nationale ;
-
-- un représentant du ministre chargé de l'enseignement supérieur ;
+1° Cinq représentants des administrations publiques :
 
 - deux représentants du ministre chargé du tourisme ;
 
-2° Au titre des professions :
+- deux représentants du ministre chargé de la culture ;
 
-- trois représentants des guides-interprètes ;
+- un représentant du ministre chargé de l'enseignement supérieur ;
 
-- deux représentants des conférenciers nationaux, dont un sur proposition du ministre chargé de la culture ;
+2° Six représentants des professions, nommés sur proposition des associations professionnelles de guide-conférencier ;
 
-- un représentant des guides-conférenciers des villes et pays d'art et d'histoire sur proposition du ministre chargé de la
-culture ;
+3° Six représentants d'organismes professionnels, nommés sur proposition d'organismes représentant des secteurs du tourisme
+et de la culture dont l'activité est en lien avec la profession de guide-conférencier.
 
-3° Au titre des organismes professionnels :
+Les membres de la commission sont nommés par arrêté du ministre chargé du tourisme.
 
-- un représentant du Syndicat national des agences de voyages ;
-
-- un représentant du Syndicat national des entreprises du tourisme ;
-
-- un représentant de l'Union nationale des associations de tourisme et de plein air ;
-
-- un représentant de la Fédération nationale des offices de tourisme et syndicats d'initiative ;
-
-- un représentant de la Fédération nationale des comités départementaux de tourisme ;
-
-- un représentant de la Fédération nationale des comités régionaux de tourisme.
+Des suppléants sont nommés dans les mêmes conditions. En cas d'absence du titulaire, le suppléant a voix délibérative.
 
 **Nota:**
 
@@ -12842,180 +12819,30 @@ caractère consultatif dont la liste est annexée au présent décret sont proro
 nationale des guides-interprètes et conférenciers).
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Arrêté 1995-07-26 art. 1
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-
-###### Article D221-6
-
-Le ministre chargé du tourisme nomme par arrêté les membres de la commission ainsi que leurs suppléants.
-
-Lorsqu'un membre ou son suppléant perd la qualité au titre de laquelle il a été nommé, il est procédé à son remplacement dans
-les mêmes conditions.
-
-**Nota:**
-
-Décret n° 2009-623 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission
-nationale des guides-interprètes et conférenciers).
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Arrêté 1995-07-26 art. 2
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2012-337 du 7 mars 2012 - art. 1
-
-
-###### Article D221-7
-
-La Commission nationale des guides-interprètes et conférenciers établit son règlement intérieur qui fixe notamment le délai
-minimum à respecter pour communiquer, préalablement à la date des réunions, l'ordre du jour des séances et les documents
-correspondants.
-
-**Nota:**
-
-Décret n° 2009-623 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission
-nationale des guides-interprètes et conférenciers).
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Arrêté 1995-07-26 art. 3
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2012-337 du 7 mars 2012 - art. 1
-
-
-###### Article D221-8
-
-Le secrétariat de la commission est assuré par les services du ministère chargé du tourisme.
-
-**Nota:**
-
-Décret n° 2009-623 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission
-nationale des guides-interprètes et conférenciers).
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Arrêté 1995-07-26 art. 4
 
 _Codifié par_:
 
   - Décret n°2006-1229 du 6 octobre 2006
 
-_Abrogé par_:
+_Modifié par_:
 
   - Décret n°2012-337 du 7 mars 2012 - art. 1
 
-
-###### Article D221-9
-
-La commission peut décider de s'adjoindre, pour une ou plusieurs séances, toutes personnes qualifiées qu'elle souhaite
-consulter.
-
-**Nota:**
-
-Décret n° 2009-623 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission
-nationale des guides-interprètes et conférenciers).
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Arrêté 1995-07-26 art. 5
-
-_Codifié par_:
-
-  - Décret n°2006-1229 du 6 octobre 2006
-
 _Abrogé par_:
 
-  - Décret n°2012-337 du 7 mars 2012 - art. 1
-
-
-###### Article D221-10
-
-Les membres de la commission sont tenus à une obligation de réserve et de discrétion en ce qui concerne les travaux, les
-débats et les documents qui leur sont soumis.
-
-**Nota:**
-
-Décret n° 2009-623 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission
-nationale des guides-interprètes et conférenciers).
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Arrêté 1995-07-26 art. 6
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2012-337 du 7 mars 2012 - art. 1
+  - Décret n°2013-420 du 23 mai 2013 - art. 58 (V)
 
 
 ###### Article R221-1
 
-Pour l'application de l'article L. 221-1 : 
+Les personnes qualifiées mentionnées à l'article L. 221-1 sont les personnes titulaires de la carte professionnelle de guide-
+conférencier délivrée dans les conditions prévues par les dispositions réglementaires des sections 2 et 3 du présent
+chapitre. 
 
-1° Les personnes titulaires de l'une des cartes professionnelles mentionnées au 2° sont reconnues comme personnes qualifiées
-pour effectuer les visites commentées dans les musées appartenant à l'Etat, les musées mentionnés par l'ordonnance n° 45-1546
-du 13 juillet 1945 modifiée portant organisation provisoire des musées des beaux-arts et les monuments historiques classés au
-titre du livre VI du code du patrimoine. 
-
-2° Les cartes professionnelles correspondent aux qualifications suivantes : 
-
-a) Carte de conférencier national ; 
-
-b) Carte de guide-interprète national ; 
-
-c) Carte de guide-interprète régional ; 
-
-d) Carte de guide conférencier des villes et pays d'art et d'histoire. 
-
-Les cartes professionnelles sont délivrées dans les conditions prévues par les dispositions réglementaires des sections 2 à 4
-du présent chapitre. 
-
-3° Les personnes titulaires de la carte de guide-interprète local et de guide-interprète auxiliaire à titre définitif peuvent
-obtenir le renouvellement de leur carte.
+Les musées et les monuments historiques mentionnés à l'article L. 221-1 sont les musées de France définis au titre IV du
+livre IV du code du patrimoine et les monuments historiques définis au titre II du livre VI du même code.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance n°45-1546 du 13 juillet 1945
-  - Code du tourisme. - art. L221-1
-  - Code du patrimoine
 
 _Anciens textes_:
 
@@ -13023,7 +12850,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 3
+  - Décret n°2011-930 du 1er août 2011 - art. 1
 
 _Cité par_:
 
@@ -13035,20 +12862,23 @@ _Cité par_:
   - Code du tourisme. - art. R221-2 (V)
   - Code du tourisme. - art. R221-3 (VD)
 
+_Cite_:
+
+  - Code du tourisme. - art. L221-1
+
 
 ###### Article R221-2
 
-Les cartes professionnelles mentionnées à l'article R. 221-1 sont délivrées aux personnes résidant en France par le préfet du
-département du lieu de leur établissement. Elles sont délivrées par le préfet de Paris aux personnes qui résident à
-l'étranger. 
+La carte professionnelle mentionnée à l'article R. 221-1 est délivrée aux personnes résidant en France par le préfet du
+département du lieu de leur établissement. Elle est délivrée par le préfet de Paris aux personnes qui résident à l'étranger. 
 
 Le préfet informe le demandeur le cas échéant de tout document manquant, dans le délai d'un mois à compter de la réception de
 la demande. Il accuse réception du dossier de demande de carte professionnelle lorsque celui-ci est complet. Il se prononce
 dans les quatre mois à compter de la date de réception du dossier complet de demande. Le silence gardé par le préfet pendant
 plus de quatre mois vaut octroi de la carte professionnelle. 
 
-Les cartes professionnelles sont conformes à un modèle établi par arrêté conjoint du ministre chargé du tourisme, du ministre
-de l'intérieur et du ministre chargé de la culture.
+La carte professionnelle est conforme à un modèle établi par arrêté conjoint des ministres respectivement chargés du tourisme
+et de la culture.
 
 **Liens relatifs à cet article**
 
@@ -13058,7 +12888,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 3
+  - Décret n°2011-930 du 1er août 2011 - art. 1
 
 _Cité par_:
 
@@ -13066,15 +12896,19 @@ _Cité par_:
   - Arrêté du 7 mars 2012 - art. 1 (VD)
   - Code du tourisme. - art. R221-3 (V)
 
+**Liens**:
+
+  - RECTIFICATION: Décret n°2011-930 du 1er août 2011, v. init.
+
 _Cite_:
 
-  - Code du tourisme. - art. R221-1
+  - Code du tourisme. - art. R221-1 (VD)
 
 
 ###### Article R221-2-1
 
-Les sanctions administratives susceptibles d'être prononcées à l'encontre des personnes titulaires d'une carte
-professionnelle, en cas de manquement à leurs obligations professionnelles, sont les suivantes :
+Les sanctions administratives susceptibles d'être prononcées à l'encontre des personnes titulaires de la carte
+professionnelle de guide-conférencier, en cas de manquement à leurs obligations professionnelles, sont les suivantes :
 
 1° L'avertissement ;
 
@@ -13086,32 +12920,36 @@ La sanction est prononcée par l'autorité administrative qui a délivré la car
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 3
+  - Décret n°2011-930 du 1er août 2011 - art. 1
 
 
 ###### Article R221-3
 
-Est puni de l'amende prévue pour les contraventions de la troisième classe :
+Est puni de l'amende prévue pour les contraventions de la troisième classe : 
 
-a) Le fait d'exercer, moyennant rémunération, l'activité mentionnée au 1° de l'article R. 221-1 sans être titulaire d'une
-carte professionnelle ou en utilisant une carte non conforme au modèle prévu au dernier alinéa de l'article R. 221-2 ;
+a) Le fait d'exercer, moyennant rémunération, l'activité mentionnée à l'article L. 221-1 sans être titulaire de la carte
+professionnelle de guide-conférencier ou en utilisant une carte non conforme au modèle prévu au dernier alinéa de l'article
+R. 221-2 ; 
 
-b) Le fait, pour le titulaire d'une licence, d'une habilitation, d'un agrément ou d'une autorisation, d'utiliser les services
-d'une personne non détentrice d'une carte professionnelle mentionnée au 2° de l'article R. 221-1, en vue d'assurer la
-conduite des visites dans les musées et les monuments historiques.
+b) Le fait, pour une personne physique ou morale immatriculée au registre prévu au a de l'article L. 141-3, d'utiliser les
+services d'une personne non détentrice de la carte professionnelle de guide-conférencier mentionnée à l'article R. 221-1, en
+vue d'assurer la conduite des visites dans les musées et les monuments historiques.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°94-490 du 15 juin 1994 - art. 87 (M)
   - Décret n°94-490 du 15 juin 1994 - art. 87 (Ab)
 
 _Codifié par_:
 
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+  - Décret n°2006-1229 du 6 octobre 2006
+
+_Modifié par_:
+
+  - Décret n°2011-930 du 1er août 2011 - art. 1
 
 _Cité par_:
 
@@ -13119,21 +12957,21 @@ _Cité par_:
 
 _Cite_:
 
-  - Code du tourisme. - art. R221-1 (V)
-  - Code du tourisme. - art. R221-2 (V)
+  - Code du tourisme. - art. L141-3
+  - Code du tourisme. - art. R211-2 (V)
+  - Code du tourisme. - art. R221-1
 
 
 ###### Article R221-4
 
-Une Commission nationale des guides-interprètes et conférenciers, constituée de représentants des administrations publiques
-et de représentants des professions et organismes professionnels du tourisme, est placée auprès du ministre chargé du
-tourisme. 
+Une Commission nationale des guides-conférenciers, constituée de représentants des administrations publiques et de
+représentants des professions et organismes professionnels du tourisme, est placée auprès du ministre chargé du tourisme. 
 
-La commission émet un avis sur la définition des aptitudes et connaissances requises des personnes qualifiées pour conduire
-des visites dans les musées et monuments historiques. 
+La commission émet un avis sur la définition des aptitudes , des connaissances et des certifications requises des personnes
+qualifiées pour conduire des visites dans les musées et monuments historiques. 
 
-Elle propose la nature des épreuves d'aptitude et des stages d'adaptation mentionnés aux articles R. 221-15, R. 221-16 et R.
-221-17 ainsi que les règles de constitution des jurys d'évaluation.
+Elle propose la nature des épreuves d'aptitude et des stages d'adaptation mentionnés à l'article R. 221-12 ainsi que les
+règles de constitution des jurys d'évaluation.
 
 **Nota:**
 
@@ -13155,19 +12993,24 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 3
+  - Décret n°2011-930 du 1er août 2011 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2013-420 du 23 mai 2013 - art. 58 (V)
 
 _Cite_:
 
   - Code du tourisme. - art. R221-15
 
 
-##### Section 2 : Des professions de guide-interprète et de conférencier.<a id=189></a>
+##### Section 2 : De la profession de guide-conférencier<a id=189></a>
 
 ###### Article R221-11
 
-La carte professionnelle de guide-interprète national est délivrée aux personnes ayant obtenu le diplôme national de guide-
-interprète national, qui sanctionne une formation de trois ans après le baccalauréat.
+La carte professionnelle de guide-conférencier est délivrée aux personnes titulaires d'une certification précisée par arrêté
+des ministres respectivement chargés du tourisme, de la culture et de l'enseignement supérieur. Cette certification, inscrite
+au Répertoire national des certifications professionnelles (RNCP), sanctionne une formation au moins de niveau de licence.
 
 **Liens relatifs à cet article**
 
@@ -13178,7 +13021,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+  - Décret n°2006-1229 du 6 octobre 2006
+
+_Modifié par_:
+
+  - Décret n°2011-930 du 1er août 2011 - art. 2
 
 _Cité par_:
 
@@ -13188,110 +13035,18 @@ _Cité par_:
   - Code du tourisme. - art. R221-15 (VT)
 
 
-###### Article R221-12
-
-La carte professionnelle de conférencier national est délivrée aux personnes ayant réussi l'examen organisé par les ministres
-chargés du tourisme et de la culture, dans des conditions fixées par arrêté conjoint de ces ministres pris après avis de la
-Commission nationale des guides-interprètes et conférenciers. Cet arrêté fixe notamment les modalités des épreuves et les
-règles de constitution du jury. Cet examen est ouvert aux titulaires de diplômes supérieurs sanctionnant une formation de
-quatre années dans les conditions fixées par le même arrêté.
-
-La carte professionnelle de conférencier national est également délivrée sur leur demande aux conférenciers recrutés par
-l'Etablissement public de la Réunion des musées nationaux et du Grand Palais des Champs Elysées, aux conférenciers ayant été
-inscrits sur la liste d'aptitude des musées nationaux, aux conférenciers du service des visites-conférences du Centre des
-monuments nationaux et aux animateurs du patrimoine des villes et pays d'art et d'histoire.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 90 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 90 (Ab)
-  - Code du tourisme. - art. R221-15 (VT)
-
-_Modifié par_:
-
-  - Décret n°2011-52 du 13 janvier 2011 - art. 27 (M)
-
-_Cité par_:
-
-  - Code du tourisme. - art. R221-15 (VT)
-
-
-###### Article R221-13
-
-La carte professionnelle de guide-interprète régional est délivrée dans les conditions suivantes :
-
-a) Sur simple demande aux titulaires du brevet de technicien supérieur animation et gestion touristiques locales et du brevet
-de technicien supérieur " tourisme-loisirs ", option accueil-animation professionnels ;
-
-b) Aux personnes titulaires d'un diplôme national ou d'Etat sanctionnant un cycle de deux années d'études supérieures et
-ayant réussi les épreuves d'un examen organisé par le préfet de région dans les conditions fixées par arrêté du ministre
-chargé du tourisme après avis de la Commission nationale des guides-interprètes et conférenciers. Cet arrêté fixe les
-modalités des épreuves et les règles de constitution du jury ;
-
-c) Aux guides-conférenciers des villes et pays d'art et d'histoire ayant réussi l'examen de guide-interprète régional, pour
-lequel ils sont dispensés de certaines épreuves qui sont déterminées par un arrêté conjoint des ministres chargés du tourisme
-et de la culture.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 91 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 91 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Cité par_:
-
-  - Code du tourisme. - art. R221-16 (VT)
-
-
-###### Article R221-14
-
-La carte professionnelle de guide-conférencier des villes et pays d'art et d'histoire est délivrée dans les conditions
-suivantes :
-
-a) Aux personnes titulaires d'un diplôme national ou d'Etat sanctionnant un cycle de deux années d'études supérieures ayant
-réussi les épreuves d'un examen organisé par le préfet de région dans les conditions fixées par arrêté du ministre chargé de
-la culture ;
-
-b) Aux guides-interprètes régionaux ayant réussi l'examen de guide-conférencier des villes et pays d'art et d'histoire, pour
-lequel ils sont dispensés de certaines épreuves qui sont déterminées par un arrêté conjoint des ministres chargés de la
-culture et du tourisme.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 92 (M)
-  - Décret n°94-490 du 15 juin 1994 - art. 92 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Cité par_:
-
-  - Code du tourisme. - art. R221-17 (VT)
-
-
 ##### Section 3 : Des aptitudes professionnelles acquises dans les autres Etats membres de l'Union européenne ou parties à l'accord sur l'Espace économique européen.<a id=190></a>
 
 ##### Sous-section 1 : Liberté d'établissement.<a id=191></a>
 
-###### Article R221-15
+###### Article R221-12
 
-Obtiennent la carte professionnelle, mentionnée au 2° de l'article R. 221-1, soit de guide-interprète national sans posséder
-le diplôme de guide-interprète national mentionné à l'article R. 221-11, soit de conférencier national sans remplir les
-conditions exigées à l'article R. 221-12, les ressortissants français ou d'un autre Etat membre de la Communauté européenne
-ou d'un Etat partie à l'accord sur l'Espace économique européen qui ont suivi avec succès un cycle d'études d'une durée
-minimale d'un an, ou d'une durée équivalente à temps partiel, les préparant à l'exercice de la profession, dans une
-université ou un établissement d'enseignement supérieur ou dans un autre établissement d'un niveau équivalent de formation et
-qui justifient : 
+Obtiennent la carte professionnelle de guide-conférencier mentionnée à l'article R. 221-1, sans posséder une certification
+mentionnée à l'article R. 221-11 les ressortissants français ou d'un autre Etat membre de l'Union européenne ou d'un Etat
+partie à l'accord sur l'Espace économique européen qui ont suivi avec succès un cycle d'études d'une durée minimale d'un an,
+ou d'une durée équivalente à temps partiel, les préparant à l'exercice de la profession, dans une université ou un
+établissement d'enseignement supérieur ou dans un autre établissement d'un niveau équivalent de formation et qui
+justifient : 
 
 1° De la possession d'un diplôme, certificat ou autre titre permettant l'exercice de l'activité à titre professionnel dans un
 État membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen, qui réglemente
@@ -13317,12 +13072,12 @@ niveau de qualification professionnelle au moins équivalent au niveau immédiat
 demandeur à l'exercice de la profession. 
 
 Toutefois, lorsque le préfet a constaté que la formation détenue par le demandeur porte sur des matières substantiellement
-différentes de celles qui figurent au programme du diplôme national de guide-interprète national ou de celles de l'examen de
-conférencier national, ou lorsque la durée de la formation est inférieure d'au moins un an à celle requise pour se présenter
-à l'examen de guide-interprète national ou de conférencier national, il vérifie si les connaissances acquises par le
-demandeur au cours de son expérience professionnelle sont de nature à couvrir, en tout ou partie, la différence de formation.
-En ce cas, le préfet peut exiger que l'intéressé choisisse soit de se soumettre à une épreuve d'aptitude, soit d'accomplir un
-stage d'adaptation dont la durée ne peut excéder trois ans et qui fait l'objet d'une évaluation. 
+différentes de celles qui figurent au programme d'une certification prévue à l'article R. 221-11 ou si la durée de la
+formation est inférieure d'au moins un an à celle requise pour l'obtention d'une certification prévue à l'article R. 221-11,
+il vérifie si les connaissances acquises par le demandeur au cours de son expérience professionnelle sont de nature à
+couvrir, en tout ou partie, la différence de formation. En ce cas, le préfet peut exiger que l'intéressé choisisse soit de se
+soumettre à une épreuve d'aptitude, soit d'accomplir un stage d'adaptation dont la durée ne peut excéder trois ans et qui
+fait l'objet d'une évaluation. 
 
 Dans ce cas, la décision motivée du préfet mentionne que l'intéressé doit faire connaître son choix entre l'épreuve
 d'aptitude et le stage d'adaptation dans un délai de deux mois.
@@ -13331,156 +13086,30 @@ d'aptitude et le stage d'adaptation dans un délai de deux mois.
 
 _Anciens textes_:
 
-  - Décret n°94-490 du 15 juin 1994 - art. 93 (Ab)
+  - Décret n°94-490 du 15 juin 1994 - art. 90 (Ab)
+  - Code du tourisme. - art. R221-15 (VT)
 
 _Modifié par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 3
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2011-930 du 1er août 2011 - art. 3
-
-_Cite_:
-
-  - Code du tourisme. - art. R221-11
-  - Code du tourisme. - art. R221-12
-
-_Nouveaux textes_:
-
-  - Code du tourisme. - art. R221-12 (VD)
-
-_Cité par_:
-
-  - Code du tourisme. - art. R221-18 (VT)
-  - Code du tourisme. - art. R221-4 (Ab)
-  - Code du tourisme. - art. R242-2 (V)
-  - Code du tourisme. - art. R242-3 (V)
-  - Code du tourisme. - art. R243-3 (Ab)
-  - Code du tourisme. - art. R243-4 (V)
-
-
-###### Article R221-16
-
-Obtiennent la carte professionnelle de guide-interprète régional mentionnée au 2° de l'article R. 221-1 sans remplir les
-conditions exigées à l'article R. 221-13 les ressortissants français ou d'un autre Etat membre de la Communauté européenne ou
-d'un Etat partie à l'accord sur l'Espace économique européen qui justifient : 
-
-1° De la possession d'un diplôme, certificat, autre titre ou attestation de compétence prescrite par un Etat membre de la
-Communauté européenne ou un Etat partie à l'accord sur l'Espace économique européen qui réglemente l'accès ou l'exercice de
-la profession ; 
-
-2° Ou d'un titre de formation obtenu dans l'Etat membre d'origine sanctionnant une formation réglementée attestant d'un
-niveau de qualification professionnelle au moins équivalent au niveau immédiatement inférieur et visant spécifiquement
-l'exercice de cette profession ; 
-
-3° Ou de l'exercice à temps plein de l'activité pendant deux ans au moins au cours des dix années précédentes, dans un autre
-Etat membre ou un autre Etat partie à l'Espace économique européen qui ne réglemente pas l'accès ou l'exercice de la
-profession, à condition que le demandeur détienne une ou plusieurs attestations de compétence ou un ou plusieurs titres de
-formation. Ces attestations ou titres doivent avoir été délivrés par une autorité compétente de cet Etat, et attester d'un
-niveau de qualification professionnelle au moins équivalent au niveau immédiatement inférieur et de la préparation du
-demandeur à l'exercice de la profession. 
-
-Toutefois, lorsque le préfet a constaté que la formation détenue par le demandeur porte sur des matières substantiellement
-différentes de celles qui figurent au programme de l'examen de guide interprète régional, ou lorsque la durée de la formation
-est inférieure d'au moins un an à celle requise pour se présenter à l'examen de guide interprète régional, il vérifie si les
-connaissances acquises par le demandeur au cours de son expérience professionnelle sont de nature à couvrir, en tout ou
-partie, la différence de formation. En ce cas, le préfet peut exiger que l'intéressé choisisse soit de se soumettre à une
-épreuve d'aptitude, soit d'accomplir un stage d'adaptation dont la durée ne peut excéder trois ans et qui fait l'objet d'une
-évaluation. 
-
-Dans ce cas, la décision motivée du préfet mentionne que l'intéressé doit faire connaître son choix entre l'épreuve
-d'aptitude et le stage d'adaptation dans un délai de deux mois.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 93 (Ab)
-
-_Modifié par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 3
-
-_Abrogé par_:
 
   - Décret n°2011-930 du 1er août 2011 - art. 3
 
 _Cite_:
 
-  - Code du tourisme. - art. R221-1
-  - Code du tourisme. - art. R221-13
+  - Code du tourisme. - art. R211-1 (V)
+  - Code du tourisme. - art. R211-11 (V)
 
 _Cité par_:
 
-  - Code du tourisme. - art. R221-18 (V)
-  - Code du tourisme. - art. R221-4 (V)
+  - Code du tourisme. - art. R221-15 (VT)
 
 
-###### Article R221-17
+###### Article R221-13
 
-Obtiennent la carte professionnelle de guide-conférencier des villes et pays d'art et d'histoire mentionnée au 2° de
-l'article R. 221-1 sans avoir subi avec succès l'examen mentionné à l'article R. 221-14 les ressortissants d'un Etat membre
-de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen qui justifient : 
-
-1° De la possession d'un diplôme, certificat, autre titre ou attestation de compétence prescrite par un Etat membre ou un
-Etat partie à l'accord sur l'Espace économique européen permettant d'accéder à cette activité ou de l'exercer ; 
-
-2° Ou d'un titre de formation obtenu dans l'Etat membre d'origine sanctionnant une formation réglementée attestant d'un
-niveau de qualification professionnelle au moins équivalent au niveau immédiatement inférieur et visant spécifiquement
-l'exercice de cette activité ; 
-
-3° Ou de l'exercice à plein temps de l'activité pendant deux ans au moins au cours des dix années précédentes dans un Etat
-membre ou partie à l'accord précité qui ne réglemente pas l'accès ou l'exercice de cette profession, à condition que le
-demandeur détienne une ou plusieurs attestations de compétence ou un ou plusieurs titres de formation. Ces attestations ou
-titres doivent avoir été délivrés par une autorité compétente de cet Etat, et attester d'un niveau de qualification
-professionnelle au moins équivalent au niveau immédiatement inférieur et de la préparation du demandeur à l'exercice de la
-profession. 
-
-Toutefois, lorsque le préfet a constaté que la formation détenue par le demandeur porte sur des matières substantiellement
-différentes de celles qui figurent au programme de l'examen de guide conférencier des villes et pays d'art et d'histoire, ou
-lorsque la durée de la formation est inférieure d'au moins un an à celle requise pour se présenter à l'examen de guide
-conférencier des villes et pays d'art et d'histoire, il vérifie si les connaissances acquises par le demandeur au cours de
-son expérience professionnelle sont de nature à couvrir, en tout ou partie, la différence de formation. En ce cas, le préfet
-peut exiger que l'intéressé choisisse soit de se soumettre à une épreuve d'aptitude, soit d'accomplir un stage d'adaptation
-dont la durée ne peut excéder trois ans et qui fait l'objet d'une évaluation. 
-
-Dans ce cas la décision motivée du préfet mentionne que l'intéressé doit faire connaître son choix entre l'épreuve d'aptitude
-et le stage d'adaptation dans un délai de deux mois.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°94-490 du 15 juin 1994 - art. 93 (Ab)
-
-_Cité par_:
-
-  - Arrêté du 28 mars 2007 - art. 3 (V)
-  - Code du tourisme. - art. R221-18 (V)
-  - Code du tourisme. - art. R221-4 (V)
-
-_Modifié par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 3
-
-_Abrogé par_:
-
-  - Décret n°2011-930 du 1er août 2011 - art. 3
-
-_Cite_:
-
-  - Code du tourisme. - art. R221-1
-  - Code du tourisme. - art. R221-14
-
-
-###### Article R221-18
-
-Les personnes se prévalant de l'aptitude professionnelle acquise dans les conditions prévues par les articles R. 221-15, R.
-221-16 et R. 221-17 adressent leur demande de carte professionnelle au préfet du département du lieu de leur établissement
-pour celles résidant en France. Les personnes qui résident à l'étranger adressent leur demande au préfet de Paris. La demande
-est accompagnée de la preuve de la nationalité de l'intéressé, de la copie des attestations de la compétence professionnelle
-ou du titre de formation et, le cas échéant, de l'attestation de l'expérience professionnelle. 
+Les personnes se prévalant de l'aptitude professionnelle acquise dans les conditions prévues par l'article R. 221-12
+adressent leur demande de carte professionnelle au préfet du département du lieu de leur établissement pour celles résidant
+en France. Les personnes qui résident à l'étranger adressent leur demande au préfet de Paris. La demande est accompagnée de
+la preuve de la nationalité de l'intéressé, de la copie des attestations de la compétence professionnelle ou du titre de
+formation et, le cas échéant, de l'attestation de l'expérience professionnelle. 
 
 Le préfet informe le demandeur le cas échéant de tout document manquant, dans le délai d'un mois à compter de la réception de
 la demande. Il accuse réception du dossier de demande de carte professionnelle lorsque celui-ci est complet. 
@@ -13489,68 +13118,59 @@ Il se prononce dans les quatre mois à compter de la date de réception du dossi
 préfet pendant plus de quatre mois vaut octroi de la carte professionnelle. 
 
 Le programme et la composition des jurys mentionnés à l'article R. 221-4, les modalités d'organisation de l'épreuve
-d'aptitude et du stage d'adaptation et la composition du dossier mentionné à l'alinéa ci-dessus sont fixés par un arrêté du
-ministre de l'intérieur et des ministres chargés de l'enseignement supérieur, de la culture et du tourisme.
+d'aptitude et du stage d'adaptation et la composition du dossier mentionné à l'alinéa ci-dessus sont fixés par un arrêté des
+ministres chargés de la culture et du tourisme.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°94-490 du 15 juin 1994 - art. 94 (Ab)
+  - Décret n°94-490 du 15 juin 1994 - art. 91 (Ab)
+  - Code du tourisme. - art. R221-18 (VT)
 
-_Cité par_:
+_Codifié par_:
 
-  - Arrêté du 28 mars 2007 - art. 1 (Ab)
-  - Arrêté du 7 mars 2012 (V)
+  - Décret n°2006-1229 du 6 octobre 2006
 
 _Modifié par_:
 
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 3
+  - Décret n°2011-930 du 1er août 2011 - art. 3
 
-**Liens**:
+_Cité par_:
 
-  - TRANSFERE: Décret n°2011-930 du 1er août 2011 - art. 3
-
-_Nouveaux textes_:
-
-  - Code du tourisme. - art. R221-13 (VD)
-
-_Cite_:
-
-  - Code du tourisme. - art. R221-15
-  - Code du tourisme. - art. R221-4
+  - Code du tourisme. - art. R221-16 (VT)
 
 
 ##### Sous-section 2  : Libre prestation de services<a id=192></a>
 
-###### Article R221-18-1
+###### Article R221-14
 
 Le professionnel légalement établi dans un autre Etat membre de l'Union européenne ou partie à l'accord sur l'Espace
-économique européen qui se livre, de manière temporaire et occasionnelle, à l'exercice de la profession de guide-interprète
-ou conférencier fait figurer la mention du titre professionnel qu'il détient dans l'Etat d'établissement ou de son titre de
-formation sur les documents destinés aux tiers, quel qu'en soit le support. Il indique ce titre aux personnes physiques ou
-morales mentionnées à l'article L. 221-1 qui utilisent ses services, ainsi qu'au responsable du musée ou monument historique
-visité. 
+économique européen qui se livre, de manière temporaire et occasionnelle, à l'exercice de la profession de guide-conférencier
+fait figurer la mention du titre professionnel qu'il détient dans l'Etat d'établissement ou de son titre de formation sur les
+documents destinés aux tiers, quel qu'en soit le support. Il indique ce titre aux personnes physiques ou morales mentionnées
+à l'article L. 221-1 qui utilisent ses services, ainsi qu'au responsable du musée ou monument historique visité. 
 
 Le titre est mentionné dans la langue officielle de l'Etat d'établissement.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Anciens textes_:
 
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 3
+  - Décret n°94-490 du 15 juin 1994 - art. 92 (Ab)
+  - Code du tourisme. - art. R221-18-1 (VT)
 
-**Liens**:
+_Codifié par_:
 
-  - TRANSFERE: Décret n°2011-930 du 1er août 2011 - art. 3
+  - Décret n°2006-1229 du 6 octobre 2006
 
-_Cite_:
+_Modifié par_:
 
-  - Code du tourisme. - art. L221-1
+  - Décret n°2011-930 du 1er août 2011 - art. 3
 
-_Nouveaux textes_:
+_Cité par_:
 
-  - Code du tourisme. - art. R221-14 (VD)
+  - Code du tourisme. - art. R221-17 (VT)
 
 
 ##### Section 4 : Diplôme national de guide-interprète national.<a id=193></a>
