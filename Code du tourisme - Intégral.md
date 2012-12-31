@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2012-07-01
+Version Consolidée au 2013-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-10)](#2)
@@ -1124,8 +1124,8 @@ _Créé par_:
 ###### Article L133-11
 
 Les communes qui mettent en oeuvre une politique du tourisme et qui offrent des capacités d'hébergement pour l'accueil d'une
-population non résidente, ainsi que celles qui bénéficient au titre du tourisme, dans les conditions visées au huitième
-alinéa du 4° de l'article L. 2334-7 du code général des collectivités territoriales, de la dotation supplémentaire ou de la
+population non résidente, ainsi que celles qui bénéficient au titre du tourisme, dans les conditions visées au    deuxième
+alinéa du II  de l'article L. 2334-7 du code général des collectivités territoriales, de la dotation supplémentaire ou de la
 dotation particulière identifiées au sein de la part forfaitaire de la dotation globale de fonctionnement, peuvent être
 dénommées communes touristiques.
 
@@ -1161,11 +1161,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2006-437 du 14 avril 2006 - art. 7 (V)
+  - Loi n°2012-1509 du 29 décembre 2012 - art. 111 (V)
 
 _Cite_:
 
-  - Code général des collectivités territoriales - art. L2334-7 (V)
+  - Code général des collectivités territoriales - art. L2334-7
 
 
 ###### Article L133-12
@@ -18725,21 +18725,23 @@ _Cité par_:
 
 ###### Article R411-16
 
-I. - Les délibérations mentionnées aux 2°, 5°, 6° et 9° de l'article R. 411-15 doivent faire l'objet d'une approbation
-expresse du ministre chargé de l'économie et des finances et du ministre chargé du tourisme pour devenir exécutoires.
+I.-Les délibérations mentionnées aux 5°, 6° et 9° de l'article R. 411-15 doivent faire l'objet d'une approbation expresse du
+ministre chargé de l'économie et des finances et du ministre chargé du tourisme pour devenir exécutoires. Les délibérations
+portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre III du décret n°
+2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique. 
 
 Les autres délibérations sont exécutoires si le ministre chargé de l'économie et des finances ou le ministre chargé du
-tourisme n'y a pas fait opposition dans un délai de quinze jours suivant la notification qui lui en a été faite.
+tourisme n'y a pas fait opposition dans un délai de quinze jours suivant la notification qui lui en a été faite. 
 
-II. - Le ministre chargé de l'économie et des finances, le ministre chargé du budget et le ministre chargé du tourisme
-peuvent fixer chaque année, après l'arrêté des comptes, le montant du dividende prélevé sur le résultat net comptable et sur
-les réserves en application de l'article 79 de la loi n° 2001-1276 portant loi de finances rectificative pour 2001.
+II.-Le ministre chargé de l'économie et des finances, le ministre chargé du budget et le ministre chargé du tourisme peuvent
+fixer chaque année, après l'arrêté des comptes, le montant du dividende prélevé sur le résultat net comptable et sur les
+réserves en application de l'article 79 de la loi n° 2001-1276 portant loi de finances rectificative pour 2001. 
 
 L'absence de décision expresse du ministre chargé de l'économie et des finances, du ministre chargé du budget ou du ministre
 chargé du tourisme dans les deux mois suivant l'arrêté des comptes vaut renonciation de l'Etat à prélever un dividende sur le
-résultat de l'année.
+résultat de l'année. 
 
-III. - Les taux de commission mentionnés au 11° de l'article R. 411-17 sont fixés par arrêté conjoint du ministre chargé de
+III.-Les taux de commission mentionnés au 11° de l'article R. 411-17 sont fixés par arrêté conjoint du ministre chargé de
 l'économie et des finances et du ministre chargé du tourisme.
 
 **Liens relatifs à cet article**
@@ -18750,16 +18752,17 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Loi n°2001-1276 2001-12-28 art. 79 Finances rectificative pour 2001
-  - Code du tourisme. - art. R411-15 (M)
+  - Loi n°2001-1276 du 28 décembre 2001  - art. 79
+  - Décret n°2012-1246 du 7 novembre 2012
+  - Code du tourisme. - art. R411-15
 
 _Codifié par_:
 
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+  - Décret n°2006-1229 du 6 octobre 2006
 
 _Modifié par_:
 
-  - Décret n°2007-107 du 29 janvier 2007 - art. 2 () JORF 30 janvier 2007
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 44
 
 _Cité par_:
 
@@ -18876,17 +18879,17 @@ _Cite_:
 
 ###### Article R411-19
 
-L'agence est soumise au régime financier et comptable défini par les articles 151 à 153 et 190 à 225 du décret du 29 décembre
-1962 portant règlement général sur la comptabilité publique ainsi qu'au contrôle économique et financier de l'Etat tel que
-défini par le décret n° 53-707 du 9 août 1953 modifié relatif au contrôle de l'Etat sur les entreprises publiques nationales
-et certains organismes ayant un objet d'ordre économique ou social et le décret n° 55-733 du 26 mai 1955 modifié relatif au
-contrôle économique et financier de l'Etat.
+L'agence est soumise aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion
+budgétaire et comptable publique à l'exception des 1° et 2° de l'article 175, des articles 178 à 185, 204 à 208 et 220 à 228
+ainsi qu'au contrôle économique et financier de l'Etat tel que défini par le décret n° 53-707 du 9 août 1953 modifié relatif
+au contrôle de l'Etat sur les entreprises publiques nationales et certains organismes ayant un objet d'ordre économique ou
+social et le décret n° 55-733 du 26 mai 1955 modifié relatif au contrôle économique et financier de l'Etat. 
 
 Les attributions de l'autorité chargée du contrôle économique et financier de l'Etat et les modalités d'exercice de son
 contrôle sont précisées en tant que de besoin par arrêté conjoint du ministre chargé du tourisme et du ministre chargé du
-budget.
+budget. 
 
-Cette autorité dispose des mêmes pouvoirs dans les sociétés dont l'agence acquiert le contrôle.
+Cette autorité dispose des mêmes pouvoirs dans les sociétés dont l'agence acquiert le contrôle. 
 
 L'agent comptable est nommé par arrêté du ministre chargé du budget.
 
@@ -18894,19 +18897,16 @@ L'agent comptable est nommé par arrêté du ministre chargé du budget.
 
 _Cite_:
 
-  - Décret n°53-707 1953-08-09
-  - Décret n°55-733 1955-05-26
-  - Décret n°62-1587 1962-12-29 art. 151 à 153, art. 190 à 225
-  - Code du tourisme. - art. L411-1 (V)
-  - Code du tourisme. - art. L411-3 (M)
+  - Décret n°55-733 du 26 mai 1955
+  - Décret n°2012-1246 du 7 novembre 2012
 
 _Codifié par_:
 
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+  - Décret n°2006-1229 du 6 octobre 2006
 
 _Modifié par_:
 
-  - Décret n°2007-107 du 29 janvier 2007 - art. 2 () JORF 30 janvier 2007
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 44
 
 _Cité par_:
 
@@ -18989,28 +18989,28 @@ _Cite_:
 
 ###### Article R411-23
 
-I. - Les fonds de l'agence sont déposés à la Caisse des dépôts et consignations.
-
-L'agence peut demander à la Caisse des dépôts et consignations d'assurer des prestations de gestion de ses fonds.
+I. - Par dérogation au décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique, les
+fonds de l'agence peuvent, sur autorisation délivrée par le ministre chargé de l'économie et le ministre chargé du budget,
+être déposés à la Caisse des dépôts et consignations. 
 
 II. - La gestion financière des fonds peut être confiée à des entreprises d'investissement qui exercent à titre principal
 l'activité de gestion de portefeuilles pour le compte de tiers. Dans ce cas, l'activité de gestion est confiée par voie de
-mandats renouvelables périodiquement dans le cadre d'une procédure d'appel à la concurrence.
+mandats renouvelables périodiquement dans le cadre d'une procédure d'appel à la concurrence. 
 
 Les instruments financiers que l'agence est autorisée à détenir ou utiliser sont fixés par arrêté du ministre chargé de
-l'économie et des finances, parmi ceux énumérés à l'article L. 211-1 du code monétaire et financier.
+l'économie et des finances, parmi ceux énumérés à l'article L. 211-1 du code monétaire et financier. 
 
 III. - Un comité financier de surveillance composé d'un membre du conseil d'administration, d'un représentant du ministre
 chargé de l'économie et des finances, d'un représentant du ministre chargé du tourisme, d'une personnalité qualifiée désignée
 par le directeur général de la Caisse des dépôts et consignations, de l'agent comptable et du directeur général de
 l'établissement fixe les orientations générales de la politique de placements des fonds de l'agence en respectant les
-principes de prudence et de répartition des risques.
+principes de prudence et de répartition des risques. 
 
 Le comité financier de surveillance élabore le cahier des charges nécessaire à la mise en concurrence périodique du ou des
-gestionnaires des fonds de l'agence.
+gestionnaires des fonds de l'agence. 
 
 Il donne son avis au conseil d'administration sur les états financiers de l'agence, l'efficacité de son contrôle de gestion
-interne et la gestion de ses risques.
+interne et la gestion de ses risques. 
 
 Il produit un rapport semestriel de son activité pour le conseil d'administration.
 
@@ -19018,15 +19018,16 @@ Il produit un rapport semestriel de son activité pour le conseil d'administrati
 
 _Codifié par_:
 
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Modifié par_:
-
-  - Décret n°2007-107 du 29 janvier 2007 - art. 2 () JORF 30 janvier 2007
+  - Décret n°2006-1229 du 6 octobre 2006
 
 _Cite_:
 
-  - Code monétaire et financier - art. L211-1 (M)
+  - Décret n°2012-1246 du 7 novembre 2012
+  - Code monétaire et financier - art. L211-1
+
+_Modifié par_:
+
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 44
 
 _Cité par_:
 
