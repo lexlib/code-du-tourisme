@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2013-01-01
+Version Consolidée au 2013-04-24
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-10)](#2)
@@ -9018,7 +9018,7 @@ le domaine du tourisme :
 
 - le directeur général de l'Institut national de la statistique et des études économiques (INSEE) ;
 
-- le        directeur général du Trésor ;
+- le directeur général du Trésor ;
 
 - le directeur général des collectivités locales ;
 
@@ -9030,7 +9030,7 @@ le domaine du tourisme :
 
 - le délégué interministériel à l'aménagement du territoire et à l'attractivité régionale ;
 
-- le directeur général du Centre d'analyse stratégique ;
+- le commissaire général à la stratégie et à la prospective ;
 
 - le directeur général des études et des relations internationales de la Banque de France ;
 
@@ -9049,7 +9049,12 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2010-291 du 18 mars 2010 - art. 2 (V)
+  - Décret n°2009-1549 du 14 décembre 2009 - art. 6 (Ab)
+  - Décret n°2013-333 du 22 avril 2013 - art. 11
+
+_Abrogé par_:
+
+  - Décret n°2013-420 du 23 mai 2013 - art. 55 (V)
 
 
 ###### Article D122-28
