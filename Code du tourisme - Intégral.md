@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2013-08-01
+Version Consolidée au 2013-10-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-10)](#2)
@@ -13113,18 +13113,30 @@ _Cite_:
 
 ###### Article D231-1-1
 
-La réservation d'une voiture de tourisme avec chauffeur est prouvée par tout moyen permettant à l'autorité compétente d'en
-vérifier la réalité et le caractère préalable.
+La justification de la réservation préalable d'une voiture de tourisme avec chauffeur, prévue à l'
+article L. 231-3 du code du tourisme
+, ne peut résulter que d'un support papier ou électronique, permettant à l'autorité compétente d'en vérifier la réalité et le
+caractère préalable, comportant les mentions prévues par arrêté du ministre chargé du tourisme, et que le conducteur est tenu
+de présenter à toute réquisition des agents de cette autorité.
+
+**Nota:**
+
+Conformément à l'article 2 de l'arrêté du 30 juillet 2013 (nor : acti1318927a), les dispositions de l'article 2 du décret n°
+2013-691 du 30 juillet 2013 entrent en vigueur le 1er octobre 2013.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2011-1993 du 27 décembre 2011 - art. 2
 
 _Cité par_:
 
   - Arrêté du 30 juillet 2013 - art. 1 (V)
+
+_Modifié par_:
+
+  - Décret n°2013-691 du 30 juillet 2013 - art. 2
+
+_Cite_:
+
+  - Code du tourisme. - art. L231-3
 
 
 ###### Article R231-1-2
