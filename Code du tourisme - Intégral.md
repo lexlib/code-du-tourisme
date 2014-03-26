@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2014-03-19
+Version Consolidée au 2014-03-27
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-10)](#2)
@@ -69,7 +69,7 @@ Version Consolidée au 2014-03-19
         - [Chapitre 2 : Immobilier de loisir réhabilité (art. L322-1)](#66)
         - [Chapitre 3 : Villages résidentiels de tourisme (art. L323-1)](#67)
         - [Chapitre 4 : Meublés de tourisme et chambres d'hôtes (art. L324-1 à L324-5)](#68)
-          - [Section 1 : Meublés de tourisme (art. L324-1 à L324-2)](#69)
+          - [Section 1 : Meublés de tourisme (art. L324-1 à L324-2-1)](#69)
           - [Section 2 : Chambres d'hôtes (art. L324-3 à L324-5)](#70)
         - [Chapitre 5 : Villages et maisons familiales de vacances (art. L325-1)](#71)
           - [Section 1 : Villages de vacances (art. L325-1)](#72)
@@ -4521,9 +4521,17 @@ _Cité par_:
 ###### Article L324-1-1
 
 Toute personne qui offre à la location un meublé de tourisme, que celui-ci soit classé ou non au sens du présent code, doit
-en avoir préalablement fait la déclaration auprès du maire de la commune où est situé le meublé.
+en avoir préalablement fait la déclaration auprès du maire de la commune où est situé le meublé. 
+
+Cette déclaration préalable n'est pas obligatoire lorsque le local à usage d'habitation constitue la résidence principale du
+loueur, au sens de l'article 2 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant
+modification de la loi n° 86-1290 du 23 décembre 1986.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°89-462 du 6 juillet 1989 - art. 2 (V)
 
 _Cité par_:
 
@@ -4540,7 +4548,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2012-387 du 22 mars 2012 - art. 95 (V)
+  - Loi n°2014-366 du 24 mars 2014 - art. 10
 
 
 ###### Article L324-2
@@ -4562,6 +4570,31 @@ _Modifié par_:
 
   - Loi n°2006-437 2006-04-14 art. 21 I, II JORF 15 avril 2006
   - Loi n°2006-437 du 14 avril 2006 - art. 21 () JORF 15 avril 2006
+
+
+###### Article L324-2-1
+
+Toute personne qui se livre ou prête son concours contre rémunération, par une activité d'entremise ou de négociation ou par
+la mise à disposition d'une plateforme numérique, à la mise en location d'un logement soumis à l'article L. 324-1-1 du
+présent code et aux articles L. 631-7 et suivants du code de la construction et de l'habitation informe le loueur des
+obligations de déclaration ou d'autorisation préalables prévues par ces articles et obtient de lui, préalablement à la
+location du bien, une déclaration sur l'honneur attestant du respect de ces obligations.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-366 du 24 mars 2014 - art. 11
+
+_Cite_:
+
+  - Code du tourisme. - art. L324-1-1 (V)
+  - Code de la construction et de l'habitation. - art. L631-7 (V)
+
+_Cité par_:
+
+  - Code du tourisme. - art. R324-2 (VD)
+  - Code du tourisme. - art. R324-3 (VD)
 
 
 ##### Section 2 : Chambres d'hôtes<a id=70></a>
@@ -5829,8 +5862,8 @@ _Cite_:
 ###### Article L342-18
 
 La servitude prévue aux articles L. 342-20 à L. 342-23 ne peut être établie qu'à l'intérieur des zones et des secteurs
-délimités dans les plans locaux d'urbanisme ou dans les plans d'occupation des sols en application du 6° de l'article L.
-123-1-5 du code de l'urbanisme. Cette disposition n'est pas applicable aux servitudes instituées en vue de faciliter la
+délimités dans les plans locaux d'urbanisme ou dans les plans d'occupation des sols en application du 1° du III de l'article
+L. 123-1-5 du code de l'urbanisme. Cette disposition n'est pas applicable aux servitudes instituées en vue de faciliter la
 pratique du ski de fond ou l'accès aux sites d'alpinisme, d'escalade en zone de montagne et de sports de nature au sens de
 l'article 50-1 de la loi n° 84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des activités physiques et
 sportives ainsi que l'accès aux refuges de montagne.
@@ -5839,12 +5872,13 @@ sportives ainsi que l'accès aux refuges de montagne.
 
 _Cite_:
 
-  - Loi n°84-610 du 16 juillet 1984 (Ab)
-  - Code de l'urbanisme - art. L123-1-5 (VD)
+  - Loi n°84-610 du 16 juillet 1984 - art. 50-1
+  - Code du tourisme. - art. L342-20
+  - Code de l'urbanisme - art. L123-1-5
 
 _Modifié par_:
 
-  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
+  - Loi n°2014-366 du 24 mars 2014 - art. 158 (V)
 
 _Cité par_:
 
@@ -5967,9 +6001,9 @@ _Codifié par_:
 ###### Article L342-23
 
 La servitude ne peut grever les terrains situés à moins de vingt mètres des bâtiments à usage d'habitation ou professionnel
-édifiés ou dont la construction a été autorisée avant la date de délimitation des zones et secteurs prévus au 6° de l'article
-L. 123-1-5 du code de l'urbanisme, ni les terrains attenant à des maisons d'habitation et clos de murs à la date de cette
-délimitation sauf :
+édifiés ou dont la construction a été autorisée avant la date de délimitation des zones et secteurs prévus au 1° du IV de
+l'article L. 123-1-5 du code de l'urbanisme, ni les terrains attenant à des maisons d'habitation et clos de murs à la date de
+cette délimitation sauf :
 
 - dans le cas où la construction desdits bâtiments est postérieure à l'existence effective de la piste ou des équipements ;
 
@@ -5987,13 +6021,13 @@ législation.
 
 _Cite_:
 
-  - Loi n°2005-157 du 23 février 2005 (V)
-  - Code du tourisme. - art. L342-20 (V)
-  - Code de l'urbanisme - art. L123-1-5 (VD)
+  - Loi n°2005-157 du 23 février 2005
+  - Code du tourisme. - art. L342-20
+  - Code de l'urbanisme - art. L123-1-5
 
 _Modifié par_:
 
-  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
+  - Loi n°2014-366 du 24 mars 2014 - art. 157 (V)
 
 
 ###### Article L342-24
