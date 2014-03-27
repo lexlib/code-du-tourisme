@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2014-03-27
+Version Consolidée au 2014-03-28
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-10)](#2)
@@ -13294,6 +13294,22 @@ _Abrogé par_:
 _Cite_:
 
   - Code de la route. - art. R323-24
+
+
+###### Article D231-1-5
+
+Est fixée à une heure la durée maximale de stationnement précédant l'heure de prise en charge souhaitée par le client prévue
+au cinquième alinéa de l'article L. 231-3.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-371 du 26 mars 2014 - art. 2
+
+_Cite_:
+
+  - Code du tourisme. - art. L231-3
 
 
 ###### Article R231-1-1
