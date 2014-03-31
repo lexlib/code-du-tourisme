@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2014-03-28
+Version Consolidée au 2014-04-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-10)](#2)
@@ -243,7 +243,7 @@ Version Consolidée au 2014-03-28
       - [TITRE III : TERRAINS DE CAMPING OU DE CARAVANAGE ET AUTRES TERRAINS AMÉNAGÉS. (art. D331-1-1 à D333-7)](#240)
         - [Chapitre Ier :  Dispositions générales (art. D331-1-1 à R331-11)](#241)
         - [Chapitre II : Classement. (art. D332-1 à R332-8)](#242)
-          - [Section 1 : Définitions. (art. D332-1 à D332-1-1)](#243)
+          - [Section 1 : Définitions. (art. D332-1 à D332-1-2)](#243)
           - [Section 2 : Procédure de classement. (art. D332-2 à D332-6)](#244)
           - [Section 3 : Sanctions. (art. D332-13 à R332-8)](#245)
         - [Chapitre III : Règles relatives aux habitations légères de loisirs, aux parcs résidentiels de loisirs et aux résidences mobiles de loisirs. (art. D333-1 à D333-7)](#246)
@@ -16124,13 +16124,15 @@ ainsi que d'équipements communs.
 
 Ils font l'objet d'une exploitation permanente ou saisonnière et accueillent une clientèle qui n'y élit pas domicile.
 
-Ils doivent disposer d'un règlement intérieur conforme à un modèle arrêté par le ministre chargé du tourisme.
+Ils doivent disposer d'un règlement intérieur établi conformément au modèle type fixé par arrêté du ministre chargé du
+tourisme.
+
+Une notice d'information sur les conditions de location des emplacements à l'année doit également être remise à tous les
+propriétaires de résidences mobiles de loisirs. Ces derniers attestent avoir pris connaissance de cette notice avant toute
+signature d'un contrat de location d'un emplacement à l'année. Un arrêté du ministre chargé du tourisme précise les mentions
+que doit comporter cette notice.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2010-759 du 6 juillet 2010 - art. 4
 
 _Cité par_:
 
@@ -16140,6 +16142,10 @@ _Cité par_:
   - Arrêté du 24 décembre 2014 - art. 1 (V)
   - Arrêté du 24 décembre 2014 - art. 3 (V)
   - Code du tourisme. - art. D332-1-2 (VD)
+
+_Modifié par_:
+
+  - Décret n°2014-138 du 17 février 2014 - art. 1
 
 
 ###### Article D331-2
@@ -16360,9 +16366,9 @@ _Anciens textes_:
 
 ###### Article D332-1
 
-Les terrains de camping sont répartis dans l'une des catégories désignées par un nombre d'étoiles croissant, en fonction de
-critères fixés par un tableau de classement élaboré par l'organisme mentionné à l'article L. 141-2 et homologué par arrêté du
-ministre chargé du tourisme.
+Les terrains de camping sont répartis dans l'une des catégories désignées      par un nombre d'étoiles croissant ou dans la
+catégorie "aire naturelle", en fonction de critères fixés par un tableau de classement élaboré par l'organisme mentionné à
+l'article L. 141-2 et homologué par arrêté du ministre chargé du tourisme.
 
 **Liens relatifs à cet article**
 
@@ -16381,7 +16387,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2009-1652 du 23 décembre 2009 - art. 12
+  - Décret n°2014-139 du 17 février 2014 - art. 1
 
 _Cite_:
 
@@ -16411,6 +16417,29 @@ _Cité par_:
   - Code du tourisme. - art. D332-2 (VD)
 
 
+###### Article D332-1-2
+
+Par dérogation aux deux premiers alinéas de l'article D. 331-1-1, les terrains de camping classés en catégorie " aire
+naturelle ” sont destinés exclusivement à l'accueil de tentes, de caravanes et d'autocaravanes. Il est interdit d'y implanter
+des habitations légères de loisirs et d'y installer des résidences mobiles de loisirs. Leur période d'exploitation n'excède
+pas six mois par an, continus ou pas. 
+
+Les emplacements et les hébergements ne doivent pas être individuellement desservis en eau ou raccordés au système
+d'assainissement. 
+
+Il ne peut être créé qu'une seule aire naturelle par unité foncière.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-139 du 17 février 2014 - art. 1
+
+_Cite_:
+
+  - Code du tourisme. - art. D331-1-1
+
+
 ##### Section 2 : Procédure de classement.<a id=244></a>
 
 ###### Article D332-2
@@ -16418,8 +16447,9 @@ _Cité par_:
 L'exploitant qui souhaite obtenir le classement transmet par voie électronique à l'organisme mentionné à l'article L. 141-2
 sa demande accompagnée du certificat de visite délivré par un organisme évaluateur de type A ou C accrédité pour le contrôle
 des terrains de camping et de caravanage par le Comité français d'accréditation (COFRAC) ou tout organisme européen
-équivalent conformément à l'article L. 321-1. Cette demande précise le nombre total d'emplacements et, le cas échéant, leur
-répartition suivant leur mode de location " tourisme ” ou " loisirs ” au sens de l'article D. 332-1-1. 
+équivalent conformément à l'article L. 321-1. Cette demande précise le nombre total d'emplacements et,   le cas échéant, pour
+les terrains de camping classés dans une des catégories désignées par un nombre d'étoiles croissant, leur répartition suivant
+leur mode de location " tourisme ” ou " loisirs ” au sens de l'article D. 332-1-1. 
 
 Un arrêté du ministre chargé du tourisme précise la procédure à suivre et le format du dossier de demande.
 
@@ -16433,7 +16463,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2012-693 du 7 mai 2012 - art. 3
+  - Décret n°2014-139 du 17 février 2014 - art. 1
 
 _Cité par_:
 
@@ -16499,8 +16529,9 @@ Le classement est prononcé pour une durée de cinq ans.
 Dès lors que l'exploitant a accompli les formalités nécessaires au contrôle mentionnées à l'article D. 332-2, son classement
 demeure jusqu'à la notification de la nouvelle décision relative à ce classement. 
 
-En cas d'augmentation supérieure à 10 % du nombre d'emplacements indiqué dans la décision de classement, l'exploitant, s'il
-souhaite conserver un classement, est tenu d'effectuer une nouvelle demande conformément à l'article D. 332-2.
+Pour les terrains de camping classés dans une des catégories désignées par un nombre d'étoiles croissant, en cas
+d'augmentation supérieure à 10 % du nombre d'emplacements indiqué dans la décision de classement, l'exploitant, s'il souhaite
+conserver un classement, est tenu d'effectuer une nouvelle demande conformément à l'article D. 332-2.
 
 **Liens relatifs à cet article**
 
@@ -16517,7 +16548,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2012-693 du 7 mai 2012 - art. 3
+  - Décret n°2014-139 du 17 février 2014 - art. 1
 
 _Cite_:
 
@@ -16727,15 +16758,19 @@ Un parc résidentiel de loisirs ne peut être exploité sous régime hôtelier q
 physique ou morale ait la propriété ou la jouissance du terrain et que l'exploitation en soit assurée par une seule personne
 physique ou morale.
 
+Ils doivent disposer d'un règlement intérieur établi conformément au modèle type fixé par arrêté du ministre chargé du
+tourisme.
+
+Une notice d'information sur les conditions de location des emplacements à l'année doit également être remise à tous les
+propriétaires de résidences mobiles de loisirs. Ces derniers attestent avoir pris connaissance de cette notice avant toute
+signature d'un contrat de location d'un emplacement à l'année. Un arrêté du ministre chargé du tourisme précise les mentions
+que doit comporter cette notice.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Arrêté 1980-12-18 art. 3 1ère phrase, al. 1
-
-_Modifié par_:
-
-  - Décret n°2010-759 du 6 juillet 2010 - art. 5
 
 _Cité par_:
 
@@ -16744,6 +16779,10 @@ _Cité par_:
   - Arrêté du 17 février 2014 - art. 2 (V)
   - Arrêté du 24 décembre 2014 - art. 3 (V)
   - Arrêté du 10 avril 2019 - art. (V)
+
+_Modifié par_:
+
+  - Décret n°2014-138 du 17 février 2014 - art. 1
 
 
 ##### Sous-section 2 : Classement.<a id=250></a>
