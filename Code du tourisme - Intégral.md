@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2014-05-30
+Version Consolidée au 2014-06-14
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-10)](#2)
@@ -2587,8 +2587,8 @@ présent I.
 II.-Les personnes physiques ou morales immatriculées au registre mentionné au I de l'article L. 211-18 peuvent réaliser sous
 forme électronique les opérations mentionnées au I du présent article dans les conditions prévues par le présent chapitre et
 par les articles 1369-4 à 1369-6 du code civil, L. 121-15-1 à L. 121-15-3 du code de la consommation et la section 2 du
-chapitre Ier du titre II du livre Ier du même code, à l'exception des dispositions prévues à l'avant-dernier alinéa de
-l'article L. 121-20-3. 
+chapitre Ier du titre II du livre Ier du même code, à l'exception des dispositions prévues au premier alinéa de l'article L.
+121-19-4. 
 
 III.-Les organismes locaux de tourisme bénéficiant du soutien de l'Etat, des collectivités territoriales ou de leurs
 groupements peuvent se livrer ou apporter leur concours, dans l'intérêt général, à des opérations mentionnées au I, dès lors
@@ -2596,10 +2596,15 @@ que celles-ci permettent de faciliter l'accueil ou d'améliorer les conditions d
 géographique d'intervention. 
 
 IV.-Les associations et les organismes sans but lucratif ne peuvent réaliser tout ou partie des opérations mentionnées au I
-qu'en faveur de leurs membres.
+qu'en faveur de leurs membres. 
 
 V.-Le présent chapitre s'applique aux personnes physiques ou morales qui émettent des bons permettant d'acquitter le prix de
 l'une des prestations mentionnées au présent article et à l'article L. 211-2.
+
+**Nota:**
+
+Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014, ces dispositions introduites par l'article 9 de ladite loi
+s'appliquent aux contrats conclus après le 13 juin 2014.
 
 **Liens relatifs à cet article**
 
@@ -2668,14 +2673,14 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2009-888 du 22 juillet 2009 - art. 1
+  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L121-15-1 (V)
-  - Code de la consommation - art. L121-20-3 (V)
-  - Code civil - art. 1369-4 (V)
-  - Code du tourisme. - art. L211-2 (V)
+  - Code de la consommation - art. L121-15-1
+  - Code de la consommation - art. L121-19-4 (V)
+  - Code civil - art. 1369-4
+  - Code du tourisme. - art. L211-2
 
 
 ###### Article L211-2
@@ -4622,17 +4627,22 @@ _Cité par_:
 ###### Article L327-1
 
 L'usage des dénominations et appellations réglementées par le présent titre, de nature à induire le consommateur en erreur,
-est interdit et puni dans les conditions prévues aux articles L. 120-1 à L. 121-7 du code de la consommation.
+est interdit et puni des peines prévues à l'article L. 121-6 du code de la consommation.
+
+**Nota:**
+
+Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014, ces dispositions introduites par l'article 9 de ladite loi
+s'appliquent aux contrats conclus après le 13 juin 2014.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2009-888 du 22 juillet 2009 - art. 13
+  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L120-1
+  - Code de la consommation - art. L121-6
 
 
 ### TITRE III : TERRAINS DE CAMPING, CARAVANAGE ET AUTRES TERRAINS AMÉNAGÉS<a id=75></a>
