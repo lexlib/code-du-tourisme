@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2014-11-06
+Version Consolidée au 2014-11-08
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-10)](#2)
@@ -988,39 +988,49 @@ _Anciens textes_:
 
 ###### Article L133-7
 
-Le budget de l'office comprend en recettes le produit notamment :
+Le budget de l'office comprend en recettes le produit notamment : 
 
-1° Des subventions ;
+1° Des subventions ; 
 
-2° Des souscriptions particulières et d'offres de concours ;
+2° Des souscriptions particulières et d'offres de concours ; 
 
-3° De dons et legs ;
+3° De dons et legs ; 
 
 4° De la taxe de séjour ou de la taxe de séjour forfaitaire définies à l'article L. 2333-26 du code général des collectivités
-territoriales, si elle est perçue dans la commune, les communes ou fractions de communes intéressées ;
+territoriales, si elle est perçue dans la commune, les communes ou fractions de communes intéressées ou reversée à la commune
+par la métropole de Lyon ; 
 
 5° De la partie du produit de la taxe sur les entreprises exploitant des engins de remontée mécanique qui n'a pas été
-affectée aux dépenses mentionnées aux 1°, 4° et 5° de l'article 2333-53 du code général des collectivités territoriales ;
+affectée aux dépenses mentionnées aux 1°, 4° et 5° de l'article 2333-53 du code général des collectivités territoriales ; 
 
 6° Des recettes provenant de la gestion des services ou d'installations sportives et touristiques comprises dans le périmètre
-de la commune, les communes ou fractions de communes intéressées.
+de la commune, les communes ou fractions de communes intéressées. 
 
 En outre, le conseil municipal ou les conseils municipaux intéressés peuvent décider, chaque année, lors du vote du budget
 primitif, d'affecter à l'office de tourisme tout ou partie du produit de la taxe additionnelle aux droits d'enregistrement ou
 à la taxe de publicité foncière exigible sur les mutations à titre onéreux prévue à l'article 1584 du code général des
 impôts.
 
+**Nota:**
+
+Conformément à l'article 43 III de l'ordonnance n° 2014-1335 du 6 novembre 2014 les présentes dispositions s'appliquent à
+compter des impositions dues au titre de 2015.
+
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1584
-  - Code général des collectivités territoriales - art. L2333-26 (M)
-  - Code général des collectivités territoriales L2333-26, 2333-53
 
 _Codifié par_:
 
-  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+  - Ordonnance n°2004-1391 du 20 décembre 2004
+
+_Modifié par_:
+
+  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 9
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1584 (V)
+  - Code général des collectivités territoriales - art. L2333-26 (V)
+  - Code général des collectivités territoriales - art. L2333-53 (V)
 
 _Cité par_:
 
@@ -1034,7 +1044,6 @@ _Cité par_:
 _Anciens textes_:
 
   - Code général des collectivités territoriales - art. L2231-14 (MMN)
-  - Code général des collectivités territoriales art. L2231-14
 
 
 ###### Article L133-8
@@ -1636,42 +1645,43 @@ _Cite_:
 
 ###### Article L134-6
 
-Le budget de l'office de tourisme comprend en recettes notamment le produit :
+Le budget de l'office de tourisme comprend en recettes notamment le produit : 
 
-1° Des subventions ;
+1° Des subventions ; 
 
-2° Des souscriptions particulières et d'offres de concours ;
+2° Des souscriptions particulières et d'offres de concours ; 
 
-3° De dons et legs ;
+3° De dons et legs ; 
 
 4° De la taxe de séjour ou de la taxe de séjour forfaitaire définies à l'article L. 2333-26 du code général des collectivités
-territoriales, si elle est perçue sur le territoire du groupement de communes ;
+territoriales, si elle est perçue sur le territoire du groupement de communes ou dans le périmètre d'une métropole ou de la
+métropole de Lyon ; 
 
 5° De la partie du produit de la taxe sur les entreprises exploitant des engins de remontée mécanique qui n'a pas été
-affectée aux dépenses mentionnées aux 1°, 4° et 5° de l'article 2333-53 du code général des collectivités territoriales ;
+affectée aux dépenses mentionnées aux 1°, 4° et 5° de l'article 2333-53 du code général des collectivités territoriales ; 
 
 6° Des recettes provenant de la gestion des services ou d'installations sportives et touristiques comprises sur le territoire
 du groupement de communes.
+
+**Nota:**
+
+Conformément à l'article 43 III de l'ordonnance n° 2014-1335 du 6 novembre 2014 les présentes dispositions s'appliquent à
+compter des impositions dues au titre de 2015.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+  - Ordonnance n°2004-1391 du 20 décembre 2004
 
 _Modifié par_:
 
-  - Loi n°2006-437 du 14 avril 2006 - art. 7 (V) JORF 15 avril 2006
-  - Loi n°2006-437 du 14 avril 2006 - art. 8 () JORF 15 avril 2006
+  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 9
 
 _Cite_:
 
-  - Code général des collectivités territoriales - art. L2333-26 (M)
-  - Code général des collectivités territoriales L2333-26, 2333-53
-
-_Anciens textes_:
-
-  - Code général des collectivités territoriales art. L2231-14, ecqc les offices de tourisme intercommunaux
+  - Code général des collectivités territoriales - art. L2333-26 (V)
+  - Code général des collectivités territoriales - art. L2333-53 (V)
 
 
 ### TITRE IV : GROUPEMENTS<a id=26></a>
@@ -7859,18 +7869,23 @@ _Modifié par_:
 
 ###### Article L422-13
 
-Les règles relatives aux prélèvements directs sur le produit des jeux dans les casinos institués par les établissements
-publics de coopération intercommunale sont fixées à l'article L. 5211-21-1 du code général des collectivités territoriales.
+Les établissements publics de coopération intercommunale à fiscalité propre qui exercent la compétence tourisme ou les
+établissements publics mentionnés aux articles L. 5211-21 et L. 5722-6 percevant la taxe de séjour ou la taxe de séjour
+forfaitaire ainsi que la métropole de Lyon peuvent instituer le prélèvement direct sur le produit brut des jeux dans les
+conditions fixées à l'article L. 2333-54, sauf opposition de la commune siège d'un casino régi par les articles L. 321-1 et
+suivants du code de la sécurité intérieure. Ils peuvent, par convention, reverser tout ou partie du prélèvement à cette
+commune.
+
+**Nota:**
+
+Conformément à l'article 43 III de l'ordonnance n° 2014-1335 du 6 novembre 2014 les présentes dispositions s'appliquent à
+compter des impositions dues au titre de 2015.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Ordonnance n°2004-1391 du 20 décembre 2004
-
 _Modifié par_:
 
-  - Loi n°2014-1655 du 29 décembre 2014 - art. 39 (V)
+  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 10
 
 **Liens**:
 
@@ -7884,35 +7899,26 @@ _Modifié par_:
 ###### Article L422-14
 
 Les règles relatives à la taxe additionnelle départementale à la taxe de séjour sont fixées par l'article L. 3333-1 du code
-général des collectivités territoriales ci-après reproduit : 
-
-" Art.L. 3333-1 du code général des collectivités territoriales. 
-
-Le conseil général peut instituer une taxe additionnelle de 10 % à la taxe de séjour ou à la taxe de séjour forfaitaire
-perçue dans le département par les communes visées à l'article L. 2333-26 ainsi que par les établissements publics de
-coopération intercommunale visés aux deux premiers alinéas de l'article L. 5211-21. 
-
-Cette taxe additionnelle est établie et recouvrée selon les mêmes modalités que la taxe à laquelle elle s'ajoute. Son produit
-est reversé par la commune au département à la fin de la période de perception. 
-
-Le produit de cette taxe est affecté aux dépenses destinées à promouvoir le développement touristique du département. "
+général des collectivités territoriales.
 
 **Nota:**
 
-Une nouvelle version de cet article modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers
-départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral
-s'appliquera aux élections organisées en mars 2015 à l'occasion du prochain renouvellement général des conseils
-départementaux, y compris aux opérations préparatoires à ce scrutin (date indéterminée).
+Conformément à l'article 43 III de l'ordonnance n° 2014-1335 du 6 novembre 2014 les présentes dispositions s'appliquent à
+compter des impositions dues au titre de 2015.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+  - Ordonnance n°2004-1391 du 20 décembre 2004
+
+_Modifié par_:
+
+  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 9
 
 _Cite_:
 
-  - Code général des collectivités territoriales - art. L3333-1 (M)
+  - Code général des collectivités territoriales - art. L3333-1 (VT)
 
 
 ##### Sous-section 2 : Taxe départementale sur les entreprises exploitant des engins de remontée mécanique.<a id=130></a>
