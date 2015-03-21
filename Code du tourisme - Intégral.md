@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2015-03-13
+Version Consolidée au 2015-03-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-10)](#2)
@@ -471,20 +471,20 @@ _Cité par_:
 
 ###### Article L131-4
 
-Le conseil régional fixe le statut, les principes d'organisation et la composition du comité régional du tourisme.
+Le conseil régional fixe le statut, les principes d'organisation et la composition du comité régional du tourisme. 
 
-Le comité comprend notamment des délégués du conseil régional, un ou plusieurs délégués de chaque conseil général, ainsi que
-des membres représentant :
+Le comité comprend notamment des délégués du conseil régional, un ou plusieurs délégués de chaque conseil départemental ,
+ainsi que des membres représentant : 
 
-1° Les organismes consulaires ;
+1° Les organismes consulaires ; 
 
-2° Chaque comité départemental du tourisme ou organisme assimilé ;
+2° Chaque comité départemental du tourisme ou organisme assimilé ; 
 
-3° Les offices de tourisme et les syndicats d'initiative ;
+3° Les offices de tourisme et les syndicats d'initiative ; 
 
-4° Les professions du tourisme, du thermalisme et des loisirs ;
+4° Les professions du tourisme, du thermalisme et des loisirs ; 
 
-5° Les associations de tourisme et de loisirs ;
+5° Les associations de tourisme et de loisirs ; 
 
 6° Les communes touristiques ou leurs groupements et les stations classées de tourisme.
 
@@ -500,7 +500,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2009-888 du 22 juillet 2009 - art. 26
+  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 _Cité par_:
 
@@ -644,7 +644,7 @@ _Codifié par_:
 
 ###### Article L132-1
 
-Dans chaque département, le conseil général établit, en tant que de besoin, un schéma d'aménagement touristique
+Dans chaque département, le conseil départemental  établit, en tant que de besoin, un schéma d'aménagement touristique
 départemental. Ce schéma prend en compte les orientations définies par le schéma régional de développement du tourisme et des
 loisirs.
 
@@ -656,12 +656,15 @@ loisirs.
 
 _Anciens textes_:
 
-  - Loi n°92-1341 1992-12-23 art. 5
   - Loi n°92-1341 du 23 décembre 1992 - art. 5 (AbD)
 
 _Codifié par_:
 
-  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+  - Ordonnance n°2004-1391 du 20 décembre 2004
+
+_Modifié par_:
+
+  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 _Cité par_:
 
@@ -673,7 +676,7 @@ _Cité par_:
 
 ###### Article L132-2
 
-Le comité départemental du tourisme, créé à l'initiative du conseil général, prépare et met en oeuvre la politique
+Le comité départemental du tourisme, créé à l'initiative du conseil départemental , prépare et met en oeuvre la politique
 touristique du département.
 
 **Nota:**
@@ -684,12 +687,11 @@ touristique du département.
 
 _Anciens textes_:
 
-  - Loi n°92-1341 1992-12-23 art. 6
   - Loi n°92-1341 du 23 décembre 1992 - art. 6 (AbD)
 
 _Codifié par_:
 
-  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+  - Ordonnance n°2004-1391 du 20 décembre 2004
 
 _Cité par_:
 
@@ -700,22 +702,27 @@ _Cité par_:
   - Code du tourisme. - art. L135-2 (V)
   - Code du tourisme. - art. L324-1 (V)
 
+_Modifié par_:
+
+  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
+
 
 ###### Article L132-3
 
-Le conseil général fixe le statut, les principes d'organisation et la composition du comité départemental du tourisme.
+Le conseil départemental  fixe le statut, les principes d'organisation et la composition du comité départemental du
+tourisme. 
 
-Il comprend notamment des délégués du conseil général ainsi que des membres représentant :
+Il comprend notamment des délégués du conseil départemental  ainsi que des membres représentant : 
 
-1° Les organismes consulaires et, le cas échéant, les comités d'expansion économique ;
+1° Les organismes consulaires et, le cas échéant, les comités d'expansion économique ; 
 
-2° Les offices de tourisme et les syndicats d'initiative ;
+2° Les offices de tourisme et les syndicats d'initiative ; 
 
-3° Les professions du tourisme, du thermalisme, et des loisirs ;
+3° Les professions du tourisme, du thermalisme, et des loisirs ; 
 
-4° Les associations de tourisme et de loisirs ;
+4° Les associations de tourisme et de loisirs ; 
 
-5° Les communes touristiques ou leurs groupements et les stations classées de tourisme ;
+5° Les communes touristiques ou leurs groupements et les stations classées de tourisme ; 
 
 6° Le comité régional du tourisme.
 
@@ -731,12 +738,12 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2009-888 du 22 juillet 2009 - art. 26
+  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 
 ###### Article L132-4
 
-Le conseil général confie tout ou partie de la mise en oeuvre de la politique du tourisme du département au comité
+Le conseil départemental  confie tout ou partie de la mise en oeuvre de la politique du tourisme du département au comité
 départemental du tourisme qui contribue notamment à assurer l'élaboration, la promotion et la commercialisation de produits
 touristiques, en collaboration avec les professionnels, les organismes et toute structure locale intéressés à l'échelon
 départemental et intercommunal.
@@ -747,14 +754,13 @@ départemental et intercommunal.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - 1
-  - Loi n°92-1341 1992-12-23 art. 8, al
-
 _Codifié par_:
 
-  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+  - Ordonnance n°2004-1391 du 20 décembre 2004
+
+_Modifié par_:
+
+  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 
 ###### Article L132-5
@@ -784,7 +790,8 @@ _Codifié par_:
 
 ###### Article L132-6
 
-Le comité départemental du tourisme soumet annuellement son rapport financier au conseil général siégeant en séance plénière.
+Le comité départemental du tourisme soumet annuellement son rapport financier au conseil départemental  siégeant en séance
+plénière.
 
 **Nota:**
 
@@ -792,14 +799,13 @@ Le comité départemental du tourisme soumet annuellement son rapport financier 
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - 6
-  - Loi n°92-1341 1992-12-23 art. 9, al
-
 _Codifié par_:
 
-  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+  - Ordonnance n°2004-1391 du 20 décembre 2004
+
+_Modifié par_:
+
+  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 
 #### Chapitre 3 : La commune<a id=10></a>
@@ -4841,8 +4847,8 @@ Les infractions à la police du mouillage sont constatées par les officiers et 
 fonctionnaires et agents de l'Etat habilités à constater les infractions à la police des ports maritimes, à la police de la
 navigation et à la police de la conservation du domaine public maritime et fluvial. Elles peuvent également, lorsque le
 bénéficiaire de l'autorisation est une collectivité territoriale, être constatées par des fonctionnaires et agents de ces
-collectivités, assermentés et commissionnés à cet effet par le président du conseil régional, le président du conseil général
-ou le maire, selon le cas.
+collectivités, assermentés et commissionnés à cet effet par le président du conseil régional, le président du conseil
+départemental  ou le maire, selon le cas.
 
 **Nota:**
 
@@ -4852,11 +4858,11 @@ ou le maire, selon le cas.
 
 _Codifié par_:
 
-  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+  - Ordonnance n°2004-1391 du 20 décembre 2004
 
 _Modifié par_:
 
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 3 () JORF 22 avril 2006 en vigueur le 1er juillet 2006
+  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 _Cité par_:
 
@@ -5867,8 +5873,8 @@ _Cite_:
 
 ###### Article L342-27
 
-Sur proposition du ou des conseils généraux ou du conseil régional concernés, il peut être créé dans les départements de
-montagne une association départementale, interdépartementale ou régionale pour la promotion du ski de fond.
+Sur proposition du ou des conseils départementaux ou du conseil régional concernés, il peut être créé dans les départements
+de montagne une association départementale, interdépartementale ou régionale pour la promotion du ski de fond.
 
 **Nota:**
 
@@ -5876,15 +5882,13 @@ montagne une association départementale, interdépartementale ou régionale pou
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - 1
-  - Loi n°85-30 1985-01-09 art. 84, al
-  - Loi n°85-30 du 9 janvier 1985 - art. 84 (M)
-
 _Codifié par_:
 
-  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+  - Ordonnance n°2004-1391 du 20 décembre 2004
+
+_Modifié par_:
+
+  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 _Cité par_:
 
@@ -7662,8 +7666,8 @@ conditions fixées par décret en Conseil d'Etat.
 
 Art. L. 3333-5 du code général des collectivités territoriales. 
 
-La taxe départementale est instituée par délibération du conseil général, qui en fixe le taux dans la limite de 2 % des
-recettes brutes provenant de la vente des titres de transport. 
+La taxe départementale est instituée par délibération du conseil départemental , qui en fixe le taux dans la limite de 2 %
+des recettes brutes provenant de la vente des titres de transport. 
 
 Art. L. 3333-6 du code général des collectivités territoriales. 
 
@@ -7674,7 +7678,7 @@ des conditions fixées par décret en Conseil d'Etat.
 Art. L. 3333-7 du code général des collectivités territoriales. 
 
 Le produit annuel de la taxe départementale est affecté, sous réserve des dispositions prévues au premier alinéa de l'article
-L. 2333-52 :
+L. 2333-52 : 
 
 1° A des interventions favorisant le développement agricole en montagne ; 
 
@@ -7696,12 +7700,22 @@ notamment par les sociétés de secours en montagne. "
 
 _Codifié par_:
 
-  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+  - Ordonnance n°2004-1391 du 20 décembre 2004
+
+_Modifié par_:
+
+  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 _Cite_:
 
-  - Code général des collectivités territoriales - art. L2333-49 (V)
-  - Code général des collectivités territoriales - art. L2333-52 (V)
+  - Code général des collectivités territoriales
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L3333-4
+  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L3333-5
+  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L3333-6
+  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L3333-7
 
 
 ### TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER.<a id=130></a>
