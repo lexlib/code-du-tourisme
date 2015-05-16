@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2015-04-01
+Version Consolidée au 2015-05-17
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-9)](#2)
@@ -8401,7 +8401,7 @@ ou son représentant ;
 
 - le président de l'Assemblée permanente des chambres d'agriculture (APCA) ou son représentant ;
 
-- le président de l'Assemblée des chambres françaises de commerce et d'industrie (ACFCI) ou son représentant ;
+- le président de CCI France ou son représentant ;
 
 - le président de l'Assemblée permanente des chambres de métiers et de l'artisanat (APCMA) ou son représentant ;
 
@@ -8434,6 +8434,9 @@ du tourisme).
 Conformément à l'article 1 du décret n° 2014-593 du 6 juin 2014, le Conseil national du tourisme est renouvelé pour une durée
 d'un an à compter de l'entrée en vigueur du présent décret (jusqu'au 8 juin 2015).
 
+Conformément à l'article 1 du décret n° 2015-593 du 1er juin 2015, le Conseil national du tourisme est renouvelé pour une
+durée de cinq ans à compter du 8 juin 2015 (jusqu'au 8 juin 2020).
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -8443,7 +8446,11 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2014-524 du 22 mai 2014 - art. 26
+  - Décret n°2015-536 du 15 mai 2015 - art. 9
+
+_Abrogé par_:
+
+  - Décret n°2018-785 du 12 septembre 2018 - art. 11
 
 
 ###### Article D122-8
