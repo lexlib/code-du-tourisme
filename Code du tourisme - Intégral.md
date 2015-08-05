@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2015-06-18
+Version Consolidée au 2015-08-06
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-9)](#2)
@@ -18950,34 +18950,51 @@ _Cite_:
 ###### Article D422-3
 
 Les règles relatives à la taxe de séjour et à la taxe de séjour forfaitaire sont fixées par les articles R. 2333-43 à R.
-2333-69 du code général des collectivités territoriales ci-après reproduits : 
+2333-69 du code général des collectivités territoriales ci-après reproduits :
 
-" Art. R. 2333-43 du code général des collectivités territoriales. 
+" Art. R. 2333-43 du code général des collectivités territoriales.
 
-Les communes, définies à l'article L. 2333-26, qui ont institué la taxe de séjour ou la taxe de séjour forfaitaire font
-figurer, dans un état annexe au compte administratif, les recettes procurées par cette taxe pendant l'exercice considéré et
-l'emploi de ces recettes à des actions de nature à favoriser la fréquentation touristique notamment par les offices du
-tourisme. " 
+Selon des modalités fixées par arrêté du ministre chargé du budget, les communes qui ont institué une taxe de séjour ou une
+taxe de séjour forfaitaire font connaître au directeur général des finances publiques, dans un délai de deux mois précédant
+le début de la période de perception de la taxe de séjour et de la taxe de séjour forfaitaire :
 
-" Art. R. 2333-44 du code général des collectivités territoriales. 
+1° Les dates de début et de fin de la période de perception ;
 
-Les natures d'hébergement mentionnées par le premier alinéa de l'article L. 2333-26 sont : 
+2° Les tarifs de la taxe de séjour ou de la taxe de séjour forfaitaire, pour chaque nature et pour chaque catégorie
+d'hébergement, arrêtés par délibération du conseil municipal conformément aux barèmes prévus aux articles L. 2333-30 et L.
+2333-41 ;
 
-1° Les hôtels de tourisme ; 
+3° Le montant de loyer maximal en dessous duquel la taxe n'est pas due en application du 4° de l'article L. 2333-31 ;
 
-2° Les résidences de tourisme ; 
+4° Le taux de l'abattement fixé dans les conditions prévues au premier alinéa du III de l'article L. 2333-41.
 
-3° Les meublés de tourisme ; 
+Le ministre chargé du budget publie les informations prévues aux 1° à 4° ci-dessus le 1er juin et le 31 décembre, sur un site
+internet de son département ministériel et sous forme de données téléchargeables dans un format standard, selon des modalités
+qu'il définit par arrêté. "
 
-4° Les villages de vacances ; 
+" Art. R. 2333-44 du code général des collectivités territoriales.
 
-5° Les terrains de camping et les terrains de caravanage, ainsi que tout autre terrain d'hébergement de plein air ; 
+Les natures d'hébergement mentionnées au III de l'article L. 2333-26 sont :
 
-6° Les ports de plaisance ; 
+1° Les palaces ;
 
-7° Les autres formes d'hébergement. " 
+2° Les hôtels de tourisme ;
 
-" Art. D. 2333-45 du code général des collectivités territoriales. 
+3° Les résidences de tourisme ;
+
+4° Les meublés de tourisme ;
+
+5° Les villages de vacances ;
+
+6° Les chambres d'hôtes ;
+
+7° Les emplacements dans les aires de camping-cars et les parcs de stationnement touristiques ;
+
+8° Les terrains de camping, les terrains de caravanage ainsi que tout autre terrain d'hébergement de plein air ;
+
+9° Les ports de plaisance. "
+
+" Art. D. 2333-45 du code général des collectivités territoriales.
 
 En application de l'article L. 2333-30, les tarifs de la taxe de séjour sont fixés par la commune conformément au barème
 suivant :
@@ -19004,145 +19021,137 @@ par personne et par nuitée ;
 de caractéristiques équivalentes : entre 0,20 et 0,55 euro par personne et par nuitée ;
 
 - terrains de camping et terrains de caravanage classés en 1 et 2 étoiles et tout autre terrain d'hébergement de plein air de
-caractéristiques équivalentes, ports de plaisance : 0,20 euro par personne et par nuitée. 
+caractéristiques équivalentes, ports de plaisance : 0,20 euro par personne et par nuitée.
 
 En aucun cas le tarif retenu par la commune pour une des catégories d'hébergement prévues par le barème ne peut excéder le
-tarif retenu pour une catégorie d'hébergement supérieure de même type. 
+tarif retenu pour une catégorie d'hébergement supérieure de même type.
 
 Les tarifs ainsi définis ne comprennent pas la taxe additionnelle départementale prévue par l'article L. 3333-1 lorsqu'elle
-est instituée. " 
+est instituée. "
 
-" Art. R. 2333-46 du code général des collectivités territoriales. 
+" Art. R. 2333-46 du code général des collectivités territoriales.
 
-Le tarif de la taxe de séjour est affiché chez les logeurs propriétaires ou autres intermédiaires chargés de percevoir la
-taxe de séjour et tenu à la mairie à la disposition de toute personne qui désire en prendre connaissance. " 
+Les tarifs fixés pour chaque catégorie d'hébergement ne comprennent pas la taxe additionnelle départementale prévue par
+l'article L. 3333-1 lorsqu'elle est instituée. "
 
-" Art. D. 2333-47 du code général des collectivités territoriales. 
+" Art. D. 2333-47 du code général des collectivités territoriales.
 
 En application de l'article L. 2333-35, la taxe n'est pas perçue dans les colonies et centres de vacances collectives
-d'enfants tels qu'ils sont définis par arrêté du ministre de la jeunesse, de l'éducation nationale et de la recherche. " 
+d'enfants tels qu'ils sont définis par arrêté du ministre de la jeunesse, de l'éducation nationale et de la recherche. "
 
-" Art. D. 2333-48 du code général des collectivités territoriales. 
+" Art. D. 2333-48 du code général des collectivités territoriales.
 
 En application de l'article L. 2333-35, sont exemptés de la taxe de séjour :
 
 - les fonctionnaires et agents de l'Etat appelés temporairement dans la station pour l'exercice de leurs fonctions ;
 
 - les bénéficiaires des formes d'aide sociale prévues au chapitre Ier du titre III et au chapitre Ier du titre IV du livre II
-ainsi qu'aux chapitres IV et V du titre IV du livre III du code de l'action sociale et des familles. " 
+ainsi qu'aux chapitres IV et V du titre IV du livre III du code de l'action sociale et des familles. "
 
-" Art. D. 2333-49 du code général des collectivités territoriales. 
+" Art. D. 2333-49 du code général des collectivités territoriales.
 
 Les membres des familles nombreuses porteurs de la carte d'identité qui leur est délivrée en vertu de la loi du 24 décembre
 1940 relative aux réductions de tarifs accordées aux familles nombreuses et aux militaires réformés bénéficient des mêmes
-réductions que pour le prix des transports sur les chemins de fer d'intérêt général. 
+réductions que pour le prix des transports sur les chemins de fer d'intérêt général.
 
-Le conseil municipal peut décider d'augmenter le montant des réductions prévues à l'alinéa ci-dessus. 
+Le conseil municipal peut décider d'augmenter le montant des réductions prévues à l'alinéa ci-dessus.
 
 Il peut de même décider d'exonérer partiellement ou totalement les personnes bénéficiaires du chèque-vacances ainsi que les
-mineurs de moins de dix-huit ans. " 
+mineurs de moins de dix-huit ans. "
 
-" Art. R. 2333-50 du code général des collectivités territoriales. 
+" Art. R. 2333-50 du code général des collectivités territoriales.
 
-En application de l'article L. 2333-37, lorsque les logeurs, hôteliers, propriétaires ou autres intermédiaires reçoivent le
-montant des loyers qui leur sont dus, ils perçoivent la taxe de séjour sur les assujettis définis à l'article L. 2333-29. 
+Les professionnels préposés à la collecte de la taxe de séjour et à l'accomplissement des formalités correspondantes dans les
+conditions prévues au premier alinéa du II de l'article L. 2333-34 délivrent à chaque collectivité bénéficiaire du produit un
+état des sommes versées lors de l'acquittement de la taxe par les personnes assujetties. "
 
-Le nombre de personnes ayant logé dans l'établissement, le nombre de jours passés, le montant de la taxe perçue ainsi que, le
-cas échéant, les motifs d'exonération ou de réduction de cette taxe sont inscrits sur un état à la date et dans l'ordre des
-perceptions effectuées. 
+" Art. R. 2333-51 du code général des collectivités territoriales.
 
-La taxe est perçue avant le départ des assujettis alors même que, du consentement du logeur, de l'hôtelier, du propriétaire
-ou du principal locataire, le paiement du loyer est différé. " 
+Les logeurs, les hôteliers, les propriétaires, les intermédiaires mentionnés à l'article L. 2333-33 et les professionnels
+préposés à la collecte de la taxe de séjour et l'accomplissement des formalités correspondantes dans les conditions prévues
+au premier alinéa du II de l'article L. 2233-34 comptabilisent sur un état, à la date et dans l'ordre des perceptions
+effectuées, pour chaque hébergement loué, l'adresse du logement, le nombre de personnes ayant logé, le nombre de nuitées
+constatées, le montant de la taxe perçue ainsi que, le cas échéant, les motifs d'exonération de la taxe.
 
-" Art. R. 2333-51 du code général des collectivités territoriales. 
+Par dérogation à l'alinéa précédent, et à condition d'avoir obtenu à cet effet un agrément dans des conditions prévues par un
+arrêté du ministre chargé du budget, les intermédiaires et les professionnels préposés à la collecte de la taxe de séjour et
+à l'accomplissement des formalités correspondantes dans les conditions prévues au premier alinéa du II de l'article L.
+2333-34 comptabilisent sur un état, à la date et dans l'ordre des perceptions effectuées, pour chaque hébergement loué,
+uniquement le nombre de personnes ayant logé, le nombre de nuitées constatées, le montant de la taxe perçue ainsi que, le cas
+échéant, les motifs d'exonération de la taxe. Cet état indique le montant total de la taxe perçue et vaut déclaration au sens
+des articles L. 2333-36 et L. 2333-38. "
 
-Les personnes qui louent au cours de la période de perception définie à l'article L. 2333-28, tout ou partie de leur
-habitation personnelle à toute personne assujettie définie à l'article L. 2333-29, en font la déclaration à la mairie dans
-les quinze jours qui suivent le début de la location. 
+" Art. R. 2333-52 du code général des collectivités territoriales.
 
-Les dispositions de l'article R. 2333-50 leur sont applicables. 
+Le produit de la taxe est versé au comptable public compétent aux dates fixées par la délibération du conseil municipal
+mentionnée au I de l'article L. 2333-34.
 
-La déclaration est rédigée en double exemplaire. La date de réception à la mairie est portée sur l'exemplaire restitué au
-déclarant. " 
+Les professionnels mentionnés au II du même article versent le produit de la taxe perçue au cours de l'année civile au
+comptable public compétent avant le 1er février de l'année suivante.
 
-" Art. R. 2333-52 du code général des collectivités territoriales. 
+A l'occasion de ce versement, les logeurs, les hôteliers, les propriétaires, les intermédiaires et les professionnels
+mentionnés au II de l'article L. 2333-34 mentionné ci-dessus qui ont perçu la taxe de séjour transmettent l'état prévu à
+l'article R. 2333-51 à la commune bénéficiaire de l'imposition. "
 
-En cas de départ furtif d'un assujetti, la responsabilité des personnes désignées aux articles R. 2333-50 et R. 2333-51 ne
-peut être dégagée que si elles ont avisé aussitôt le maire et déposé entre ses mains une demande en exonération adressée au
-juge du tribunal d'instance. 
+" Art. R. 2333-53 du code général des collectivités territoriales.
 
-Le maire transmet cette demande dans les vingt-quatre heures au juge du tribunal d'instance, lequel statue sans frais. " 
+Pour l'application du II de l'article L. 2333-34, le logeur, l'hôtelier, le propriétaire ou l'intermédiaire produit, à la
+demande du maire ou des agents commissionnés par lui, une copie de la facture émise à son encontre par le professionnel
+préposé à la collecte et à l'exécution des formalités déclaratives correspondantes. Cette facture mentionne le tarif de taxe
+de séjour appliqué. "
 
-" Art. R. 2333-53 du code général des collectivités territoriales. 
+" Art. R. 2333-55 du code général des collectivités territoriales.
 
-Le produit de la taxe est versé au receveur municipal aux dates fixées par délibération du conseil municipal. 
+Le tarif de la taxe de séjour forfaitaire est affiché en mairie et tenu à la disposition de toute personne qui souhaite en
+prendre connaissance.
 
-A cette occasion, les logeurs, hôteliers, propriétaires ou autres intermédiaires qui ont perçu la taxe de séjour doivent
-produire une déclaration indiquant le montant total de la taxe perçue. 
+Les arrêtés mentionnés à l'article L. 2333-42 font l'objet d'un affichage en mairie. "
 
-L'état prévu au deuxième alinéa de l'article R. 2333-50 est joint à la déclaration. 
+" Art. R. 2333-56 du code général des collectivités territoriales.
 
-Le comptable procède à l'encaissement de la taxe et en donne quittance. 
+Les logeurs, les hôteliers, les propriétaires et les intermédiaires assujettis à la taxe de séjour forfaitaire indiquent sur
+la déclaration prévue à l'article L. 2333-43, pour chaque hébergement ou établissement imposable, le tarif applicable
+conformément au 2° du II de l'article L. 2333-41, le nombre de nuitées conformément au 3° et le taux d'abattement retenu pour
+l'application du III de cet article. La déclaration précise le montant de la taxe due. "
 
-Lorsque la déclaration n'est pas accompagnée du paiement, il est remis au déclarant un reçu attestant du dépôt de la
-déclaration. " 
+" Art. R. 2333-57 du code général des collectivités territoriales.
 
-" Art. R. 2333-55 du code général des collectivités territoriales. 
+Le produit de la taxe est versé au comptable public compétent aux dates fixées par la délibération du conseil municipal
+mentionnée au II de l'article L. 2333-43. "
 
-En application de l'article L. 2333-39, le maire et les agents commissionnés par lui procèdent à la vérification de l'état
-dont la tenue est prévue par le deuxième alinéa de l'article R. 2333-50. 
+" Art. R. 2333-58 du code général des collectivités territoriales.
 
-A cette fin, ils peuvent demander aux logeurs et hôteliers la communication des pièces et documents comptables s'y
-rapportant. " 
+Sans préjudice des faits réprimés au cinquième alinéa du I de l'article L. 2333-43, sont punis des peines d'amende prévues
+pour les contraventions de la quatrième classe :
 
-" Art. R. 2333-56 du code général des collectivités territoriales. 
+1° Le fait, pour les logeurs, hôteliers, propriétaires et intermédiaires mentionnés à l'article L. 2333-40, de ne pas avoir
+produit la déclaration mentionnée à l'article R. 2333-56 ou de ne pas l'avoir produite dans les délais et conditions
+prescrits au II de l'article L. 2333-43 ;
 
-Tout retard dans le versement du produit de la taxe dans les conditions prévues par l'article R. 2333-53 donne lieu à
-l'application d'un intérêt de retard égal à 0,75 % par mois de retard. 
+2° Le fait, pour les logeurs, hôteliers, propriétaires et intermédiaires mentionnés à l'article L. 2333-40, d'avoir établi
+une déclaration inexacte ou incomplète ;
 
-Cette indemnité de retard donne lieu à l'émission d'un titre de recettes adressé par le maire au receveur municipal. 
+3° Le fait, pour les logeurs, hôteliers, propriétaires, intermédiaires et professionnels mentionnés à l'article L. 2333-40,
+de ne pas avoir acquitté le montant de la taxe de séjour forfaitaire due dans les délais et conditions prescrits au II de
+l'article L. 2333-43.
 
-En cas de non-paiement, les mesures d'exécution forcée sont effectuées comme en matière de contributions directes. " 
+Chaque manquement à l'une des obligations prévues du 1° au 3° donne lieu à une infraction distincte. "
 
-" Art. R. 2333-57 du code général des collectivités territoriales. 
-
-En application de l'article L. 2333-40, tout assujetti qui conteste soit l'application qui lui est faite du tarif par
-l'hôtelier, logeur, propriétaire, ou principal locataire, soit la quotité de la taxe qui lui est réclamée, acquitte néanmoins
-le montant de la taxe contestée, sauf à en obtenir le remboursement après qu'il a été statué sur sa réclamation. 
-
-Ces contestations sont portées, quel que soit le montant de la taxe, devant le tribunal d'instance dans le ressort duquel se
-trouve la commune intéressée et sont jugées sans frais. " 
-
-" Art. R. 2333-58 du code général des collectivités territoriales. 
-
-Sera puni de la peine d'amende prévue pour les contraventions de la deuxième classe tout logeur, loueur, hôtelier,
-propriétaire ou autre intermédiaire visé au premier alinéa de l'article R. 2333-50 et au premier alinéa de l'article R.
-2333-51 qui n'aura pas perçu la taxe de séjour sur un assujetti ou qui n'aura pas respecté l'une des prescriptions relatives
-à la tenue de l'état définie au deuxième alinéa de l'article R. 2333-50. 
-
-Sera punie des mêmes peines toute personne visée à l'article R. 2333-51 qui n'aura pas fait dans le délai la déclaration
-exigée du loueur. 
-
-Sera puni des peines d'amende prévues pour les contraventions de troisième classe tout logeur, loueur, hôtelier, propriétaire
-ou autre intermédiaire visé au premier alinéa de l'article R. 2333-50 et au premier alinéa de l'article R. 2333-51 qui n'aura
-pas, dans les délais, déposé la déclaration prévue au deuxième alinéa de l'article R. 2333-53 ou qui aura établi une
-déclaration inexacte ou incomplète. " 
-
-" Art. R. 2333-59 du code général des collectivités territoriales. 
+" Art. R. 2333-59 du code général des collectivités territoriales.
 
 Pour l'application de l'article L. 2333-41, le nombre d'unités de capacité d'accueil de chaque établissement correspond au
-nombre de personnes que celui-ci est susceptible d'héberger. 
+nombre de personnes que celui-ci est susceptible d'héberger.
 
 Lorsque l'établissement donnant lieu à versement de la taxe fait l'objet d'un classement, le nombre de personnes prévu au
-premier alinéa correspond à celui prévu par l'arrêté de classement. 
+premier alinéa correspond à celui prévu par l'arrêté de classement.
 
-Lorsque l'arrêté de classement fait référence à des lits, chaque lit est compté comme une unité de capacité d'accueil. 
+Lorsque l'arrêté de classement fait référence à des lits, chaque lit est compté comme une unité de capacité d'accueil.
 
 Lorsque l'arrêté de classement fait référence à des emplacements d'installations de camping, de caravanage ou d'hébergements
 légers, le nombre d'unités de capacité d'accueil de chaque établissement d'hébergement de plein air est égal au triple du
-nombre des emplacements mentionnés par l'arrêté de classement. " 
+nombre des emplacements mentionnés par l'arrêté de classement. "
 
-" Art. D. 2333-60 du code général des collectivités territoriales. 
+" Art. D. 2333-60 du code général des collectivités territoriales.
 
 Les tarifs de la taxe de séjour forfaitaire sont fixés par la commune conformément au barème suivant :
 
@@ -19168,97 +19177,101 @@ euros et 0,40 euros par nuitée et par unité de capacité d'accueil ;
 de caractéristiques équivalentes : entre 0,20 euros et 0,55 euros par nuitée et par unité de capacité d'accueil ;
 
 - terrains de camping et terrains de caravanage classés en 1 et 2 étoiles et tout autre terrain d'hébergement de plein air de
-caractéristiques équivalentes, ports de plaisance : 0,20 euros par nuitée et par unité de capacité d'accueil. 
+caractéristiques équivalentes, ports de plaisance : 0,20 euros par nuitée et par unité de capacité d'accueil.
 
 En aucun cas le tarif retenu par la commune pour une des catégories d'hébergement prévues par le barème ne peut excéder le
-tarif retenu pour une catégorie d'hébergement supérieure de même type. 
+tarif retenu pour une catégorie d'hébergement supérieure de même type.
 
 Les tarifs ainsi définis ne comprennent pas la taxe additionnelle départementale prévue par l'article L. 3333-1 lorsqu'elle
-est instituée. " 
+est instituée. "
 
-" Art. R. 2333-61 du code général des collectivités territoriales. 
+" Art. R. 2333-61 du code général des collectivités territoriales.
 
-Le montant de la taxe due par chaque redevable est égal au produit des éléments suivants : 
+Le montant de la taxe due par chaque redevable est égal au produit des éléments suivants :
 
-1° Le nombre d'unités de capacité d'accueil de l'établissement donnant lieu à versement de la taxe. 
+1° Le nombre d'unités de capacité d'accueil de l'établissement donnant lieu à versement de la taxe.
 
 Ce nombre d'unités fait l'objet d'un abattement de 20 %. Cet abattement est porté à 30 % lorsque le nombre de nuitées
 comprises à la fois dans la période d'ouverture de l'établissement et la période de perception définie à l'article L. 2333-28
-est supérieur à soixante et inférieur ou égal à cent cinq et à 40 % lorsque ce nombre de nuitées est supérieur à cent cinq. 
+est supérieur à soixante et inférieur ou égal à cent cinq et à 40 % lorsque ce nombre de nuitées est supérieur à cent cinq.
 
 2° Le tarif de la taxe de séjour forfaitaire fixée par la commune conformément aux dispositions de l'article D. 2333-60.
 
 3° Le nombre de nuitées comprises à la fois dans la période d'ouverture de l'établissement et la période de perception de la
-commune. " 
+commune. "
 
-" Art. R. 2333-62 du code général des collectivités territoriales. 
+" Art. R. 2333-62 du code général des collectivités territoriales.
 
 Les redevables de la taxe de séjour forfaitaire sont tenus de faire une déclaration à la mairie au plus tard un mois avant
-chaque période de perception. 
+chaque période de perception.
 
-Sur cette déclaration figurent obligatoirement : 
+Sur cette déclaration figurent obligatoirement :
 
-1° La nature de l'hébergement ; 
+1° La nature de l'hébergement ;
 
-2° La période d'ouverture ou de mise en location ; 
+2° La période d'ouverture ou de mise en location ;
 
 3° La capacité d'accueil de l'établissement, déterminée en nombre d'unités conformément aux dispositions de l'article R.
-2333-59. " 
+2333-59. "
 
-" Art. R. 2333-63 du code général des collectivités territoriales. 
+" Art. R. 2333-63 du code général des collectivités territoriales.
 
 Les personnes qui louent au cours de la période de perception de la taxe tout ou partie de leur habitation personnelle à
 toute personne visée à l'article L. 2333-29 en font la déclaration à la mairie dans les quinze jours qui suivent le début de
-la location. 
+la location.
 
 Cette déclaration doit comporter les mêmes indications que celles prévues à l'article R. 2333-62. 
 
 La déclaration mentionnée à l'article R. 2333-62 et au présent article est rédigée en double exemplaire. La date de réception
-par la mairie est portée sur l'exemplaire restitué au déclarant. " 
+par la mairie est portée sur l'exemplaire restitué au déclarant. "
 
-" Art. R. 2333-64 du code général des collectivités territoriales. 
+" Art. R. 2333-64 du code général des collectivités territoriales.
 
 Pour chaque période de perception, le montant de la taxe due par chaque redevable fait l'objet d'un titre de recettes adressé
-par le maire au receveur municipal. 
+par le maire au receveur municipal.
 
-Le produit de la taxe est versé au receveur municipal aux dates fixées par délibération du conseil municipal. 
+Le produit de la taxe est versé au receveur municipal aux dates fixées par délibération du conseil municipal.
 
-Le comptable procède à l'encaissement de la taxe et en donne quittance. " 
+Le comptable procède à l'encaissement de la taxe et en donne quittance. "
 
-" Art. R. 2333-66 du code général des collectivités territoriales. 
+" Art. R. 2333-66 du code général des collectivités territoriales.
 
 Le maire et les agents commissionnés par lui procèdent à la vérification des déclarations prévues aux articles R. 2333-62 et
-R. 2333-63. 
+R. 2333-63.
 
-A cette fin, il peut demander aux logeurs et hôteliers la communication des pièces comptables s'y rapportant. " 
+A cette fin, il peut demander aux logeurs et hôteliers la communication des pièces comptables s'y rapportant. "
 
-" Art. R. 2333-67 du code général des collectivités territoriales. 
+" Art. R. 2333-67 du code général des collectivités territoriales.
 
 Tout redevable qui conteste le montant de la taxe qui lui est notifié acquitte néanmoins le montant de la taxe contestée,
-sauf à en obtenir le remboursement après qu'il a été statué sur sa réclamation par le maire. 
+sauf à en obtenir le remboursement après qu'il a été statué sur sa réclamation par le maire.
 
 Ces contestations sont portées, selon le montant de la taxe, devant le tribunal d'instance ou de grande instance, dans le
-ressort duquel se trouve la commune intéressée et sont jugées sans frais. 
+ressort duquel se trouve la commune intéressée et sont jugées sans frais.
 
-Toutefois, au préalable, le redevable peut adresser la réclamation au maire qui, le cas échéant, décide du remboursement. " 
+Toutefois, au préalable, le redevable peut adresser la réclamation au maire qui, le cas échéant, décide du remboursement. "
 
-" Art. R. 2333-68 du code général des collectivités territoriales. 
+" Art. R. 2333-68 du code général des collectivités territoriales.
 
 Sera puni de la peine d'amende prévue pour les contraventions de la cinquième classe tout logeur, loueur, hôtelier,
 propriétaire ou autre assujetti visé au premier alinéa de l'article R. 2333-62 et au premier alinéa de l'article R. 2333-63
 soumis à la taxe de séjour forfaitaire qui n'aura pas effectué dans les délais la déclaration prévue aux articles R. 2333-62
-et R. 2333-63 ou qui aura fait une déclaration inexacte ou incomplète. " 
+et R. 2333-63 ou qui aura fait une déclaration inexacte ou incomplète. "
 
-" Art. R. 2333-69 du code général des collectivités territoriales. 
+" Art. R. 2333-69 du code général des collectivités territoriales.
 
 Tout retard dans le versement du produit de la taxe dans les conditions prévues par l'article R. 2333-64 donne lieu à
-l'application d'un intérêt égal à 0,75 % par mois de retard. 
+l'application d'un intérêt égal à 0,75 % par mois de retard.
 
-Cette indemnité de retard donne lieu à l'émission d'un titre de recettes adressé par le maire au receveur municipal. 
+Cette indemnité de retard donne lieu à l'émission d'un titre de recettes adressé par le maire au receveur municipal.
 
 En cas de non-paiement, les mesures d'exécution forcée sont effectuées comme en matière de contributions directes. "
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2015-970 du 31 juillet 2015 - art. 1
 
 **Liens**:
 
@@ -19314,19 +19327,27 @@ _Cité par_:
 
 Les règles relatives à la taxe de séjour ou à la taxe de séjour forfaitaire instituée par un établissement public de
 coopération intercommunale sont fixées par l'article R. 5211-6 du code général des collectivités territoriales ci-après
-reproduit : 
+reproduit :
 
-" Art. R. 5211-6 du code général des collectivités territoriales. 
+" Art. R. 5211-6 du code général des collectivités territoriales.
 
-Les dispositions des articles R. 2333-43 à R. 2333-69 sont applicables en matière de taxe de séjour ou de taxe de séjour
-forfaitaire lorsque ces taxes sont instituées par un établissement public de coopération intercommunale conformément aux
-dispositions de l'article L. 5211-21. "
+Les dispositions de la sous-section 1 de la section 6 du chapitre III du titre III du livre III de la deuxième partie du
+présent code sont applicables aux établissements publics de coopération intercommunale qui ont institué la taxe de séjour
+dans les conditions prévues à l'article L. 5211-21.
+
+Pour l'application de ces dispositions :
+
+1° La référence au conseil municipal est remplacée, selon le cas, par la référence au conseil communautaire ou au conseil de
+la métropole de Lyon ;
+
+2° La référence au maire est remplacée, selon le cas, par la référence au président de l'établissement public de coopération
+intercommunale ou au président du conseil de la métropole de Lyon. "
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+  - Décret n°2015-970 du 31 juillet 2015 - art. 2
 
 _Cite_:
 
