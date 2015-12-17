@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2015-10-01
+Version Consolidée au 2015-12-18
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-9)](#2)
@@ -2300,8 +2300,8 @@ _Cite_:
 
 ###### Article L161-1
 
-Les régions de Guadeloupe, de Guyane, de Martinique et de La Réunion définissent les actions en matière de tourisme et de
-loisirs, après avis ou sur proposition des collectivités territoriales et du Conseil économique, social et environnemental. 
+Les régions de Guadeloupe et de La Réunion définissent les actions en matière de tourisme et de loisirs, après avis ou sur
+proposition des collectivités territoriales et du Conseil économique, social et environnemental. 
 
 Elles peuvent confier à des agences, créées en application des dispositions de l'article L. 4433-2 du code général des
 collectivités territoriales, la mise en oeuvre de leurs actions. Ces agences exercent les compétences des comités régionaux
@@ -2311,11 +2311,22 @@ Les conseils d'administration des agences, dont la composition est fixée par d�
 pour moitié au moins de conseillers régionaux, et comprennent notamment des représentants des organisations professionnelles
 intéressées.
 
+**Nota:**
+
+Conformément à l'article 21 de la loi n° 2011-884 du 27 juillet 2011 modifié par le III de l'article 10 de la loi n° 2015-29
+du 16 janvier 2015, la présente loi entre en vigueur : 
+
+1° En ce qui concerne les dispositions applicables à la Guyane, à compter de la première réunion de l'assemblée de Guyane
+suivant sa première élection en décembre 2015, concomitamment au renouvellement des     conseils régionaux ; 
+
+2° En ce qui concerne les dispositions applicables à la Martinique, à compter de la première réunion de l'assemblée de
+Martinique suivant sa première élection en décembre 2015, concomitamment au renouvellement des     conseils régionaux.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi organique n°2010-704 du 28 juin 2010 - art. 21 (V)
+  - Loi n°2011-884 du 27 juillet 2011 - art. 1
 
 _Cite_:
 
@@ -2325,10 +2336,6 @@ _Cité par_:
 
   - Code du tourisme. - art. L161-3 (V)
 
-_Anciens textes_:
-
-  - Code général des collectivités territoriales - art. L4433-32 (Ab)
-
 
 ###### Article L161-2
 
@@ -2336,17 +2343,28 @@ Les règles relatives à la création d'établissements publics chargés d'assur
 région ainsi que le fonctionnement des services publics régionaux de Guadeloupe, de Guyane, de Martinique et de La Réunion
 sont définies à l'article L. 4433-2 du code général des collectivités territoriales ci-après reproduit : 
 
-" Art.L. 4433-2  du code général des collectivités territoriales. 
+" Art.L. 4433-2 du code général des collectivités territoriales. 
 
-Les conseils régionaux de Guadeloupe, de Guyane, de Martinique, de Mayotte et de La Réunion peuvent créer des établissements
-publics dénommés agences, chargés d'assurer la réalisation des projets intéressant la région ainsi que le fonctionnement des
-services publics régionaux. "
+Les conseils régionaux de Guadeloupe, de Mayotte et de La Réunion peuvent créer des établissements publics dénommés agences,
+chargés d'assurer la réalisation des projets intéressant la région ainsi que le fonctionnement des services publics
+régionaux. "
+
+**Nota:**
+
+Conformément à l'article 21 de la loi n° 2011-884 du 27 juillet 2011 modifié par le III de l'article 10 de la loi n° 2015-29
+du 16 janvier 2015, la présente loi entre en vigueur :
+
+1° En ce qui concerne les dispositions applicables à la Guyane, à compter de la première réunion de l'assemblée de Guyane
+suivant sa première élection en décembre 2015, concomitamment au renouvellement des conseils régionaux ;
+
+2° En ce qui concerne les dispositions applicables à la Martinique, à compter de la première réunion de l'assemblée de
+Martinique suivant sa première élection en décembre 2015, concomitamment au renouvellement des conseils régionaux.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2010-1487 du 7 décembre 2010 - art. 5
+  - Loi n°2011-884 du 27 juillet 2011 - art. 1
 
 **Liens**:
 
