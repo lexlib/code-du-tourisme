@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2016-01-01
+Version Consolidée au 2016-04-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-9)](#2)
@@ -195,116 +195,115 @@ Version Consolidée au 2016-01-01
             - [Sous-section 1 : Liberté d'établissement. (art. R221-12 à R221-13)](#192)
             - [Sous-section 2  : Libre prestation de services (art. R221-14)](#193)
           - [Section 4 : Diplôme national de guide-interprète national. (art. D221-19 à D221-24)](#194)
-      - [TITRE III : EXPLOITATION DES VÉHICULES DE TOURISME. (art.  à R233-1)](#195)
-        - [Chapitre II : Exploitation d'autres véhicules à usage touristique et de loisirs. (art.  à D221-24)](#196)
-        - [Chapitre unique : Exploitation de véhicules à usage touristique et de loisirs (art. R233-1)](#197)
-      - [TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER. (art. R241-1 à R243-4)](#198)
-        - [Chapitre Ier : Dispositions relatives à la Guadeloupe, la Guyane, la Martinique et la Réunion. (art. R241-1)](#199)
-        - [Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon. (art. R242-1 à R242-3)](#200)
-        - [Chapitre III : Dispositions relatives à Mayotte. (art. R243-2 à R243-4)](#201)
-    - [LIVRE III : ÉQUIPEMENTS ET AMÉNAGEMENTS. (art. D311-2 à R363-5)](#202)
-      - [TITRE Ier : HÔTELS, CAFÉS ET DÉBITS DE BOISSONS. (art. D311-2 à D314-1)](#203)
-        - [Chapitre Ier : Hôtels. (art. D311-2 à R311-14)](#204)
-          - [Section 1 : Rapports entre bailleurs et locataires des immeubles affectés à l'hôtellerie. (art. D311-2 à R311-3)](#205)
-          - [Section 2 : Classement. (art. D311-4 à D311-11)](#206)
-          - [Section 3 : Sanctions. (art. R311-13 à R311-14)](#207)
-        - [Chapitre II : Cafés et débits de boissons. (art. D312-1 à D312-2)](#208)
-        - [Chapitre IV : Débits de boissons ayant pour activité principale l'exploitation d'une piste de danse (art. D314-1)](#209)
-      - [TITRE II : HÉBERGEMENTS AUTRES QUE HÔTELS ET TERRAINS DE CAMPING. (art. D321-1 à D326-3)](#210)
-        - [Chapitre Ier : Résidences de tourisme. (art. D321-1 à R321-9)](#211)
-          - [Section 1 : Dispositions générales. (art. D321-1 à D321-2-1)](#212)
-          - [Section 2 : Classement. (art. D321-3 à D321-7)](#213)
-          - [Section 3 : Sanctions. (art. R321-8 à R321-9)](#214)
-        - [Chapitre III : Villages résidentiels de tourisme. (art. R323-1 à R323-10)](#215)
-          - [Section 1 : Dispositions générales. (art. R323-1 à R323-3)](#216)
-          - [Section 2 : Classement. (art. D323-4 à D323-8)](#217)
-          - [Section 3 : Sanctions. (art. R323-9 à R323-10)](#218)
-        - [Chapitre IV : Meublés de tourisme et chambres d'hôtes. (art. D324-1 à R324-16)](#219)
-          - [Section 1 : Meublés de tourisme. (art. D324-1 à R324-8)](#220)
-            - [Sous-section 1 : Dispositions générales. (art. D324-1 à R324-1-2)](#221)
-            - [Sous-section 2 : Classement. (art. D324-2 à D324-6-1)](#222)
-            - [Sous-section 3 : Sanctions. (art. R324-7 à R324-8)](#223)
-          - [Section 2 : Chambres d'hôtes. (art. D324-13 à R324-16)](#224)
-        - [Chapitre V : Villages et maisons familiales de vacances. (art. D325-1 à R325-23)](#225)
-          - [Section 1 : Villages de vacances. (art. D325-1 à R325-10)](#226)
-            - [Sous-section 1 : Dispositions générales. (art. D325-1 à D325-3-4)](#227)
-            - [Sous-section 2 : Classement. (art. D325-4 à D325-8)](#228)
-            - [Sous-section 3 : Sanctions. (art. R325-9 à R325-10)](#229)
-          - [Section 2 : Maisons familiales de vacances. (art. D325-13 à R325-23)](#230)
-            - [Sous-section 1 : Dispositions générales. (art. D325-13 à D325-18)](#231)
-            - [Sous-section 2 : Agrément. (art. D325-19 à D325-22)](#232)
-            - [Sous-section 3 : Sanctions. (art. R325-23)](#233)
-        - [Chapitre VI : Refuges de montagne. (art. D326-1 à D326-3)](#234)
-      - [TITRE III : TERRAINS DE CAMPING OU DE CARAVANAGE ET AUTRES TERRAINS AMÉNAGÉS. (art. D331-1-1 à D333-7)](#235)
-        - [Chapitre Ier :  Dispositions générales (art. D331-1-1 à R331-11)](#236)
-        - [Chapitre II : Classement. (art. D332-1 à R332-8)](#237)
-          - [Section 1 : Définitions. (art. D332-1 à D332-1-2)](#238)
-          - [Section 2 : Procédure de classement. (art. D332-2 à D332-6)](#239)
-          - [Section 3 : Sanctions. (art. D332-13 à R332-8)](#240)
-        - [Chapitre III : Règles relatives aux habitations légères de loisirs, aux parcs résidentiels de loisirs et aux résidences mobiles de loisirs. (art. D333-1 à D333-7)](#241)
-          - [Section 1 : Habitations légères de loisirs. (art. D333-1)](#242)
-          - [Section 2 : Parcs résidentiels de loisirs. (art. D333-3 à R333-6-1)](#243)
-            - [Sous-section 1 : Définitions. (art. D333-3 à D333-4)](#244)
-            - [Sous-section 2 : Classement. (art. D333-5 à D333-5-4)](#245)
-            - [Sous-section 3 : Sanctions. (art. R333-6 à R333-6-1)](#246)
-          - [Section 3 : Résidences mobiles de loisirs. (art. D333-7)](#247)
-      - [TITRE IV : AMÉNAGEMENTS ET RÉGLEMENTATION DES ESPACES À VOCATION TOURISTIQUE. (art. D341-1 à D343-6)](#248)
-        - [Chapitre Ier : Littoral. (art. D341-1 à D341-6)](#249)
-          - [Section 1 : Aménagement, protection et mise en valeur du littoral. (art. D341-1)](#250)
-          - [Section 2 : Ports de plaisance et zones de mouillages. (art. D341-2 à R341-5)](#251)
-          - [Section 3 : Accès aux rivages et aux plages. (art. D341-6)](#252)
-        - [Chapitre II : Montagne. (art. D342-1 à R342-29)](#253)
-          - [Section 2 : Unités touristiques nouvelles. (art. D342-1)](#254)
-          - [Section 3 : Remontées mécaniques, pistes de ski et tapis roulants. (art. D342-2 à R342-29)](#255)
-            - [Sous-section 1 : Dispositions communes aux remontées mécaniques et aux tapis roulants. (art. D342-2 à R342-20)](#256)
-            - [Sous-section 2 : Dispositions spécifiques aux remontées mécaniques. (art. D342-21 à R342-25)](#257)
-            - [Sous-section 3 : Dispositions spécifiques aux tapis roulants. (art. R342-26 à R342-29)](#258)
-        - [Chapitre III : Espace rural et naturel. (art. D343-1 à D343-6)](#259)
-          - [Section 1 : Activités touristiques en milieu rural. (art. D343-1)](#260)
-          - [Section 2 : Parcs nationaux et régionaux. (art. D343-2 à D343-3)](#261)
-            - [Sous-section 1 : Parcs nationaux. (art. D343-2)](#262)
-            - [Sous-section 2 : Parcs naturels régionaux. (art. D343-3)](#263)
-          - [Section 3 : Itinéraires de randonnée. (art. D343-4)](#264)
-          - [Section 4 : Voies vertes. (art. D343-5)](#265)
-          - [Section 6 : Accueil du public en forêt. (art. D343-6)](#266)
-      - [TITRE V : DISPOSITIONS RELATIVES À LA CORSE. (art. D351-1 à D351-3)](#267)
-        - [Chapitre unique. (art. D351-1 à D351-3)](#268)
-      - [TITRE VI : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER. (art. R361-1 à R363-5)](#269)
-        - [Chapitre Ier : Dispositions relatives à la Guadeloupe, la Guyane, la Martinique et la Réunion. (art. R361-1 à R361-4)](#270)
-        - [Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon. (art. R362-1 à R362-4)](#271)
-        - [Chapitre III : Dispositions relatives à Mayotte. (art. R363-1 à R363-5)](#272)
-    - [LIVRE IV : FINANCEMENT DE L'ACCÈS AUX VACANCES ET FISCALITÉ DU TOURISME. (art. D411-6-1 à R443-4)](#273)
-      - [TITRE Ier : ACCÈS AUX VACANCES. (art. D411-6-1 à R412-17-1)](#274)
-        - [Chapitre Ier : Chèques-vacances. (art. D411-6-1 à R411-26)](#275)
-          - [Section 1 : Dispositions générales. (art. D411-6-1 à R411-8)](#276)
-          - [Section 2 : Agence nationale pour les chèques-vacances. (art. R411-9 à R411-26)](#277)
-            - [Sous-section 1 : Missions et moyens (art. R411-9)](#278)
-            - [Sous-section 2 : Conseil d'administration. (art. R411-10 à R411-15)](#279)
-            - [Sous-section 3 : Tutelle (art. R411-16)](#280)
-            - [Sous-section 4 : Directeur général (art. R411-17)](#281)
-            - [Sous-section 5 : Commission d'attribution des aides (art. R411-18)](#282)
-            - [Sous-section 6 : Régime financier et comptable (art. R411-19 à R411-26)](#283)
-        - [Chapitre II : Agrément d'organismes ou de personnes physiques concourant au tourisme social. (art. R*412-1 à R412-17-1)](#284)
-          - [Section 1 : Agrément national délivré à des organismes de tourisme social et familial. (art. R*412-1 à R412-6)](#285)
-          - [Section 2 : Agrément des vacances adaptées organisées. (art. R412-8 à R412-17-1)](#286)
-      - [TITRE II : DISPOSITIONS FISCALES PARTICULIÈRES AUX ACTIVITÉS TOURISTIQUES. (art. D421-1 à D422-8)](#287)
-        - [Chapitre Ier : Ressources et incitations de l'Etat relatives aux activités et hébergements touristiques. (art. D421-1 à D421-4)](#288)
-          - [Section 1 : Assujettissement des hébergements et aménagements touristiques à la taxe sur la valeur ajoutée. (art. D421-1)](#289)
-          - [Section 2 : Dispositions particulières relatives à l'investissement dans l'immobilier de loisirs. (art. D421-2 à D421-3)](#290)
-          - [Section 3 : Dispositions particulières applicables aux agences de voyages et organisateurs de circuits touristiques. (art. D421-4)](#291)
-        - [Chapitre II : Ressources des collectivités territoriales relatives au tourisme. (art. D422-1 à D422-8)](#292)
-          - [Section 1 : Taxe professionnelle. (art. D422-1 à D422-2)](#293)
-          - [Section 2 : Taxes et redevances prélevées au profit des communes et établissements publics de coopération intercommunale. (art. D422-3 à D422-7)](#294)
-            - [Sous-section 1 : Taxe de séjour et taxe de séjour forfaitaire. (art. D422-3 à D422-4)](#295)
-            - [Sous-section 2 : Taxe communale sur les entreprises exploitant des engins de remontée mécanique. (art. D422-5)](#296)
-            - [Sous-section 5 : Taxe sur les activités commerciales non salariées à durée saisonnière. (art. D422-6)](#297)
-            - [Sous-section 6 : Prélèvement sur le produit des jeux dans les casinos. (art. D422-7)](#298)
-          - [Section 3 : Taxes prélevées au profit des départements. (art. D422-8)](#299)
-            - [Sous-section 2 : Taxe départementale sur les entreprises exploitant des engins de remontée mécanique. (art. D422-8)](#300)
-      - [TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER. (art. R441-1 à R443-4)](#301)
-        - [Chapitre Ier : Dispositions relatives à la Guadeloupe, la Guyane, la Martinique et la Réunion. (art. R441-1)](#302)
-        - [Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon. (art. R442-1 à R442-3)](#303)
-        - [Chapitre III : Dispositions relatives à Mayotte. (art. R443-2 à R443-4)](#304)
+      - [TITRE III : EXPLOITATION DES VÉHICULES DE TOURISME. (art. R233-1)](#195)
+        - [Chapitre unique : Exploitation de véhicules à usage touristique et de loisirs (art. R233-1)](#196)
+      - [TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER. (art. R241-1 à R243-4)](#197)
+        - [Chapitre Ier : Dispositions relatives à la Guadeloupe, la Guyane, la Martinique et la Réunion. (art. R241-1)](#198)
+        - [Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon. (art. R242-1 à R242-3)](#199)
+        - [Chapitre III : Dispositions relatives à Mayotte. (art. R243-2 à R243-4)](#200)
+    - [LIVRE III : ÉQUIPEMENTS ET AMÉNAGEMENTS. (art. D311-2 à R363-5)](#201)
+      - [TITRE Ier : HÔTELS, CAFÉS ET DÉBITS DE BOISSONS. (art. D311-2 à D314-1)](#202)
+        - [Chapitre Ier : Hôtels. (art. D311-2 à R311-14)](#203)
+          - [Section 1 : Rapports entre bailleurs et locataires des immeubles affectés à l'hôtellerie. (art. D311-2 à R311-3)](#204)
+          - [Section 2 : Classement. (art. D311-4 à D311-11)](#205)
+          - [Section 3 : Sanctions. (art. R311-13 à R311-14)](#206)
+        - [Chapitre II : Cafés et débits de boissons. (art. D312-1 à D312-2)](#207)
+        - [Chapitre IV : Débits de boissons ayant pour activité principale l'exploitation d'une piste de danse (art. D314-1)](#208)
+      - [TITRE II : HÉBERGEMENTS AUTRES QUE HÔTELS ET TERRAINS DE CAMPING. (art. D321-1 à D326-3)](#209)
+        - [Chapitre Ier : Résidences de tourisme. (art. D321-1 à R321-9)](#210)
+          - [Section 1 : Dispositions générales. (art. D321-1 à D321-2-1)](#211)
+          - [Section 2 : Classement. (art. D321-3 à D321-7)](#212)
+          - [Section 3 : Sanctions. (art. R321-8 à R321-9)](#213)
+        - [Chapitre III : Villages résidentiels de tourisme. (art. R323-1 à R323-10)](#214)
+          - [Section 1 : Dispositions générales. (art. R323-1 à R323-3)](#215)
+          - [Section 2 : Classement. (art. D323-4 à D323-8)](#216)
+          - [Section 3 : Sanctions. (art. R323-9 à R323-10)](#217)
+        - [Chapitre IV : Meublés de tourisme et chambres d'hôtes. (art. D324-1 à R324-16)](#218)
+          - [Section 1 : Meublés de tourisme. (art. D324-1 à R324-8)](#219)
+            - [Sous-section 1 : Dispositions générales. (art. D324-1 à R324-1-2)](#220)
+            - [Sous-section 2 : Classement. (art. D324-2 à D324-6-1)](#221)
+            - [Sous-section 3 : Sanctions. (art. R324-7 à R324-8)](#222)
+          - [Section 2 : Chambres d'hôtes. (art. D324-13 à R324-16)](#223)
+        - [Chapitre V : Villages et maisons familiales de vacances. (art. D325-1 à R325-23)](#224)
+          - [Section 1 : Villages de vacances. (art. D325-1 à R325-10)](#225)
+            - [Sous-section 1 : Dispositions générales. (art. D325-1 à D325-3-4)](#226)
+            - [Sous-section 2 : Classement. (art. D325-4 à D325-8)](#227)
+            - [Sous-section 3 : Sanctions. (art. R325-9 à R325-10)](#228)
+          - [Section 2 : Maisons familiales de vacances. (art. D325-13 à R325-23)](#229)
+            - [Sous-section 1 : Dispositions générales. (art. D325-13 à D325-18)](#230)
+            - [Sous-section 2 : Agrément. (art. D325-19 à D325-22)](#231)
+            - [Sous-section 3 : Sanctions. (art. R325-23)](#232)
+        - [Chapitre VI : Refuges de montagne. (art. D326-1 à D326-3)](#233)
+      - [TITRE III : TERRAINS DE CAMPING OU DE CARAVANAGE ET AUTRES TERRAINS AMÉNAGÉS. (art. D331-1-1 à D333-7)](#234)
+        - [Chapitre Ier :  Dispositions générales (art. D331-1-1 à R331-11)](#235)
+        - [Chapitre II : Classement. (art. D332-1 à R332-8)](#236)
+          - [Section 1 : Définitions. (art. D332-1 à D332-1-2)](#237)
+          - [Section 2 : Procédure de classement. (art. D332-2 à D332-6)](#238)
+          - [Section 3 : Sanctions. (art. D332-13 à R332-8)](#239)
+        - [Chapitre III : Règles relatives aux habitations légères de loisirs, aux parcs résidentiels de loisirs et aux résidences mobiles de loisirs. (art. D333-1 à D333-7)](#240)
+          - [Section 1 : Habitations légères de loisirs. (art. D333-1)](#241)
+          - [Section 2 : Parcs résidentiels de loisirs. (art. D333-3 à R333-6-1)](#242)
+            - [Sous-section 1 : Définitions. (art. D333-3 à D333-4)](#243)
+            - [Sous-section 2 : Classement. (art. D333-5 à D333-5-4)](#244)
+            - [Sous-section 3 : Sanctions. (art. R333-6 à R333-6-1)](#245)
+          - [Section 3 : Résidences mobiles de loisirs. (art. D333-7)](#246)
+      - [TITRE IV : AMÉNAGEMENTS ET RÉGLEMENTATION DES ESPACES À VOCATION TOURISTIQUE. (art. D341-1 à D343-6)](#247)
+        - [Chapitre Ier : Littoral. (art. D341-1 à D341-6)](#248)
+          - [Section 1 : Aménagement, protection et mise en valeur du littoral. (art. D341-1)](#249)
+          - [Section 2 : Ports de plaisance et zones de mouillages. (art. D341-2 à R341-5)](#250)
+          - [Section 3 : Accès aux rivages et aux plages. (art. D341-6)](#251)
+        - [Chapitre II : Montagne. (art. D342-1 à R342-29)](#252)
+          - [Section 2 : Unités touristiques nouvelles. (art. D342-1)](#253)
+          - [Section 3 : Remontées mécaniques, pistes de ski et tapis roulants. (art. R342-2 à R342-29)](#254)
+            - [Sous-section 1 : Dispositions communes aux remontées mécaniques et aux tapis roulants. (art. R342-2 à R342-20)](#255)
+            - [Sous-section 2 : Dispositions spécifiques aux remontées mécaniques. (art. D342-21 à R342-25)](#256)
+            - [Sous-section 3 : Dispositions spécifiques aux tapis roulants. (art. R342-26 à R342-29)](#257)
+        - [Chapitre III : Espace rural et naturel. (art. D343-1 à D343-6)](#258)
+          - [Section 1 : Activités touristiques en milieu rural. (art. D343-1)](#259)
+          - [Section 2 : Parcs nationaux et régionaux. (art. D343-2 à D343-3)](#260)
+            - [Sous-section 1 : Parcs nationaux. (art. D343-2)](#261)
+            - [Sous-section 2 : Parcs naturels régionaux. (art. D343-3)](#262)
+          - [Section 3 : Itinéraires de randonnée. (art. D343-4)](#263)
+          - [Section 4 : Voies vertes. (art. D343-5)](#264)
+          - [Section 6 : Accueil du public en forêt. (art. D343-6)](#265)
+      - [TITRE V : DISPOSITIONS RELATIVES À LA CORSE. (art. D351-1 à D351-3)](#266)
+        - [Chapitre unique. (art. D351-1 à D351-3)](#267)
+      - [TITRE VI : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER. (art. R361-1 à R363-5)](#268)
+        - [Chapitre Ier : Dispositions relatives à la Guadeloupe, la Guyane, la Martinique et la Réunion. (art. R361-1 à R361-4)](#269)
+        - [Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon. (art. R362-1 à R362-4)](#270)
+        - [Chapitre III : Dispositions relatives à Mayotte. (art. R363-1 à R363-5)](#271)
+    - [LIVRE IV : FINANCEMENT DE L'ACCÈS AUX VACANCES ET FISCALITÉ DU TOURISME. (art. D411-6-1 à R443-4)](#272)
+      - [TITRE Ier : ACCÈS AUX VACANCES. (art. D411-6-1 à R412-17-1)](#273)
+        - [Chapitre Ier : Chèques-vacances. (art. D411-6-1 à R411-26)](#274)
+          - [Section 1 : Dispositions générales. (art. D411-6-1 à R411-8)](#275)
+          - [Section 2 : Agence nationale pour les chèques-vacances. (art. R411-9 à R411-26)](#276)
+            - [Sous-section 1 : Missions et moyens (art. R411-9)](#277)
+            - [Sous-section 2 : Conseil d'administration. (art. R411-10 à R411-15)](#278)
+            - [Sous-section 3 : Tutelle (art. R411-16)](#279)
+            - [Sous-section 4 : Directeur général (art. R411-17)](#280)
+            - [Sous-section 5 : Commission d'attribution des aides (art. R411-18)](#281)
+            - [Sous-section 6 : Régime financier et comptable (art. R411-19 à R411-26)](#282)
+        - [Chapitre II : Agrément d'organismes ou de personnes physiques concourant au tourisme social. (art. R*412-1 à R412-17-1)](#283)
+          - [Section 1 : Agrément national délivré à des organismes de tourisme social et familial. (art. R*412-1 à R412-6)](#284)
+          - [Section 2 : Agrément des vacances adaptées organisées. (art. R412-8 à R412-17-1)](#285)
+      - [TITRE II : DISPOSITIONS FISCALES PARTICULIÈRES AUX ACTIVITÉS TOURISTIQUES. (art. D421-1 à D422-8)](#286)
+        - [Chapitre Ier : Ressources et incitations de l'Etat relatives aux activités et hébergements touristiques. (art. D421-1 à D421-4)](#287)
+          - [Section 1 : Assujettissement des hébergements et aménagements touristiques à la taxe sur la valeur ajoutée. (art. D421-1)](#288)
+          - [Section 2 : Dispositions particulières relatives à l'investissement dans l'immobilier de loisirs. (art. D421-2 à D421-3)](#289)
+          - [Section 3 : Dispositions particulières applicables aux agences de voyages et organisateurs de circuits touristiques. (art. D421-4)](#290)
+        - [Chapitre II : Ressources des collectivités territoriales relatives au tourisme. (art. D422-1 à D422-8)](#291)
+          - [Section 1 : Taxe professionnelle. (art. D422-1 à D422-2)](#292)
+          - [Section 2 : Taxes et redevances prélevées au profit des communes et établissements publics de coopération intercommunale. (art. D422-3 à D422-7)](#293)
+            - [Sous-section 1 : Taxe de séjour et taxe de séjour forfaitaire. (art. D422-3 à D422-4)](#294)
+            - [Sous-section 2 : Taxe communale sur les entreprises exploitant des engins de remontée mécanique. (art. D422-5)](#295)
+            - [Sous-section 5 : Taxe sur les activités commerciales non salariées à durée saisonnière. (art. D422-6)](#296)
+            - [Sous-section 6 : Prélèvement sur le produit des jeux dans les casinos. (art. D422-7)](#297)
+          - [Section 3 : Taxes prélevées au profit des départements. (art. D422-8)](#298)
+            - [Sous-section 2 : Taxe départementale sur les entreprises exploitant des engins de remontée mécanique. (art. D422-8)](#299)
+      - [TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER. (art. R441-1 à R443-4)](#300)
+        - [Chapitre Ier : Dispositions relatives à la Guadeloupe, la Guyane, la Martinique et la Réunion. (art. R441-1)](#301)
+        - [Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon. (art. R442-1 à R442-3)](#302)
+        - [Chapitre III : Dispositions relatives à Mayotte. (art. R443-2 à R443-4)](#303)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME.<a id=2></a>
@@ -5165,28 +5164,27 @@ _Modifié par_:
 
 ###### Article L342-3
 
-Conformément aux dispositions de l'article L. 1411-2 du code général des collectivités territoriales, la durée de ces
-contrats est modulée en fonction de la nature et de l'importance des investissements consentis par l'aménageur ou
-l'exploitant. 
+Conformément aux dispositions de l'article 34 de l'ordonnance n° 2016-65 du 29 janvier 2016 relative aux contrats de
+concession, la durée de ces contrats est modulée en fonction de la nature et de l'importance des investissements consentis
+par l'aménageur ou l'exploitant. 
 
 Lorsque la durée résiduelle d'un contrat portant sur le service des remontées mécaniques défini à l'article L. 342-9 est
 insuffisante pour permettre l'amortissement normal d'investissements supplémentaires demandés par la personne publique
-délégante pour moderniser les infrastructures existantes, y compris lorsque cette durée peut être prolongée en application
-des deuxième à dixième alinéas de l'article L. 1411-2 du code général des collectivités territoriales, les parties peuvent
-convenir, par voie d'avenant, des conditions d'indemnisation du délégataire pour lesdits investissements qui ne seraient pas
-amortis au terme du contrat. La personne publique peut se faire rembourser tout ou partie du montant de cette indemnisation
-par le nouveau cocontractant désigné pour poursuivre l'exploitation du service.
+délégante pour moderniser les infrastructures existantes, les parties peuvent convenir, par voie d'avenant, des conditions
+d'indemnisation du délégataire pour lesdits investissements qui ne seraient pas amortis au terme du contrat. La personne
+publique peut se faire rembourser tout ou partie du montant de cette indemnisation par le nouveau cocontractant désigné pour
+poursuivre l'exploitation du service.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Loi n°2010-788 du 12 juillet 2010 - art. 85
-
 _Cite_:
 
-  - Code général des collectivités territoriales - art. L1411-2 (V)
-  - Code du tourisme. - art. L342-9 (V)
+  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 34
+  - Code du tourisme. - art. L342-9
+
+_Modifié par_:
+
+  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 73
 
 
 ###### Article L342-4
@@ -5298,7 +5296,7 @@ b) Le titre II du livre VI de la première partie ;
 c) Le titre Ier du livre II de la deuxième partie ; 
 
 d) Les articles L. 1000-2, L. 1111-1, L. 1211-4, L. 1211-5, 
-L. 1221-3, L. 1221-4, L. 1221-9, L. 1311-3, L. 1311-4, L. 1431-2, L. 1521-1 et L. 1611-1.
+L. 1221-4, L. 1221-9, L. 1311-3, L. 1311-4, L. 1431-2, L. 1521-1 et L. 1611-1.
 
 **Liens relatifs à cet article**
 
@@ -5312,19 +5310,19 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 6
+  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 73
 
 _Cite_:
 
-  - Code du tourisme. - art. L342-1 (V)
-  - Code des transports - art. L1000-2 (V)
-  - Code des transports - art. L1111-1 (V)
-  - Code des transports - art. L1211-4 (V)
-  - Code des transports - art. L1221-3 (V)
-  - Code des transports - art. L1221-9 (V)
-  - Code des transports - art. L1311-3 (V)
-  - Code des transports - art. L1431-2 (V)
-  - Code des transports - art. L1521-1 (V)
+  - Code du tourisme. - art. L342-1
+  - Code des transports - art. L1000-2
+  - Code des transports - art. L1111-1
+  - Code des transports - art. L1211-4
+  - Code des transports - art. L1221-4
+  - Code des transports - art. L1221-9
+  - Code des transports - art. L1311-3
+  - Code des transports - art. L1431-2
+  - Code des transports - art. L1521-1
 
 
 ###### Article L342-9
@@ -12678,9 +12676,7 @@ _Modifié par_:
 
 ### TITRE III : EXPLOITATION DES VÉHICULES DE TOURISME.<a id=195></a>
 
-#### Chapitre II : Exploitation d'autres véhicules à usage touristique et de loisirs.<a id=196></a>
-
-#### Chapitre unique : Exploitation de véhicules à usage touristique et de loisirs<a id=197></a>
+#### Chapitre unique : Exploitation de véhicules à usage touristique et de loisirs<a id=196></a>
 
 ###### Article R233-1
 
@@ -12713,9 +12709,9 @@ _Codifié par_:
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 
-### TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER.<a id=198></a>
+### TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER.<a id=197></a>
 
-#### Chapitre Ier : Dispositions relatives à la Guadeloupe, la Guyane, la Martinique et la Réunion.<a id=199></a>
+#### Chapitre Ier : Dispositions relatives à la Guadeloupe, la Guyane, la Martinique et la Réunion.<a id=198></a>
 
 ###### Article R241-1
 
@@ -12736,7 +12732,7 @@ _Créé par_:
   - Décret n°2015-1002 du 18 août 2015 - art. 5
 
 
-#### Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon.<a id=200></a>
+#### Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon.<a id=199></a>
 
 ###### Article R242-1
 
@@ -12789,7 +12785,7 @@ _Anciens textes_:
   - Code du tourisme. - art. R242-4 (T)
 
 
-#### Chapitre III : Dispositions relatives à Mayotte.<a id=201></a>
+#### Chapitre III : Dispositions relatives à Mayotte.<a id=200></a>
 
 ###### Article R243-2
 
@@ -12823,13 +12819,13 @@ _Anciens textes_:
   - Code du tourisme. - art. R243-5 (T)
 
 
-## LIVRE III : ÉQUIPEMENTS ET AMÉNAGEMENTS.<a id=202></a>
+## LIVRE III : ÉQUIPEMENTS ET AMÉNAGEMENTS.<a id=201></a>
 
-### TITRE Ier : HÔTELS, CAFÉS ET DÉBITS DE BOISSONS.<a id=203></a>
+### TITRE Ier : HÔTELS, CAFÉS ET DÉBITS DE BOISSONS.<a id=202></a>
 
-#### Chapitre Ier : Hôtels.<a id=204></a>
+#### Chapitre Ier : Hôtels.<a id=203></a>
 
-##### Section 1 : Rapports entre bailleurs et locataires des immeubles affectés à l'hôtellerie.<a id=205></a>
+##### Section 1 : Rapports entre bailleurs et locataires des immeubles affectés à l'hôtellerie.<a id=204></a>
 
 ###### Article D311-2
 
@@ -12935,7 +12931,7 @@ _Cite_:
   - Code du tourisme. - art. L311-2 (V)
 
 
-##### Section 2 : Classement.<a id=206></a>
+##### Section 2 : Classement.<a id=205></a>
 
 ###### Article D311-4
 
@@ -13107,20 +13103,21 @@ _Anciens textes_:
 
 ###### Article D311-10
 
-Selon des modalités fixées par arrêté, les exploitants des établissements relevant de l'industrie hôtelière doivent assurer à
-l'égard du client la publicité des prix de leurs prestations de services, notamment par affichage aux bureaux de réception et
-de caisse, dans chaque chambre et dans leurs salles de restaurants et, en outre, à l'extérieur de l'établissement pour ce qui
-concerne les prix des repas et prestations assurées par le restaurant.
+La décision de classement mentionnée à l'article D. 311-8 peut être abrogée ou modifiée pour la durée restant à courir de la
+décision initiale de classement lorsqu'au terme d'une procédure contradictoire initiée par l'organisme mentionné à l'article
+L. 141-2 à la suite d'une réclamation, l'exploitant n'établit pas la conformité au tableau de classement sur ou plusieurs
+critères au regard desquels le classement a été prononcé. 
+
+Un arrêté du ministre chargé du tourisme précise les conditions et modalités de modification ou d'abrogation d'une décision
+de classement et notamment les conditions dans lesquelles un certificat de contre-visite établi par un organisme évaluateur
+accrédité peut être requis, à peine d'abrogation de la décision de classement, afin de vérifier que les écarts de conformité
+par rapport aux critères de classement contestés ont été rectifiés.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 5
-
-_Anciens textes_:
-
-  - Code du tourisme. - art. R311-12 (T)
+  - Décret n°2016-51 du 27 janvier 2016 - art. 1
 
 
 ###### Article D311-11
@@ -13146,7 +13143,7 @@ _Anciens textes_:
   - Code du tourisme. - art. D311-13 (T)
 
 
-##### Section 3 : Sanctions.<a id=207></a>
+##### Section 3 : Sanctions.<a id=206></a>
 
 ###### Article R311-13
 
@@ -13194,7 +13191,7 @@ _Anciens textes_:
   - Code du tourisme. - art. R311-18 (T)
 
 
-#### Chapitre II : Cafés et débits de boissons.<a id=208></a>
+#### Chapitre II : Cafés et débits de boissons.<a id=207></a>
 
 ###### Article D312-1
 
@@ -13323,7 +13320,7 @@ _Anciens textes_:
   - Code du tourisme. - art. D313-2 (T)
 
 
-#### Chapitre IV : Débits de boissons ayant pour activité principale l'exploitation d'une piste de danse<a id=209></a>
+#### Chapitre IV : Débits de boissons ayant pour activité principale l'exploitation d'une piste de danse<a id=208></a>
 
 ###### Article D314-1
 
@@ -13340,11 +13337,11 @@ _Créé par_:
   - Décret n°2009-1652 du 23 décembre 2009 - art. 15
 
 
-### TITRE II : HÉBERGEMENTS AUTRES QUE HÔTELS ET TERRAINS DE CAMPING.<a id=210></a>
+### TITRE II : HÉBERGEMENTS AUTRES QUE HÔTELS ET TERRAINS DE CAMPING.<a id=209></a>
 
-#### Chapitre Ier : Résidences de tourisme.<a id=211></a>
+#### Chapitre Ier : Résidences de tourisme.<a id=210></a>
 
-##### Section 1 : Dispositions générales.<a id=212></a>
+##### Section 1 : Dispositions générales.<a id=211></a>
 
 ###### Article D321-1
 
@@ -13443,7 +13440,7 @@ _Cite_:
   - Code du tourisme. - art. D321-2
 
 
-##### Section 2 : Classement.<a id=213></a>
+##### Section 2 : Classement.<a id=212></a>
 
 ###### Article D321-3
 
@@ -13567,7 +13564,7 @@ _Cite_:
   - Code du tourisme. - art. L141-2
 
 
-##### Section 3 : Sanctions.<a id=214></a>
+##### Section 3 : Sanctions.<a id=213></a>
 
 ###### Article R321-8
 
@@ -13612,9 +13609,9 @@ _Cite_:
   - Code du tourisme. - art. R321-8
 
 
-#### Chapitre III : Villages résidentiels de tourisme.<a id=215></a>
+#### Chapitre III : Villages résidentiels de tourisme.<a id=214></a>
 
-##### Section 1 : Dispositions générales.<a id=216></a>
+##### Section 1 : Dispositions générales.<a id=215></a>
 
 ###### Article R323-1
 
@@ -13671,7 +13668,7 @@ _Codifié par_:
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 
-##### Section 2 : Classement.<a id=217></a>
+##### Section 2 : Classement.<a id=216></a>
 
 ###### Article D323-4
 
@@ -13793,7 +13790,7 @@ _Cité par_:
   - Code du tourisme. - art. R323-10 (V)
 
 
-##### Section 3 : Sanctions.<a id=218></a>
+##### Section 3 : Sanctions.<a id=217></a>
 
 ###### Article R323-9
 
@@ -13838,11 +13835,11 @@ _Cite_:
   - Code du tourisme. - art. R323-9
 
 
-#### Chapitre IV : Meublés de tourisme et chambres d'hôtes.<a id=219></a>
+#### Chapitre IV : Meublés de tourisme et chambres d'hôtes.<a id=218></a>
 
-##### Section 1 : Meublés de tourisme.<a id=220></a>
+##### Section 1 : Meublés de tourisme.<a id=219></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=221></a>
+##### Sous-section 1 : Dispositions générales.<a id=220></a>
 
 ###### Article D324-1
 
@@ -13916,7 +13913,7 @@ _Cite_:
   - Code du tourisme. - art. L324-1-1
 
 
-##### Sous-section 2 : Classement.<a id=222></a>
+##### Sous-section 2 : Classement.<a id=221></a>
 
 ###### Article D324-2
 
@@ -14070,7 +14067,7 @@ _Cite_:
   - Code du tourisme. - art. R*324-9
 
 
-##### Sous-section 3 : Sanctions.<a id=223></a>
+##### Sous-section 3 : Sanctions.<a id=222></a>
 
 ###### Article R324-7
 
@@ -14110,7 +14107,7 @@ _Cite_:
   - Code du tourisme. - art. R324-7
 
 
-##### Section 2 : Chambres d'hôtes.<a id=224></a>
+##### Section 2 : Chambres d'hôtes.<a id=223></a>
 
 ###### Article D324-13
 
@@ -14207,11 +14204,11 @@ _Cite_:
   - Code du tourisme. - art. L324-4
 
 
-#### Chapitre V : Villages et maisons familiales de vacances.<a id=225></a>
+#### Chapitre V : Villages et maisons familiales de vacances.<a id=224></a>
 
-##### Section 1 : Villages de vacances.<a id=226></a>
+##### Section 1 : Villages de vacances.<a id=225></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=227></a>
+##### Sous-section 1 : Dispositions générales.<a id=226></a>
 
 ###### Article D325-1
 
@@ -14373,7 +14370,7 @@ _Cité par_:
   - Code du tourisme. - art. D325-3-1 (V)
 
 
-##### Sous-section 2 : Classement.<a id=228></a>
+##### Sous-section 2 : Classement.<a id=227></a>
 
 ###### Article D325-4
 
@@ -14495,7 +14492,7 @@ _Cité par_:
   - Code du tourisme. - art. R325-11 (VT)
 
 
-##### Sous-section 3 : Sanctions.<a id=229></a>
+##### Sous-section 3 : Sanctions.<a id=228></a>
 
 ###### Article R325-9
 
@@ -14548,9 +14545,9 @@ _Cite_:
   - Code du tourisme. - art. R325-9
 
 
-##### Section 2 : Maisons familiales de vacances.<a id=230></a>
+##### Section 2 : Maisons familiales de vacances.<a id=229></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=231></a>
+##### Sous-section 1 : Dispositions générales.<a id=230></a>
 
 ###### Article D325-13
 
@@ -14675,7 +14672,7 @@ _Codifié par_:
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 
-##### Sous-section 2 : Agrément.<a id=232></a>
+##### Sous-section 2 : Agrément.<a id=231></a>
 
 ###### Article D325-19
 
@@ -14743,7 +14740,7 @@ _Codifié par_:
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 
-##### Sous-section 3 : Sanctions.<a id=233></a>
+##### Sous-section 3 : Sanctions.<a id=232></a>
 
 ###### Article R325-23
 
@@ -14766,7 +14763,7 @@ _Codifié par_:
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 
-#### Chapitre VI : Refuges de montagne.<a id=234></a>
+#### Chapitre VI : Refuges de montagne.<a id=233></a>
 
 ###### Article D326-1
 
@@ -14832,9 +14829,9 @@ _Créé par_:
   - Décret n°2007-407 du 23 mars 2007 - art. 1 () JORF 25 mars 2007
 
 
-### TITRE III : TERRAINS DE CAMPING OU DE CARAVANAGE ET AUTRES TERRAINS AMÉNAGÉS.<a id=235></a>
+### TITRE III : TERRAINS DE CAMPING OU DE CARAVANAGE ET AUTRES TERRAINS AMÉNAGÉS.<a id=234></a>
 
-#### Chapitre Ier :  Dispositions générales<a id=236></a>
+#### Chapitre Ier :  Dispositions générales<a id=235></a>
 
 ###### Article D331-1-1
 
@@ -15079,9 +15076,9 @@ _Anciens textes_:
   - Code de l'urbanisme - art. R443-16 (M)
 
 
-#### Chapitre II : Classement.<a id=237></a>
+#### Chapitre II : Classement.<a id=236></a>
 
-##### Section 1 : Définitions.<a id=238></a>
+##### Section 1 : Définitions.<a id=237></a>
 
 ###### Article D332-1
 
@@ -15154,7 +15151,7 @@ _Cite_:
   - Code du tourisme. - art. D331-1-1
 
 
-##### Section 2 : Procédure de classement.<a id=239></a>
+##### Section 2 : Procédure de classement.<a id=238></a>
 
 ###### Article D332-2
 
@@ -15305,7 +15302,7 @@ _Cité par_:
   - Code du tourisme. - art. R363-3 (V)
 
 
-##### Section 3 : Sanctions.<a id=240></a>
+##### Section 3 : Sanctions.<a id=239></a>
 
 ###### Article D332-13
 
@@ -15375,9 +15372,9 @@ _Cite_:
   - Code du tourisme. - art. R332-7
 
 
-#### Chapitre III : Règles relatives aux habitations légères de loisirs, aux parcs résidentiels de loisirs et aux résidences mobiles de loisirs.<a id=241></a>
+#### Chapitre III : Règles relatives aux habitations légères de loisirs, aux parcs résidentiels de loisirs et aux résidences mobiles de loisirs.<a id=240></a>
 
-##### Section 1 : Habitations légères de loisirs.<a id=242></a>
+##### Section 1 : Habitations légères de loisirs.<a id=241></a>
 
 ###### Article D333-1
 
@@ -15396,9 +15393,9 @@ _Cite_:
   - Code de l'urbanisme - art. R421-9
 
 
-##### Section 2 : Parcs résidentiels de loisirs.<a id=243></a>
+##### Section 2 : Parcs résidentiels de loisirs.<a id=242></a>
 
-##### Sous-section 1 : Définitions.<a id=244></a>
+##### Sous-section 1 : Définitions.<a id=243></a>
 
 ###### Article D333-3
 
@@ -15465,7 +15462,7 @@ _Modifié par_:
   - Décret n°2014-138 du 17 février 2014 - art. 1
 
 
-##### Sous-section 2 : Classement.<a id=245></a>
+##### Sous-section 2 : Classement.<a id=244></a>
 
 ###### Article D333-5
 
@@ -15597,7 +15594,7 @@ _Cite_:
   - Code du tourisme. - art. L141-2
 
 
-##### Sous-section 3 : Sanctions.<a id=246></a>
+##### Sous-section 3 : Sanctions.<a id=245></a>
 
 ###### Article R333-6
 
@@ -15641,7 +15638,7 @@ _Cite_:
   - Code du tourisme. - art. R333-6
 
 
-##### Section 3 : Résidences mobiles de loisirs.<a id=247></a>
+##### Section 3 : Résidences mobiles de loisirs.<a id=246></a>
 
 ###### Article D333-7
 
@@ -15655,11 +15652,11 @@ _Modifié par_:
   - Décret n°2015-1783 du 28 décembre 2015 - art. 9
 
 
-### TITRE IV : AMÉNAGEMENTS ET RÉGLEMENTATION DES ESPACES À VOCATION TOURISTIQUE.<a id=248></a>
+### TITRE IV : AMÉNAGEMENTS ET RÉGLEMENTATION DES ESPACES À VOCATION TOURISTIQUE.<a id=247></a>
 
-#### Chapitre Ier : Littoral.<a id=249></a>
+#### Chapitre Ier : Littoral.<a id=248></a>
 
-##### Section 1 : Aménagement, protection et mise en valeur du littoral.<a id=250></a>
+##### Section 1 : Aménagement, protection et mise en valeur du littoral.<a id=249></a>
 
 ###### Article D341-1
 
@@ -15682,7 +15679,7 @@ _Cite_:
   - Code général de la propriété des personnes publiques. - art. R2124-13
 
 
-##### Section 2 : Ports de plaisance et zones de mouillages.<a id=251></a>
+##### Section 2 : Ports de plaisance et zones de mouillages.<a id=250></a>
 
 ###### Article D341-2
 
@@ -15810,7 +15807,7 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R2124-55 (V)
 
 
-##### Section 3 : Accès aux rivages et aux plages.<a id=252></a>
+##### Section 3 : Accès aux rivages et aux plages.<a id=251></a>
 
 ###### Article D341-6
 
@@ -15824,9 +15821,9 @@ _Modifié par_:
   - Décret n°2015-1783 du 28 décembre 2015 - art. 9
 
 
-#### Chapitre II : Montagne.<a id=253></a>
+#### Chapitre II : Montagne.<a id=252></a>
 
-##### Section 2 : Unités touristiques nouvelles.<a id=254></a>
+##### Section 2 : Unités touristiques nouvelles.<a id=253></a>
 
 ###### Article D342-1
 
@@ -15844,32 +15841,21 @@ _Modifié par_:
   - Décret n°2015-1783 du 28 décembre 2015 - art. 9
 
 
-##### Section 3 : Remontées mécaniques, pistes de ski et tapis roulants.<a id=255></a>
+##### Section 3 : Remontées mécaniques, pistes de ski et tapis roulants.<a id=254></a>
 
-##### Sous-section 1 : Dispositions communes aux remontées mécaniques et aux tapis roulants.<a id=256></a>
+##### Sous-section 1 : Dispositions communes aux remontées mécaniques et aux tapis roulants.<a id=255></a>
 
-###### Article D342-2
+###### Article R342-2
 
-Les dispositions des chapitres 1er et 3 du décret n° 2004-85 du 26 janvier 2004 relatif au enquêtes techniques après
-événements de mer, accident ou incident de transport terrestre s'appliquent aux remontées mécaniques et aux tapis roulants
-mentionnés à l'article L. 342-17-1.
+Les nouvelles remontées mécaniques, les nouveaux tapis roulants, ainsi que leurs modifications substantielles, sont conçus et
+réalisés de telle sorte que le niveau global de sécurité de leur exploitation pour les usagers, les personnels et les tiers
+soit au moins équivalent à celui des équipements assurant des services comparables, en tenant compte de l'évolution des
+règles de l'art et du retour d'expérience. Ces installations sont exploitées et entretenues dans des conditions permettant de
+maintenir ce niveau de sécurité.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Décret n°2004-85 du 26 janvier 2004
-  - Code du tourisme. - art. L342-17-1
-
-_Codifié par_:
-
-  - Décret n°2006-1229 du 6 octobre 2006
-
-_Modifié par_:
-
-  - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
-
-_Abrogé par_:
+_Créé par_:
 
   - Décret n°2016-29 du 19 janvier 2016 - art. 1
 
@@ -16004,7 +15990,8 @@ Le contrôle technique et de sécurité de l'Etat sur les remontées mécaniques
 
 2° Leur conformité à la réglementation technique et de sécurité ;
 
-3° L'exploitation, les règlements d'exploitation et de police ;
+3° L'exploitation, y compris la gestion de la sécurité et la maintenance de l'installation, ainsi que le règlement de
+police  ;
 
 4° Les accidents et incidents d'exploitation.
 
@@ -16016,20 +16003,17 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+  - Décret n°2006-1229 du 6 octobre 2006
 
 _Modifié par_:
 
-  - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+  - Décret n°2016-29 du 19 janvier 2016 - art. 1
 
 
 ###### Article R342-8
 
 Le contrôle du respect de la réglementation technique et de sécurité prévue à l'article R. 342-3 est exercé, sous l'autorité
-du préfet, par les agents du ministère chargé des transports affectés à ces missions. 
-
-Lorsqu'une installation excède les limites territoriales d'un département, un arrêté conjoint des préfets concernés coordonne
-l'action des services de contrôle.
+du préfet, par les agents du ministère chargé des transports affectés à ces missions.
 
 **Liens relatifs à cet article**
 
@@ -16039,11 +16023,7 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Modifié par_:
-
-  - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+  - Décret n°2006-1229 du 6 octobre 2006
 
 _Cité par_:
 
@@ -16057,9 +16037,13 @@ _Cité par_:
   - Arrêté du 12 avril 2016 - art. 8 (V)
   - Code du tourisme. - art. R342-13 (VD)
 
+_Modifié par_:
+
+  - Décret n°2016-29 du 19 janvier 2016 - art. 1
+
 _Cite_:
 
-  - Code du tourisme. - art. R342-3 (V)
+  - Code du tourisme. - art. R342-3
 
 
 ###### Article R342-9
@@ -16091,19 +16075,22 @@ _Cité par_:
 
 ###### Article R342-10
 
+Les accidents et incidents survenus lors de l'exploitation d'une remontée mécanique ou d'un tapis roulant font l'objet
+d'enquêtes dans les conditions prévues par les articles R. 1621-1 à R. 1621-26 du code des transports. 
+
 Tout accident grave est porté sans délai par l'exploitant de la remontée mécanique ou du tapis roulant en cause à la
 connaissance du préfet et du bureau d'enquêtes sur les accidents de transport terrestre. Cette information porte notamment
 sur les circonstances de l'accident. En outre, l'exploitant adresse au préfet, dans un délai de deux mois, un compte rendu
 sur cet accident qui précise les causes et les conséquences constatées de cet accident. Si la gravité ou les circonstances de
-l'accident l'exigent, le préfet peut soumettre la poursuite de l'exploitation à la production préalable du compte rendu.
+l'accident l'exigent, le préfet peut soumettre la poursuite de l'exploitation à la production préalable du compte rendu. 
 
-L'exploitant porte sans délai à la connaissance du préfet tout autre événement affectant la sécurité de l'exploitation.
+L'exploitant porte sans délai à la connaissance du préfet tout autre événement affectant la sécurité de l'exploitation. 
 
 Le préfet peut demander à l'exploitant d'analyser tout événement lié à la sécurité dont il a connaissance. En outre,
 lorsqu'il estime que cet événement aurait pu conduire à un accident grave, le préfet transmet le rapport d'analyse de cet
-événement établi par l'exploitant au bureau d'enquêtes sur les accidents de transport terrestre.
+événement établi par l'exploitant au bureau d'enquêtes sur les accidents de transport terrestre. 
 
-Dans tous les cas prévus par cet article, le préfet peut demander tout élément complémentaire d'information.
+Dans tous les cas prévus par cet article, le préfet peut demander tout élément complémentaire d'information. 
 
 Un arrêté du ministre chargé des transports précise les dispositions du présent article, notamment la nature des accidents
 graves et des événements mentionnés au troisième alinéa.
@@ -16116,11 +16103,7 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Modifié par_:
-
-  - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+  - Décret n°2006-1229 du 6 octobre 2006
 
 _Cité par_:
 
@@ -16128,12 +16111,19 @@ _Cité par_:
   - Arrêté du 26 juillet 2010 - art. 2 (V)
   - Arrêté du 26 juillet 2010 - art. 4 (V)
 
+_Modifié par_:
+
+  - Décret n°2016-29 du 19 janvier 2016 - art. 1
+
+_Cite_:
+
+  - Code des transports - art. R1621-1
+
 
 ###### Article R342-11
 
-Toute modification du règlement d'exploitation, du règlement de police et, le cas échéant, du plan d'évacuation des usagers
-d'une remontée mécanique ou d'un tapis roulant fait l'objet, préalablement à son entrée en vigueur, d'un avis conforme du
-préfet. L'avis du préfet intervient dans un délai de deux mois après réception de la demande de modification.
+Toute modification du règlement de police d'une remontée mécanique ou d'un tapis roulant fait l'objet, préalablement à son
+entrée en vigueur, d'une approbation par le préfet.
 
 **Liens relatifs à cet article**
 
@@ -16143,11 +16133,7 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Modifié par_:
-
-  - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+  - Décret n°2006-1229 du 6 octobre 2006
 
 _Cité par_:
 
@@ -16157,20 +16143,31 @@ _Cité par_:
   - Décret n°2016-29 du 19 janvier 2016 - art. 2 (VD)
   - Arrêté du 17 janvier 2017 - art. 1
 
+_Modifié par_:
+
+  - Décret n°2016-29 du 19 janvier 2016 - art. 1
+
 
 ###### Article R342-12
 
-L'exploitant désigne un chef d'exploitation chargé d'assurer la direction technique d'une ou plusieurs remontées mécaniques
-ou tapis roulants et en informe le préfet. 
+L'exploitant veille à ce que, durant toute la durée de l'exploitation de ses installations, la sécurité des usagers, des
+personnels et des tiers soit assurée. 
 
-L'exploitant prend les mesures appropriées pour que l'organisation du travail respecte la réglementation technique et de
-sécurité prévue à l'article R. 342-3 et que le personnel affecté aux tâches de sécurité soit en nombre suffisant et
-correctement formé. 
+A cet effet, il élabore un système de gestion de la sécurité de son exploitation pour chaque groupe d'installations relevant
+d'une même collectivité organisatrice du service des remontées mécaniques qu'il gère. Un même système de gestion de la
+sécurité peut couvrir les installations relevant de plusieurs collectivités organisatrices du service des remontées
+mécaniques. 
 
-Pour chaque remontée mécanique ou tapis roulant, l'exploitant tient à jour un registre d'exploitation dans lequel sont
-notamment consignées les interventions effectuées en exploitation sur l'installation. 
+Le système de gestion de la sécurité de l'exploitation précise l'organisation mise en place par l'exploitant afin de
+respecter la réglementation technique et de sécurité mentionnée à l'article R. 342-3. Il prévoit les mesures de maintenance
+et les règles d'exploitation nécessaires pour assurer la sécurité pendant l'exploitation ainsi qu'un dispositif permanent de
+contrôle de leur respect. Il précise les spécifications à mettre en œuvre pour l'exécution des tâches de sécurité, notamment
+les mesures de nature à garantir la compétence du personnel. 
 
-Un arrêté du ministre chargé des transports précise, en tant que de besoin, les dispositions du présent article.
+Un arrêté du ministre chargé des transports précise le contenu du système de gestion de la sécurité. Il fixe la liste
+minimale des documents qu'il comprend, parmi lesquels figurent en particulier ceux énumérés au 5° de l'article R. 472-15 du
+code de l'urbanisme, à l'exception du règlement de police. Il détermine, parmi les documents de cette liste, ceux qui doivent
+être transmis au préfet ainsi que leurs modifications, avant leur entrée en vigueur.
 
 **Liens relatifs à cet article**
 
@@ -16180,11 +16177,7 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Modifié par_:
-
-  - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+  - Décret n°2006-1229 du 6 octobre 2006
 
 _Cité par_:
 
@@ -16208,18 +16201,140 @@ _Cité par_:
   - Arrêté du 16 juin 2017 - art. 1
   - Code du tourisme. - art. R342-12-4 (VD)
 
+_Modifié par_:
+
+  - Décret n°2016-29 du 19 janvier 2016 - art. 1
+
 _Cite_:
 
-  - Code du tourisme. - art. R342-3 (V)
+  - Code du tourisme. - art. R342-3
+  - Code de l'urbanisme - art. R472-15
+
+
+###### Article R342-12-1
+
+Sauf lorsque le système de gestion de la sécurité est soumis à un contrôle périodique dans les conditions prévues à l'article
+R. 342-12-2, ses orientations et leurs modifications doivent être approuvées par le préfet du département dans lequel est
+implantée l'installation concernée avant le début de son exploitation ou avant la mise en œuvre de la modification. Le préfet
+peut autoriser temporairement des dérogations aux orientations du système de gestion de la sécurité. 
+
+Les modalités d'application du présent article sont précisées par arrêté du ministre chargé des transports.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-29 du 19 janvier 2016 - art. 1
+
+_Cité par_:
+
+  - Arrêté du 12 avril 2016 - art. 3 (V)
+  - Code du tourisme. - art. R342-12-2 (VD)
+
+
+###### Article R342-12-2
+
+Le contrôle périodique mentionné à l'article R. 342-12-1 porte sur l'adéquation du système de gestion de la sécurité aux
+enjeux de sécurité de l'exploitation. 
+
+L'exploitant le fait effectuer tous les deux ans au moins : 
+
+a) Soit par un organisme d'inspection accrédité, sur la base de la norme NF pertinente ou d'une norme équivalente, qui
+s'engage auprès de l'exploitant à remettre son rapport de contrôle dans les conditions prévues à l'article R. 342-12-4 et à
+informer annuellement le service technique des remontées mécaniques et des transports guidés des conclusions qu'il tire de
+son activité d'évaluation des systèmes de gestion de la sécurité ; 
+
+b) Soit par un organisme d'inspection agréé pour une durée de cinq ans par le service technique des remontées mécaniques et
+des transports guidés, au regard de sa compétence et de son indépendance, ainsi que de son engagement à respecter les
+principes d'impartialité et de confidentialité, à remettre ses rapports de contrôle dans les conditions prévues à l'article
+R. 342-12-4, à transmettre à ce service un rapport annuel d'activité et à l'informer de toute modification des éléments au vu
+desquels l'agrément a été délivré ; 
+
+c) Soit par une personne physique agréée comme auditeur de système de gestion de la sécurité dans les mêmes conditions. 
+
+Dans le cas où un exploitant ne disposant d'aucun téléphérique ou chemin de fer funiculaire ou à crémaillère choisit de se
+soumettre au contrôle périodique, l'intervalle entre les contrôles est d'au plus trois ans. 
+
+Un arrêté du ministre chargé des transports précise le contenu du dossier de demande des agréments mentionnés aux b et c et
+les conditions dans lesquelles un agrément peut être retiré si l'une des conditions ayant présidé à sa délivrance n'est plus
+remplie ou si les engagements pris ne sont pas respectés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-29 du 19 janvier 2016 - art. 1
+
+_Cité par_:
+
+  - Décret n°2016-29 du 19 janvier 2016 - art. 1
+  - Arrêté du 3 mars 2016 - art. 1
+  - Arrêté du 12 avril 2016 - art. 11 (V)
+  - Arrêté du 12 avril 2016 - art. 12 (V)
+  - Arrêté du 12 avril 2016 - art. 6 (V)
+  - Arrêté du 12 avril 2016 - art. 9 (V)
+  - Arrêté du 30 décembre 2016 - art. 6 (V)
+  - Arrêté du 16 juin 2017 - art. 1
+  - Code du tourisme. - art. R342-12-3 (VD)
+
+
+###### Article R342-12-3
+
+Lorsqu'ils choisissent de soumettre leur système de gestion de la sécurité au contrôle périodique dans les conditions prévues
+par l'article R. 342-12-2, les exploitants en informent le préfet. Ils font effectuer un premier contrôle dans un délai
+maximum de six mois à compter de cette information. 
+
+Le contrôle périodique est obligatoire pour les exploitants disposant d'un nombre de téléphériques ou de chemins de fer
+funiculaires ou à crémaillère supérieur à un nombre fixé par arrêté du ministre chargé des transports. Tout exploitant
+nouvellement soumis à cette obligation fait procéder au premier contrôle de son système de gestion de la sécurité dans un
+délai maximum de six mois à compter de la date à laquelle il commence à exploiter des installations dont le nombre excède le
+seuil fixé par cet arrêté.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-29 du 19 janvier 2016 - art. 1
+
+_Cite_:
+
+  - Code du tourisme. - art. R342-12-2
+
+
+###### Article R342-12-4
+
+Chaque contrôle donne lieu à un rapport indiquant les non-conformités constatées et les améliorations souhaitables, qui est
+transmis par son auteur à l'exploitant et au préfet dans les deux mois suivant le contrôle. 
+
+Dans les deux mois suivant sa réception, l'exploitant informe le préfet des dispositions prises pour garantir le respect de
+l'objectif de sécurité mentionné au premier alinéa de l'article R. 342-12. 
+
+Si l'exploitant ne fait pas réaliser le contrôle périodique dans les délais prévus, le préfet peut mettre en œuvre les
+mesures prévues au IV de l'article L. 342-17.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-29 du 19 janvier 2016 - art. 1
+
+_Cité par_:
+
+  - Décret n°2016-29 du 19 janvier 2016 - art. 1
+
+_Cite_:
+
+  - Code du tourisme. - art. L342-17
+  - Code du tourisme. - art. R342-12
 
 
 ###### Article R342-13
 
 Afin de vérifier leur état de fonctionnement et d'entretien, les remontées mécaniques et les tapis roulants font l'objet de
 contrôles réalisés par l'exploitant et de vérifications réalisées par les personnes mentionnées à l'article R. 342-14. Pour
-chaque type d'installation, un arrêté du ministre précise la périodicité et le contenu de ces contrôles et vérifications
-ainsi que les modalités suivant lesquelles les services de contrôle mentionnés à l'article R. 342-8 sont préalablement
-informés. 
+chaque type d'installation, un arrêté du ministre     chargé des transports précise les modalités de ces contrôles et
+vérifications ainsi que les modalités suivant lesquelles les services de contrôle mentionnés à l'article R. 342-8 sont
+préalablement informés. 
 
 L'exploitant transmet au préfet le compte rendu des contrôles et vérifications effectués et les attestations correspondantes.
 
@@ -16231,11 +16346,7 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Modifié par_:
-
-  - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+  - Décret n°2006-1229 du 6 octobre 2006
 
 _Cité par_:
 
@@ -16246,9 +16357,13 @@ _Cité par_:
   - Arrêté du 9 août 2011 - art. 60 (V)
   - Code du tourisme. - art. R342-14 (V)
 
+_Modifié par_:
+
+  - Décret n°2016-29 du 19 janvier 2016 - art. 1
+
 _Cite_:
 
-  - Code du tourisme. - art. R342-8 (V)
+  - Code du tourisme. - art. R342-8
 
 
 ###### Article R342-14
@@ -16404,6 +16519,9 @@ semblables, le préfet peut, après consultation du service technique des remont
 prononcer dans les mêmes conditions que celles prévues au IV de l'article L. 342-17 précité, la suspension ou l'arrêt des
 installations concernées. 
 
+Si la menace pour la sécurité est due à un défaut du système de gestion de la sécurité de l'exploitation ou de sa mise en
+œuvre, le préfet peut suspendre l'activité de l'exploitant sur tout ou partie de ses installations. 
+
 En cas d'implantation d'installations techniquement semblables sur plusieurs départements, le ministre chargé des transports
 est l'autorité compétente de l'Etat visée au III et IV de l'article L. 342-17.
 
@@ -16411,11 +16529,11 @@ est l'autorité compétente de l'Etat visée au III et IV de l'article L. 342-17
 
 _Codifié par_:
 
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+  - Décret n°2006-1229 du 6 octobre 2006
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+  - Décret n°2016-29 du 19 janvier 2016 - art. 1
 
 _Cité par_:
 
@@ -16423,12 +16541,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code du tourisme. - art. L342-17 (V)
-
-_Anciens textes_:
-
-  - Décret n°1942-03-22 art. 80-3 (remontées mécaniques)
-  - Décret n°1942-03-22 art. 80-4 (remontées mécaniques)
+  - Code du tourisme. - art. L342-17
 
 
 ###### Article R342-19
@@ -16455,6 +16568,19 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+
+###### Article R342-19-1
+
+Un arrêté du ministre chargé des transports peut écarter l'application de certaines dispositions de la présente sous-section
+aux remontées mécaniques transfrontalières, ou y déroger, dès lors que l'encadrement juridique de l'exploitation de ces
+installations est de nature à garantir un niveau de sécurité équivalent.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-29 du 19 janvier 2016 - art. 1
 
 
 ###### Article R342-20
@@ -16487,7 +16613,7 @@ _Anciens textes_:
   - Décret n°1942-03-22 art. 80-4 (remontées mécaniques)
 
 
-##### Sous-section 2 : Dispositions spécifiques aux remontées mécaniques.<a id=257></a>
+##### Sous-section 2 : Dispositions spécifiques aux remontées mécaniques.<a id=256></a>
 
 ###### Article D342-21
 
@@ -16663,7 +16789,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L111-25 (V)
 
 
-##### Sous-section 3 : Dispositions spécifiques aux tapis roulants.<a id=258></a>
+##### Sous-section 3 : Dispositions spécifiques aux tapis roulants.<a id=257></a>
 
 ###### Article R342-26
 
@@ -16821,9 +16947,9 @@ _Anciens textes_:
   - Décret n°1942-03-22 art. 80-4 (remontées mécaniques)
 
 
-#### Chapitre III : Espace rural et naturel.<a id=259></a>
+#### Chapitre III : Espace rural et naturel.<a id=258></a>
 
-##### Section 1 : Activités touristiques en milieu rural.<a id=260></a>
+##### Section 1 : Activités touristiques en milieu rural.<a id=259></a>
 
 ###### Article D343-1
 
@@ -16863,9 +16989,9 @@ _Cite_:
   - Code rural - art. L722-1 (V)
 
 
-##### Section 2 : Parcs nationaux et régionaux.<a id=261></a>
+##### Section 2 : Parcs nationaux et régionaux.<a id=260></a>
 
-##### Sous-section 1 : Parcs nationaux.<a id=262></a>
+##### Sous-section 1 : Parcs nationaux.<a id=261></a>
 
 ###### Article D343-2
 
@@ -16879,7 +17005,7 @@ _Codifié par_:
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 
-##### Sous-section 2 : Parcs naturels régionaux.<a id=263></a>
+##### Sous-section 2 : Parcs naturels régionaux.<a id=262></a>
 
 ###### Article D343-3
 
@@ -16893,7 +17019,7 @@ _Codifié par_:
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 
-##### Section 3 : Itinéraires de randonnée.<a id=264></a>
+##### Section 3 : Itinéraires de randonnée.<a id=263></a>
 
 ###### Article D343-4
 
@@ -16911,7 +17037,7 @@ _Cite_:
   - Code rural - art. L161-10-1 (V)
 
 
-##### Section 4 : Voies vertes.<a id=265></a>
+##### Section 4 : Voies vertes.<a id=264></a>
 
 ###### Article D343-5
 
@@ -16928,7 +17054,7 @@ _Cite_:
   - Code de la route. - art. R110-2 (V)
 
 
-##### Section 6 : Accueil du public en forêt.<a id=266></a>
+##### Section 6 : Accueil du public en forêt.<a id=265></a>
 
 ###### Article D343-6
 
@@ -16950,9 +17076,9 @@ _Cité par_:
   - Code du tourisme. - art. R361-3 (V)
 
 
-### TITRE V : DISPOSITIONS RELATIVES À LA CORSE.<a id=267></a>
+### TITRE V : DISPOSITIONS RELATIVES À LA CORSE.<a id=266></a>
 
-#### Chapitre unique.<a id=268></a>
+#### Chapitre unique.<a id=267></a>
 
 ###### Article D351-1
 
@@ -17048,9 +17174,9 @@ _Cite_:
   - Code général des collectivités territoriales R4421-10 à R4421-15
 
 
-### TITRE VI : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER.<a id=269></a>
+### TITRE VI : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER.<a id=268></a>
 
-#### Chapitre Ier : Dispositions relatives à la Guadeloupe, la Guyane, la Martinique et la Réunion.<a id=270></a>
+#### Chapitre Ier : Dispositions relatives à la Guadeloupe, la Guyane, la Martinique et la Réunion.<a id=269></a>
 
 ###### Article R361-1
 
@@ -17120,7 +17246,7 @@ _Créé par_:
   - Décret n°2015-1002 du 18 août 2015 - art. 5
 
 
-#### Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon.<a id=271></a>
+#### Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon.<a id=270></a>
 
 ###### Article R362-1
 
@@ -17186,7 +17312,7 @@ _Anciens textes_:
   - Code du tourisme. - art. R362-5 (T)
 
 
-#### Chapitre III : Dispositions relatives à Mayotte.<a id=272></a>
+#### Chapitre III : Dispositions relatives à Mayotte.<a id=271></a>
 
 ###### Article R363-1
 
@@ -17246,13 +17372,13 @@ _Anciens textes_:
   - Code du tourisme. - art. R363-6 (T)
 
 
-## LIVRE IV : FINANCEMENT DE L'ACCÈS AUX VACANCES ET FISCALITÉ DU TOURISME.<a id=273></a>
+## LIVRE IV : FINANCEMENT DE L'ACCÈS AUX VACANCES ET FISCALITÉ DU TOURISME.<a id=272></a>
 
-### TITRE Ier : ACCÈS AUX VACANCES.<a id=274></a>
+### TITRE Ier : ACCÈS AUX VACANCES.<a id=273></a>
 
-#### Chapitre Ier : Chèques-vacances.<a id=275></a>
+#### Chapitre Ier : Chèques-vacances.<a id=274></a>
 
-##### Section 1 : Dispositions générales.<a id=276></a>
+##### Section 1 : Dispositions générales.<a id=275></a>
 
 ###### Article D411-6-1
 
@@ -17473,9 +17599,9 @@ _Modifié par_:
   - Décret n°2007-107 du 29 janvier 2007 - art. 1 () JORF 30 janvier 2007
 
 
-##### Section 2 : Agence nationale pour les chèques-vacances.<a id=277></a>
+##### Section 2 : Agence nationale pour les chèques-vacances.<a id=276></a>
 
-##### Sous-section 1 : Missions et moyens<a id=278></a>
+##### Sous-section 1 : Missions et moyens<a id=277></a>
 
 ###### Article R411-9
 
@@ -17507,7 +17633,7 @@ _Modifié par_:
   - Décret n°2007-107 du 29 janvier 2007 - art. 2 () JORF 30 janvier 2007
 
 
-##### Sous-section 2 : Conseil d'administration.<a id=279></a>
+##### Sous-section 2 : Conseil d'administration.<a id=278></a>
 
 ###### Article R411-10
 
@@ -17724,7 +17850,7 @@ _Cité par_:
   - Code du tourisme. - art. R411-17 (V)
 
 
-##### Sous-section 3 : Tutelle<a id=280></a>
+##### Sous-section 3 : Tutelle<a id=279></a>
 
 ###### Article R411-16
 
@@ -17766,7 +17892,7 @@ _Cité par_:
   - Code du tourisme. - art. R411-17 (V)
 
 
-##### Sous-section 4 : Directeur général<a id=281></a>
+##### Sous-section 4 : Directeur général<a id=280></a>
 
 ###### Article R411-17
 
@@ -17839,7 +17965,7 @@ _Cite_:
   - Code du tourisme. - art. R411-23
 
 
-##### Sous-section 5 : Commission d'attribution des aides<a id=282></a>
+##### Sous-section 5 : Commission d'attribution des aides<a id=281></a>
 
 ###### Article R411-18
 
@@ -17876,7 +18002,7 @@ _Cite_:
   - Code du tourisme. - art. L411-15
 
 
-##### Sous-section 6 : Régime financier et comptable<a id=283></a>
+##### Sous-section 6 : Régime financier et comptable<a id=282></a>
 
 ###### Article R411-19
 
@@ -18090,9 +18216,9 @@ _Cité par_:
   - Code du tourisme. - art. R411-22 (M)
 
 
-#### Chapitre II : Agrément d'organismes ou de personnes physiques concourant au tourisme social.<a id=284></a>
+#### Chapitre II : Agrément d'organismes ou de personnes physiques concourant au tourisme social.<a id=283></a>
 
-##### Section 1 : Agrément national délivré à des organismes de tourisme social et familial.<a id=285></a>
+##### Section 1 : Agrément national délivré à des organismes de tourisme social et familial.<a id=284></a>
 
 ###### Article R*412-1
 
@@ -18233,7 +18359,7 @@ _Codifié par_:
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 
-##### Section 2 : Agrément des vacances adaptées organisées.<a id=286></a>
+##### Section 2 : Agrément des vacances adaptées organisées.<a id=285></a>
 
 ###### Article R412-8
 
@@ -18656,11 +18782,11 @@ _Créé par_:
   - Décret n°2015-267 du 10 mars 2015 - art. 1
 
 
-### TITRE II : DISPOSITIONS FISCALES PARTICULIÈRES AUX ACTIVITÉS TOURISTIQUES.<a id=287></a>
+### TITRE II : DISPOSITIONS FISCALES PARTICULIÈRES AUX ACTIVITÉS TOURISTIQUES.<a id=286></a>
 
-#### Chapitre Ier : Ressources et incitations de l'Etat relatives aux activités et hébergements touristiques.<a id=288></a>
+#### Chapitre Ier : Ressources et incitations de l'Etat relatives aux activités et hébergements touristiques.<a id=287></a>
 
-##### Section 1 : Assujettissement des hébergements et aménagements touristiques à la taxe sur la valeur ajoutée.<a id=289></a>
+##### Section 1 : Assujettissement des hébergements et aménagements touristiques à la taxe sur la valeur ajoutée.<a id=288></a>
 
 ###### Article D421-1
 
@@ -18683,7 +18809,7 @@ _Cite_:
   - Code du tourisme. - art. L421-1 (V)
 
 
-##### Section 2 : Dispositions particulières relatives à l'investissement dans l'immobilier de loisirs.<a id=290></a>
+##### Section 2 : Dispositions particulières relatives à l'investissement dans l'immobilier de loisirs.<a id=289></a>
 
 ###### Article D421-2
 
@@ -18727,7 +18853,7 @@ _Cite_:
   - Code du tourisme. - art. L421-3-1 (V)
 
 
-##### Section 3 : Dispositions particulières applicables aux agences de voyages et organisateurs de circuits touristiques.<a id=291></a>
+##### Section 3 : Dispositions particulières applicables aux agences de voyages et organisateurs de circuits touristiques.<a id=290></a>
 
 ###### Article D421-4
 
@@ -18748,9 +18874,9 @@ _Cite_:
   - Code du tourisme. - art. L421-4
 
 
-#### Chapitre II : Ressources des collectivités territoriales relatives au tourisme.<a id=292></a>
+#### Chapitre II : Ressources des collectivités territoriales relatives au tourisme.<a id=291></a>
 
-##### Section 1 : Taxe professionnelle.<a id=293></a>
+##### Section 1 : Taxe professionnelle.<a id=292></a>
 
 ###### Article D422-1
 
@@ -18791,9 +18917,9 @@ _Cite_:
   - Code du tourisme. - art. L422-2 (V)
 
 
-##### Section 2 : Taxes et redevances prélevées au profit des communes et établissements publics de coopération intercommunale.<a id=294></a>
+##### Section 2 : Taxes et redevances prélevées au profit des communes et établissements publics de coopération intercommunale.<a id=293></a>
 
-##### Sous-section 1 : Taxe de séjour et taxe de séjour forfaitaire.<a id=295></a>
+##### Sous-section 1 : Taxe de séjour et taxe de séjour forfaitaire.<a id=294></a>
 
 ###### Article D422-3
 
@@ -19186,7 +19312,7 @@ _Cite_:
   - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R5211-6 (V)
 
 
-##### Sous-section 2 : Taxe communale sur les entreprises exploitant des engins de remontée mécanique.<a id=296></a>
+##### Sous-section 2 : Taxe communale sur les entreprises exploitant des engins de remontée mécanique.<a id=295></a>
 
 ###### Article D422-5
 
@@ -19254,7 +19380,7 @@ _Cite_:
   - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R2333-73 (V)
 
 
-##### Sous-section 5 : Taxe sur les activités commerciales non salariées à durée saisonnière.<a id=297></a>
+##### Sous-section 5 : Taxe sur les activités commerciales non salariées à durée saisonnière.<a id=296></a>
 
 ###### Article D422-6
 
@@ -19274,7 +19400,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. R2333-133 (V)
 
 
-##### Sous-section 6 : Prélèvement sur le produit des jeux dans les casinos.<a id=298></a>
+##### Sous-section 6 : Prélèvement sur le produit des jeux dans les casinos.<a id=297></a>
 
 ###### Article D422-7
 
@@ -19458,9 +19584,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2333-57 (V)
 
 
-##### Section 3 : Taxes prélevées au profit des départements.<a id=299></a>
+##### Section 3 : Taxes prélevées au profit des départements.<a id=298></a>
 
-##### Sous-section 2 : Taxe départementale sur les entreprises exploitant des engins de remontée mécanique.<a id=300></a>
+##### Sous-section 2 : Taxe départementale sur les entreprises exploitant des engins de remontée mécanique.<a id=299></a>
 
 ###### Article D422-8
 
@@ -19500,9 +19626,9 @@ _Cite_:
   - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R3333-3 (V)
 
 
-### TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER.<a id=301></a>
+### TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER.<a id=300></a>
 
-#### Chapitre Ier : Dispositions relatives à la Guadeloupe, la Guyane, la Martinique et la Réunion.<a id=302></a>
+#### Chapitre Ier : Dispositions relatives à la Guadeloupe, la Guyane, la Martinique et la Réunion.<a id=301></a>
 
 ###### Article R441-1
 
@@ -19523,7 +19649,7 @@ _Créé par_:
   - Décret n°2015-1002 du 18 août 2015 - art. 5
 
 
-#### Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon.<a id=303></a>
+#### Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon.<a id=302></a>
 
 ###### Article R442-1
 
@@ -19564,7 +19690,7 @@ _Codifié par_:
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 
-#### Chapitre III : Dispositions relatives à Mayotte.<a id=304></a>
+#### Chapitre III : Dispositions relatives à Mayotte.<a id=303></a>
 
 ###### Article R443-2
 
