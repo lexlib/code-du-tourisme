@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2016-10-09
+Version Consolidée au 2016-12-24
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-9)](#2)
@@ -3612,16 +3612,16 @@ _Cite_:
 ###### Article L221-2
 
 Pour s'établir en France, est considéré comme qualifié pour la conduite des visites commentées dans les musées et les
-monuments historiques dans les conditions prévues à l'article L. 221-1 tout ressortissant d'un Etat membre de la Communauté
+monuments historiques dans les conditions prévues à l'article L. 221-1 tout ressortissant d'un Etat membre de l'Union
 européenne ou d'un Etat partie à l'accord sur l'Espace économique européen, dès lors qu'il produit les pièces justificatives
 émanant de l'autorité compétente d'un de ces Etats prouvant qu'il possède la qualification conforme aux conditions de
 reconnaissance fixées par décret en Conseil d'Etat pour y exercer la profession de guide-interprète ou de conférencier.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2008-507 du 30 mai 2008 - art. 7
+  - Ordonnance n°2016-1809 du 22 décembre 2016 - art. 13
 
 _Cité par_:
 
@@ -3636,19 +3636,20 @@ _Cite_:
 
 ###### Article L221-3
 
-Tout ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'Espace économique européen,
+Tout ressortissant d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'Espace économique européen,
 légalement établi, pour l'exercice de la profession de guide-interprète ou de conférencier, dans un de ces Etats, peut
 exercer cette profession de façon temporaire et occasionnelle en France. 
 
 Toutefois, lorsque la profession de guide-interprète ou de conférencier ou la formation y conduisant n'est pas réglementée
-dans l'Etat d'établissement, le prestataire doit avoir exercé cette profession dans cet Etat pendant au moins deux ans au
-cours des dix années qui précèdent la prestation.
+dans l'Etat d'établissement, le prestataire doit avoir exercé cette profession dans un ou plusieurs Etats membres ou parties
+à l'Espace économique européen, pendant au moins une année, à temps plein ou à temps partiel pour une durée totale
+équivalente, au cours des dix années qui précèdent la prestation.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2008-507 du 30 mai 2008 - art. 7
+  - Ordonnance n°2016-1809 du 22 décembre 2016 - art. 13
 
 
 ###### Article L221-4
