@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2016-12-30
+Version Consolidée au 2017-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-9)](#2)
@@ -1150,10 +1150,11 @@ _Créé par_:
 ###### Article L133-11
 
 Les communes qui mettent en oeuvre une politique du tourisme et qui offrent des capacités d'hébergement pour l'accueil d'une
-population non résidente, ainsi que celles qui bénéficient au titre du tourisme, dans les conditions visées au    deuxième
-alinéa du II  de l'article L. 2334-7 du code général des collectivités territoriales, de la dotation supplémentaire ou de la
-dotation particulière identifiées au sein de la part forfaitaire de la dotation globale de fonctionnement, peuvent être
-dénommées communes touristiques.
+population non résidente, ainsi que celles qui bénéficient au titre du tourisme, dans les conditions visées au deuxième
+alinéa du II de l'article L. 2334-7 du code général des collectivités territoriales, dans sa version antérieure à l'article
+150 de la loi n° 2015-1785 du 29 décembre 2015 de finances pour 2016, de la dotation supplémentaire ou de la dotation
+particulière identifiées au sein de la part forfaitaire de la dotation globale de fonctionnement, peuvent être dénommées
+communes touristiques.
 
 **Liens relatifs à cet article**
 
@@ -1185,13 +1186,14 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R2224-24 (V)
   - Code général des collectivités territoriales - art. R4424-23 (Ab)
 
-_Modifié par_:
-
-  - Loi n°2012-1509 du 29 décembre 2012 - art. 111 (V)
-
 _Cite_:
 
-  - Code général des collectivités territoriales - art. L2334-7
+  - Loi n°2015-1785 du 29 décembre 2015 - art. 150
+  - Code général des collectivités territoriales - art. L2334-7 (VD)
+
+_Modifié par_:
+
+  - Loi n°2015-1785 du 29 décembre 2015 - art. 150 (Ab)
 
 
 ###### Article L133-12
@@ -12988,21 +12990,16 @@ _Modifié par_:
 
 ###### Article R233-1
 
-Sont dispensées des conditions de capacité financière et de capacité professionnelle prévues par le décret n° 85-891 du 16
-août 1985 relatif aux transports urbains de personnes et aux transports routiers non urbains de personnes les entreprises qui
-exécutent des transports publics routiers de personnes lorsque l'entreprise n'utilise que des véhicules, autres que des
-autocars et autobus, destinés à des usages de tourisme ou de loisirs, et dont les caractéristiques et l'utilisation sont
-définies par arrêté du ministre chargé des transports.
+Sont dispensées des conditions de capacité financière et de capacité professionnelle prévues par les articles R. 3113-31 et
+R. 3113-34 du code des transports les entreprises qui exécutent des transports publics routiers de personnes lorsque
+l'entreprise n'utilise que des véhicules, autres que des autocars et autobus, destinés à des usages de tourisme ou de
+loisirs, et dont les caractéristiques et l'utilisation sont définies par arrêté du ministre chargé des transports.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Décret n°85-891 1985-08-16 art. 5 4° c
-
-_Cite_:
-
-  - Décret n°85-891 du 16 août 1985 (V)
 
 _Cité par_:
 
@@ -13012,9 +13009,13 @@ _Cité par_:
   - Arrêté du 22 janvier 2015 - art. 1 (VD)
   - Code des transports - art. R3113-10 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+  - Décret n°2016-1550 du 17 novembre 2016 - art. 3 (VD)
+
+_Cite_:
+
+  - Code des transports - art. R3113-31 (VD)
 
 
 ### TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER.<a id=196></a>
