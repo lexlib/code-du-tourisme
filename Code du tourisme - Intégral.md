@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2017-02-10
+Version Consolidée au 2017-03-11
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-9)](#2)
@@ -4057,26 +4057,22 @@ _Anciens textes_:
 ###### Article L311-8
 
 Les infractions aux dispositions applicables en matière de classement et de prix des hôtels sont punies d'une amende de 15
-000 euros. Les articles L. 470-1 à L. 470-4 du code de commerce s'appliquent.
+000 euros. Les articles L. 490-1 à L. 490-4 du code de commerce s'appliquent.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2009-888 du 22 juillet 2009 - art. 10
 
 _Cité par_:
 
   - Arrêté du 19 février 2010 - art. 2 (V)
   - Code du tourisme. - art. L362-1 (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2017-303 du 9 mars 2017 - art. 2
+
 _Cite_:
 
-  - Code de commerce - art. L470-1 (V)
-
-_Anciens textes_:
-
-  - Code du tourisme. - art. L311-9 (VT)
+  - Code de commerce - art. L490-1 (V)
 
 
 ##### Section 4 : Responsabilité des hôteliers<a id=62></a>
