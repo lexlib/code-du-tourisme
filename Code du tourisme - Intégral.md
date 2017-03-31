@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2017-03-11
+Version Consolidée au 2017-04-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-9)](#2)
@@ -17153,29 +17153,24 @@ _Créé par_:
 ###### Article R342-24
 
 Lorsqu'une remontée mécanique emprunte un tunnel d'une longueur de plus de 300 mètres, l'avis sur la sécurité mentionné à
-l'article R. 472-4-5° du code de l'urbanisme est émis par un expert ou organisme qualifié agréé en application de l'article 7
-du décret n° 2003-425 du 9 mai 2003 relatif à la sécurité des transports publics guidés, indépendant du maître d'ouvrage, du
-maître d'oeuvre, du ou des constructeurs et de l'exploitant de l'installation.
+l'article R. 472-4-5° du code de l'urbanisme est émis par un organisme qualifié mentionné à l'article 4 du décret n° 2017-440
+du 30 mars 2017 relatif à la sécurité des transports publics guidés, indépendant du maître d'ouvrage, du maître d'oeuvre, du
+ou des constructeurs et de l'exploitant de l'installation.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°1942-03-22 art. 80-3 (remontées mécaniques)
-  - Décret n°1942-03-22 art. 80-4 (remontées mécaniques)
-
 _Cite_:
 
-  - Décret n°2003-425 du 9 mai 2003 (V)
+  - Décret n°2003-425 du 9 mai 2003
   - Code de l'urbanisme - art. R472-4 (V)
 
 _Codifié par_:
 
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+  - Décret n°2006-1229 du 6 octobre 2006
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007 rectificatif JORF 6 octobre 2007
+  - Décret n°2017-440 du 30 mars 2017 - art. 101
 
 
 ###### Article R342-25
@@ -17506,26 +17501,25 @@ _Cité par_:
 ###### Article D351-1
 
 Les règles relatives aux compétences du conseil des sites de Corse, dans sa formation dite " des unités touristiques
-nouvelles " sont définies par l'article R. 4421-1 du code général des collectivités territoriales ci-après reproduit : 
+nouvelles " sont définies par l'article R. 4421-1 du code général des collectivités territoriales ci-après reproduit :
 
-" Art. R. 4421-1 du code général des collectivités territoriales. 
+" Art. R. 4421-1 du code général des collectivités territoriales.
 
-Le conseil des sites de Corse comprend, outre la formation plénière, cinq formations. Il est chargé : 
+Le conseil des sites de Corse comprend, outre la formation plénière, cinq formations. Il est chargé :
 
 1° Dans sa formation dite " de la nature, des paysages et des sites ", d'exercer les compétences dévolues aux formations
-spécialisées prévues par les articles R. 341-19 à R. 341-21 du code de l'environnement ; 
+spécialisées prévues par les articles R. 341-19 à R. 341-21 du code de l'environnement ;
 
-2° Dans sa formation dite " du patrimoine ", d'exercer les compétences dévolues à la commission régionale du patrimoine et
-des sites par l'article 1er du décret n° 99-78 du 5 février 1999 relatif à la commission régionale du patrimoine et des sites
-et à l'instruction de certaines catégories de travaux ; 
+2° Dans sa formation dite du patrimoine et de l'architecture, d'exercer les compétences dévolues à la commission régionale du
+patrimoine et de l'architecture par l'article L. 611-2 du code du patrimoine ;
 
 3° Dans sa formation dite " des unités touristiques nouvelles ", d'exercer les compétences dévolues à la commission
 spécialisée mentionnée au troisième alinéa de l'article 7 de la loi n° 85-30 du 9 janvier 1985 relative au développement et à
 la protection de la montagne et celles dévolues à la formation spécialisée de la commission départementale de la nature, des
-paysages et des sites par l'article R. 341-22 du code de l'environnement ; 
+paysages et des sites par l'article R. 341-22 du code de l'environnement ;
 
 4° Dans sa formation dite " des carrières ", d'exercer les compétences dévolues à la formation spécialisée de la commission
-départementale de la nature, des paysages et des sites par l'article R. 341-23 du code de l'environnement ; 
+départementale de la nature, des paysages et des sites par l'article R. 341-23 du code de l'environnement.
 
 5° Dans sa formation dite " de la faune sauvage captive ", d'exercer les compétences dévolues à la formation spécialisée de
 la commission départementale de la nature, des paysages et des sites par l'article R. 341-24 du code de l'environnement. "
@@ -17541,9 +17535,9 @@ _Cite_:
   - Code de l'environnement - art. R341-23 (VT)
   - Code de l'environnement - art. R341-24 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+  - Décret n°2017-456 du 29 mars 2017 - art. 9
 
 **Liens**:
 
