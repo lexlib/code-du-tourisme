@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2017-04-01
+Version Consolidée au 2017-05-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-9)](#2)
@@ -14363,9 +14363,15 @@ _Cite_:
 
 ###### Article D324-1
 
-Les meublés de tourisme sont des villas, appartements, ou studios meublés, à l'usage exclusif du locataire, offerts en
+I. – Les meublés de tourisme sont des villas, appartements, ou studios meublés, à l'usage exclusif du locataire, offerts en
 location à une clientèle de passage qui y effectue un séjour caractérisé par une location à la journée, à la semaine ou au
 mois, et qui n'y élit pas domicile.
+
+II. – Est un local meublé au sens du II de l'article L. 324-1-1 :
+
+1° Un meublé de tourisme défini au I du présent article ;
+
+2° Une partie d'un tel meublé, que ce meublé soit ou non à l'usage exclusif du locataire.
 
 **Liens relatifs à cet article**
 
@@ -14375,7 +14381,7 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+  - Décret n°2006-1229 du 6 octobre 2006
 
 _Cité par_:
 
@@ -14384,21 +14390,52 @@ _Cité par_:
   - Code du tourisme. - art. R324-1-2 (V)
   - Code général des impôts, CGI. - art. 1407 (V)
 
+_Modifié par_:
+
+  - Décret n°2017-678 du 28 avril 2017 - art. 1
+
+_Cite_:
+
+  - Code du tourisme. - art. L324-1-1
+
 
 ###### Article D324-1-1
 
-La déclaration de location d'un meublé de tourisme, que celui-ci soit classé ou non au sens du présent code, prévue à
-l'article L. 324-1-1 est adressée au maire de la commune où est situé le meublé par tout moyen permettant d'en obtenir un
-accusé de réception. 
+I. – La déclaration de location d'un meublé de tourisme, que celui-ci soit classé ou non au sens du présent code, prévue au I
+de l'article L. 324-1-1 est adressée au maire de la commune où est situé le meublé par tout moyen permettant d'en obtenir un
+accusé de réception.
 
 La déclaration précise l'identité et l'adresse du déclarant, l'adresse du meublé de tourisme, le nombre de pièces composant
-le meublé, le nombre de lits,  la ou les périodes prévisionnelles de location et, le cas échéant, la  date de la décision de
-classement et le niveau de classement des meublés  de tourisme. 
+le meublé, le nombre de lits, la ou les périodes prévisionnelles de location et, le cas échéant, la date de la décision de
+classement et le niveau de classement des meublés de tourisme.
 
-Tout changement concernant les éléments d'information que comporte la déclaration fait l'objet d'une nouvelle déclaration en
-mairie. 
+II. – La déclaration, effectuée au moyen d'un téléservice dans les conditions prévues au II de l'article L. 324-1-1,
+indique :
 
-La liste des meublés de tourisme, classés ou non au sens du présent code,  est consultable en mairie.
+1° L'identité, l'adresse postale et l'adresse électronique du déclarant ;
+
+2° L'adresse du local meublé, précisant, lorsque ce dernier fait partie d'un immeuble comportant plusieurs locaux, le
+bâtiment, l'escalier, l'étage et le numéro d'appartement.
+
+Lorsque cette possibilité lui est offerte, le déclarant peut indiquer le numéro invariant identifiant le logement tel qu'il
+ressort de son avis de taxe d'habitation, en lieu et place des informations mentionnées au premier alinéa du présent 2° ;
+
+3° Son statut de résidence principale ou non ;
+
+4° Le nombre de pièces composant le meublé, le nombre de lits et, le cas échéant, la date de la décision de classement et le
+niveau de classement ou de toute autre reconnaissance de qualité des meublés de tourisme.
+
+La déclaration fait l'objet d'un numéro de déclaration délivré immédiatement par la commune. Ce numéro est constitué de
+treize caractères répartis en trois groupes séparés ainsi composés :
+
+– le code officiel géographique de la commune de localisation à cinq chiffres ;
+
+– un identifiant unique à six chiffres, déterminé par la commune ;
+
+– une clé de contrôle à deux caractères alphanumériques, déterminée par la commune.
+
+III. – Tout changement concernant les éléments d'information de la déclaration visée au I ou II du présent article fait
+l'objet d'une nouvelle déclaration.
 
 **Liens relatifs à cet article**
 
@@ -14410,7 +14447,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2012-693 du 7 mai 2012 - art. 2
+  - Décret n°2017-678 du 28 avril 2017 - art. 2
 
 _Cite_:
 
