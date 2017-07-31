@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2017-05-01
+Version Consolidée au 2017-08-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-9)](#2)
@@ -5324,18 +5324,25 @@ _Codifié par_:
 
 ###### Article L342-6
 
-Les règles relatives aux unités touristiques nouvelles sont fixées par les articles L. 122-15 à L. 122-23 du code de
+Les règles relatives aux unités touristiques nouvelles sont fixées par les articles L. 122-15 à L. 122-25 du code de
 l'urbanisme.
+
+**Nota:**
+
+<font size="1" color="#000000">Conformément à l’article 10 du décret n° 2017-1039 du 10 mai 2017, L'article 71 de la loi n°
+2016-1888 du 28 décembre 2016 de modernisation, de développement et de protection des territoires de montagne entre en
+vigueur le premier jour du troisième mois suivant la publication dudit décret.</font>
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9
+  - Loi n°2016-1888 du 28 décembre 2016 - art. 71 (V)
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L122-15 (VD)
+  - Code de l'urbanisme - art. L122-15
+  - Code de l'urbanisme - art. L122-25
 
 
 ##### Section 3 : Remontées mécaniques et pistes de ski.<a id=89></a>
