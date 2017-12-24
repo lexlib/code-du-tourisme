@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2017-08-01
+Version Consolidée au 2017-12-25
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-9)](#2)
@@ -19795,8 +19795,8 @@ Les règles relatives aux prélèvements directs sur le produit des jeux dans le
 
 " Art. D. 2333-74 du code général des collectivités territoriales.
 
-Le tarif du prélèvement progressif opéré sur le produit brut des jeux dans les casinos régis par les articles L. 321-1 et
-suivants du code de la sécurité intérieure s'établit comme suit :
+Le tarif du prélèvement progressif opéré sur le produit brut des jeux dans les casinos régis par l'article L. 321-1 du code
+de la sécurité intérieure s'établit comme suit :
 
 6 % jusqu'à 100 000 euros.
 
@@ -19818,29 +19818,7 @@ suivants du code de la sécurité intérieure s'établit comme suit :
 
 83,5 % au-delà de 14 000 000 euros.
 
-Pour l'application des dispositions de l'article L. 2333-57, les recettes supplémentaires correspondent à la différence entre
-le prélèvement résultant du tarif prévu à l'alinéa précédent et le prélèvement qui aurait résulté, après abattement institué
-par le décret-loi du 28 juillet 1934 portant modification du régime fiscal des casinos, de l'application du tarif suivant :
-
-10 % jusqu'à 66 000 euros.
-
-15 % de 66 001 euros à 132 000 euros.
-
-25 % de 132 001 euros à 406 500 euros.
-
-35 % de 406 501 euros à 754 500 euros.
-
-45 % de 754 501 euros à 1 257 000 euros.
-
-55 % de 1 257 001 euros à 3 772 500 euros.
-
-60 % de 3 772 501 euros à 6 288 000 euros.
-
-65 % de 6 288 001 euros à 8 803 500 euros.
-
-70 % de 8 803 501 euros à 11 319 000 euros.
-
-80 % au-delà de 11 319 000 euros. "
+Le présent tarif s'applique aux casinos régis par l'article L. 321-3 du code de la sécurité intérieure. "
 
 " Art. D. 2333-76 du code général des collectivités territoriales.
 
@@ -19947,7 +19925,7 @@ constituent des mouvements réels. Elles comprennent les recettes réelles qui r
 
 _Modifié par_:
 
-  - Décret n°2015-669 du 15 juin 2015 - art. 1
+  - Décret n°2017-1749 du 22 décembre 2017 - art. 1
 
 **Liens**:
 
