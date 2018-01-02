@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2018-01-01
+Version Consolidée au 2018-01-03
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-9)](#2)
@@ -18768,18 +18768,18 @@ _Cite_:
 
 ###### Article R411-23
 
-I. - Par dérogation au décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique, les
-fonds de l'agence peuvent, sur autorisation délivrée par le ministre chargé de l'économie et le ministre chargé du budget,
-être déposés à la Caisse des dépôts et consignations. 
+I.-Par dérogation au décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique, les fonds
+de l'agence peuvent, sur autorisation délivrée par le ministre chargé de l'économie et le ministre chargé du budget, être
+déposés à la Caisse des dépôts et consignations. 
 
-II. - La gestion financière des fonds peut être confiée à des entreprises d'investissement qui exercent à titre principal
-l'activité de gestion de portefeuilles pour le compte de tiers. Dans ce cas, l'activité de gestion est confiée par voie de
-mandats renouvelables périodiquement dans le cadre d'une procédure d'appel à la concurrence. 
+II.-La gestion financière des fonds peut être confiée à des                    sociétés de gestion de portefeuille. Dans ce
+cas, l'activité de gestion est confiée par voie de mandats renouvelables périodiquement dans le cadre d'une procédure d'appel
+à la concurrence. 
 
 Les instruments financiers que l'agence est autorisée à détenir ou utiliser sont fixés par arrêté du ministre chargé de
 l'économie et des finances, parmi ceux énumérés à l'article L. 211-1 du code monétaire et financier. 
 
-III. - Un comité financier de surveillance composé d'un membre du conseil d'administration, d'un représentant du ministre
+III.-Un comité financier de surveillance composé d'un membre du conseil d'administration, d'un représentant du ministre
 chargé de l'économie et des finances, d'un représentant du ministre chargé du tourisme, d'une personnalité qualifiée désignée
 par le directeur général de la Caisse des dépôts et consignations, de l'agent comptable et du directeur général de
 l'établissement fixe les orientations générales de la politique de placements des fonds de l'agence en respectant les
@@ -18792,6 +18792,11 @@ Il donne son avis au conseil d'administration sur les états financiers de l'age
 interne et la gestion de ses risques. 
 
 Il produit un rapport semestriel de son activité pour le conseil d'administration.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 20 du décret n° 2017-1253 du 9 août 2017 ces dispositions entrent en vigueur le 3
+janvier 2018.
 
 **Liens relatifs à cet article**
 
@@ -18806,7 +18811,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2012-1247 du 7 novembre 2012 - art. 44
+  - Décret n°2017-1253 du 9 août 2017 - art. 15
 
 _Cité par_:
 
