@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2018-01-19
+Version Consolidée au 2018-07-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-9)](#2)
@@ -39,11 +39,11 @@ Version Consolidée au 2018-01-19
       - [TITRE Ier :  DES AGENTS DE VOYAGE ET AUTRES OPÉRATEURS DE LA VENTE DE VOYAGES ET DE SÉJOURS (art. L211-1 à L211-24)](#36)
         - [Chapitre unique : Régime de la vente de voyages et de séjours (art. L211-1 à L211-24)](#37)
           - [Section 1 : Dispositions générales (art. L211-1 à L211-6)](#38)
-          - [Section 2 : Contrat de vente de voyages et de séjours (art. L211-7 à L211-15)](#39)
-          - [Section 3 : Responsabilité civile professionnelle (art. L211-16 à L211-17)](#40)
-          - [Section 4 :  Obligation et conditions d'immatriculation (art. L211-18)](#41)
+          - [Section 2 : Contrat de vente de voyages et de séjours (art. L211-7 à L211-14)](#39)
+          - [Section 3 : Responsabilité civile professionnelle (art. L211-16 à L211-17-3)](#40)
+          - [Section 4 :  Obligation et conditions d'immatriculation (art. L211-18 à L211-18-1)](#41)
           - [Section 5 : De la liberté d'établissement (art. L211-19)](#42)
-          - [Section 6 : De la libre prestation de services (art. L211-20 à L211-22)](#43)
+          - [Section 6 : De la libre prestation de services (art. L211-20 à L211-21)](#43)
           - [Section 7 : Sanctions et mesures conservatoires (art. L211-23)](#44)
           - [Section 8 : Contrat de jouissance d'immeuble à temps partagé (art. L211-24)](#45)
       - [TITRE II : DISPOSITIONS RELATIVES AUX VISITES DANS LES MUSÉES ET MONUMENTS HISTORIQUES (art. L221-1 à L221-4)](#46)
@@ -177,17 +177,17 @@ Version Consolidée au 2018-01-19
       - [TITRE Ier : DES AGENTS DE VOYAGES ET AUTRES OPERATEURS DE LA VENTE DE VOYAGES ET DE SEJOURS. (art. R211-1 à R211-51)](#174)
         - [Chapitre unique : Régime de la vente de voyages et de séjours. (art. R211-1 à R211-51)](#175)
           - [Section 1 : Dispositions générales. (art. R211-1 à R211-2)](#176)
-          - [Section 2 : Contrat de vente de voyages et de séjours. (art. R211-3 à R211-13)](#177)
-          - [Section 3 : Sanctions et mesures conservatoires. (art. R211-14)](#178)
-          - [Section 4 : Obligation d'information des passagers aériens sur l'identité du transporteur aérien. (art. R211-15 à R211-19)](#179)
-          - [Section 5 : Obligation et conditions d'immatriculation des agents de voyage et autres opérateurs de la vente de voyages et de séjours. (art. D211-21-1 à R211-25)](#180)
-            - [Sous-section 1 : Procédure d'immatriculation des agents de voyage et autres opérateurs de la vente de voyages et de séjours. (art. D211-21-1 à R211-22)](#181)
-            - [Sous-section 2 : Gestion du registre des agents de voyage et autres opérateurs de la vente de voyages et de séjours. (art. R211-23 à R211-25)](#182)
-          - [Section 6 : Garantie financière. (art. R211-26 à R211-34)](#183)
-          - [Section 7 : Responsabilité civile professionnelle. (art. R211-35 à R211-40)](#184)
-          - [Section 8 : Aptitude professionnelle. (art. R211-41)](#185)
+          - [Section 2 : Contrat de vente de voyages et de séjours. (art.  à R211-2)](#177)
+          - [Section 2 : Contrat de vente de voyages et de séjours. (art. R211-3 à R211-13)](#178)
+          - [Section 3 : Sanctions et mesures conservatoires. (art. R211-14)](#179)
+          - [Section 4 : Obligation d'information des passagers aériens sur l'identité du transporteur aérien. (art. R211-15 à R211-19)](#180)
+          - [Section 5 : Obligation et conditions d'immatriculation des agents de voyage et autres opérateurs de la vente de voyages et de séjours. (art. D211-21-1 à R211-25)](#181)
+            - [Sous-section 1 : Procédure d'immatriculation des agents de voyage et autres opérateurs de la vente de voyages et de séjours. (art. D211-21-1 à R211-22)](#182)
+            - [Sous-section 2 : Gestion du registre des agents de voyage et autres opérateurs de la vente de voyages et de séjours. (art. R211-23 à R211-25)](#183)
+          - [Section 6 : Garantie financière. (art. R211-26 à R211-34)](#184)
+          - [Section 7 : Responsabilité civile professionnelle. (art. R211-35 à R211-40)](#185)
           - [Section 9 : Contrat de jouissance d'immeuble à temps partagé. (art. R211-42 à R211-49)](#186)
-          - [Section 10 : Liberté d'établissement et libre prestation de service. (art. R211-50 à R211-51)](#187)
+          - [Section 10 : Liberté d'établissement et libre prestation de services (art. R211-50 à R211-51)](#187)
       - [TITRE II : DISPOSITIONS RELATIVES AUX VISITES DANS LES MUSÉES ET MONUMENTS HISTORIQUES. (art. R221-1 à D221-24)](#188)
         - [Chapitre unique : Personnels qualifiés. (art. R221-1 à D221-24)](#189)
           - [Section 1 : Des personnes qualifiées. (art. R221-1 à R221-3)](#190)
@@ -2663,40 +2663,56 @@ _Créé par_:
 
 ###### Article L211-1
 
-I.-Le présent chapitre s'applique aux personnes physiques ou morales qui se livrent ou apportent leur concours, quelles que
-soient les modalités de leur rémunération, aux opérations consistant en l'organisation ou la vente : 
+I.-Le présent chapitre s'applique aux personnes physiques ou morales qui élaborent et vendent ou offrent à la vente dans le
+cadre de leur activité commerciale, industrielle, artisanale ou libérale : 
 
-a) De voyages ou de séjours individuels ou collectifs ; 
+1° Des forfaits touristiques ; 
 
-b) De services pouvant être fournis à l'occasion de voyages ou de séjours, notamment la délivrance de titres de transport, la
-réservation de chambres dans des établissements hôteliers ou dans des locaux d'hébergement touristique et la délivrance de
-bons d'hébergement ou de restauration ; 
+2° Des services de voyage portant sur le transport, le logement, la location d'un véhicule ou d'autres services de voyage
+qu'elles ne produisent pas elles-mêmes. 
 
-c) De services liés à l'accueil touristique, notamment l'organisation de visites de musées ou de monuments historiques. 
+Il s'applique également aux professionnels qui facilitent aux voyageurs l'achat de prestations de voyage liées au sens de
+l'article L. 211-2. 
 
-Le présent chapitre s'applique également aux opérations de production ou de vente de forfaits touristiques, tels que ceux-ci
-sont définis à l'article L. 211-2, ainsi qu'aux opérations liées à l'organisation et à l'accueil de foires, salons et congrès
-ou de manifestations apparentées dès lors que ces opérations incluent tout ou partie des prestations prévues aux a, b et c du
-présent I. 
-
-II.-Les personnes physiques ou morales immatriculées au registre mentionné au I de l'article L. 211-18 peuvent réaliser sous
-forme électronique les opérations mentionnées au I du présent article dans les conditions prévues par le présent chapitre et
-par les articles 1127-1 à 1127-3 du code civil, L. 121-15-1 à L. 121-15-3 du code de la consommation et la section 2 du
-chapitre Ier du titre II du livre Ier du même code, à l'exception des dispositions prévues au premier alinéa de l'article L.
-121-19-4. 
-
-III.-Les organismes locaux de tourisme bénéficiant du soutien de l'Etat, des collectivités territoriales ou de leurs
+II.-Les organismes locaux de tourisme bénéficiant du soutien de l'Etat, des collectivités territoriales ou de leurs
 groupements peuvent se livrer ou apporter leur concours, dans l'intérêt général, à des opérations mentionnées au I, dès lors
 que celles-ci permettent de faciliter l'accueil ou d'améliorer les conditions de séjour des touristes dans leur zone
 géographique d'intervention. 
 
-IV.-Les associations et les organismes sans but lucratif ne peuvent réaliser tout ou partie des opérations mentionnées au I
-qu'en faveur de leurs membres. 
+III.-Le présent chapitre s'applique aux personnes physiques ou morales qui émettent des bons ou coffrets permettant
+d'acquitter le prix de l'une des prestations mentionnées au I. Il ne s'applique pas aux personnes physiques ou morales qui
+n'effectuent que la vente de ces bons ou coffrets. 
 
-V.-Le présent chapitre s'applique aux personnes physiques ou morales qui émettent des bons permettant d'acquitter le prix de
-l'une des prestations mentionnées au présent article et à l'article L. 211-2.
+IV.-Le présent chapitre n'est pas applicable aux personnes qui ne proposent des forfaits, des services de voyage ou ne
+facilitent la conclusion de prestations de voyage liées qu'à titre occasionnel, dans un but non lucratif et pour un groupe
+limité de voyageurs uniquement. 
+
+V.-Le présent chapitre ne s'applique pas aux personnes suivantes, sauf en ce qui concerne l'organisation, la vente ou l'offre
+à la vente de forfaits ou lorsqu'elles facilitent l'achat de prestations de voyage liées : 
+
+1° Aux personnes physiques ou morales qui n'effectuent que la délivrance de titres de transport terrestre pour le compte d'un
+ou de plusieurs transporteurs de voyageurs ; 
+
+2° Aux transporteurs aériens qui n'effectuent que la délivrance de titres de transport aérien ou de titres de transports
+consécutifs incluant un parcours de transport aérien et, à titre accessoire, un ou plusieurs parcours de transport terrestre
+assurés par un ou plusieurs transporteurs de voyageurs ; 
+
+3° Aux transporteurs ferroviaires qui n'effectuent que la délivrance de titres de transport ferroviaire ou de titres de
+transports consécutifs incluant un parcours de transport ferroviaire et, à titre accessoire, d'autres parcours de transport
+terrestre ou aérien assurés par un ou plusieurs transporteurs de voyageurs ; 
+
+4° Aux personnes physiques ou morales titulaires d'une carte professionnelle délivrée en application de la loi n° 70-9 du 2
+janvier 1970 réglementant les conditions d'exercice des activités relatives à certaines opérations portant sur les immeubles
+et les fonds de commerce, lorsqu'elles ne réalisent les opérations mentionnées au 2° du I qu'à titre accessoire. Ces
+personnes doivent souscrire, pour la réalisation de ces opérations, une assurance garantissant les conséquences pécuniaires
+de la responsabilité professionnelle et une garantie financière permettant le remboursement des fonds déposés.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°70-9 du 2 janvier 1970
+  - Code du tourisme. - art. L211-2 (VD)
 
 _Cité par_:
 
@@ -2763,37 +2779,110 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Ordonnance n°2016-131 du 10 février 2016 - art. 6
-
-_Cite_:
-
-  - Code de la consommation - art. L121-15-1
-  - Code de la consommation - art. L121-19-4
-  - Code civil - art. 1127-1 (VD)
-  - Code du tourisme. - art. L211-2
+  - Ordonnance n°2017-1717 du 20 décembre 2017 - art. 1
 
 
 ###### Article L211-2
 
-Constitue un forfait touristique la prestation : 
+I.-Constitue un service de voyage : 
 
-1° Résultant de la combinaison préalable d'au moins deux opérations portant respectivement sur le transport, le logement ou
-d'autres services touristiques non accessoires au transport ou au logement et représentant une part significative dans le
-forfait ; 
+1° Le transport de passagers ; 
 
-2° Dépassant vingt-quatre heures ou incluant une nuitée ; 
+2° L'hébergement qui ne fait pas partie intégrante du transport de passagers et qui n'a pas un objectif résidentiel ; 
 
-3° Vendue ou offerte à la vente à un prix tout compris.
+3° La location de voitures particulières, d'autres véhicules de catégorie M au sens de l'article R. 311-1 du code de la route
+ayant une vitesse maximale par construction supérieure à 25 km/ h ou de motocyclettes au sens de l'article R. 311-1 du code
+de la route dont la conduite nécessite la possession d'un permis de conduire de catégorie A conformément aux dispositions de
+l'article R. 221-4 de ce même code ; 
+
+4° Tout autre service touristique qui ne fait pas partie intégrante d'un service de voyage au sens des 1°, 2° ou 3°. 
+
+II.-A.-Constitue un forfait touristique la combinaison d'au moins deux types différents de services de voyage aux fins du
+même voyage ou séjour de vacances, dépassant vingt-quatre heures ou incluant une nuitée, si : 
+
+1° Ces services sont combinés par un seul professionnel, y compris à la demande du voyageur ou conformément à son choix,
+avant qu'un contrat unique incluant tous ces services ne soit conclu ; 
+
+2° Indépendamment de l'éventuelle conclusion de contrats séparés avec des prestataires de services de voyage individuels, ces
+services sont : 
+
+a) Soit achetés auprès d'un seul point de vente et choisis avant que le voyageur n'accepte de payer ; 
+
+b) Soit proposés, vendus ou facturés à un prix tout compris ou à un prix total ; 
+
+c) Soit annoncés ou vendus sous la dénomination de “ forfait ” ou sous une dénomination similaire ; 
+
+d) Soit combinés après la conclusion d'un contrat par lequel un professionnel autorise le voyageur à choisir parmi une
+sélection de différents types de services de voyage ; 
+
+e) Soit achetés auprès de professionnels distincts grâce à des procédures de réservation en ligne liées, lorsque le nom du
+voyageur, les modalités de paiement et l'adresse électronique sont transmis par le professionnel avec lequel le premier
+contrat est conclu à un ou plusieurs autres professionnels et lorsqu'un contrat avec ce ou ces derniers est conclu au plus
+tard vingt-quatre heures après la confirmation de la réservation du premier service de voyage. 
+
+B.-Les combinaisons de services de voyage dans lesquelles un seul des types de service de voyage mentionnés au 1°, au 2°, ou
+au 3° du I est combiné à un ou plusieurs des services touristiques mentionnés au 4° du I ne constituent pas un forfait si ces
+derniers services : 
+
+1° Ne représentent pas une part significative de la valeur de la combinaison, ne sont pas annoncés comme étant une
+caractéristique essentielle de la combinaison ou ne constituent pas d'une manière ou d'une autre une telle caractéristique,
+ou 
+
+2° Sont choisis et achetés uniquement après que l'exécution d'un service de voyage mentionné au 1°, au 2° ou au 3° du I a
+commencé. 
+
+III.-Constitue une prestation de voyage liée la combinaison d'au moins deux types différents de services de voyage achetés
+aux fins du même voyage ou séjour de vacances, couvrant au moins vingt-quatre heures ou une nuitée, ne constituant pas un
+forfait et entraînant la conclusion de contrats séparés avec des prestataires de services de voyage individuels, si un
+professionnel facilite : 
+
+1° A l'occasion d'une seule visite à son point de vente ou d'une seule prise de contact avec celui-ci, le choix séparé et le
+paiement séparé de chaque service de voyage par les voyageurs ou 
+
+2° D'une manière ciblée, l'achat d'au moins un service de voyage supplémentaire auprès d'un autre professionnel lorsque le
+contrat avec cet autre professionnel est conclu au plus tard vingt-quatre heures après la confirmation de la réservation du
+premier service de voyage. 
+
+Lorsqu'il est acheté un seul des types de service de voyage mentionnés au 1°, au 2° ou au 3° du I et un ou plusieurs des
+services touristiques mentionnés au 4° du I, ceux-ci ne constituent pas une prestation de voyage liée si ces derniers
+services ne représentent pas une part significative de la valeur combinée des services et ne sont pas annoncés comme étant
+une caractéristique essentielle du voyage ou séjour de vacances ou ne constituent pas d'une manière ou d'une autre une telle
+caractéristique. 
+
+IV.-Pour l'application du présent chapitre, le voyageur est une personne cherchant à conclure un contrat relevant du champ
+d'application du présent chapitre ou ayant le droit de voyager sur la base d'un tel contrat déjà conclu. 
+
+Un professionnel est une personne physique ou morale, qu'elle soit publique ou privée, qui agit, y compris par
+l'intermédiaire d'une autre personne agissant en son nom ou pour son compte, aux fins qui entrent dans le cadre de son
+activité commerciale, industrielle, artisanale ou libérale en ce qui concerne des contrats relevant du présent chapitre,
+qu'elle agisse en qualité d'organisateur, de détaillant, de professionnel facilitant une prestation de voyage liée ou de
+prestataire d'un service de voyage. 
+
+Un organisateur est un professionnel qui élabore des forfaits touristiques et les vend ou les offre à la vente, directement
+ou par l'intermédiaire d'un autre professionnel ou encore conjointement avec un autre professionnel, ou un professionnel qui
+transmet les données du voyageur à un autre professionnel conformément au e du 2° du A du II. 
+
+Un détaillant est un professionnel autre que l'organisateur, qui vend ou offre à la vente des forfaits élaborés par un
+organisateur ou des services de voyage assurés par un autre professionnel. 
+
+V.-Pour l'application du présent chapitre, on entend par : 
+
+1° Point de vente : tout site commercial, qu'il soit meuble ou immeuble, ou un site internet commercial ou une structure de
+vente en ligne similaire, y compris lorsque des sites internet commerciaux ou des structures de vente en ligne sont présentés
+aux voyageurs comme une structure unique, y compris un service téléphonique ; 
+
+2° Support durable : tout instrument permettant au voyageur ou au professionnel de stocker des informations qui lui sont
+adressées personnellement d'une manière permettant de s'y reporter ultérieurement pendant un laps de temps adapté aux fins
+auxquelles les informations sont destinées et qui permet la reproduction à l'identique des informations stockées ; 
+
+3° Circonstances exceptionnelles et inévitables : une situation échappant au contrôle de la partie qui invoque cette
+situation et dont les conséquences n'auraient pu être évitées même si toutes les mesures raisonnables avaient été prises.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Loi n°92-645 du 13 juillet 1992 - art. 2 (Ab)
-
-_Modifié par_:
-
-  - Loi n°2009-888 du 22 juillet 2009 - art. 1
 
 _Cité par_:
 
@@ -2808,49 +2897,41 @@ _Cité par_:
   - Code du tourisme. - art. L211-8 (V)
   - Code du tourisme. - art. L412-2 (M)
 
+_Modifié par_:
 
-###### Article L211-3
-
-Le présent chapitre n'est pas applicable : 
-
-a) A l'Etat, aux collectivités territoriales, à leurs établissements publics à caractère administratif et aux établissements
-publics à caractère scientifique et technique pour les seules manifestations liées à leur statut ; 
-
-b) Aux personnes physiques ou morales qui effectuent les opérations mentionnées à l'article L. 211-1, à l'exception du a du
-I, pour des services dont elles sont elles-mêmes producteurs ; 
-
-c) Aux personnes physiques ou morales qui n'effectuent, parmi les opérations mentionnées à l'article L. 211-1, que la
-délivrance de titres de transport terrestre pour le compte d'un ou de plusieurs transporteurs de voyageurs ; 
-
-d) Aux transporteurs aériens qui n'effectuent, parmi les opérations mentionnées à l'article L. 211-1, que la délivrance de
-titres de transport aérien ou de titres de transports consécutifs incluant un parcours de transport aérien et, à titre
-accessoire, un ou plusieurs parcours de transport terrestre assurés par un ou plusieurs transporteurs de voyageurs ; 
-
-e) Aux transporteurs ferroviaires qui n'effectuent, parmi les opérations mentionnées à l'article L. 211-1, que la délivrance
-de titres de transport ferroviaire ou de titres de transports consécutifs incluant un parcours de transport ferroviaire et, à
-titre accessoire, d'autres parcours de transport terrestre ou aérien assurés par un ou plusieurs transporteurs de
-voyageurs ; 
-
-f) Aux personnes physiques ou morales titulaires d'une carte professionnelle délivrée en application de la loi n° 70-9 du 2
-janvier 1970 réglementant les conditions d'exercice des activités relatives à certaines opérations portant sur les immeubles
-et les fonds de commerce, lorsqu'elles ne réalisent les opérations mentionnées à l'article L. 211-1 qu'à titre accessoire.
-Ces personnes doivent souscrire, pour la réalisation de ces opérations, une assurance garantissant les conséquences
-pécuniaires de la responsabilité professionnelle et une garantie financière permettant le remboursement des fonds, effets ou
-valeurs déposés, dont le montant est modulé par décret en fonction de la nature des activités exercées ; 
-
-g) Aux personnes physiques ou morales qui n'effectuent que la vente de bons permettant d'acquitter le prix de l'une des
-prestations mentionnées aux articles L. 211-1 et L. 211-2. 
-
-Toutefois, les sections 2 et 3 du présent chapitre sont applicables aux personnes énumérées aux b, c, d, e, f et g du présent
-article, pour leurs activités d'organisation et de vente de forfaits touristiques tels que définis à l'article L. 211-2.
-
-**Liens relatifs à cet article**
+  - Ordonnance n°2017-1717 du 20 décembre 2017 - art. 1
 
 _Cite_:
 
-  - Loi n°70-9 du 2 janvier 1970
-  - Code du tourisme. - art. L211-1 (V)
-  - Code du tourisme. - art. L211-2 (V)
+  - Code de la route. - art. R221-4 (V)
+  - Code de la route. - art. R311-1 (M)
+
+
+###### Article L211-3
+
+I.-Avant que le voyageur ne soit lié par un contrat conduisant à l'élaboration d'une prestation de voyage liée ou d'une offre
+correspondante, le professionnel facilitant les prestations de voyage liées, y compris s'il n'est pas établi dans un Etat
+membre mais dirige par tout moyen ces activités vers la France, mentionne de façon claire, compréhensible et apparente que le
+voyageur : 
+
+1° Ne bénéficiera d'aucun des droits applicables exclusivement aux forfaits touristiques et que chaque prestataire de service
+sera seulement responsable de la bonne exécution contractuelle de son service ; et 
+
+2° Bénéficiera d'une protection contre l'insolvabilité conformément à l'article L. 211-18. 
+
+Afin de se conformer au présent I, le professionnel facilitant une prestation de voyage liée fournit ces informations au
+voyageur au moyen du formulaire fixé par voie réglementaire ou, si le type particulier de prestation de voyage liée ne
+correspond à aucun des formulaires, il fournit les informations qui y figurent. 
+
+II.-Lorsque le professionnel facilitant les prestations de voyage liées ne s'est pas conformé aux exigences énoncées au I du
+présent article et au 1° du II de l'article L. 211-18, les droits et obligations prévus aux articles L. 211-11, L. 211-14 et
+L. 211-16 à L. 211-17-1 s'appliquent en ce qui concerne les services de voyage compris dans la prestation de voyage liée. 
+
+III.-Lorsqu'une prestation de voyage liée résulte de la conclusion d'un contrat entre un voyageur et un professionnel qui ne
+facilite pas la prestation de voyage liée, ce professionnel informe le professionnel qui facilite la prestation de voyage
+liée de la conclusion du contrat concerné.
+
+**Liens relatifs à cet article**
 
 _Cité par_:
 
@@ -2867,23 +2948,29 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2009-888 du 22 juillet 2009 - art. 1
+  - Ordonnance n°2017-1717 du 20 décembre 2017 - art. 1
+
+_Cite_:
+
+  - Code du tourisme. - art. L211-11 (VD)
+  - Code du tourisme. - art. L211-14 (VD)
+  - Code du tourisme. - art. L211-16 (VD)
+  - Code du tourisme. - art. L211-18 (VD)
 
 
 ###### Article L211-4
 
-Les personnes physiques ou morales immatriculées au registre mentionné au I de l'article L. 211-18 peuvent réaliser pour le
-compte d'autrui des locations meublées d'immeubles bâtis, dites locations saisonnières, telles que définies à l'article 1er-1
-de la loi n° 70-9 du 2 janvier 1970 précitée. Elles sont soumises, pour l'exercice de cette activité, à l'article 8 de la
-même loi.
+Les personnes physiques ou morales immatriculées au registre mentionné à l'article L. 141-3 peuvent réaliser pour le compte
+d'autrui des locations meublées d'immeubles bâtis, dites locations saisonnières, telles que définies à l'article 1er-1 de la
+loi n° 70-9 du 2 janvier 1970 précitée. Elles sont soumises, pour l'exercice de cette activité, à l'article 8 de la même loi.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°70-9 du 2 janvier 1970 - art. 1-1 (V)
-  - Loi n°70-9 du 2 janvier 1970 - art. 8 (V)
-  - Code du tourisme. - art. L211-18 (V)
+  - Loi n°70-9 du 2 janvier 1970 - art. 1-1
+  - Loi n°70-9 du 2 janvier 1970 - art. 8
+  - Code du tourisme. - art. L141-3
 
 _Anciens textes_:
 
@@ -2891,7 +2978,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2009-888 du 22 juillet 2009 - art. 1
+  - Ordonnance n°2017-1717 du 20 décembre 2017 - art. 1
 
 _Cité par_:
 
@@ -2911,23 +2998,41 @@ _Cité par_:
 
 ###### Article L211-5
 
-Les personnes physiques ou morales immatriculées au registre mentionné au I de l'article L. 211-18 doivent tenir leurs livres
-et documents à la disposition des agents habilités à les consulter ; elles doivent également mentionner leur immatriculation
-au registre dans leur enseigne, dans les documents remis aux tiers et dans leur publicité.
+Les personnes physiques ou morales immatriculées au registre mentionné à l'article L. 141-3 doivent tenir leurs livres et
+documents à la disposition des agents habilités à les consulter ; elles doivent également mentionner leur immatriculation au
+registre dans leur enseigne, dans les documents remis aux tiers et dans leur publicité.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2009-888 du 22 juillet 2009 - art. 1
+  - Ordonnance n°2017-1717 du 20 décembre 2017 - art. 1
 
 _Cite_:
 
-  - Code du tourisme. - art. L211-18 (V)
+  - Code du tourisme. - art. L141-3
 
 _Anciens textes_:
 
   - Code du tourisme. - art. L211-7 (V)
+
+
+###### Article L211-5-1
+
+La déclaration d'un organisateur de forfait touristique ou d'un professionnel facilitant une prestation de voyage liée
+mentionnant qu'il agit exclusivement en qualité de prestataire d'un service de voyage, d'intermédiaire ou en toute autre
+qualité, ou qu'un forfait ou une prestation de voyage liée ne constitue pas un forfait ou une prestation de voyage liée, ne
+libère pas ledit organisateur ou professionnel des obligations qui lui sont imposées par le présent chapitre.
+
+Les dispositions contractuelles ou les déclarations faites par le voyageur qui, directement ou indirectement, constituent une
+renonciation aux droits conférés aux voyageurs ou une restriction de ces droits, ou qui visent à éviter l'application de ce
+chapitre ne sont pas opposables au voyageur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2017-1717 du 20 décembre 2017 - art. 1
 
 
 ###### Article L211-6
@@ -2945,26 +3050,26 @@ _Modifié par_:
 
 ###### Article L211-7
 
-La présente section s'applique aux opérations et activités énumérées à l'article L. 211-1, au dernier alinéa de l'article L.
-211-3 et à l'article L. 211-4. 
+I.-La présente section s'applique aux prestations mentionnées aux 1° et 2° du I de l'article L. 211-1 et à l'article L.
+211-4. Toutefois, elle ne s'applique aux opérations suivantes que lorsque celles-ci entrent dans le cadre d'un forfait
+touristique tel que défini au II de l'article L. 211-2 : 
 
-Toutefois, elle ne s'applique aux opérations suivantes que lorsque celles-ci entrent dans le cadre d'un forfait touristique
-tel que défini à l'article L. 211-2 : 
+1° La réservation et la vente de titres de transport aérien ou d'autres titres de transport sur ligne régulière ; 
 
-a) La réservation et la vente de titres de transport aérien ou d'autres titres de transport sur ligne régulière ; 
+2° La location de meublés saisonniers, qui demeurent régis par la loi n° 70-9 du 2 janvier 1970 précitée et par les textes
+pris pour son application. 
 
-b) La location de meublés saisonniers, qui demeurent régis par la loi n° 70-9 du 2 janvier 1970 précitée et par les textes
-pris pour son application.
+II.-Elle ne s'applique pas aux services de voyage et forfaits touristiques vendus dans le cadre d'une convention générale
+conclue pour le voyage d'affaires.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°70-9 du 2 janvier 1970
-  - Code du tourisme. - art. L211-1 (V)
-  - Code du tourisme. - art. L211-2 (V)
-  - Code du tourisme. - art. L211-3 (V)
-  - Code du tourisme. - art. L211-4 (V)
+  - Code du tourisme. - art. L211-1
+  - Code du tourisme. - art. L211-2
+  - Code du tourisme. - art. L211-4
 
 _Anciens textes_:
 
@@ -2972,7 +3077,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2009-888 du 22 juillet 2009 - art. 1
+  - Ordonnance n°2017-1717 du 20 décembre 2017 - art. 2
 
 _Cité par_:
 
@@ -2984,9 +3089,12 @@ _Cité par_:
 
 ###### Article L211-8
 
-Le vendeur informe les intéressés, par écrit préalablement à la conclusion du contrat, du contenu des prestations proposées
-relatives au transport et au séjour, du prix et des modalités de paiement, des conditions d'annulation du contrat ainsi que
-des conditions de franchissement des frontières.
+L'organisateur ou le détaillant informe le voyageur au moyen d'un formulaire fixé par voie réglementaire, préalablement à la
+conclusion du contrat, des caractéristiques principales des prestations proposées relatives au transport et au séjour, des
+coordonnées du détaillant et de l'organisateur, du prix et des modalités de paiement, des conditions d'annulation et de
+résolution du contrat, des informations sur les assurances ainsi que des conditions de franchissement des frontières. Ces
+informations sont présentées d'une manière claire, compréhensible et apparente. Lorsque ces informations sont présentées par
+écrit, elles doivent être lisibles.
 
 **Liens relatifs à cet article**
 
@@ -2996,10 +3104,11 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2009-888 du 22 juillet 2009 - art. 1
+  - Ordonnance n°2017-1717 du 20 décembre 2017 - art. 2
 
 _Cité par_:
 
+  - Code du tourisme. - art. L211-10 (VD)
   - Code du tourisme. - art. L211-9 (VD)
   - Code du tourisme. - art. R211-5 (V)
   - Code du tourisme. - art. R212-15 (VT)
@@ -3009,11 +3118,17 @@ _Cité par_:
 
 ###### Article L211-9
 
-L'information préalable prévue à l'article L. 211-8 engage le vendeur, à moins que des modifications dans ces informations
-n'aient été portées par écrit à la connaissance des intéressés avant la conclusion du contrat. 
+Les informations précontractuelles communiquées au voyageur font partie intégrante du contrat et ne peuvent pas être
+modifiées, sauf si les parties contractantes en conviennent expressément autrement. L'organisateur ou le détaillant
+communique toutes les modifications relatives aux informations précontractuelles au voyageur, de façon claire, compréhensible
+et apparente, avant la conclusion du contrat. 
 
-Il ne peut être apporté de modification à l'information préalable que si le vendeur s'en réserve expressément la faculté dans
-celle-ci.
+Si l'organisateur ou le détaillant n'a pas satisfait aux obligations d'information concernant les frais, redevances ou autres
+coûts supplémentaires avant la conclusion du contrat, le voyageur n'est pas redevable desdits frais, redevances ou autres
+coûts. 
+
+La charge de la preuve concernant le respect des obligations d'information énoncées aux articles L. 211-8 et L. 211-10
+incombe au professionnel.
 
 **Liens relatifs à cet article**
 
@@ -3023,7 +3138,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2009-888 du 22 juillet 2009 - art. 1
+  - Ordonnance n°2017-1717 du 20 décembre 2017 - art. 2
 
 _Cité par_:
 
@@ -3032,16 +3147,30 @@ _Cité par_:
 
 _Cite_:
 
-  - Code du tourisme. - art. L211-8 (V)
+  - Code du tourisme. - art. L211-8
 
 
 ###### Article L211-10
 
-Le contrat conclu entre le vendeur et l'acheteur doit comporter, selon les modalités fixées par voie réglementaire, toutes
-indications relatives aux noms et adresses de l'organisateur, du vendeur, du garant et de l'assureur, à la description des
-prestations fournies, aux droits et obligations réciproques des parties en matière notamment de prix, de calendrier, de
-modalités de paiement et de révision éventuelle des prix, d'annulation ou de cession du contrat et à l'information de
-l'acheteur avant le début du voyage ou du séjour.
+Les contrats sont formulés en termes clairs et compréhensibles et, s'ils revêtent la forme écrite, sont lisibles. Lors de la
+conclusion du contrat, ou dans les meilleurs délais par la suite, l'organisateur ou le détaillant fournit au voyageur une
+copie ou une confirmation du contrat sur un support durable. Le voyageur est en droit de demander un exemplaire papier si le
+contrat a été conclu en la présence physique et simultanée des parties. 
+
+En ce qui concerne les contrats hors établissement définis à l'article L. 221-1 du code de la consommation, un exemplaire ou
+la confirmation du contrat est fournie au voyageur sur support papier ou, moyennant l'accord de celui-ci, sur un autre
+support durable. 
+
+Le contrat ou sa confirmation reprend l'ensemble du contenu de la convention, qui inclut toutes les informations mentionnées
+à l'article L. 211-8, et les informations complémentaires portant notamment sur les exigences particulières du voyageur que
+l'organisateur ou le détaillant a acceptées, les coordonnées complètes du représentant local de l'organisateur ou du
+détaillant et de son garant ainsi que des mentions obligatoires, fixées par voie réglementaire. 
+
+Ces informations sont présentées d'une manière claire, compréhensible et apparente. 
+
+En temps utile avant le début du voyage ou du séjour, l'organisateur ou le détaillant remet au voyageur les reçus, bons de
+voyage et billets nécessaires, les informations sur l'heure prévue de départ et, s'il y a lieu, l'heure limite
+d'enregistrement ainsi que les heures prévues des escales, des correspondances et de l'arrivée.
 
 **Liens relatifs à cet article**
 
@@ -3051,7 +3180,12 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2009-888 du 22 juillet 2009 - art. 1
+  - Ordonnance n°2017-1717 du 20 décembre 2017 - art. 2
+
+_Cite_:
+
+  - Code de la consommation - art. L221-1
+  - Code du tourisme. - art. L211-8 (VD)
 
 _Cité par_:
 
@@ -3060,10 +3194,16 @@ _Cité par_:
 
 ###### Article L211-11
 
-L'acheteur peut céder son contrat, après en avoir informé le vendeur dans un délai fixé par voie réglementaire avant le début
-du voyage ou du séjour, à une personne qui remplit toutes les conditions requises pour le voyage ou le séjour. Le cédant et
-le cessionnaire sont responsables solidairement, vis-à-vis du vendeur, du paiement du solde du prix ainsi que des frais
-supplémentaires éventuels occasionnés par cette cession.
+Le voyageur peut, moyennant un préavis raisonnable adressé à l'organisateur ou au détaillant sur un support durable avant le
+début du voyage ou du séjour, céder le contrat à une personne satisfaisant à toutes les conditions applicables à ce contrat.
+
+Le cédant du contrat et le cessionnaire sont solidairement responsables du paiement du solde du prix ainsi que des frais,
+redevances ou autres coûts supplémentaires éventuels occasionnés par cette cession. L'organisateur ou le détaillant informe
+le cédant des coûts réels de la cession. Ces coûts ne sont pas déraisonnables et n'excèdent pas le coût effectivement
+supporté par l'organisateur ou par le détaillant en raison de la cession du contrat.
+
+L'organisateur ou le détaillant apporte au cédant la preuve des frais, redevances ou autres coûts supplémentaires occasionnés
+par la cession du contrat.
 
 **Liens relatifs à cet article**
 
@@ -3073,7 +3213,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2009-888 du 22 juillet 2009 - art. 1
+  - Ordonnance n°2017-1717 du 20 décembre 2017 - art. 2
 
 _Cité par_:
 
@@ -3082,18 +3222,26 @@ _Cité par_:
 
 ###### Article L211-12
 
-Les prix prévus au contrat ne sont pas révisables, sauf si celui-ci prévoit expressément la possibilité d'une révision tant à
-la hausse qu'à la baisse et en détermine les modalités précises de calcul, uniquement pour tenir compte des variations : 
+Après la conclusion du contrat, les prix ne peuvent être majorés que si le contrat prévoit expressément cette possibilité et
+indique que le voyageur a droit à une réduction du prix. Dans ce cas, le contrat précise de quelle manière la révision du
+prix doit être calculée. Les majorations de prix sont possibles uniquement si elles sont la conséquence directe d'une
+évolution :
 
-a) Du coût des transports, lié notamment au coût du carburant ; 
+1° Du prix du transport de passagers résultant du coût du carburant ou d'autres sources d'énergie ;
 
-b) Des redevances et taxes afférentes aux prestations offertes, telles que les taxes d'atterrissage, d'embarquement ou de
-débarquement dans les ports et les aéroports ; 
+2° Du niveau des taxes ou redevances sur les services de voyage compris dans le contrat, imposées par un tiers qui ne
+participe pas directement à l'exécution du contrat, y compris les taxes touristiques, les taxes d'atterrissage ou
+d'embarquement et de débarquement dans les ports et aéroports ; ou
 
-c) Des taux de change appliqués au voyage ou au séjour considéré. 
+3° Des taux de change en rapport avec le contrat.
 
-Au cours des trente jours qui précèdent la date de départ prévue, le prix fixé au contrat ne peut faire l'objet d'une
-majoration.
+Indépendamment de son importance, une majoration du prix n'est possible que si l'organisateur ou le détaillant la notifie de
+manière claire et compréhensible au voyageur, en assortissant ladite majoration d'une justification et d'un calcul, sur un
+support durable, au plus tard vingt jours avant le début du voyage ou du séjour.
+
+Si le contrat prévoit la possibilité d'une majoration du prix, le voyageur a droit à une réduction de prix correspondant à
+toute baisse des coûts mentionnés aux 1°, 2° et 3°, qui intervient après la conclusion du contrat et avant le début du voyage
+ou du séjour.
 
 **Liens relatifs à cet article**
 
@@ -3103,26 +3251,30 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2009-888 du 22 juillet 2009 - art. 1
+  - Ordonnance n°2017-1717 du 20 décembre 2017 - art. 2
 
 _Cité par_:
 
-  - Code du tourisme. - art. L211-13 (V)
+  - Code du tourisme. - art. L211-13 (VD)
   - Code du tourisme. - art. R211-8 (VD)
 
 
 ###### Article L211-13
 
+L'organisateur ou le détaillant ne peut, avant le début du voyage ou du séjour, modifier unilatéralement les clauses du
+contrat autres que le prix conformément à l'article L. 211-12, à moins que : 
+
+1° L'organisateur ou le détaillant se soit réservé ce droit dans le contrat ; 
+
+2° La modification soit mineure ; et 
+
+3° L'organisateur ou le détaillant en informe le voyageur d'une manière claire, compréhensible et apparente sur un support
+durable. 
+
 Lorsque, avant le départ, le respect d'un des éléments essentiels du contrat est rendu impossible par suite d'un événement
-extérieur qui s'impose au vendeur, celui-ci doit le plus rapidement possible en avertir l'acheteur et informer ce dernier de
-la faculté dont il dispose soit de résilier le contrat, soit d'accepter la modification proposée par le vendeur. 
-
-Cet avertissement et cette information doivent être confirmés par écrit à l'acheteur, qui doit faire connaître son choix dans
-les meilleurs délais. Lorsqu'il résilie le contrat, l'acheteur a droit, sans supporter de pénalités ou de frais, au
-remboursement de la totalité des sommes qu'il a versées. 
-
-Le présent article s'applique également en cas de modification significative du prix du contrat intervenant conformément aux
-conditions prévues à l'article L. 211-12.
+extérieur qui s'impose à l'organisateur ou au détaillant, celui-ci doit le plus rapidement possible en avertir le voyageur et
+informer ce dernier de la faculté dont il dispose soit de résoudre sans frais le contrat, soit d'accepter la modification
+proposée par l'organisateur ou le détaillant.
 
 **Liens relatifs à cet article**
 
@@ -3132,11 +3284,11 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2009-888 du 22 juillet 2009 - art. 1
+  - Ordonnance n°2017-1717 du 20 décembre 2017 - art. 2
 
 _Cite_:
 
-  - Code du tourisme. - art. L211-12 (V)
+  - Code du tourisme. - art. L211-12 (VD)
 
 _Cité par_:
 
@@ -3146,8 +3298,35 @@ _Cité par_:
 
 ###### Article L211-14
 
-Lorsque, avant le départ, le vendeur résilie le contrat en l'absence de faute de l'acheteur, la totalité des sommes versées
-par ce dernier lui est restituée, sans préjudice des dommages et intérêts auxquels celui-ci pourrait prétendre.
+I.-Le voyageur peut résoudre le contrat à tout moment avant le début du voyage ou du séjour. Dans ce cas, le vendeur peut lui
+demander de payer des frais de résolution appropriés et justifiables. Le contrat peut stipuler des frais de résolution
+standard raisonnables, calculés en fonction de la date de résolution du contrat avant le début du voyage ou du séjour et des
+économies de coûts et des revenus escomptés du fait d'une remise à disposition des services de voyage concernés. En l'absence
+de frais de résolution standard, le montant des frais de résolution correspond au prix moins les économies de coûts et les
+revenus réalisés du fait d'une remise à disposition des services de voyage. A la demande du voyageur, le vendeur justifie le
+montant des frais de résolution.
+
+II.-Le voyageur a le droit de résoudre le contrat avant le début du voyage ou du séjour sans payer de frais de résolution si
+des circonstances exceptionnelles et inévitables, survenant au lieu de destination ou à proximité immédiate de celui-ci, ont
+des conséquences importantes sur l'exécution du contrat ou sur le transport des passagers vers le lieu de destination. Dans
+ce cas, le voyageur a droit au remboursement intégral des paiements effectués mais pas à un dédommagement supplémentaire.
+
+III.-L'organisateur ou le détaillant peut résoudre le contrat et rembourser intégralement le voyageur des paiements
+effectués, mais il n'est pas tenu à une indemnisation supplémentaire, si :
+
+1° Le nombre de personnes inscrites pour le voyage ou le séjour est inférieur au nombre minimal indiqué dans le contrat et
+que le vendeur notifie la résolution du contrat au voyageur dans le délai fixé par le contrat, mais au plus tard :
+
+- vingt jours avant le début du voyage ou du séjour dans le cas de voyages dont la durée dépasse six jours ;
+
+- sept jours avant le début du voyage ou du séjour dans le cas de voyages dont la durée est de deux à six jours ;
+
+- quarante-huit heures avant le début du voyage ou du séjour dans le cas de voyages ne durant pas plus de deux jours ;
+
+ou
+
+2° L'organisateur ou le détaillant est empêché d'exécuter le contrat en raison de circonstances exceptionnelles et
+inévitables et notifie la résolution du contrat au voyageur dans les meilleurs délais avant le début du voyage ou du séjour.
 
 **Liens relatifs à cet article**
 
@@ -3157,7 +3336,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2009-888 du 22 juillet 2009 - art. 1
+  - Ordonnance n°2017-1717 du 20 décembre 2017 - art. 2
 
 _Cité par_:
 
@@ -3165,48 +3344,84 @@ _Cité par_:
   - Code du tourisme. - art. R211-10 (VD)
 
 
-###### Article L211-15
-
-Lorsque, après le départ, un des éléments essentiels du contrat ne peut être exécuté, le vendeur doit, sauf impossibilité
-dûment justifiée, proposer à l'acheteur des prestations en remplacement de celles qui ne sont pas fournies. 
-
-Le vendeur prend à sa charge les suppléments de prix qui en résultent ou rembourse la différence de prix entre les
-prestations prévues et fournies. 
-
-Si l'acheteur n'accepte pas la modification proposée, le vendeur doit lui procurer les titres de transport nécessaires à son
-retour, sans préjudice des dommages et intérêts auxquels l'acheteur pourrait prétendre.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°92-645 du 13 juillet 1992 - art. 21 (Ab)
-
-_Modifié par_:
-
-  - Loi n°2009-888 du 22 juillet 2009 - art. 1
-
-_Abrogé par_:
-
-  - Ordonnance n°2017-1717 du 20 décembre 2017 - art. 2
-
-_Cité par_:
-
-  - Code du tourisme. - art. R211-12 (V)
-
-
 ##### Section 3 : Responsabilité civile professionnelle<a id=40></a>
 
 ###### Article L211-16
 
-Toute personne physique ou morale qui se livre aux opérations mentionnées à l'article L. 211-1 est responsable de plein droit
-à l'égard de l'acheteur de la bonne exécution des obligations résultant du contrat, que ce contrat ait été conclu à distance
-ou non et que ces obligations soient à exécuter par elle-même ou par d'autres prestataires de services, sans préjudice de son
-droit de recours contre ceux-ci et dans la limite des dédommagements prévus par les conventions internationales. 
+I.-Le professionnel qui vend un forfait touristique mentionné au 1° du I de l'article L. 211-1 est responsable de plein droit
+de l'exécution des services prévus par ce contrat, que ces services soient exécutés par lui-même ou par d'autres prestataires
+de services de voyage, sans préjudice de son droit de recours contre ceux-ci. 
 
-Toutefois, elle peut s'exonérer de tout ou partie de sa responsabilité en apportant la preuve que l'inexécution ou la
-mauvaise exécution du contrat est imputable soit à l'acheteur, soit au fait, imprévisible et insurmontable, d'un tiers
-étranger à la fourniture des prestations prévues au contrat, soit à un cas de force majeure.
+Le professionnel qui vend un service de voyage mentionné au 2° du I de l'article L. 211-1 est responsable de plein droit de
+l'exécution du service prévu par ce contrat, sans préjudice de son droit de recours contre le prestataire de service. 
+
+Toutefois le professionnel peut s'exonérer de tout ou partie de sa responsabilité en apportant la preuve que le dommage est
+imputable soit au voyageur, soit à un tiers étranger à la fourniture des services de voyage compris dans le contrat et revêt
+un caractère imprévisible ou inévitable, soit à des circonstances exceptionnelles et inévitables. 
+
+Lorsqu'un organisateur ou un détaillant verse des dommages et intérêts, accorde une réduction de prix ou s'acquitte des
+autres obligations qui lui incombent, il peut demander réparation à tout tiers ayant contribué au fait à l'origine de
+l'indemnisation, de la réduction de prix ou d'autres obligations. 
+
+II.-Le voyageur informe l'organisateur ou le détaillant, dans les meilleurs délais eu égard aux circonstances de l'espèce, de
+toute non-conformité constatée lors de l'exécution d'un service de voyage inclus dans le contrat. 
+
+Le voyageur peut adresser des messages, des demandes ou des plaintes en rapport avec l'exécution du contrat directement au
+détaillant par l'intermédiaire duquel le voyage ou le séjour a été acheté. Le détaillant transmet ces messages, demandes ou
+plaintes à l'organisateur dans les meilleurs délais. Aux fins du respect des dates butoirs ou des délais de prescription, la
+date de réception, par le détaillant, des messages, demandes ou plaintes est réputée être la date de leur réception par
+l'organisateur. 
+
+III.-Si l'un des services de voyage n'est pas exécuté conformément au contrat, l'organisateur ou le détaillant remédie à la
+non-conformité, sauf si cela est impossible ou entraîne des coûts disproportionnés, compte tenu de l'importance de la non-
+conformité et de la valeur des services de voyage concernés. 
+
+Si l'organisateur ou le détaillant ne remédie pas à la non-conformité, conformément à l'alinéa précédent, le voyageur peut
+demander une réduction de prix et, en cas de dommage distinct, des dommages et intérêts en application de l'article L.
+211-17. 
+
+IV.-Sans préjudice des exceptions énoncées au III, si l'organisateur ou le détaillant ne remédie pas à la non-conformité dans
+un délai raisonnable fixé par le voyageur, celui-ci peut y remédier lui-même et réclamer le remboursement des dépenses
+nécessaires. Il n'est pas nécessaire que le voyageur précise un délai si l'organisateur ou le détaillant refuse de remédier à
+la non-conformité ou si une solution immédiate est requise. 
+
+V.-Lorsqu'une part importante des services de voyage ne peut être fournie comme prévu dans le contrat, l'organisateur ou le
+détaillant propose, sans supplément de prix pour le voyageur, d'autres prestations appropriées, si possible de qualité égale
+ou supérieure à ceux spécifiés dans le contrat, pour la continuation du contrat, y compris lorsque le retour du voyageur à
+son lieu de départ n'est pas fourni comme convenu. 
+
+Lorsque les autres prestations proposées donnent lieu à un voyage ou séjour de qualité inférieure à celle spécifiée dans le
+contrat, l'organisateur ou le détaillant octroie au voyageur une réduction de prix appropriée. 
+
+Le voyageur ne peut refuser les autres prestations proposées que si elles ne sont pas comparables à ce qui avait été prévu
+dans le contrat ou si la réduction de prix octroyée n'est pas appropriée. 
+
+VI.-Lorsqu'une non-conformité perturbe considérablement l'exécution d'un voyage ou séjour et que l'organisateur ou le
+détaillant n'y remédie pas dans un délai raisonnable fixé par le voyageur, ce dernier peut résoudre le contrat sans payer de
+frais de résolution et demander, le cas échéant, conformément à l'article L. 211-17, une réduction de prix et en cas de
+dommage distinct des dommages et intérêts. 
+
+S'il s'avère impossible de proposer d'autres prestations ou si le voyageur refuse les autres prestations proposées
+conformément au troisième alinéa du V, le voyageur a droit, s'il y a lieu, à une réduction de prix et, en cas de dommage
+distinct, à des dommages et intérêts conformément à l'article L. 211-17, sans résolution du contrat. 
+
+Si le contrat comprend le transport de passagers, l'organisateur ou le détaillant fournit également au voyageur, dans les cas
+mentionnés aux deux précédents alinéas, le rapatriement par un moyen de transport équivalent, dans les meilleurs délais eu
+égard aux circonstances de l'espèce et sans frais supplémentaires pour le voyageur. 
+
+VII.-Lorsqu'il est impossible, en raison de circonstances exceptionnelles et inévitables, d'assurer le retour du voyageur
+comme prévu dans le contrat, l'organisateur ou le détaillant supporte les coûts de l'hébergement nécessaire, si possible de
+catégorie équivalente, pour une durée maximale de trois nuitées par voyageur. Si des durées plus longues sont prévues par la
+législation de l'Union européenne sur les droits des passagers applicable aux moyens de transport concernés pour le retour du
+voyageur, ces durées s'appliquent. 
+
+VIII.-La limitation des coûts prévue à l'alinéa précédent ne s'applique pas aux personnes à mobilité réduite, telles que
+définies à l'article 2, point a, du règlement (CE) n° 1107/2006, aux personnes les accompagnant, aux femmes enceintes et aux
+mineurs non accompagnés, ni aux personnes nécessitant une assistance médicale spécifique, à condition que l'organisateur ou
+le détaillant ait été prévenu de leurs besoins particuliers au moins quarante-huit heures avant le début du contrat.
+L'organisateur ou le détaillant ne saurait invoquer des circonstances exceptionnelles et inévitables pour limiter la
+responsabilité au titre du présent article si le prestataire de transport concerné ne peut se prévaloir de telles
+circonstances en vertu de la législation applicable de l'Union européenne.
 
 **Liens relatifs à cet article**
 
@@ -3216,11 +3431,11 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2009-888 du 22 juillet 2009 - art. 1
+  - Ordonnance n°2017-1717 du 20 décembre 2017 - art. 3
 
 _Cite_:
 
-  - Code du tourisme. - art. L211-1 (V)
+  - Code du tourisme. - art. L211-1
 
 _Cité par_:
 
@@ -3232,9 +3447,32 @@ _Cité par_:
 
 ###### Article L211-17
 
-L'article L. 211-16 ne s'applique pas aux personnes physiques ou morales pour les opérations de réservation ou de vente,
-conclues à distance ou non, n'entrant pas dans un forfait touristique tel que défini à l'article L. 211-2, relatives soit à
-des titres de transport aérien, soit à d'autres titres de transport sur ligne régulière.
+I.-Le voyageur a droit à une réduction de prix appropriée pour toute période de non-conformité des services fournis dans le
+cadre d'un contrat, sauf si l'organisateur ou le détaillant prouve que la non-conformité est imputable au voyageur. 
+
+II.-Le voyageur a droit à des dommages et intérêts de la part de l'organisateur ou du détaillant pour tout préjudice subi en
+raison de la non-conformité des services fournis. L'indemnisation est effectuée dans les meilleurs délais. 
+
+III.-Le voyageur n'a droit à aucune indemnisation si l'organisateur ou le détaillant prouve que la non-conformité est
+imputable soit au voyageur, soit à un tiers étranger à la fourniture des services de voyage compris dans le contrat et revêt
+un caractère imprévisible ou inévitable, soit à des circonstances exceptionnelles et inévitables. 
+
+IV.-Dans la mesure où des conventions internationales circonscrivent les conditions dans lesquelles une indemnisation est due
+par un prestataire fournissant un service de voyage qui fait partie d'un voyage ou séjour ou limitent l'étendue de cette
+indemnisation, les mêmes limites s'appliquent à l'organisateur ou au détaillant. Dans les autres cas, le contrat peut limiter
+les dommages et intérêts à verser par l'organisateur ou le détaillant, pour autant que cette limitation ne s'applique pas aux
+préjudices corporels ni aux dommages causés intentionnellement ou par négligence et qu'elle ne représente pas moins de trois
+fois le prix total du voyage ou séjour. 
+
+V.-Les droits à indemnisation ou à réduction de prix prévus par le présent code ne portent pas atteinte aux droits des
+voyageurs au titre du règlement (CE) n° 261/2004, du règlement (CE) n° 1371/2007, du règlement (CE) n° 392/2009, du règlement
+(UE) n° 1177/2010, du règlement (UE) n° 181/2011 et des conventions internationales. Les voyageurs ont le droit d'introduire
+des réclamations au titre du présent code et desdits règlements et conventions internationales. L'indemnisation ou la
+réduction de prix octroyée en vertu du présent code et l'indemnisation ou la réduction de prix octroyée en vertu desdits
+règlements et conventions internationales sont déduites les unes des autres pour éviter toute double indemnisation. 
+
+VI.-Le délai de prescription pour l'introduction des réclamations au titre du présent article est fixé à deux ans, sous
+réserve du délai prévu à l'article 2226 du code civil.
 
 **Liens relatifs à cet article**
 
@@ -3244,7 +3482,11 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2009-888 du 22 juillet 2009 - art. 1
+  - Ordonnance n°2017-1717 du 20 décembre 2017 - art. 3
+
+_Cite_:
+
+  - Code civil - art. 2226
 
 _Cité par_:
 
@@ -3252,45 +3494,91 @@ _Cité par_:
   - Code du tourisme. - art. L211-18 (V)
   - Code du tourisme. - art. R212-37 (T)
 
+
+###### Article L211-17-1
+
+L'organisateur d'un voyage ou séjour ou le détaillant apporte dans les meilleurs délais eu égard aux circonstances de
+l'espèce une aide appropriée au voyageur en difficulté, y compris dans les circonstances mentionnées au VII de l'article L.
+211-16.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2017-1717 du 20 décembre 2017 - art. 3
+
+**Liens**:
+
+  - DEPLACE: Ordonnance n°2017-1717 du 20 décembre 2017 - art. 3
+
 _Cite_:
 
-  - Code du tourisme. - art. L211-2 (V)
+  - Code du tourisme. - art. L211-16
+
+
+###### Article L211-17-2
+
+Le professionnel est responsable de toute erreur due à des défauts techniques du système de réservation qui lui est imputable
+et, si le professionnel a accepté d'organiser la réservation d'un voyage ou séjour, il est responsable des erreurs commises
+au cours de la procédure de réservation.
+
+Un professionnel n'est pas responsable des erreurs de réservation qui sont imputables au voyageur ou qui sont causées par des
+circonstances exceptionnelles et inévitables.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2017-1717 du 20 décembre 2017 - art. 3
+
+
+###### Article L211-17-3
+
+La présente section n'est pas applicable :
+
+1° Aux prestations qui n'entrent pas dans le cadre d'un forfait touristique et qui sont relatives soit à des titres de
+transport aérien, soit à d'autres titres de transport sur ligne régulière ;
+
+2° Aux prestations vendues dans le cadre d'une convention générale conclue pour le voyage d'affaires.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - DEPLACE: Ordonnance n°2017-1717 du 20 décembre 2017 - art. 3
+
+_Créé par_:
+
+  - Ordonnance n°2017-1717 du 20 décembre 2017 - art. 3
 
 
 ##### Section 4 :  Obligation et conditions d'immatriculation<a id=41></a>
 
 ###### Article L211-18
 
-I.-Les personnes physiques ou morales mentionnées à l'article L. 211-1 sont immatriculées au registre mentionné au premier
-alinéa de l'article L. 141-3. 
+I.-Les personnes physiques ou morales mentionnées à l'article L. 211-1 sont immatriculées au registre mentionné à l'article
+L. 141-3. 
 
 II.-Afin d'être immatriculées, ces personnes doivent : 
 
-a) Justifier, à l'égard des clients, d'une garantie financière suffisante, spécialement affectée au remboursement des fonds
-reçus au titre des forfaits touristiques et de ceux des services énumérés à l'article L. 211-1 qui ne portent pas uniquement
-sur un transport. Cette garantie doit résulter de l'engagement d'un organisme de garantie collective, d'un établissement de
-crédit ou d'une entreprise d'assurance établis sur le territoire d'un Etat membre de la Communauté européenne ou d'un autre
-Etat partie à l'accord sur l'Espace économique européen ou d'une société de financement. Elle doit couvrir les frais de
-rapatriement éventuel. Le remboursement peut être remplacé, avec l'accord du client, par la fourniture d'une prestation
-différente en remplacement de la prestation prévue. Cette prestation différente proposée par l'organisme de garantie
-financière ne requiert pas, en situation d'urgence, l'accord exprès du client, dès lors que sa mise en œuvre n'entraîne pas
-une modification substantielle du contrat ; 
+1° Justifier, à l'égard des voyageurs, d'une garantie financière suffisante, spécialement affectée au remboursement des fonds
+reçus au titre des forfaits touristiques, des prestations de voyage liées et de ceux des services mentionnés au 2° du I de
+l'article L. 211-1 qui ne portent pas uniquement sur un transport, sauf lorsque les forfaits touristiques et services de
+voyage sont achetés en vertu d'une convention générale conclue pour l'organisation d'un voyage d'affaires. Cette garantie
+doit résulter de l'engagement d'un organisme de garantie collective, d'un établissement de crédit ou d'une entreprise
+d'assurance établis sur le territoire d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur
+l'Espace économique européen ou d'une société de financement. Si une prestation de transport est incluse, la garantie doit
+couvrir les frais de rapatriement éventuel vers le lieu de départ ou à un autre lieu décidé d'un commun accord par les
+parties contractantes. Le remboursement peut être remplacé, avec l'accord du voyageur, par la fourniture d'une prestation
+différente en remplacement de la prestation prévue. La prestation proposée par l'organisme de garantie financière ne requiert
+pas l'accord exprès du voyageur, dès lors que sa mise en œuvre n'entraîne qu'une modification mineure du contrat et que le
+voyageur en est informé de manière claire, compréhensible et apparente sur un support durable ; 
 
-b) Justifier d'une assurance garantissant les conséquences pécuniaires de la responsabilité civile professionnelle. 
+2° Justifier d'une assurance garantissant les conséquences pécuniaires de la responsabilité civile professionnelle. 
 
-III.-Ne sont pas tenus de satisfaire aux conditions prévues aux I et II : 
-
-a) Les associations et organismes sans but lucratif qui n'ont pas pour objet l'organisation de voyages ou de séjours et qui
-ne se livrent à ces opérations qu'à l'occasion de leurs assemblées générales ou de voyages exceptionnels, liés à leur
-fonctionnement et qu'ils organisent pour leurs adhérents ou ressortissants ; 
-
-b) Les associations et organismes sans but lucratif appartenant à une fédération ou une union déclarée s'en portant garantes
-à la condition que ces dernières satisfassent aux obligations mentionnées aux I et II ; 
-
-c) Les associations et organismes sans but lucratif organisant sur le territoire national des accueils collectifs de mineurs
-à caractère éducatif conformément à l'article L. 227-4 du code de l'action sociale et des familles ou ceux gérant des
-villages de vacances ou des maisons familiales agréées, dans le cadre exclusif de leurs activités propres, y compris le
-transport lié au séjour.
+III.-Ne sont pas tenus de satisfaire aux conditions prévues aux I et II les associations et organismes sans but lucratif
+appartenant à une fédération ou une union déclarée s'en portant garantes à la condition que ces dernières satisfassent aux
+obligations mentionnées aux I et II.
 
 **Liens relatifs à cet article**
 
@@ -3327,11 +3615,30 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2015-1682 du 17 décembre 2015 - art. 16
+  - Ordonnance n°2017-1717 du 20 décembre 2017 - art. 4
 
 _Cite_:
 
-  - Code de l'action sociale et des familles - art. L227-4
+  - Code du tourisme. - art. L141-3
+
+
+###### Article L211-18-1
+
+Les professionnels qui ne sont pas établis dans un Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord
+sur l'Espace économique européen et qui vendent ou offrent à la vente les prestations mentionnées à l'article L. 211-1 ou qui
+dirigent par tout moyen ces activités vers la France sont tenus de fournir la garantie contre l'insolvabilité conformément à
+l'article L. 211-18.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2017-1717 du 20 décembre 2017 - art. 4
+
+_Cite_:
+
+  - Code du tourisme. - art. L211-1
+  - Code du tourisme. - art. L211-18
 
 
 ##### Section 5 : De la liberté d'établissement<a id=42></a>
@@ -3370,9 +3677,9 @@ _Modifié par_:
 
 ###### Article L211-20
 
-Tout ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique
-européen, légalement établi dans l'un de ces Etats, pour l'exercice d'activités mentionnées au I de l'article L. 211-1, peut
-exercer ces activités de façon temporaire et occasionnelle en France.
+Toute personne physique ou morale légalement établie dans un Etat membre de l'Union européenne ou dans un autre Etat partie à
+l'accord sur l'Espace économique européen, peut exercer en France les activités mentionnées au I de l'article L. 211-1.
+L'ensemble des règles fixées au présent chapitre sont applicables à l'activité de ces personnes.
 
 **Liens relatifs à cet article**
 
@@ -3382,7 +3689,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Ordonnance n°2015-1682 du 17 décembre 2015 - art. 16
+  - Ordonnance n°2017-1717 du 20 décembre 2017 - art. 5
 
 _Cite_:
 
@@ -3391,49 +3698,30 @@ _Cite_:
 
 ###### Article L211-21
 
-Lorsque le prestataire fournit pour la première fois des services en France, il en informe au préalable l'organisme mentionné
-à l'article L. 141-2 par une déclaration écrite, comprenant notamment les informations relatives à sa garantie financière et
-son assurance de responsabilité civile professionnelle. 
+Lorsque le prestataire fournit pour la première fois des services en France, il en informe au préalable la commission
+d'immatriculation mentionnée à l'article L. 141-2 par une déclaration écrite, comprenant notamment les informations relatives
+à sa garantie financière et son assurance de responsabilité civile professionnelle. La déclaration est enregistrée au
+registre mentionné à l'article L. 141-3. 
 
-Cette déclaration est réitérée en cas de changement matériel dans les éléments de la déclaration et doit être renouvelée
-chaque année si le prestataire envisage d'exercer cette activité au cours de l'année concernée.
+Cette déclaration est réitérée en cas de changement dans les éléments de la déclaration et doit être renouvelée tous les
+trois ans si le prestataire poursuit son activité vers la France.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2009-888 du 22 juillet 2009 - art. 1
+  - Ordonnance n°2017-1717 du 20 décembre 2017 - art. 5
 
 _Cite_:
 
-  - Code du tourisme. - art. L141-2 (V)
+  - Code du tourisme. - art. L141-2
+  - Code du tourisme. - art. L141-3
 
 _Cité par_:
 
   - Code du tourisme. - art. L211-19 (V)
   - Code du tourisme. - art. L211-22 (VT)
   - Code du tourisme. - art. R211-51 (VD)
-
-
-###### Article L211-22
-
-La déclaration visée à l'article L. 211-21 vaut immatriculation automatique et temporaire au registre mentionné au I de
-l'article L. 211-18.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2009-888 du 22 juillet 2009 - art. 1
-
-_Abrogé par_:
-
-  - Ordonnance n°2017-1717 du 20 décembre 2017 - art. 5
-
-_Cite_:
-
-  - Code du tourisme. - art. L211-18
-  - Code du tourisme. - art. L211-21
 
 
 ##### Section 7 : Sanctions et mesures conservatoires<a id=44></a>
@@ -10478,16 +10766,16 @@ _Créé par_:
 
 ###### Article R211-1
 
-Les dispositions réglementaires des titres Ier et II sont applicables, sous réserve des dispositions prévues à l'article L.
-211-3, à toute personne physique ou morale qui se livre ou apporte son concours aux opérations mentionnées à l'article L.
-211-1. 
+Les dispositions réglementaires des titres Ier et II sont applicables à toute personne physique ou morale qui se livre aux
+opérations mentionnées à l'article L. 211-1, sous réserve des dispositions de la seconde phrase du III, du IV et du V de cet
+article et des dispositions des articles L. 211-7 et L. 211-17-3 relatives aux prestations vendues dans le cadre d'une
+convention générale conclue pour l'organisation de voyages d'affaires.
 
 Les dispositions réglementaires des titres Ier et II ne sont pas applicables aux transporteurs aériens et ferroviaires
-délivrant les titres de transport mentionnés respectivement au d et au e de l'article L. 211-3, à condition que le prix des
-titres de transport délivrés à titre accessoire par ces transporteurs n'excède pas 50 % du prix de la prestation principale. 
+délivrant les titres de transport mentionnés respectivement au 2° et au 3° du V de l'article L. 211-1.
 
 Les opérations de délivrance des titres de transport prévus à l'alinéa précédent doivent être réalisées par les transporteurs
-aériens ou ferroviaires directement ou au moyen de leur propre matériel automatisé mis en oeuvre sous leur responsabilité. 
+aériens ou ferroviaires directement ou au moyen de leur propre matériel automatisé mis en œuvre sous leur responsabilité.
 
 La délivrance de titres de transport s'effectue conformément aux textes législatifs et réglementaires ou aux accords
 internationaux propres à l'organisation des transports.
@@ -10500,7 +10788,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
+  - Décret n°2017-1871 du 29 décembre 2017 - art. 1
 
 _Cité par_:
 
@@ -10508,15 +10796,34 @@ _Cité par_:
   - Code du tourisme. - art. R213-5 (VT)
   - Code du tourisme. - art. R221-12 (V)
 
-_Cite_:
 
-  - Code du tourisme. - art. L211-1
-  - Code du tourisme. - art. L211-3
+###### Article R211-1-1
+
+Pour l'application du B du II et du III de l'article L. 211-2, le service de voyage dont la valeur est d'au moins 25 % du
+montant de la combinaison représente une part significative.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-1871 du 29 décembre 2017 - art. 1
+
+
+###### Article R211-1-2
+
+Le formulaire mentionné au I de l'article L. 211-3 est fixé par arrêté conjoint du ministre chargé du tourisme et du ministre
+chargé de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-1871 du 29 décembre 2017 - art. 1
 
 
 ###### Article R211-2
 
-Les personnes physiques ou morales immatriculées au registre prévu au a de l'article L. 141-3 doivent mentionner le nom ou la
+Les personnes physiques ou morales immatriculées au registre prévu  à l'article L. 141-3 doivent mentionner le nom ou la
 raison sociale et la forme juridique de l'entreprise ou de l'organisme, leur numéro d'immatriculation, le nom et l'adresse de
 leur garant et de leur assureur dans leur correspondance et les documents contractuels. Ces informations doivent aussi
 figurer, le cas échéant, sur leurs sites internet. Sur les documents non contractuels ou publicitaires doivent figurer le nom
@@ -10528,8 +10835,8 @@ laquelle ils sont rattachés. Ces informations doivent aussi figurer, le cas éc
 de nature contractuelle doivent préciser les noms et adresses du garant et de l'assureur de cette fédération ou de cette
 union. 
 
-Toute personne physique ou morale immatriculée au registre mentionné au a de l'article L. 141-3 tient ses livres et documents
-à la disposition du garant et des personnes habilitées à les consulter par le ministre chargé du tourisme.
+Toute personne physique ou morale immatriculée au registre mentionné  à l'article L. 141-3 tient ses livres et documents à la
+disposition du garant et des personnes habilitées à les consulter par le ministre chargé du tourisme.
 
 **Liens relatifs à cet article**
 
@@ -10539,7 +10846,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
+  - Décret n°2017-1871 du 29 décembre 2017 - art. 5
 
 _Cite_:
 
@@ -10548,36 +10855,28 @@ _Cite_:
 
 _Cité par_:
 
-  - Code du tourisme. - art. R211-3-1 (V)
+  - Code du tourisme. - art. R211-3-1 (VD)
   - Code du tourisme. - art. R221-3 (V)
 
 
 ##### Section 2 : Contrat de vente de voyages et de séjours.<a id=177></a>
 
+##### Section 2 : Contrat de vente de voyages et de séjours.<a id=178></a>
+
 ###### Article R211-3
 
-Sous réserve des exclusions prévues aux troisième et quatrième alinéas de l'article L. 211-7, toute offre et toute vente de
-prestations de voyages ou de séjours donnent lieu à la remise de documents appropriés qui répondent aux règles définies par
-la présente section. 
-
-En cas de vente de titres de transport aérien ou de titres de transport sur ligne régulière non accompagnée de prestations
-liées à ces transports, le vendeur délivre à l'acheteur un ou plusieurs billets de passage pour la totalité du voyage, émis
-par le transporteur ou sous sa responsabilité. Dans le cas de transport à la demande, le nom et l'adresse du transporteur,
-pour le compte duquel les billets sont émis, doivent être mentionnés. 
-
-La facturation séparée des divers éléments d'un même forfait touristique ne soustrait pas le vendeur aux obligations qui lui
-sont faites par les dispositions réglementaires de la présente section.
+Toute offre et toute vente des prestations mentionnées à l'article L. 211-1 donnent lieu à la remise de documents appropriés
+qui répondent aux règles définies par la présente section. .
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Arrêté du 31 juillet 1997 - art. 1 (Ab)
-  - Code du tourisme. - art. R211-5 (T)
 
 _Modifié par_:
 
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
+  - Décret n°2017-1871 du 29 décembre 2017 - art. 2
 
 _Cite_:
 
@@ -10592,16 +10891,16 @@ _Cité par_:
 ###### Article R211-3-1
 
 L'échange d'informations précontractuelles ou la mise à disposition des conditions contractuelles est effectué par écrit. Ils
-peuvent se faire par voie électronique dans les conditions de validité et d'exercice prévues aux articles 1125 à 1127-6, 1176
-et 1177 du code civil. Sont mentionnés le nom ou la raison sociale et l'adresse du vendeur ainsi que l'indication de son
-immatriculation au registre prévu au a de l'article L. 141-3 ou, le cas échéant, le nom, l'adresse et l'indication de
-l'immatriculation de la fédération ou de l'union mentionnées au deuxième alinéa de l'article R. 211-2.
+peuvent se faire par voie électronique. Sont mentionnés le nom ou la raison sociale et l'adresse de l'organisateur ou du
+détaillant ainsi que l'indication de son immatriculation au registre prévu à l'article L. 141-3 ou, le cas échéant, le nom,
+l'adresse et l'indication de l'immatriculation de la fédération ou de l'union mentionnées au deuxième alinéa de l'article R.
+211-2.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2016-1278 du 29 septembre 2016 - art. 1 (V)
+  - Décret n°2017-1871 du 29 décembre 2017 - art. 2
 
 _Cite_:
 
@@ -10609,91 +10908,101 @@ _Cite_:
   - Code civil - art. 1176
   - Code civil - art. 1177
   - Code du tourisme. - art. L141-3
-  - Code du tourisme. - art. R211-2
+  - Code du tourisme. - art. R211-2 (VD)
 
 
 ###### Article R211-4
 
-Préalablement à la conclusion du contrat, le vendeur doit communiquer au consommateur les informations sur les prix, les
-dates et les autres éléments constitutifs des prestations fournies à l'occasion du voyage ou du séjour tels que : 
+Préalablement à la conclusion du contrat, l'organisateur ou le détaillant doit communiquer au voyageur les informations
+suivantes :
 
-1° La destination, les moyens, les caractéristiques et les catégories de transports utilisés ; 
+1° Les caractéristiques principales des services de voyage :
 
-2° Le mode d'hébergement, sa situation, son niveau de confort et ses principales caractéristiques, son homologation et son
-classement touristique correspondant à la réglementation ou aux usages du pays d'accueil ; 
+a) La ou les destinations, l'itinéraire et les périodes de séjour, avec les dates et, lorsque le logement est compris, le
+nombre de nuitées comprises ;
 
-3° Les prestations de restauration proposées ; 
+b) Les moyens, caractéristiques et catégories de transport, les lieux, dates et heures de départ et de retour, la durée et le
+lieu des escales et des correspondances. Lorsque l'heure exacte n'est pas encore fixée, l'organisateur ou le détaillant
+informe le voyageur de l'heure approximative du départ et du retour ;
 
-4° La description de l'itinéraire lorsqu'il s'agit d'un circuit ; 
+c) La situation, les principales caractéristiques et, s'il y a lieu, la catégorie touristique de l'hébergement en vertu des
+règles du pays de destination ;
 
-5° Les formalités administratives et sanitaires à accomplir par les nationaux ou par les ressortissants d'un autre Etat
-membre de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen en cas, notamment, de
-franchissement des frontières ainsi que leurs délais d'accomplissement ; 
+d) Les repas fournis ;
 
-6° Les visites, excursions et les autres services inclus dans le forfait ou éventuellement disponibles moyennant un
-supplément de prix ; 
+e) Les visites, les excursions ou les autres services compris dans le prix total convenu pour le contrat ;
 
-7° La taille minimale ou maximale du groupe permettant la réalisation du voyage ou du séjour ainsi que, si la réalisation du
-voyage ou du séjour est subordonnée à un nombre minimal de participants, la date limite d'information du consommateur en cas
-d'annulation du voyage ou du séjour ; cette date ne peut être fixée à moins de vingt et un jours avant le départ ; 
+f) Lorsque cela ne ressort pas du contexte, si les services de voyage éventuels seront fournis au voyageur en tant que membre
+d'un groupe et, dans ce cas, si possible, la taille approximative du groupe ;
 
-8° Le montant ou le pourcentage du prix à verser à titre d'acompte à la conclusion du contrat ainsi que le calendrier de
-paiement du solde ; 
+g) Lorsque le bénéfice d'autres services touristiques fournis au voyageur repose sur une communication verbale efficace, la
+langue dans laquelle ces services seront fournis ;
 
-9° Les modalités de révision des prix telles que prévues par le contrat en application de l'article R. 211-8 ; 
+h) Des informations sur le fait de savoir si le voyage ou le séjour de vacances est, d'une manière générale, adapté aux
+personnes à mobilité réduite et, à la demande du voyageur, des informations précises sur l'adéquation du voyage ou du séjour
+de vacances aux besoins du voyageur ;
 
-10° Les conditions d'annulation de nature contractuelle ; 
+2° La dénomination sociale et l'adresse géographique de l'organisateur et du détaillant, ainsi que leurs coordonnées
+téléphoniques et, s'il y a lieu, électroniques ;
 
-11° Les conditions d'annulation définies aux articles R. 211-9, R. 211-10 et R. 211-11 ; 
+3° Le prix total incluant les taxes et, s'il y a lieu, tous les frais, redevances ou autres coûts supplémentaires, ou, quand
+ceux-ci ne peuvent être raisonnablement calculés avant la conclusion du contrat, une indication du type de coûts additionnels
+que le voyageur peut encore avoir à supporter ;
 
-12° L'information concernant la souscription facultative d'un contrat d'assurance couvrant les conséquences de certains cas
-d'annulation ou d'un contrat d'assistance couvrant certains risques particuliers, notamment les frais de rapatriement en cas
-d'accident ou de maladie ; 
+4° Les modalités de paiement, y compris le montant ou le pourcentage du prix à verser à titre d'acompte et le calendrier pour
+le paiement du solde, ou les garanties financières à verser ou à fournir par le voyageur ;
 
-13° Lorsque le contrat comporte des prestations de transport aérien, l'information, pour chaque tronçon de vol, prévue aux
-articles R. 211-15 à R. 211-18.
+5° Le nombre minimal de personnes requis pour la réalisation du voyage ou du séjour et la date limite mentionnée au III de
+l'article L. 211-14 précédant le début du voyage ou du séjour pour une éventuelle résolution du contrat au cas où ce nombre
+ne serait pas atteint ;
+
+6° Des informations d'ordre général concernant les conditions applicables en matière de passeports et de visas, y compris la
+durée approximative d'obtention des visas, ainsi que des renseignements sur les formalités sanitaires, du pays de
+destination ;
+
+7° Une mention indiquant que le voyageur peut résoudre le contrat à tout moment avant le début du voyage ou du séjour,
+moyennant le paiement de frais de résolution appropriés ou, le cas échéant, de frais de résolution standard réclamés par
+l'organisateur ou le détaillant, conformément au I de l'article L. 211-14 ;
+
+8° Des informations sur les assurances obligatoires ou facultatives couvrant les frais de résolution du contrat par le
+voyageur ou sur le coût d'une assistance, couvrant le rapatriement, en cas d'accident, de maladie ou de décès.
+
+En ce qui concerne les forfaits définis au e du 2° du A du II de l'article L. 211-2, l'organisateur ou le détaillant et le
+professionnel auxquels les données sont transmises veillent à ce que chacun d'eux fournisse, avant que le voyageur ne soit
+lié par un contrat, les informations énumérées au présent article dans la mesure où celles-ci sont pertinentes pour les
+services de voyage qu'ils offrent.
+
+Le formulaire par lequel les informations énumérées au présent article sont portées à la connaissance du voyageur est fixé
+par arrêté conjoint du ministre chargé du tourisme et du ministre chargé de l'économie et des finances. Cet arrêté précise
+les informations minimales à porter à la connaissance du voyageur lorsque le contrat est conclu par téléphone.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
+  - Décret n°2017-1871 du 29 décembre 2017 - art. 2
 
 _Cité par_:
 
-  - Code du tourisme. - art. R211-11 (V)
+  - Code du tourisme. - art. R211-11 (VD)
   - Code du tourisme. - art. R211-6 (VD)
   - Code du tourisme. - art. R211-9 (VD)
-
-_Cite_:
-
-  - Code du tourisme. - art. R211-15
-  - Code du tourisme. - art. R211-8
-
-_Anciens textes_:
-
-  - Code du tourisme. - art. R211-6 (T)
 
 
 ###### Article R211-5
 
-L'information préalable faite au consommateur engage le vendeur, à moins que dans celle-ci le vendeur ne se soit réservé
-expressément le droit d'en modifier certains éléments. Le vendeur doit, dans ce cas, indiquer clairement dans quelle mesure
-cette modification peut intervenir et sur quel éléments.
-
-En tout état de cause, les modifications apportées à l'information préalable doivent être communiquées au consommateur avant
-la conclusion du contrat.
+Les informations mentionnées aux 1°, 3°, 4°, 5° et 7° de l'article R. 211-4 communiquées au voyageur font partie du contrat
+et ne peuvent être modifiées que dans les conditions définies à l'article L. 211-9.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Décret n°94-490 du 15 juin 1994 - art. 95 (Ab)
-  - Code du tourisme. - art. R211-7 (T)
 
 _Modifié par_:
 
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
+  - Décret n°2017-1871 du 29 décembre 2017 - art. 2
 
 _Cité par_:
 
@@ -10704,76 +11013,40 @@ _Cité par_:
 
 ###### Article R211-6
 
-Le contrat conclu entre le vendeur et l'acheteur doit être écrit, établi en double exemplaire dont l'un est remis à
-l'acheteur, et signé par les deux parties. Lorsque le contrat est conclu par voie électronique, il est fait application des
-articles 1125 à 1127-6, 1176 et 1177 du code civil. Le contrat doit comporter les clauses suivantes : 
+Le contrat doit comporter, outre les informations définies à l'article R. 211-4, les informations suivantes :
 
-1° Le nom et l'adresse du vendeur, de son garant et de son assureur ainsi que le nom et l'adresse de l'organisateur ; 
+1° Les exigences particulières du voyageur que l'organisateur ou le détaillant a acceptées ;
 
-2° La destination ou les destinations du voyage et, en cas de séjour fractionné, les différentes périodes et leurs dates ; 
+2° Une mention indiquant que l'organisateur ainsi que le détaillant sont responsables de la bonne exécution de tous les
+services de voyage compris dans le contrat conformément à l'article L. 211-16 et qu'ils sont tenus d'apporter une aide au
+voyageur s'il est en difficulté, conformément à l'article L. 211-17-1 ;
 
-3° Les moyens, les caractéristiques et les catégories des transports utilisés, les dates et lieux de départ et de retour ; 
+3° Le nom de l'entité chargée de la protection contre l'insolvabilité et ses coordonnées, dont son adresse géographique ;
 
-4° Le mode d'hébergement, sa situation, son niveau de confort et ses principales caractéristiques et son classement
-touristique en vertu des réglementations ou des usages du pays d'accueil ; 
+4° Le nom, l'adresse, le numéro de téléphone, l'adresse électronique et, le cas échéant, le numéro de télécopieur du
+représentant local de l'organisateur ou du détaillant, d'un point de contact ou d'un autre service par l'intermédiaire duquel
+le voyageur peut contacter rapidement l'organisateur ou le détaillant et communiquer avec lui de manière efficace, demander
+une aide si le voyageur est en difficulté ou se plaindre de toute non-conformité constatée lors de l'exécution du voyage ou
+du séjour ;
 
-5° Les prestations de restauration proposées ; 
+5° Une mention indiquant que le voyageur est tenu de communiquer toute non-conformité qu'il constate lors de l'exécution du
+voyage ou du séjour conformément au II de l'article L. 211-16 ;
 
-6° L'itinéraire lorsqu'il s'agit d'un circuit ; 
+6° Lorsque des mineurs, non accompagnés par un parent ou une autre personne autorisée, voyagent sur la base d'un contrat
+comprenant un hébergement, des informations permettant d'établir un contact direct avec le mineur ou la personne responsable
+du mineur sur le lieu de séjour du mineur ;
 
-7° Les visites, les excursions ou autres services inclus dans le prix total du voyage ou du séjour ; 
+7° Des informations sur les procédures internes de traitement des plaintes disponibles et sur les mécanismes de règlement
+extrajudiciaire des litiges et, s'il y a lieu, sur l'entité dont relève le professionnel et sur la plateforme de règlement en
+ligne des litiges prévue par le règlement (UE) n° 524/2013 du Parlement européen et du Conseil ;
 
-8° Le prix total des prestations facturées ainsi que l'indication de toute révision éventuelle de cette facturation en vertu
-des dispositions de l'article R. 211-8 ; 
+8° Des informations sur le droit du voyageur de céder le contrat à un autre voyageur conformément à l'article L. 211-11.
 
-9° L'indication, s'il y a lieu, des redevances ou taxes afférentes à certains services telles que taxes d'atterrissage, de
-débarquement ou d'embarquement dans les ports et aéroports, taxes de séjour lorsqu'elles ne sont pas incluses dans le prix de
-la ou des prestations fournies ; 
-
-10° Le calendrier et les modalités de paiement du prix ; le dernier versement effectué par l'acheteur ne peut être inférieur
-à 30 % du prix du voyage ou du séjour et doit être effectué lors de la remise des documents permettant de réaliser le voyage
-ou le séjour ; 
-
-11° Les conditions particulières demandées par l'acheteur et acceptées par le vendeur ; 
-
-12° Les modalités selon lesquelles l'acheteur peut saisir le vendeur d'une réclamation pour inexécution ou mauvaise exécution
-du contrat, réclamation qui doit être adressée dans les meilleurs délais, par tout moyen permettant d'en obtenir un accusé de
-réception au vendeur, et, le cas échéant, signalée par écrit, à l'organisateur du voyage et au prestataire de services
-concernés ; 
-
-13° La date limite d'information de l'acheteur en cas d'annulation du voyage ou du séjour par le vendeur dans le cas où la
-réalisation du voyage ou du séjour est liée à un nombre minimal de participants, conformément aux dispositions du 7° de
-l'article R. 211-4 ; 
-
-14° Les conditions d'annulation de nature contractuelle ; 
-
-15° Les conditions d'annulation prévues aux articles R. 211-9, R. 211-10 et R. 211-11 ; 
-
-16° Les précisions concernant les risques couverts et le montant des garanties au titre du contrat d'assurance couvrant les
-conséquences de la responsabilité civile professionnelle du vendeur ; 
-
-17° Les indications concernant le contrat d'assurance couvrant les conséquences de certains cas d'annulation souscrit par
-l'acheteur (numéro de police et nom de l'assureur) ainsi que celles concernant le contrat d'assistance couvrant certains
-risques particuliers, notamment les frais de rapatriement en cas d'accident ou de maladie ; dans ce cas, le vendeur doit
-remettre à l'acheteur un document précisant au minimum les risques couverts et les risques exclus ; 
-
-18° La date limite d'information du vendeur en cas de cession du contrat par l'acheteur ; 
-
-19° L'engagement de fournir à l'acheteur, au moins dix jours avant la date prévue pour son départ, les informations
-suivantes : 
-
-a) Le nom, l'adresse et le numéro de téléphone de la représentation locale du vendeur ou, à défaut, les noms, adresses et
-numéros de téléphone des organismes locaux susceptibles d'aider le consommateur en cas de difficulté ou, à défaut, le numéro
-d'appel permettant d'établir de toute urgence un contact avec le vendeur ; 
-
-b) Pour les voyages et séjours de mineurs à l'étranger, un numéro de téléphone et une adresse permettant d'établir un contact
-direct avec l'enfant ou le responsable sur place de son séjour ; 
-
-20° La clause de résiliation et de remboursement sans pénalités des sommes versées par l'acheteur en cas de non-respect de
-l'obligation d'information prévue au 13° de l'article R. 211-4 ; 
-
-21° L'engagement de fournir à l'acheteur, en temps voulu avant le début du voyage ou du séjour, les heures de départ et
-d'arrivée.
+En ce qui concerne les forfaits définis au e du 2° du A du II de l'article L. 211-2, le professionnel auquel les données sont
+transmises informe l'organisateur ou le détaillant de la conclusion du contrat donnant lieu à la création d'un forfait. Le
+professionnel lui fournit les informations nécessaires pour lui permettre de s'acquitter de ses obligations en tant
+qu'organisateur. Dès que l'organisateur ou le détaillant est informé de la création d'un forfait, il fournit au voyageur, sur
+un support durable, les informations mentionnées aux 1° à 8°.
 
 **Liens relatifs à cet article**
 
@@ -10783,7 +11056,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2016-1278 du 29 septembre 2016 - art. 1 (V)
+  - Décret n°2017-1871 du 29 décembre 2017 - art. 2
 
 _Cite_:
 
@@ -10804,23 +11077,22 @@ _Cité par_:
 
 ###### Article R211-7
 
-L'acheteur peut céder son contrat à un cessionnaire qui remplit les mêmes conditions que lui pour effectuer le voyage ou le
+Le voyageur peut céder son contrat à un cessionnaire qui remplit les mêmes conditions que lui pour effectuer le voyage ou le
 séjour, tant que ce contrat n'a produit aucun effet.
 
-Sauf stipulation plus favorable au cédant, celui-ci est tenu d'informer le vendeur de sa décision par tout moyen permettant
-d'en obtenir un accusé de réception au plus tard sept jours avant le début du voyage. Lorsqu'il s'agit d'une croisière, ce
-délai est porté à quinze jours. Cette cession n'est soumise, en aucun cas, à une autorisation préalable du vendeur.
+Sauf stipulation plus favorable au cédant, celui-ci est tenu d'informer l'organisateur ou le détaillant de sa décision par
+tout moyen permettant d'en obtenir un accusé de réception au plus tard sept jours avant le début du voyage. Cette cession
+n'est soumise, en aucun cas, à une autorisation préalable de l'organisateur ou du détaillant.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Décret n°94-490 du 15 juin 1994 - art. 97 (Ab)
-  - Code du tourisme. - art. R211-9 (T)
 
 _Modifié par_:
 
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
+  - Décret n°2017-1871 du 29 décembre 2017 - art. 2
 
 _Cité par_:
 
@@ -10832,21 +11104,24 @@ _Cité par_:
 ###### Article R211-8
 
 Lorsque le contrat comporte une possibilité expresse de révision du prix, dans les limites prévues à l'article L. 211-12, il
-doit mentionner les modalités précises de calcul, tant à la hausse qu'à la baisse, des variations des prix, et notamment le
-montant des frais de transport et taxes y afférentes, la ou les devises qui peuvent avoir une incidence sur le prix du voyage
-ou du séjour, la part du prix à laquelle s'applique la variation, le cours de la ou des devises retenu comme référence lors
-de l'établissement du prix figurant au contrat.
+mentionne les modalités précises de calcul, tant à la hausse qu'à la baisse, des variations des prix, notamment le montant
+des frais de transport et taxes y afférentes, la ou les devises qui peuvent avoir une incidence sur le prix du voyage ou du
+séjour, la part du prix à laquelle s'applique la variation, ainsi que le cours de la ou des devises retenu comme référence
+lors de l'établissement du prix figurant au contrat.
+
+En cas de diminution du prix, l'organisateur ou le détaillant a le droit de déduire ses dépenses administratives réelles du
+remboursement dû au voyageur. A la demande du voyageur, l'organisateur ou le détaillant apporte la preuve de ces dépenses
+administratives.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Décret n°94-490 du 15 juin 1994 - art. 98 (Ab)
-  - Code du tourisme. - art. R211-10 (T)
 
 _Modifié par_:
 
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
+  - Décret n°2017-1871 du 29 décembre 2017 - art. 2
 
 _Cite_:
 
@@ -10864,28 +11139,35 @@ _Cité par_:
 
 ###### Article R211-9
 
-Lorsque, avant le départ de l'acheteur, le vendeur se trouve contraint d'apporter une modification à l'un des éléments
-essentiels du contrat telle qu'une hausse significative du prix et lorsqu'il méconnaît l'obligation d'information mentionnée
-au 13° de l'article R. 211-4, l'acheteur peut, sans préjuger des recours en réparation pour dommages éventuellement subis, et
-après en avoir été informé par le vendeur par tout moyen permettant d'en obtenir un accusé de réception :
+Lorsque, avant le départ du voyageur, l'organisateur ou le détaillant se trouve contraint d'apporter une modification à l'un
+des éléments essentiels du contrat, s'il ne peut pas satisfaire aux exigences particulières mentionnées au 1° de l'article R.
+211-6, ou en cas de hausse du prix supérieure à 8 %, il informe le voyageur dans les meilleurs délais, d'une manière claire,
+compréhensible et apparente, sur un support durable :
 
-- soit résilier son contrat et obtenir sans pénalité le remboursement immédiat des sommes versées ;
+1° Des modifications proposées et, s'il y a lieu, de leurs répercussions sur le prix du voyage ou du séjour ;
 
-- soit accepter la modification ou le voyage de substitution proposé par le vendeur ; un avenant au contrat précisant les
-modifications apportées est alors signé par les parties ; toute diminution de prix vient en déduction des sommes restant
-éventuellement dues par l'acheteur et, si le paiement déjà effectué par ce dernier excède le prix de la prestation modifiée,
-le trop-perçu doit lui être restitué avant la date de son départ.
+2° Du délai raisonnable dans lequel le voyageur doit communiquer à l'organisateur ou au détaillant la décision qu'il prend ;
+
+3° Des conséquences de l'absence de réponse du voyageur dans le délai fixé ;
+
+4° S'il y a lieu, de l'autre prestation proposée, ainsi que de son prix.
+
+Lorsque les modifications du contrat ou la prestation de substitution entraînent une baisse de qualité du voyage ou du séjour
+ou de son coût, le voyageur a droit à une réduction de prix adéquate.
+
+Si le contrat est résolu et le voyageur n'accepte pas d'autre prestation, l'organisateur ou le détaillant rembourse tous les
+paiements effectués par le voyageur ou en son nom dans les meilleurs délais et en tout état de cause au plus tard quatorze
+jours après la résolution du contrat, sans préjudice d'un dédommagement en application de l'article L. 211-17.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Décret n°94-490 du 15 juin 1994 - art. 99 (Ab)
-  - Code du tourisme. - art. R211-11 (T)
 
 _Modifié par_:
 
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
+  - Décret n°2017-1871 du 29 décembre 2017 - art. 2
 
 _Cité par_:
 
@@ -10895,25 +11177,23 @@ _Cité par_:
 
 ###### Article R211-10
 
-Dans le cas prévu à l'article L. 211-14, lorsque, avant le départ de l'acheteur, le vendeur annule le voyage ou le séjour, il
-doit informer l'acheteur par tout moyen permettant d'en obtenir un accusé de réception ; l'acheteur, sans préjuger des
-recours en réparation des dommages éventuellement subis, obtient auprès du vendeur le remboursement immédiat et sans pénalité
-des sommes versées ; l'acheteur reçoit, dans ce cas, une indemnité au moins égale à la pénalité qu'il aurait supportée si
-l'annulation était intervenue de son fait à cette date. 
+L'organisateur ou le détaillant procède aux remboursements requis en vertu des II et III de l'article L. 211-14 ou, au titre
+du I de l'article L. 211-14, rembourse tous les paiements effectués par le voyageur ou en son nom moins les frais de
+résolution appropriés. Ces remboursements au profit du voyageur sont effectués dans les meilleurs délais et en tout état de
+cause dans les quatorze jours au plus tard après la résolution du contrat.
 
-Les dispositions du présent article ne font en aucun cas obstacle à la conclusion d'un accord amiable ayant pour objet
-l'acceptation, par l'acheteur, d'un voyage ou séjour de substitution proposé par le vendeur.
+Dans le cas prévu au III de l'article L. 211-14, l'indemnisation supplémentaire que le voyageur est susceptible de recevoir
+est au moins égale à la pénalité qu'il aurait supportée si l'annulation était intervenue de son fait à cette date.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Décret n°94-490 du 15 juin 1994 - art. 100 (Ab)
-  - Code du tourisme. - art. R211-12 (T)
 
 _Modifié par_:
 
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
+  - Décret n°2017-1871 du 29 décembre 2017 - art. 2
 
 _Cite_:
 
@@ -10927,31 +11207,29 @@ _Cité par_:
 
 ###### Article R211-11
 
-Lorsque, après le départ de l'acheteur, le vendeur se trouve dans l'impossibilité de fournir une part prépondérante des
-services prévus au contrat représentant un pourcentage non négligeable du prix honoré par l'acheteur, le vendeur doit
-immédiatement prendre les dispositions suivantes sans préjuger des recours en réparation pour dommages éventuellement subis :
+L'aide due par l'organisateur ou le détaillant en application de l'article L. 211-17-1 consiste notamment :
 
-- soit proposer des prestations en remplacement des prestations prévues en supportant éventuellement tout supplément de prix
-et, si les prestations acceptées par l'acheteur sont de qualité inférieure, le vendeur doit lui rembourser, dès son retour,
-la différence de prix ;
+1° A fournir des informations utiles sur les services de santé, les autorités locales et l'assistance consulaire ;
 
-- soit, s'il ne peut proposer aucune prestation de remplacement ou si celles-ci sont refusées par l'acheteur pour des motifs
-valables, fournir à l'acheteur, sans supplément de prix, des titres de transport pour assurer son retour dans des conditions
-pouvant être jugées équivalentes vers le lieu de départ ou vers un autre lieu accepté par les deux parties. 
+2° A aider le voyageur à effectuer des communications longue distance et à trouver d'autres prestations de voyage.
 
-Les dispositions du présent article sont applicables en cas de non-respect de l'obligation prévue au 13° de l'article R.
-211-4.
+L'organisateur ou le détaillant est en droit de facturer un prix raisonnable pour cette aide si cette difficulté est causée
+de façon intentionnelle par le voyageur ou par sa négligence. Le prix facturé ne dépasse en aucun cas les coûts réels
+supportés par l'organisateur ou le détaillant.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Décret n°94-490 du 15 juin 1994 - art. 101 (Ab)
-  - Code du tourisme. - art. R211-13 (T)
+
+_Modifié par_:
+
+  - Décret n°2017-1871 du 29 décembre 2017 - art. 2
 
 _Cite_:
 
-  - Code du tourisme. - art. R211-4
+  - Code du tourisme. - art. R211-4 (VD)
 
 _Cité par_:
 
@@ -11010,25 +11288,24 @@ _Cité par_:
   - Code du tourisme. - art. R211-8 (V)
 
 
-##### Section 3 : Sanctions et mesures conservatoires.<a id=178></a>
+##### Section 3 : Sanctions et mesures conservatoires.<a id=179></a>
 
 ###### Article R211-14
 
-En cas de non-respect des obligations fixées par le règlement (CE) n° 1107 / 2006 du 5 juillet 2006 concernant les droits des
+En cas de non-respect des obligations fixées par le règlement (CE) n° 1107/2006 du 5 juillet 2006 concernant les droits des
 personnes handicapées et des personnes à mobilité réduite lorsqu'elles font des voyages aériens, les sanctions applicables
-aux personnes immatriculées au registre mentionné au a de l'article L. 141-3 sont celles prévues par l'article R. 330-20 du
-code de l'aviation civile.
+aux personnes immatriculées au registre mentionné  à l'article L. 141-3 sont celles prévues par l'article R. 330-20 du code
+de l'aviation civile.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Décret n°94-490 du 15 juin 1994 - art. 104 (Ab)
-  - Code du tourisme. - art. R211-14-2 (T)
 
 _Modifié par_:
 
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
+  - Décret n°2017-1871 du 29 décembre 2017 - art. 5
 
 _Cite_:
 
@@ -11036,14 +11313,13 @@ _Cite_:
   - Code de l'aviation civile - art. R330-20
 
 
-##### Section 4 : Obligation d'information des passagers aériens sur l'identité du transporteur aérien.<a id=179></a>
+##### Section 4 : Obligation d'information des passagers aériens sur l'identité du transporteur aérien.<a id=180></a>
 
 ###### Article R211-15
 
 Pour les prestations de transport aérien incluses dans un forfait touristique, les personnes visées à l'article L. 211-1
-transmettent au consommateur, pour chaque tronçon de vol, une liste comprenant au maximum trois transporteurs, au nombre
-desquels figurent le transporteur contractuel et le transporteur de fait auquel l'organisateur du voyage aura éventuellement
-recours. 
+transmettent au voyageur, pour chaque tronçon de vol, une liste comprenant au maximum trois transporteurs, au nombre desquels
+figurent le transporteur contractuel et le transporteur de fait auquel l'organisateur du voyage aura éventuellement recours. 
 
 Pour l'application de l'alinéa précédent, les notions de transporteur contractuel et de transporteur de fait s'entendent au
 sens de la convention pour l'unification de certaines règles relatives au transport aérien international, signée à Montréal
@@ -11062,16 +11338,15 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+  - Décret n°2006-1229 du 6 octobre 2006
 
 _Modifié par_:
 
-  - Décret n°2007-669 2007-05-02 art. 2 VI, VII JORF 4 mai 2007
-  - Décret n°2007-669 du 2 mai 2007 - art. 2 () JORF 4 mai 2007
+  - Décret n°2017-1871 du 29 décembre 2017 - art. 5
 
 _Cite_:
 
-  - Code du tourisme. - art. L211-1 (V)
+  - Code du tourisme. - art. L211-1
 
 _Cité par_:
 
@@ -11111,25 +11386,23 @@ _Cite_:
 
 Dès qu'elle est connue, l'identité du transporteur aérien effectif est communiquée par écrit ou par voie électronique. Cette
 information est confirmée au plus tard huit jours avant la date prévue au contrat ou au moment de la conclusion du contrat si
-celle-ci intervient moins de huit jours avant le début du voyage.
+celle-ci intervient moins de huit jours avant le début du voyage. 
 
-Toutefois, pour les contrats conclus par téléphone, le consommateur reçoit un document écrit confirmant cette information.
+Toutefois, pour les contrats conclus par téléphone, le voyageur reçoit un document écrit confirmant cette information.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°2006-315 2006-03-17 art. 3
   - Décret n°2006-315 du 17 mars 2006 - art. 3 (Ab)
 
 _Codifié par_:
 
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+  - Décret n°2006-1229 du 6 octobre 2006
 
 _Modifié par_:
 
-  - Décret n°2007-669 2007-05-02 art. 2 VI, IX JORF 4 mai 2007
-  - Décret n°2007-669 du 2 mai 2007 - art. 2 () JORF 4 mai 2007
+  - Décret n°2017-1871 du 29 décembre 2017 - art. 5
 
 _Cité par_:
 
@@ -11138,29 +11411,27 @@ _Cité par_:
 
 ###### Article R211-18
 
-Après la conclusion du contrat, le transporteur contractuel ou l'organisateur du voyage informe le consommateur de toute
-modification de l'identité du transporteur assurant effectivement le ou les tronçons de vols figurant au contrat.
+Après la conclusion du contrat, le transporteur contractuel ou l'organisateur du voyage informe le voyageur de toute
+modification de l'identité du transporteur assurant effectivement le ou les tronçons de vols figurant au contrat. 
 
-Cette modification est portée à la connaissance du consommateur, y compris par l'intermédiaire de la personne physique ou
-morale ayant vendu le titre de transport aérien, dès qu'elle est connue. Le consommateur en est informé au plus tard,
-obligatoirement, au moment de l'enregistrement ou avant les opérations d'embarquement lorsque la correspondance s'effectue
-sans enregistrement préalable.
+Cette modification est portée à la connaissance du voyageur, y compris par l'intermédiaire de la personne physique ou morale
+ayant vendu le titre de transport aérien, dès qu'elle est connue. Le voyageur en est informé au plus tard, obligatoirement,
+au moment de l'enregistrement ou avant les opérations d'embarquement lorsque la correspondance s'effectue sans enregistrement
+préalable.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°2006-315 2006-03-17 art. 4
   - Décret n°2006-315 du 17 mars 2006 - art. 4 (Ab)
 
 _Codifié par_:
 
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+  - Décret n°2006-1229 du 6 octobre 2006
 
 _Modifié par_:
 
-  - Décret n°2007-669 2007-05-02 art. 2 VI, X JORF 4 mai 2007
-  - Décret n°2007-669 du 2 mai 2007 - art. 2 () JORF 4 mai 2007
+  - Décret n°2017-1871 du 29 décembre 2017 - art. 5
 
 
 ###### Article R211-19
@@ -11191,9 +11462,9 @@ _Cite_:
   - Code de l'aviation civile - art. R330-20 (V)
 
 
-##### Section 5 : Obligation et conditions d'immatriculation des agents de voyage et autres opérateurs de la vente de voyages et de séjours.<a id=180></a>
+##### Section 5 : Obligation et conditions d'immatriculation des agents de voyage et autres opérateurs de la vente de voyages et de séjours.<a id=181></a>
 
-##### Sous-section 1 : Procédure d'immatriculation des agents de voyage et autres opérateurs de la vente de voyages et de séjours.<a id=181></a>
+##### Sous-section 1 : Procédure d'immatriculation des agents de voyage et autres opérateurs de la vente de voyages et de séjours.<a id=182></a>
 
 ###### Article D211-21-1
 
@@ -11336,18 +11607,18 @@ _Cité par_:
 ###### Article R211-22
 
 Toute personne physique ou morale qui, à quelque titre que ce soit, acquiert la majorité du capital social d'une société
-immatriculée au registre mentionné au a de l'article L. 141-3 ou qui est chargée d'en assurer la gérance sous sa
-responsabilité peut en poursuivre l'exploitation pendant le délai nécessaire à l'obtention de l'immatriculation s'il dispose
-du récépissé prévu au I de l'article R. 211-21. 
+immatriculée au registre mentionné  à l'article L. 141-3 ou qui est chargée d'en assurer la gérance sous sa responsabilité
+peut en poursuivre l'exploitation pendant le délai nécessaire à l'obtention de l'immatriculation s'il dispose du récépissé
+prévu au I de l'article R. 211-21. 
 
 Le maintien provisoire de l'immatriculation prend fin à la date de la nouvelle immatriculation ou de la notification du refus
 d'inscription au registre.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
+  - Décret n°2017-1871 du 29 décembre 2017 - art. 5
 
 _Cite_:
 
@@ -11355,11 +11626,11 @@ _Cite_:
   - Code du tourisme. - art. R211-21
 
 
-##### Sous-section 2 : Gestion du registre des agents de voyage et autres opérateurs de la vente de voyages et de séjours.<a id=182></a>
+##### Sous-section 2 : Gestion du registre des agents de voyage et autres opérateurs de la vente de voyages et de séjours.<a id=183></a>
 
 ###### Article R211-23
 
-Dans le mois suivant l'immatriculation au registre mentionné au a de l'article L. 141-3, publicité est faite de cette
+Dans le mois suivant l'immatriculation au registre mentionné  à l'article L. 141-3, publicité est faite de cette
 immatriculation sur le site internet de l'agence mentionnée à l'article L. 141-2. 
 
 Elle met à jour la liste des opérateurs immatriculés au registre en informant les tiers de l'identité de l'opérateur, de son
@@ -11368,9 +11639,9 @@ l'entreprise ou de l'organisme ainsi que des noms et adresses de son garant et d
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
+  - Décret n°2017-1871 du 29 décembre 2017 - art. 5
 
 _Cite_:
 
@@ -11416,26 +11687,25 @@ _Cite_:
   - Code du tourisme. - art. L141-2
 
 
-##### Section 6 : Garantie financière.<a id=183></a>
+##### Section 6 : Garantie financière.<a id=184></a>
 
 ###### Article R211-26
 
-La garantie financière prévue au a du II de l'article L. 211-18 résulte d'un engagement écrit de cautionnement pris : 
+La garantie financière prévue au a du II de l'article L. 211-18 résulte d'un engagement écrit de cautionnement pris :
 
 1° Soit par un organisme de garantie collective doté de la personnalité juridique, au moyen d'un fonds de garantie constitué
-à cet effet ; 
+à cet effet ;
 
-2° Soit par un  établissement de crédit, une société de financement ou une entreprise d'assurances habilités à donner une
-garantie financière ; 
+2° Soit par un établissement de crédit, une société de financement ou une entreprise d'assurances habilités à donner une
+garantie financière ;
 
 3° Soit par un groupement d'associations ou d'organismes sans caractère lucratif ayant fait l'objet d'une autorisation
-particulière par un arrêté du ministre chargé du tourisme et disposant d'un fonds de solidarité suffisant. 
+particulière par un arrêté du ministre chargé du tourisme et disposant d'un fonds de solidarité suffisant.
 
-La garantie financière est affectée au remboursement de l'intégralité des fonds reçus par l'opérateur de voyages et de
-séjours au titre des engagements qu'il a contractés à l'égard du consommateur final pour des prestations en cours ou à servir
-et permet d'assurer, notamment en cas de cessation de paiements ayant entraîné un dépôt de bilan, le rapatriement des
-voyageurs et la prise en charge des frais de séjour supplémentaires qui résulteraient directement de l'organisation du
-rapatriement. 
+La garantie financière est affectée au remboursement des fonds reçus par l'opérateur de voyages et de séjours au titre des
+engagements qu'il a contractés à l'égard du voyageur pour des prestations en cours ou à servir et permet d'assurer, notamment
+en cas de cessation de paiements ayant entraîné un dépôt de bilan, le rapatriement des voyageurs et la prise en charge des
+frais de séjour supplémentaires qui résulteraient directement de l'organisation du rapatriement.
 
 L'engagement de garantie financière doit répondre à toutes les dispositions réglementaires de la présente section.
 
@@ -11458,7 +11728,7 @@ L'arrêté prévu au dernier alinéa de l'article R211-26 est publié au plus ta
 
 _Modifié par_:
 
-  - Décret n°2015-1111 du 2 septembre 2015 - art. 1
+  - Décret n°2017-1871 du 29 décembre 2017 - art. 3
 
 _Cite_:
 
@@ -11501,27 +11771,23 @@ _Anciens textes_:
 ###### Article R211-28
 
 La garantie financière apportée par un établissement de crédit ou par une entreprise d'assurances n'est admise que si cet
-établissement ou cette entreprise a son siège sur le territoire d'un Etat membre de la Communauté européenne, ou d'un Etat
-partie à l'accord instituant l'Espace économique européen, ou une succursale en France. Cette garantie financière doit être,
-dans tous les cas, immédiatement mobilisable pour assurer, dans les conditions prévues par l'article R. 211-31, le
-rapatriement des voyageurs. 
+établissement ou cette entreprise a son siège sur le territoire d'un Etat membre de  l'Union européenne, ou d'un Etat partie
+à l'accord instituant l'Espace économique européen, ou une succursale en France. Cette garantie financière doit être, dans
+tous les cas, immédiatement mobilisable pour assurer, dans les conditions prévues par l'article R. 211-31, le rapatriement
+des voyageurs. 
 
 Pour l'application des dispositions du présent article, les établissements de crédit installés dans la Principauté de Monaco
 sont réputés avoir un siège en France.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
+  - Décret n°2017-1871 du 29 décembre 2017 - art. 5
 
 _Cite_:
 
   - Code du tourisme. - art. R211-31
-
-_Anciens textes_:
-
-  - Code du tourisme. - art. R212-30 (T)
 
 
 ###### Article R211-29
@@ -11770,7 +12036,7 @@ _Anciens textes_:
   - Code du tourisme. - art. R212-35 (T)
 
 
-##### Section 7 : Responsabilité civile professionnelle.<a id=184></a>
+##### Section 7 : Responsabilité civile professionnelle.<a id=185></a>
 
 ###### Article R211-35
 
@@ -11956,48 +12222,6 @@ _Cite_:
 _Anciens textes_:
 
   - Code du tourisme. - art. R212-41 (T)
-
-
-##### Section 8 : Aptitude professionnelle.<a id=185></a>
-
-###### Article R211-41
-
-Pour l'application du c du II de l'article L. 211-18, la personne physique ou le représentant de la personne morale
-justifie : 
-
-1° Soit de la réalisation d'un stage en relation avec les activités mentionnées à l'article L. 211-1, effectué auprès d'un
-centre de formation, répondant à des critères fixés par arrêté du ministre chargé du tourisme et d'une durée qui ne peut être
-inférieure à quatre mois ou, pour les associations et organismes sans but lucratif dont l'objet principal n'est pas
-l'organisation de voyages et de séjours, auprès d'une structure dispensant un programme de formation agréé par arrêté du
-ministre chargé du tourisme ; 
-
-2° Soit d'une expérience professionnelle d'une durée minimale d'un an dans des domaines en rapport avec les opérations
-mentionnées au I de l'article L. 211-1 ou avec des prestations d'hébergement touristique ou de transport touristique. ; 
-
-3° Soit de la possession d'un diplôme, titre ou certificat figurant sur une liste fixée par arrêté pris par les ministres
-chargés du tourisme, de l'éducation et de l'enseignement supérieur.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Arrêté du 23 décembre 2009 - art. 1 (V)
-  - Arrêté du 23 décembre 2009 - art. 2 (V)
-  - Code du tourisme. - art. R211-20 (V)
-  - Code du tourisme. - art. R211-50 (VD)
-
-_Modifié par_:
-
-  - Décret n°2011-1477 du 8 novembre 2011 - art. 1
-
-_Abrogé par_:
-
-  - Décret n°2017-1871 du 29 décembre 2017 - art. 5
-
-_Cite_:
-
-  - Code du tourisme. - art. L211-1
-  - Code du tourisme. - art. L211-18
 
 
 ##### Section 9 : Contrat de jouissance d'immeuble à temps partagé.<a id=186></a>
@@ -12248,47 +12472,30 @@ _Cité par_:
   - Code du tourisme. - art. R211-45 (V)
 
 
-##### Section 10 : Liberté d'établissement et libre prestation de service.<a id=187></a>
+##### Section 10 : Liberté d'établissement et libre prestation de services<a id=187></a>
 
 ###### Article R211-50
 
 Toute personne physique ou morale ressortissante d'un autre Etat membre de l'Union européenne ou d'un autre Etat partie à
 l'accord sur l'Espace économique européen qui souhaite s'établir en France, pour l'exercice d'activités mentionnées au I de
 l'article L. 211-1, est tenue de déposer une demande d'immatriculation auprès de la commission d'immatriculation mentionnée à
-l'article L. 141-2. 
-
-Outre les obligations de garantie financière et de responsabilité civile professionnelle, l'aptitude professionnelle prévue
-au c du II de l'article L. 211-18 est réputée acquise pour tout ressortissant d'un Etat membre de l'Union européenne ou d'un
-autre Etat partie à l'accord sur l'Espace économique européen dès lors qu'il justifie : 
-
-― soit de la réalisation d'un stage, d'une durée qui ne peut être inférieure à quatre mois, effectué dans un autre Etat
-membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen en lien avec les activités
-mentionnées au I de l'article L. 211-1 et dont l'attestation est délivrée par une autorité compétente de cet Etat ; 
-
-― soit d'une expérience professionnelle d'une durée minimale d'un an dans l'un de ces Etats au cours des dix années précédant
-la présentation du dossier complet de demande d'immatriculation dans des domaines en rapport avec les activités mentionnées
-au I de l'article L. 211-1 ou avec des prestations d'hébergement touristique ou de transport touristique ; 
-
-― soit de la possession d'un diplôme, titre ou certificat délivré par une autorité compétente de l'un de ces Etats permettant
-l'exercice des activités mentionnées au I de l'article L. 211-1 ou des activités de prestations d'hébergement touristique ou
-de transport touristique et attestant d'un niveau de qualification professionnelle au moins équivalent au niveau
-immédiatement inférieur à celui exigé en application de l'article R. 211-41. 
+l'article L. 141-2.
 
 Aux documents constitutifs de la demande d'immatriculation prévue à l'article R. 211-20 est jointe, en tant que de besoin,
 leur traduction en langue française.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
+  - Décret n°2017-1871 du 29 décembre 2017 - art. 4
 
 _Cite_:
 
   - Code du tourisme. - art. L141-2
   - Code du tourisme. - art. L211-1
   - Code du tourisme. - art. L211-18
-  - Code du tourisme. - art. R211-41
+  - Code du tourisme. - art. R211-41 (VT)
 
 _Cité par_:
 
@@ -12298,35 +12505,31 @@ _Cité par_:
 ###### Article R211-51
 
 Pour l'application de l'article L. 211-21, toute personne physique ou morale légalement établie dans un autre Etat membre de
-l'Union européenne ou un autre Etat partie à l'accord sur l'Espace économique européen qui souhaite se livrer, de manière
-temporaire et occasionnelle, à l'une des activités figurant au I de l'article L. 211-1 est tenue d'en faire la déclaration
-préalablement à sa première prestation de services. Elle adresse cette déclaration par tout moyen permettant d'en accuser
-réception à la commission d'immatriculation à l'article L. 141-2, accompagnée des documents suivants : 
+l'Union européenne ou un autre Etat partie à l'accord sur l'Espace économique européen qui souhaite se livrer en France à
+l'une des activités figurant au I de l'article L. 211-1 est tenue d'en faire la déclaration préalablement à sa première
+prestation de services. Elle adresse cette déclaration par tout moyen permettant d'en accuser réception à la commission
+d'immatriculation mentionnée à l'article L. 141-2, accompagnée des documents suivants :
 
-1° Une preuve de sa nationalité ; 
+1° Une attestation certifiant qu'elle est légalement établie dans un Etat membre de l'Union européenne ou dans un autre Etat
+partie à l'accord sur l'Espace économique européen pour y exercer les activités mentionnées au I de l'article L. 211-1 ;
 
-2° Une attestation certifiant qu'elle est légalement établie dans un Etat membre de l'Union européenne ou dans un autre Etat
-partie à l'accord sur l'Espace économique européen pour y exercer les activités mentionnées au I de l'article L. 211-1 ; 
+2° Une attestation de garantie financière suffisante fournie conformément à la législation de l'Etat membre où elle est
+établie ;
 
-3° Une attestation de garantie financière suffisante délivrée par un des garants mentionnés à l'article R. 211-26 ; 
+3° Une information sur son état de couverture par une assurance garantissant les conséquences pécuniaires de la
+responsabilité civile professionnelle telle que prévue au 2° du II de l'article L. 211-18.
 
-4° Une information sur son état de couverture par une assurance garantissant les conséquences pécuniaires de la
-responsabilité civile professionnelle telle que prévue au b du II de l'article L. 211-18 ; 
+A ces documents est jointe, en tant que de besoin, leur traduction en langue française. La commission enregistre, le cas
+échéant, cette déclaration. En cas d'inexactitude constatée par la commission mentionnée à l'article L. 141-2, cette
+déclaration est retirée du registre mentionné à l'article L. 141-3.
 
-5° Une preuve de ses qualifications professionnelles ou la preuve par tout moyen qu'elle a exercé l'activité d'opérateurs de
-voyages pendant au moins une année au cours des dix dernières années dans l'Etat d'établissement, lorsque cette activité ou
-la formation y conduisant n'y est pas réglementée.
-
-A ces documents est jointe, en tant que de besoin, leur traduction en langue française. 
-
-La déclaration est actualisée en cas de changement dans l'un des éléments mentionnés ci-dessus. Elle est renouvelée une fois
-par an si la personne compte fournir des services d'une manière temporaire et occasionnelle au cours de l'année concernée.
+La déclaration est actualisée en cas de changement dans l'un des éléments mentionnés ci-dessus.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
+  - Décret n°2017-1871 du 29 décembre 2017 - art. 4
 
 _Cite_:
 
