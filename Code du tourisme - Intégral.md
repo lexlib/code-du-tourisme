@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2018-09-14
+Version Consolidée au 2019-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-9)](#2)
@@ -7697,18 +7697,18 @@ _Cité par_:
 ###### Article L422-3
 
 Les règles relatives à la taxe de séjour et à la taxe de séjour forfaitaire sont fixées par les articles L. 2333-26 à L.
-2333-32, L. 2333-34 à L. 2333-37, L. 2333-39 à L. 2333-44, L. 2333-46 et L. 2333-46-1 du code général des collectivités
-territoriales.
+2333-31, L. 2333-34 à L. 2333-37, L. 2333-39 à L. 2333-41, L. 2333-43, L. 2333-44, L. 2333-46 et L. 2333-46-1 du code général
+des collectivités territoriales.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2014-1654 du 29 décembre 2014 - art. 67
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 44 (V)
 
 _Cité par_:
 
-  - Code du tourisme. - art. L443-1 (V)
+  - Code du tourisme. - art. L443-1 (VD)
 
 
 ###### Article L422-4
@@ -8269,24 +8269,24 @@ _Codifié par_:
 ###### Article L443-1
 
 Sont applicables à Mayotte, sous la réserve citée ci-dessous, les articles L. 412-1, L. 412-2, L. 422-3, L. 422-4 et L.
-422-11. 
+422-11.
 
-Pour l'application de l'article L. 422-3, les articles L. 2333-32 et L. 2333-34 du code général des collectivités
-territoriales ne s'appliquent pas à Mayotte.
+Pour l'application de l'article L. 422-3, l'article L. 2333-34 du code général des collectivités territoriales ne s'applique
+pas à Mayotte.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2008-859 du 28 août 2008 - art. 9
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 44 (V)
 
 _Cite_:
 
-  - Code général des collectivités territoriales - art. L2333-32 (V)
-  - Code général des collectivités territoriales - art. L2333-34 (V)
-  - Code du tourisme. - art. L412-1 (V)
+  - Code général des collectivités territoriales - art. L2333-32
+  - Code général des collectivités territoriales - art. L2333-34
+  - Code du tourisme. - art. L412-1
   - Code du tourisme. - art. L422-11
-  - Code du tourisme. - art. L422-3 (V)
+  - Code du tourisme. - art. L422-3 (VD)
 
 
 ###### Article L443-2
