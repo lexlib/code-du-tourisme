@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2019-01-01
+Version Consolidée au 2019-03-10
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-9)](#2)
@@ -148,10 +148,10 @@ Version Consolidée au 2019-01-01
             - [Sous-section 1 : Services déconcentrés en région. (art. R122-29)](#145)
       - [TITRE III : LES COLLECTIVITÉS TERRITORIALES ET LEURS GROUPEMENTS. (art. R133-1 à D134-21)](#146)
         - [Chapitre III : La commune. (art. R133-1 à D133-60)](#147)
-          - [Section 1 : Organismes communaux de tourisme. (art. R133-1 à D133-30)](#148)
+          - [Section 1 : Organismes communaux de tourisme. (art. R133-1 à D133-29)](#148)
             - [Sous-section 2 : Dispositions particulières applicables aux offices de tourisme constitués sous la forme d'un établissement public industriel et commercial. (art. R133-1 à R133-18)](#149)
             - [Sous-section 3 : Dispositions particulières applicables aux autres offices de tourisme. (art. R133-19 à R133-19-1)](#150)
-            - [Sous-section 4 : Classement des offices. (art. D133-20 à D133-30)](#151)
+            - [Sous-section 4 : Classement des offices. (art. D133-20 à D133-29)](#151)
           - [Section 2 : Communes touristiques et stations classées de tourisme. (art. R133-32 à R133-43)](#152)
             - [Sous-section 1 : Communes touristiques. (art. R133-32 à R133-36)](#153)
             - [Sous-section 2 : Stations classées de tourisme. (art. R133-37 à R133-41)](#154)
@@ -9002,9 +9002,8 @@ _Cite_:
 ###### Article D133-20
 
 Les offices de tourisme mentionnés aux articles L. 133-1 à L. 133-10-1 et L. 134-5 peuvent être classés par catégories
-suivant le niveau des aménagements et services garantis au public en fonction de critères fixés par un tableau de classement
-élaboré par l'organisme mentionné à l'article L. 141-2 et homologué par arrêté du ministre chargé du tourisme. Le tableau de
-classement est révisé au moins tous les cinq ans.
+suivant le niveau des aménagements et services garantis au public en fonction de critères fixés par arrêté du ministre chargé
+du tourisme.
 
 **Liens relatifs à cet article**
 
@@ -9012,16 +9011,16 @@ _Anciens textes_:
 
   - Décret n°98-1161 du 16 décembre 1998 - art. 1 (Ab)
 
-_Modifié par_:
-
-  - Décret n°2009-1652 du 23 décembre 2009 - art. 5
-
 _Cité par_:
 
   - Arrêté du 12 novembre 2010 - art. 1 (V)
   - Code du tourisme. - art. D133-21 (V)
   - Code du tourisme. - art. D134-21 (V)
   - Code général de la propriété des personnes publ... - art. R2124-18 (V)
+
+_Modifié par_:
+
+  - Décret n°2019-174 du 7 mars 2019 - art. 1
 
 _Cite_:
 
@@ -9056,8 +9055,7 @@ _Cité par_:
 
 Le maire ou, le cas échéant, le président de l'établissement public de coopération intercommunale ou du syndicat mixte,
 adresse la délibération, accompagnée du dossier de demande de classement, au représentant de l'Etat dans le département
-territorialement compétent par voie électronique ou, à défaut, par voie postale, selon des modalités fixées par arrêté du
-ministre chargé du tourisme.
+territorialement compétent par voie électronique ou, à défaut, par voie postale.
 
 **Liens relatifs à cet article**
 
@@ -9067,7 +9065,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2009-1652 du 23 décembre 2009 - art. 5
+  - Décret n°2019-174 du 7 mars 2019 - art. 2
 
 
 ###### Article D133-23
@@ -9091,10 +9089,7 @@ _Modifié par_:
 ###### Article D133-24
 
 La décision de classement est prise par arrêté du représentant de l'Etat dans le département dans le délai de deux mois à
-compter de la réception du dossier complet. 
-
-Le représentant de l'Etat dans le département transmet dans le même délai une copie de l'arrêté de classement accompagnée du
-dossier de demande de classement à l'organisme mentionné à l'article L. 141-2.
+compter de la réception du dossier complet.
 
 **Liens relatifs à cet article**
 
@@ -9104,7 +9099,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2009-1652 du 23 décembre 2009 - art. 5
+  - Décret n°2019-174 du 7 mars 2019 - art. 3
 
 _Cité par_:
 
@@ -9207,8 +9202,8 @@ _Cité par_:
 
 ###### Article D133-29
 
-Les sanctions prévues à l'article D. 133-27 ne peuvent être prononcées sans que l'office de tourisme concerné ait été
-préalablement avisé des mesures envisagées et invité à se faire entendre par son représentant légal.
+Les sanctions prévues à l'article D. 133-27 ne peuvent être prononcées sans que le représentant légal de l'office de tourisme
+concerné ait été préalablement avisé des mesures envisagées et invité à se faire entendre.
 
 **Liens relatifs à cet article**
 
@@ -9219,7 +9214,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2009-1652 du 23 décembre 2009 - art. 5
+  - Décret n°2019-174 du 7 mars 2019 - art. 4
 
 _Cite_:
 
@@ -9228,22 +9223,6 @@ _Cite_:
 _Cité par_:
 
   - Code du tourisme. - art. R133-30 (V)
-
-
-###### Article D133-30
-
-Les offices de tourisme signalent leur classement par l'affichage d'un panonceau conforme aux modèles fixés par arrêté du
-ministre chargé du tourisme.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2009-1652 du 23 décembre 2009 - art. 5
-
-_Abrogé par_:
-
-  - Décret n°2019-174 du 7 mars 2019 - art. 5
 
 
 ##### Section 2 : Communes touristiques et stations classées de tourisme.<a id=152></a>
