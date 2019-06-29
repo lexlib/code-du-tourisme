@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2019-05-24
+Version Consolidée au 2019-06-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-9)](#2)
@@ -179,8 +179,8 @@ Version Consolidée au 2019-05-24
           - [Section 2 : Contrat de vente de voyages et de séjours. (art. R211-3 à R211-11)](#176)
           - [Section 3 : Sanctions et mesures conservatoires. (art. R211-14)](#177)
           - [Section 4 : Obligation d'information des passagers aériens sur l'identité du transporteur aérien. (art. R211-15 à R211-19)](#178)
-          - [Section 5 : Obligation et conditions d'immatriculation des agents de voyage et autres opérateurs de la vente de voyages et de séjours. (art. D211-21-1 à R211-25)](#179)
-            - [Sous-section 1 : Procédure d'immatriculation des agents de voyage et autres opérateurs de la vente de voyages et de séjours. (art. D211-21-1 à R211-22)](#180)
+          - [Section 5 : Obligation et conditions d'immatriculation des agents de voyage et autres opérateurs de la vente de voyages et de séjours. (art. R211-20 à R211-25)](#179)
+            - [Sous-section 1 : Procédure d'immatriculation des agents de voyage et autres opérateurs de la vente de voyages et de séjours. (art. R211-20 à R211-22)](#180)
             - [Sous-section 2 : Gestion du registre des agents de voyage et autres opérateurs de la vente de voyages et de séjours. (art. R211-23 à R211-25)](#181)
           - [Section 6 : Garantie financière. (art. R211-26 à R211-34)](#182)
           - [Section 7 : Responsabilité civile professionnelle. (art. R211-35 à R211-40)](#183)
@@ -11088,25 +11088,6 @@ _Cite_:
 ##### Section 5 : Obligation et conditions d'immatriculation des agents de voyage et autres opérateurs de la vente de voyages et de séjours.<a id=179></a>
 
 ##### Sous-section 1 : Procédure d'immatriculation des agents de voyage et autres opérateurs de la vente de voyages et de séjours.<a id=180></a>
-
-###### Article D211-21-1
-
-La limite mentionnée au septième alinéa de l'article L. 141-3 est fixée à 150 euros.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2009-1652 du 23 décembre 2009 - art. 1
-
-_Abrogé par_:
-
-  - Décret n°2019-674 du 28 juin 2019 - art. 4
-
-_Cite_:
-
-  - Code du tourisme. - art. L141-3
-
 
 ###### Article R211-20
 
