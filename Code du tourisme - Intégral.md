@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2019-06-30
+Version Consolidée au 2019-07-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-9)](#2)
@@ -211,7 +211,7 @@ Version Consolidée au 2019-06-30
       - [TITRE II : HÉBERGEMENTS AUTRES QUE HÔTELS ET TERRAINS DE CAMPING. (art. D321-1 à D326-3)](#208)
         - [Chapitre Ier : Résidences de tourisme. (art. D321-1 à R321-9)](#209)
           - [Section 1 : Dispositions générales. (art. D321-1 à D321-2-1)](#210)
-          - [Section 2 : Classement. (art. D321-3 à D321-7)](#211)
+          - [Section 2 : Classement. (art. D321-3 à D321-7-1)](#211)
           - [Section 3 : Sanctions. (art. R321-8 à R321-9)](#212)
         - [Chapitre III : Villages résidentiels de tourisme. (art. R323-1 à R323-10)](#213)
           - [Section 1 : Dispositions générales. (art. R323-1 à R323-3)](#214)
@@ -243,7 +243,7 @@ Version Consolidée au 2019-06-30
           - [Section 1 : Habitations légères de loisirs. (art. D333-1)](#240)
           - [Section 2 : Parcs résidentiels de loisirs. (art. D333-3 à R333-6-1)](#241)
             - [Sous-section 1 : Définitions. (art. D333-3 à D333-4)](#242)
-            - [Sous-section 2 : Classement. (art. D333-5 à D333-5-4)](#243)
+            - [Sous-section 2 : Classement. (art. D333-5 à D333-5-5)](#243)
             - [Sous-section 3 : Sanctions. (art. R333-6 à R333-6-1)](#244)
           - [Section 3 : Résidences mobiles de loisirs. (art. D333-7)](#245)
       - [TITRE IV : AMÉNAGEMENTS ET RÉGLEMENTATION DES ESPACES À VOCATION TOURISTIQUE. (art. D341-1 à D343-6)](#246)
@@ -13571,6 +13571,25 @@ _Cite_:
   - Code du tourisme. - art. L141-2
 
 
+###### Article D321-7-1
+
+La décision de classement mentionnée à l'article D. 321-6 peut être abrogée ou modifiée pour la durée restant à courir de la
+décision initiale lorsqu'au terme d'une procédure contradictoire initiée par l'organisme mentionné à l'article L. 141-2 à la
+suite d'une réclamation, l'exploitant n'établit pas la conformité au tableau de classement sur un ou plusieurs critères au
+regard desquels le classement a été prononcé.
+
+Un arrêté du ministre chargé du tourisme précise les conditions et modalités de modification ou d'abrogation d'une décision
+de classement et notamment les conditions dans lesquelles un certificat de contre-visite établi par un organisme évaluateur
+de la conformité peut être requis, à peine d'abrogation de la décision de classement, afin de vérifier que les écarts de
+conformité par rapport aux critères de classement contestés ont été rectifiés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-300 du 10 avril 2019 - art. 1
+
+
 ##### Section 3 : Sanctions.<a id=212></a>
 
 ###### Article R321-8
@@ -15360,6 +15379,25 @@ _Cite_:
   - Code du tourisme. - art. L141-2
 
 
+###### Article D332-5-1
+
+La décision de classement mentionnée à l'article D. 332-4 peut être abrogée ou modifiée pour la durée restant à courir de la
+décision initiale lorsqu'au terme d'une procédure contradictoire initiée par l'organisme mentionné à l'article L. 141-2 à la
+suite d'une réclamation, l'exploitant n'établit pas la conformité au tableau de classement sur un ou plusieurs critères au
+regard desquels le classement a été prononcé.
+
+Un arrêté du ministre chargé du tourisme précise les conditions et modalités de modification ou d'abrogation d'une décision
+de classement et notamment les conditions dans lesquelles un certificat de contre-visite établi par un organisme évaluateur
+de la conformité peut être requis, à peine d'abrogation de la décision de classement, afin de vérifier que les écarts de
+conformité par rapport aux critères de classement contestés ont été rectifiés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-300 du 10 avril 2019 - art. 1
+
+
 ###### Article D332-6
 
 Les règles relatives au camping, à la circulation et au stationnement de véhicules motorisés ou de caravanes, dans les forêts
@@ -15559,9 +15597,14 @@ _Modifié par_:
 
 ###### Article D333-5
 
-Les parcs résidentiels de loisirs exploités sous régime hôtelier sont répartis dans l'une des catégories désignées par un
-nombre d'étoiles croissant, en fonction de critères fixés par un tableau de classement élaboré par l'organisme mentionné à
-l'article L. 141-2 et homologué par arrêté du ministre chargé du tourisme.
+Les parcs résidentiels de loisirs classés sont exclusivement exploités sous régime hôtelier. Ils sont répartis dans l'une des
+catégories désignées par un nombre d'étoiles croissant, en fonction de critères fixés par un tableau de classement élaboré
+par l'organisme mentionné à l'article L. 141-2 et homologué par arrêté du ministre chargé du tourisme.
+
+Les parcs résidentiels de loisirs classés sont consacrés pour la totalité des parcelles à la location à une clientèle qui n'y
+élit pas domicile pour une durée pouvant être supérieure au mois. En cas de cession d'une parcelle, le parc résidentiel de
+loisirs ne remplit plus les conditions justifiant son classement. L'exploitant en informe l'organisme mentionné à l'article
+L. 141-2 qui abroge la décision de classement.
 
 **Liens relatifs à cet article**
 
@@ -15570,15 +15613,15 @@ _Anciens textes_:
   - Arrêté 1980-12-18 art. 4
   - Arrêté du 18 décembre 1980 - art. 4 (Ab)
 
-_Modifié par_:
-
-  - Décret n°2009-1652 du 23 décembre 2009 - art. 13
-
 _Cité par_:
 
   - Arrêté du 6 juillet 2010 - art. 1 (VT)
   - Arrêté du 10 avril 2019 - art. (V)
   - Arrêté du 10 avril 2019 - art. 1 (V)
+
+_Modifié par_:
+
+  - Décret n°2019-300 du 10 avril 2019 - art. 1
 
 _Cite_:
 
@@ -15693,6 +15736,25 @@ _Créé par_:
 _Cite_:
 
   - Code du tourisme. - art. L141-2
+
+
+###### Article D333-5-5
+
+La décision de classement mentionnée à l'article D. 333-5-3 peut être abrogée ou modifiée pour la durée restant à courir de
+la décision initiale lorsqu'au terme d'une procédure contradictoire initiée par l'organisme mentionné à l'article L. 141-2 à
+la suite d'une réclamation, l'exploitant n'établit pas la conformité au tableau de classement sur un ou plusieurs critères au
+regard desquels le classement a été prononcé.
+
+Un arrêté du ministre chargé du tourisme précise les conditions et modalités de modification ou d'abrogation d'une décision
+de classement et notamment les conditions dans lesquelles un certificat de contre-visite établi par un organisme évaluateur
+de la conformité peut être requis, à peine d'abrogation de la décision de classement, afin de vérifier que les écarts de
+conformité par rapport aux critères de classement contestés ont été rectifiés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-300 du 10 avril 2019 - art. 1
 
 
 ##### Sous-section 3 : Sanctions.<a id=244></a>
