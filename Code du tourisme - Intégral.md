@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2019-07-01
+Version Consolidée au 2019-07-12
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-9)](#2)
@@ -16601,16 +16601,10 @@ _Cite_:
 
 ###### Article R342-19
 
-Les articles 2, 3, 5, 8, 9, 10 et 13 à 19, le 1° de l'article 20 et les articles 23 à 26 du décret n° 2016-541 du 3 mai 2016
-relatif à la sûreté et aux règles de conduite dans les transports ferroviaires ou guidés et certains autres transports
-publics sont applicables aux services de remontées mécaniques et de tapis roulants.
+Les articles R. 2241-8 à R. 2241-10, R. 2241-12 à R. 2241-15, R. 2241-17 et R. 2241-18, R. 2241-21 à R. 2241-26 et R.
+2241-30, R. 2241-34 à R. 2241-36 sont applicables aux services de remontées mécaniques et de tapis roulants.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°1942-03-22 art. 80-3 (remontées mécaniques)
-  - Décret n°1942-03-22 art. 80-4 (remontées mécaniques)
 
 _Codifié par_:
 
@@ -16618,7 +16612,21 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-541 du 3 mai 2016 - art. 28
+  - Décret n°2019-726 du 9 juillet 2019 - art. 4
+
+_Cite_:
+
+  - Code des transports - art. R2241-12
+  - Code des transports - art. R2241-17
+  - Code des transports - art. R2241-21
+  - Code des transports - art. R2241-30
+  - Code des transports - art. R2241-34
+  - Code des transports - art. R2241-8
+
+_Anciens textes_:
+
+  - Décret n°1942-03-22 art. 80-3 (remontées mécaniques)
+  - Décret n°1942-03-22 art. 80-4 (remontées mécaniques)
 
 
 ###### Article R342-19-1
