@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2019-07-12
+Version Consolidée au 2019-08-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-9)](#2)
@@ -18095,7 +18095,13 @@ _Cité par_:
 ###### Article R411-21
 
 Il peut être institué dans l'établissement des régies de recettes et des régies d'avances dans les conditions prévues par le
-décret n° 92-681 du 20 juillet 1992 modifié relatif aux régies de recettes et aux régies d'avances des organismes publics.
+décret n° 2019-798 du 26 juillet 2019 modifié relatif aux régies de recettes et aux régies d'avances des organismes publics.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 18 du décret n° 2019-798 du 26 juillet 2019, ces dispositions entrent en vigueur
+le premier jour du mois suivant celui de la publication dudit décret et, s'agissant des régies créées avant cette date, le
+premier jour du sixième mois suivant cette même date.
 
 **Liens relatifs à cet article**
 
@@ -18103,17 +18109,17 @@ _Anciens textes_:
 
   - Décret n°82-719 du 16 août 1982 - art. 22 (M)
 
-_Cite_:
-
-  - Décret n°92-681 1992-07-20
-
 _Codifié par_:
 
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+  - Décret n°2006-1229 du 6 octobre 2006
+
+_Cite_:
+
+  - Décret n°2019-798 du 26 juillet 2019
 
 _Modifié par_:
 
-  - Décret n°2007-107 du 29 janvier 2007 - art. 2 () JORF 30 janvier 2007
+  - Décret n°2019-798 du 26 juillet 2019 - art. 20
 
 _Cité par_:
 
