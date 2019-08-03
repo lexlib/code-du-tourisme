@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2019-08-01
+Version Consolidée au 2019-08-04
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-9)](#2)
@@ -645,9 +645,13 @@ _Codifié par_:
 
 ###### Article L132-1
 
-Dans chaque département, le conseil départemental  établit, en tant que de besoin, un schéma d'aménagement touristique
+Dans chaque département, le conseil départemental établit, en tant que de besoin, un schéma d'aménagement touristique
 départemental. Ce schéma prend en compte les orientations définies par le schéma régional de développement du tourisme et des
-loisirs.
+loisirs. 
+
+Sur le territoire des départements du Bas-Rhin et du Haut-Rhin, l'organisme mentionné à l'article L. 132-2 est chargé
+d'animer et de coordonner l'action des collectivités territoriales et des autres acteurs concernés, en cohérence avec le
+schéma régional de développement du tourisme et des loisirs.
 
 **Nota:**
 
@@ -664,16 +668,20 @@ _Codifié par_:
 
   - Ordonnance n°2004-1391 du 20 décembre 2004
 
-_Modifié par_:
-
-  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
-
 _Cité par_:
 
   - Décret n°2017-1156 du 10 juillet 2017 - art. 17
   - Code de l'environnement - art. R331-14 (V)
   - Code de l'environnement - art. R333-15 (V)
   - Code du tourisme. - art. L135-1 (V)
+
+_Modifié par_:
+
+  - Loi n°2019-816 du 2 août 2019 - art. 4
+
+_Cite_:
+
+  - Code du tourisme. - art. L132-2
 
 
 ###### Article L132-2
