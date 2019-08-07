@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2019-08-04
+Version Consolidée au 2019-08-08
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-9)](#2)
@@ -1487,34 +1487,27 @@ _Anciens textes_:
 ###### Article L133-19
 
 Les règles relatives au surclassement dans une catégorie démographique supérieure des communes classées stations de tourisme
-au sens de la sous-section 2 de la section 2 du présent chapitre sont fixées à l'alinéa 2 de l'article 88 de la loi n° 84-53
-du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale. 
+au sens de la sous-section 2 de la section 2 du présent chapitre sont fixées à l'avant-dernier alinéa de l'article 88 de la
+loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale.
 
 La commune qui perd le bénéfice du classement en station de tourisme conforme ses emplois à la catégorie démographique à
 laquelle elle appartient par référence à sa population totale issue du dernier recensement, au rythme des vacances d'emploi
 constatées dans la commune et sans que ce changement de catégorie démographique porte atteinte à la situation statutaire et
 réglementaire des agents en activité.
 
-**Nota:**
-
-Loi 2006-437 du 14 avril 2006 article 7 VII : Les dispositions de la section 2 du chapitre 3 du titre III du livre Ier du
-code du tourisme dans sa rédaction résultant de la présente loi entrent en vigueur dans un délai de six mois à compter de la
-publication du décret mentionné à l'article L. 133-18 du même code. Le décret n° 2008-884 du 2 septembre 2008 a été publié le
-3 septembre 2008.
-
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°84-53 du 26 janvier 1984 - art. 88 (VT)
+  - Loi n°84-53 du 26 janvier 1984 - art. 88
 
 _Codifié par_:
 
-  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+  - Ordonnance n°2004-1391 du 20 décembre 2004
 
 _Modifié par_:
 
-  - Loi n°2006-437 du 14 avril 2006 - art. 7 (V) JORF 15 avril 2006
+  - Loi n°2019-828 du 6 août 2019 - art. 29
 
 _Anciens textes_:
 
