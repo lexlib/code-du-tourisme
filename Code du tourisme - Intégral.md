@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2019-08-08
+Version Consolidée au 2019-09-09
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-9)](#2)
@@ -14846,7 +14846,8 @@ _Codifié par_:
 
 ###### Article D326-1
 
-Un refuge est un établissement d'hébergement recevant du public gardé ou non, situé en altitude dans un site isolé. 
+Un refuge est un établissement recevant du public au sens de l'article R. 123-2 du code de la construction et de
+l'habitation, gardé ou non, situé en altitude dans un site isolé. 
 
 Son isolement est caractérisé par l'absence d'accès tant par voie carrossable que par remontée mécanique de type téléporté
 ouvertes au public et par l'inaccessibilité pendant au moins une partie de l'année aux véhicules et engins de secours. 
@@ -14858,34 +14859,46 @@ au développement et à la protection de la montagne.
 
 _Cite_:
 
-  - Loi n°85-30 du 9 janvier 1985 -  Titre I : Dispositions générales (V)
+  - Loi n°85-30 du 9 janvier 1985
+  - Code de la construction et de l'habitation. - art. R123-2
 
 _Codifié par_:
 
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+  - Décret n°2006-1229 du 6 octobre 2006
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2007-407 du 23 mars 2007 - art. 1 () JORF 25 mars 2007
+  - Décret n°2019-936 du 6 septembre 2019 - art. 1
 
 
 ###### Article D326-2
 
 Le refuge offre un hébergement à caractère collectif à des personnes de passage. La capacité d'hébergement d'un refuge est
-limitée à 150 personnes. Les mineurs peuvent y être hébergés.
+limitée à 150 personnes. Les mineurs peuvent y être hébergés. Lorsque des mineurs, hébergés dans un refuge non gardé,
+participent à l'accueil mentionné à l'article L. 227-4 du code de l'action sociale et des familles, ils doivent être
+accompagnés d'un membre de l'équipe d'encadrement dudit accueil. 
 
 En complément des équipements nécessaires à l'hébergement, le refuge peut disposer des aménagements permettant de dispenser
 un service de restauration.
+
+Les normes de sécurité contre les risques d'incendie et de panique spécifiques aux refuges de montagne sont prévues par le
+règlement de sécurité contre les risques d'incendie et de panique dans les établissements recevant du public mentionné à
+l'article R. 123-12 du code de la construction et de l'habitation.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+  - Décret n°2006-1229 du 6 octobre 2006
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2007-407 du 23 mars 2007 - art. 1 () JORF 25 mars 2007
+  - Décret n°2019-936 du 6 septembre 2019 - art. 1
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L227-4
+  - Code de la construction et de l'habitation. - art. R123-12
 
 
 ###### Article D326-3
