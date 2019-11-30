@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2019-10-19
+Version Consolidée au 2019-12-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-9)](#2)
@@ -219,7 +219,7 @@ Version Consolidée au 2019-10-19
           - [Section 3 : Sanctions. (art. R323-9 à R323-10)](#216)
         - [Chapitre IV : Meublés de tourisme et chambres d'hôtes. (art. D324-1 à R324-16)](#217)
           - [Section 1 : Meublés de tourisme. (art. D324-1 à R324-8)](#218)
-            - [Sous-section 1 : Dispositions générales. (art. D324-1 à R324-1-2)](#219)
+            - [Sous-section 1 : Dispositions générales. (art. D324-1 à R324-3)](#219)
             - [Sous-section 2 : Classement. (art. D324-2 à D324-6-1)](#220)
             - [Sous-section 3 : Sanctions. (art. R324-7 à R324-8)](#221)
           - [Section 2 : Chambres d'hôtes. (art. D324-13 à R324-16)](#222)
@@ -13941,20 +13941,89 @@ _Cite_:
 
 ###### Article R324-1-2
 
-Le fait, pour une personne qui offre à la location un meublé de tourisme au sens de l'article D. 324-1, de ne pas respecter
-l'obligation de déclaration prévue à l'article L. 324-1-1 est puni des peines prévues pour les contraventions de la troisième
-classe.
+Le fait, pour une personne qui offre à la location un meublé de tourisme au sens de l'article L. 324-1-1, de ne pas respecter
+l'obligation de déclaration prévue au II de cet article L. 324-1-1 est puni des peines prévues pour les contraventions de la
+troisième classe.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2019-1104 du 30 octobre 2019 - art. 1
+
+_Cite_:
+
+  - Code du tourisme. - art. L324-1-1
+
+
+###### Article R324-2
+
+I.-Lorsqu'une commune a mis en œuvre la procédure d'enregistrement mentionnée au III de l'article L. 324-1-1, cette commune
+peut adresser au plus une demande d'information par année civile à la personne mentionnée au I de l'article L. 324-2-1
+portant sur les locations de meublés de tourisme de l'année en cours et celles de l'année civile précédente. 
+
+II.-Cette demande est adressée par voie électronique dans les conditions de sécurité établies par le référentiel général de
+sécurité prévu par l'article 9 de l'ordonnance du 8 décembre 2005 susvisée. 
+
+La demande peut porter sur les locations de meublés de tourisme situés dans un périmètre donné couvrant tout ou partie du
+territoire de la commune. 
+
+Le format de la demande est fixé par arrêté des ministres chargés respectivement du tourisme et du logement.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance n°2005-1516 du 8 décembre 2005 - art. 9
+  - Code du tourisme. - art. L324-1-1
+  - Code du tourisme. - art. L324-2-1
+
+_Créé par_:
+
+  - Décret n°2019-1104 du 30 octobre 2019 - art. 2
+
+_Cité par_:
+
+  - Arrêté du 31 octobre 2019 (V)
+  - Arrêté du 31 octobre 2019 - art. 1 (V)
+  - Arrêté du 31 octobre 2019 - art. 2 (V)
+
+
+###### Article R324-3
+
+La personne mentionnée au I de l'article L. 324-2-1 transmet à la commune les informations mentionnées au II de l'article L.
+324-2-1 pour chaque meublé de tourisme ayant fait l'objet d'au moins une location dans la commune par l'intermédiaire de
+cette personne, y compris si ce meublé n'est plus offert à la location à la date de la demande. Cette transmission est faite
+par voie électronique, dans un format fixé par l'arrêté prévu à l'article précédent. 
+
+Ces informations portent sur :
+
+- l'adresse du local meublé précisant, lorsqu'elle en a connaissance et si ce dernier fait partie d'un immeuble comportant
+plusieurs locaux, le bâtiment, l'escalier, l'étage et le numéro d'appartement ;
+
+- lorsqu'elle en a connaissance, le numéro de déclaration mentionné au III de l'article L. 324-1-1 ;
+
+- lorsqu'elle en a connaissance, le nombre de jours au cours desquels ce meublé a fait l'objet d'une location par son
+intermédiaire. 
+
+Le délai de réponse d'un mois prévu au II de l'article L. 324-2-1 court à partir de la date de la demande de la commune.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 12
+  - Décret n°2019-1104 du 30 octobre 2019 - art. 2
+
+_Cité par_:
+
+  - Arrêté du 31 octobre 2019 (V)
+  - Arrêté du 31 octobre 2019 - art. (V)
+  - Arrêté du 31 octobre 2019 - art. 1 (V)
 
 _Cite_:
 
-  - Code du tourisme. - art. D324-1
   - Code du tourisme. - art. L324-1-1
+  - Code du tourisme. - art. L324-2-1
 
 
 ##### Sous-section 2 : Classement.<a id=220></a>
