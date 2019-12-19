@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2019-12-12
+Version Consolidée au 2019-12-20
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-9)](#2)
@@ -18733,6 +18733,9 @@ personnes accueillies au cours du séjour ;
 l) Si la personne handicapée en fait la demande, les conditions de la gestion sur place du budget personnel des personnes
 accueillies ;
 
+m) Un engagement à attester que les accompagnants et le responsable du déroulement du séjour sur le lieu de vacances n'ont
+pas fait l'objet d'une condamnation inscrite au bulletin n° 3 du casier judiciaire ;
+
 3° Le modèle de questionnaire adressé préalablement à la tenue du séjour à la personne accueillie, ou à son représentant
 légal, afin de connaître ses besoins ou ses problèmes de santé.
 
@@ -18750,13 +18753,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2015-267 du 10 mars 2015 - art. 1
+  - Décret n°2019-1382 du 17 décembre 2019 - art. 3
 
 _Cité par_:
 
   - Code du tourisme. - art. R412-10 (V)
   - Code du tourisme. - art. R412-12 (V)
-  - Code du tourisme. - art. R412-13 (V)
+  - Code du tourisme. - art. R412-13 (M)
 
 
 ###### Article R412-12
@@ -18861,11 +18864,8 @@ Huit jours avant la date prévue pour l'organisation du séjour, le titulaire de
 du ou des préfets des départements du ou des lieux concernés en renseignant le formulaire conforme à un modèle prévu par
 l'arrêté mentionné au premier alinéa.
 
-**Nota:**
-
-Conformément à l'article 2 du décret n° 2015-267 du 10 mars 2015, les demandes d'agrément accompagnées d'un dossier complet
-reçues avant l'entrée en vigueur du présent décret sont traitées conformément à la réglementation antérieure. Les demandes
-d'agrément accompagnées d'un dossier incomplet reçues avant cette date sont soumises aux dispositions du présent décret.
+Ce formulaire rappelle que les accompagnants et le responsable du déroulement du séjour sur le lieu de vacances ne doivent
+pas avoir fait l'objet d'une condamnation inscrite au bulletin n° 3 du casier judiciaire.
 
 **Liens relatifs à cet article**
 
@@ -18879,11 +18879,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2015-267 du 10 mars 2015 - art. 1
+  - Décret n°2019-1382 du 17 décembre 2019 - art. 3
 
 _Cité par_:
 
-  - Code du tourisme. - art. R412-15 (M)
+  - Code du tourisme. - art. R412-15 (V)
 
 
 ###### Article R412-14-1
@@ -18909,21 +18909,28 @@ _Créé par_:
 
 ###### Article R412-15
 
-Les inspecteurs de l'action sanitaire et sociale, les médecins inspecteurs de santé publique ou les inspecteurs des agences
-régionales de santé ayant la qualité de médecin exercent le contrôle des séjours et des lieux de vacances ainsi que des lieux
-de regroupement des vacanciers avant leur départ sur le lieu de vacances et vérifient notamment l'exactitude des informations
-transmises au préfet dans les conditions prévues à R. 412-14. Il leur appartient notamment de s'assurer de la sécurité des
-lieux et des personnes ainsi que de l'état de santé, d'intégrité ou de bien-être physique et moral de celles-ci.
+I.-Les inspecteurs de l'action sanitaire et sociale, les médecins inspecteurs de santé publique, les pharmaciens inspecteurs
+de santé publique, les ingénieurs du génie sanitaire, les ingénieurs d'études sanitaires, les techniciens sanitaires ainsi
+que les inspecteurs et contrôleurs des agences régionales de santé désignés à cette fin par le directeur général de l'agence
+régionale de santé et les personnels des services déconcentrés de la protection judiciaire de la jeunesse exercent le
+contrôle des séjours et des lieux de vacances ainsi que des lieux de regroupement des vacanciers avant leur départ sur le
+lieu de vacances. Le contrôle est effectué dans les conditions définies au II de l'article L. 412-2.
 
-A l'issue de leur contrôle, ils établissent soit un constat de conformité, soit des observations précises pour améliorer
-l'organisation et l'accompagnement des personnes accueillies, soit un rapport circonstancié au préfet de département, si les
-conditions d'accueil ne sont pas conformes et sont de nature à mettre en danger les personnes accueillies.
+Les agents sont habilités et assermentés dans les conditions définies par les articles R. 331-6 et R. 331-6-1 du code de
+l'action sociale et des familles. Ils peuvent se faire accompagner par toute personne qualifiée dans les conditions prévues à
+l'article L. 1421-1 du code de la santé publique.
 
-**Nota:**
+II.-Les agents mentionnés au premier alinéa du I vérifient notamment l'exactitude des informations transmises au préfet dans
+les conditions prévues à l'article R. 412-14 du présent code. Ils contrôlent également les conditions dans lesquelles
+l'organisateur assure sur place la sécurité des lieux et des personnes et préserve l'état de santé, d'intégrité ou de bien-
+être physique et moral de celles-ci.
 
-Conformément à l'article 2 du décret n° 2015-267 du 10 mars 2015, les demandes d'agrément accompagnées d'un dossier complet
-reçues avant l'entrée en vigueur du présent décret sont traitées conformément à la réglementation antérieure. Les demandes
-d'agrément accompagnées d'un dossier incomplet reçues avant cette date sont soumises aux dispositions du présent décret.
+III.-A l'issue de leur contrôle, ils établissent un rapport qui constate ou non la conformité des conditions d'accueil et
+d'accompagnement des personnes accueillies, assorti le cas échéant d'observations et de propositions d'amélioration. Ce
+rapport est adressé au préfet de département.
+
+IV.-La constatation des infractions, par les personnes habilitées et assermentées à cet effet, donne lieu à l'établissement
+d'un procès-verbal transmis au procureur de la République.
 
 **Liens relatifs à cet article**
 
@@ -18933,41 +18940,37 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2015-267 du 10 mars 2015 - art. 1
+  - Décret n°2019-1382 du 17 décembre 2019 - art. 3
 
 _Cite_:
 
-  - Code du tourisme. - art. R412-14 (M)
+  - Code du tourisme. - art. R412-14 (V)
 
 _Cité par_:
 
-  - Code du tourisme. - art. R412-16 (M)
+  - Code du tourisme. - art. R412-16 (V)
 
 
 ###### Article R412-16
 
-Le préfet du département, au vu des signalements effectués en application de l'article R. 412-14-1 ou du rapport mentionné à
-l'article R. 412-15, peut procéder à des injonctions. Si les injonctions, adressées conjointement à la personne physique ou
-morale agréée à l'organisme agréé et au responsable du séjour mis en cause, ne sont pas suivies des effets indiqués par le
-préfet dans les délais qu'il a mentionnés, celui-ci met fin à ce séjour. 
+I.-Le préfet du département, au vu des signalements effectués en application de l'article R. 412-14-1 ou du rapport mentionné
+à l'article R. 412-15, peut procéder à des injonctions. Si les injonctions, adressées conjointement à la personne physique ou
+morale agréée et au responsable du séjour mis en cause, ne sont pas suivies des effets indiqués par le préfet dans les délais
+qu'il a mentionnés, celui-ci met fin à ce séjour.
 
-En cas d'urgence, le préfet du département peut décider la cessation immédiate du séjour. 
+En cas d'urgence, le préfet du département peut décider la cessation immédiate du séjour.
 
-L'organisateur du séjour met en œuvre les conditions d'évacuation ou de rapatriement des personnes accueillies vers leur lieu
-de résidence habituelle ou vers un autre lieu géré par un organisme de vacances adaptées organisées agréé.
+II.-L'organisateur du séjour met en œuvre les conditions d'évacuation ou de rapatriement des personnes accueillies vers leur
+lieu de résidence habituelle ou vers un autre lieu géré par un organisme de vacances adaptées organisées agréé. Il informe,
+sans délai, le préfet du département de la liste et de la destination des personnes évacuées ou rapatriées et des modalités
+de mise en œuvre associées.
 
-Dans le cadre d'un contrôle d'un séjour, s'il est constaté soit que l'agrément " vacances adaptées organisées " n'a pas été
-obtenu, comporte des informations mensongères ou inexactes ou n'est plus valable, soit que l'organisme à l'origine du
-déroulement d'un séjour n'en a pas informé le préfet de département concerné, le préfet peut autoriser la poursuite du séjour
-au vu d'un contrôle sur place et d'un rapport circonstancié d'un inspecteur de l'action sanitaire et sociale, d'un médecin
-inspecteur de santé publique ou d'un inspecteur de l'agence régionale de santé ayant la qualité de médecin et en prenant en
-compte la situation et l'intérêt des personnes accueillies.
-
-**Nota:**
-
-Conformément à l'article 2 du décret n° 2015-267 du 10 mars 2015, les demandes d'agrément accompagnées d'un dossier complet
-reçues avant l'entrée en vigueur du présent décret sont traitées conformément à la réglementation antérieure. Les demandes
-d'agrément accompagnées d'un dossier incomplet reçues avant cette date sont soumises aux dispositions du présent décret.
+III.-Dans le cadre d'un contrôle d'un séjour, s'il est constaté soit que l'agrément “ vacances adaptées organisées ” n'a pas
+été obtenu, comporte des informations mensongères ou inexactes, est suspendu ou n'est plus valable, soit que l'organisme à
+l'origine du déroulement d'un séjour n'en a pas informé le préfet de département concerné, le préfet peut autoriser la
+poursuite du séjour au vu d'un contrôle sur place et d'un rapport circonstancié établi par les personnels mentionnés au
+premier alinéa de l'article R. 412-15 et en prenant en compte la situation et l'intérêt des personnes accueillies. Le préfet
+informe de sa décision l'autorité compétente pour délivrer l'agrément.
 
 **Liens relatifs à cet article**
 
@@ -18977,11 +18980,11 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2015-267 du 10 mars 2015 - art. 1
+  - Décret n°2019-1382 du 17 décembre 2019 - art. 3
 
 _Cite_:
 
-  - Code du tourisme. - art. R412-15 (M)
+  - Code du tourisme. - art. R412-15 (V)
 
 
 ###### Article R412-17
