@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2019-12-20
+Version Consolidée au 2019-12-29
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-9)](#2)
@@ -1335,8 +1335,11 @@ _Cité par_:
 
 ###### Article L133-15
 
-Le classement mentionné à l'article L. 133-13 est, à la demande des communes touristiques intéressées, prononcé par décret
-pris pour une durée de douze ans.
+Le classement mentionné à l'article L. 133-13 est, à la demande des communes touristiques intéressées, prononcé par arrêté de
+l'autorité administrative compétente pour une durée de douze ans.
+
+Les communes touristiques érigées en stations classées de tourisme conservent la dénomination “ commune touristique ” pendant
+toute la durée de leur classement.
 
 **Nota:**
 
@@ -1349,11 +1352,11 @@ publication du décret mentionné à l'article L. 133-18 du même code. Le décr
 
 _Codifié par_:
 
-  - Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004
+  - Ordonnance n°2004-1391 du 20 décembre 2004
 
 _Modifié par_:
 
-  - Loi n°2006-437 du 14 avril 2006 - art. 7 (V) JORF 15 avril 2006
+  - Loi n°2019-1461 du 27 décembre 2019 - art. 16 (V)
 
 _Cité par_:
 
@@ -1363,7 +1366,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code du tourisme. - art. L133-13 (V)
+  - Code du tourisme. - art. L133-13
 
 _Anciens textes_:
 
@@ -1600,17 +1603,13 @@ _Cite_:
 
 ###### Article L134-2
 
-Les communautés de communes et les communautés d'agglomération exercent de plein droit, en lieu et place des communes
-membres, la compétence en matière de promotion du tourisme, dont la création d'offices de tourisme, au sens du 2° du I de
-l'article L. 5214-16 et du 1° du I de l'article L. 5216-5 du code général des collectivités territoriales. 
-
-A l'occasion du transfert de cette compétence aux communautés de communes et aux communautés d'agglomération, les offices de
-tourisme des communes touristiques et des stations classées de tourisme sont transformés en bureaux d'information de l'office
-de tourisme intercommunal, sauf lorsqu'ils deviennent le siège de cet office. L'organe délibérant de l'établissement public
-de coopération intercommunale à fiscalité propre peut cependant décider, au plus tard trois mois avant l'entrée en vigueur du
-transfert de la compétence, de maintenir des offices de tourisme distincts pour des stations classées de tourisme, en
-définissant les modalités de mutualisation des moyens et des ressources des offices de tourisme intercommunaux existant sur
-son territoire.
+A l'occasion du transfert de la compétence en matière de promotion du tourisme, dont la création d'offices de tourisme, aux
+communautés de communes et aux communautés d'agglomération, les offices de tourisme des communes touristiques et des stations
+classées de tourisme sont transformés en bureaux d'information de l'office de tourisme intercommunal, sauf lorsqu'ils
+deviennent le siège de cet office. L'organe délibérant de l'établissement public de coopération intercommunale à fiscalité
+propre peut cependant décider, au plus tard trois mois avant l'entrée en vigueur du transfert de la compétence, de maintenir
+des offices de tourisme distincts pour des stations classées de tourisme, en définissant les modalités de mutualisation des
+moyens et des ressources des offices de tourisme intercommunaux existant sur son territoire.
 
 **Liens relatifs à cet article**
 
@@ -1620,11 +1619,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2015-991 du 7 août 2015 - art. 68 (V)
+  - Loi n°2019-1461 du 27 décembre 2019 - art. 16 (V)
 
 _Cite_:
 
-  - Code général des collectivités territoriales - art. L5214-16 (VT)
+  - Code général des collectivités territoriales - art. L5214-16
   - Code général des collectivités territoriales - art. L5216-5
 
 _Cité par_:
@@ -2181,18 +2180,7 @@ _Cite_:
 ###### Article L151-3
 
 Les règles relatives à la dénomination des communes touristiques et au classement des stations de tourisme en Corse sont
-fixées aux I A et I de l'article L. 4424-32 du code général des collectivités territoriales ci-après reproduits : 
-
-" I A.-La dénomination des communes touristiques mentionnées aux articles L. 133-11 et L. 134-3 du code du tourisme est
-accordée, par arrêté du président du conseil exécutif de Corse pris pour une durée de cinq ans, à la demande de la commune ou
-de l'établissement public de coopération intercommunale compétent en matière de tourisme et après consultation du conseil des
-sites et de la commission départementale compétente en matière d'environnement, de risques sanitaires et technologiques. 
-
-I.-Le classement des stations mentionnées aux articles L. 133-13 et L. 134-3 du même code est prononcé par délibération de
-l'Assemblée de Corse à la demande de la commune ou de l'établissement public de coopération intercommunale compétent en
-matière de tourisme et après consultation du conseil départemental d'hygiène et du conseil des sites et après enquête
-publique réalisée conformément au chapitre III du titre II du livre Ier du code de l'environnement. La durée de validité du
-classement est de douze ans. "
+fixées aux I A et I de l'article L. 4424-32 du code général des collectivités territoriales.
 
 **Nota:**
 
@@ -2206,19 +2194,25 @@ _Cité par_:
 
   - Loi n°2000-321 du 12 avril 2000 - art. 27 (V)
   - Code de la construction et de l'habitation. - art. L301-4-1 (V)
-  - Code général des collectivités territoriales - art. L5214-16 (VD)
+  - Code général des collectivités territoriales - art. L5214-16 (VT)
   - Code général des collectivités territoriales - art. L5216-5 (VT)
   - Code général des collectivités territoriales - art. L5218-2 (V)
 
 _Modifié par_:
 
-  - Loi n°2010-788 du 12 juillet 2010 - art. 240
+  - Loi n°2019-1461 du 27 décembre 2019 - art. 16 (V)
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L4424-32
 
 _Cite_:
 
-  - Code du tourisme. - art. L133-11 (V)
-  - Code du tourisme. - art. L133-13 (V)
-  - Code du tourisme. - art. L134-3 (V)
+  - Code général des collectivités territoriales - art. L4424-32 (V)
+  - Code du tourisme. - art. L133-1
+  - Code du tourisme. - art. L133-11
+  - Code du tourisme. - art. L133-13
+  - Code du tourisme. - art. L134-3
 
 
 ###### Article L151-4
@@ -4762,11 +4756,26 @@ La commune peut, jusqu'au 31 décembre de l'année suivant celle au cours de laq
 location, demander au loueur de lui transmettre le nombre de jours au cours desquels ce meublé a été loué. Le loueur transmet
 ces informations dans un délai d'un mois, en rappelant l'adresse du meublé et son numéro de déclaration.
 
-V.-Toute personne qui ne se conforme pas aux obligations résultant du III est passible d'une amende civile dont le montant ne
-peut excéder 5 000 €.
+IV bis.-Sur le territoire des communes ayant mis en œuvre la procédure d'enregistrement prévue au III, une délibération du
+conseil municipal peut soumettre à autorisation la location d'un local à usage commercial en tant que meublé de tourisme.
+
+Cette autorisation est délivrée au regard des objectifs de protection de l'environnement urbain et d'équilibre entre emploi,
+habitat, commerces et services, par le maire de la commune dans laquelle est situé le local.
+
+Lorsque la demande porte sur des locaux soumis à autorisation préalable au titre d'un changement de destination relevant du
+code de l'urbanisme, l'autorisation prévue au premier alinéa tient lieu de l'autorisation précitée dès lors que les
+conditions prévues par le code de l'urbanisme sont respectées.
+
+Un décret en Conseil d'Etat précise les modalités d'application du présent IV bis.
+
+V.- Toute personne qui ne se conforme pas aux obligations résultant du III est passible d'une amende civile dont le montant
+ne peut excéder 5 000 €.
 
 Toute personne qui ne se conforme pas aux obligations résultant du IV est passible d'une amende civile dont le montant ne
 peut excéder 10 000 €.
+
+Toute personne qui ne se conforme pas aux obligations résultant du IV bis est passible d'une amende civile dont le montant ne
+peut excéder 25 000 €.
 
 Ces amendes sont prononcées par le président du tribunal de grande instance, statuant en la forme des référés, sur demande de
 la commune dans laquelle est situé le meublé de tourisme. Le produit de l'amende est versé à la commune. Le tribunal de
@@ -4778,7 +4787,7 @@ _Cite_:
 
   - Loi n°89-462 du 6 juillet 1989 - art. 2
   - Code de la construction et de l'habitation. - art. L631-7
-  - Code de la construction et de l'habitation. - art. L631-9 (V)
+  - Code de la construction et de l'habitation. - art. L631-9
 
 _Cité par_:
 
@@ -4795,7 +4804,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2018-1021 du 23 novembre 2018 - art. 145
+  - Loi n°2019-1461 du 27 décembre 2019 - art. 55
 
 
 ###### Article L324-2
@@ -4803,7 +4812,9 @@ _Modifié par_:
 Toute offre ou contrat de location saisonnière doit revêtir la forme écrite et contenir l'indication du prix demandé ainsi
 qu'un état descriptif des lieux.
 
-Toute offre de location mentionnée au II de l'article L. 324-1-1 contient le numéro de déclaration mentionné à cet article.
+Toute offre de location mentionnée au II de l'article L. 324-1-1 contient le numéro de déclaration mentionné à cet article et
+indique, dans des conditions définies par décret, si l'offre émane d'un particulier ou d'un professionnel au sens de
+l'article 155 du code général des impôts.
 
 **Liens relatifs à cet article**
 
@@ -4817,7 +4828,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1321 du 7 octobre 2016 - art. 51
+  - Loi n°2019-1461 du 27 décembre 2019 - art. 55
 
 
 ###### Article L324-2-1
@@ -4837,9 +4848,11 @@ peut, jusqu'au 31 décembre de l'année suivant celle au cours de laquelle un me
 demander à la personne mentionnée au I du présent article, lorsque celle-ci en a connaissance, notamment lorsqu'elle met à
 disposition une plateforme numérique de nature à lui conférer la connaissance ou le contrôle des données stockées, de lui
 transmettre le nombre de jours au cours desquels ce meublé de tourisme a fait l'objet d'une location par son intermédiaire.
-La personne mentionnée au même I transmet ces informations dans un délai d'un mois, en rappelant l'adresse du meublé et son
-numéro de déclaration. La commune peut demander un décompte individualisé pour une liste de meublés de tourisme dans un
-périmètre donné.
+La personne mentionnée au même I transmet ces informations dans un délai d'un mois, en rappelant le nom du loueur, l'adresse
+du meublé et son numéro de déclaration ainsi que, le cas échéant, le fait que ce meublé constitue ou non la résidence
+principale du loueur au sens de l'article 2 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs
+et portant modification de la loi n° 86-1290 du 23 décembre 1986. La commune peut demander un décompte individualisé pour les
+meublés de tourisme situés sur tout ou partie de son territoire.
 
 Dans ces mêmes communes, la personne mentionnée audit I n'offre plus à la location un meublé de tourisme déclaré comme
 résidence principale du loueur lorsqu'elle a connaissance, notamment lorsqu'elle met à disposition une plateforme numérique
@@ -4873,15 +4886,20 @@ et L. 324-2 du présent code ainsi qu'au présent article sur le territoire rele
 logement. A cette fin, ils sont habilités à se faire présenter toute déclaration par les personnes mentionnées au II de
 l'article L. 324-1-1 et au I du présent article.
 
+**Nota:**
+
+Conformément à l'article 30 de l'ordonnance n° 2019-738 du 17 juillet 2019, ces dispositions s'appliquent aux demandes
+introduites à compter du 1er janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2018-1021 du 23 novembre 2018 - art. 145
+  - Loi n°2019-1461 du 27 décembre 2019 - art. 55
 
 _Cite_:
 
-  - Code du tourisme. - art. L324-1-1 (V)
+  - Code du tourisme. - art. L324-1-1
   - Code de la construction et de l'habitation. - art. L631-7
 
 _Cité par_:
