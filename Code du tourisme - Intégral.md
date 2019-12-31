@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2019-12-01
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-9)](#2)
@@ -4723,9 +4723,14 @@ peut excéder 5 000 €.
 Toute personne qui ne se conforme pas aux obligations résultant du IV est passible d'une amende civile dont le montant ne
 peut excéder 10 000 €.
 
-Ces amendes sont prononcées par le président du tribunal de grande instance, statuant en la forme des référés, sur demande de
-la commune dans laquelle est situé le meublé de tourisme. Le produit de l'amende est versé à la commune. Le tribunal de
+Ces amendes sont prononcées par le président du tribunal judiciaire statuant selon la procédure accélérée au fond sur demande
+de la commune dans laquelle est situé le meublé de tourisme. Le produit de l'amende est versé à la commune. Le tribunal de
 grande instance compétent est celui dans le ressort duquel est situé le meublé de tourisme.
+
+**Nota:**
+
+Conformément à l'article 30 de l'ordonnance n° 2019-738 du 17 juillet 2019, ces dispositions s'appliquent aux demandes
+introduites à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -4733,7 +4738,7 @@ _Cite_:
 
   - Loi n°89-462 du 6 juillet 1989 - art. 2
   - Code de la construction et de l'habitation. - art. L631-7
-  - Code de la construction et de l'habitation. - art. L631-9 (V)
+  - Code de la construction et de l'habitation. - art. L631-9
 
 _Cité par_:
 
@@ -4741,14 +4746,14 @@ _Cité par_:
   - Décret n°2017-678 du 28 avril 2017 (V)
   - Code du tourisme. - art. D324-1 (V)
   - Code du tourisme. - art. D324-1-1 (V)
-  - Code du tourisme. - art. L324-2-1 (V)
+  - Code du tourisme. - art. L324-2-1 (VD)
   - Code du tourisme. - art. R324-1-2 (VD)
   - Code du tourisme. - art. R324-2 (VD)
   - Code du tourisme. - art. R324-3 (VD)
 
 _Modifié par_:
 
-  - Loi n°2018-1021 du 23 novembre 2018 - art. 145
+  - Ordonnance n°2019-738 du 17 juillet 2019 - art. 14
 
 
 ###### Article L324-2
@@ -4812,8 +4817,8 @@ le montant ne peut excéder 50 000 € par meublé de tourisme objet du manqueme
 Toute personne qui ne se conforme pas aux obligations résultant du deuxième alinéa du même II est passible d'une amende
 civile dont le montant ne peut excéder 50 000 € par annonce faisant l'objet du manquement.
 
-Ces amendes sont prononcées par le président du tribunal de grande instance, statuant en la forme des référés, sur demande de
-la commune dans laquelle est situé le meublé de tourisme. Le produit de l'amende est versé à la commune. Le tribunal de
+Ces amendes sont prononcées par le président du tribunal judiciaire statuant selon la procédure accélérée au fond sur demande
+de la commune dans laquelle est situé le meublé de tourisme. Le produit de l'amende est versé à la commune. Le tribunal de
 grande instance compétent est celui dans le ressort duquel est situé le meublé de tourisme.
 
 IV.-Les agents assermentés du service municipal ou départemental du logement mentionnés aux articles L. 621-4 et L. 651-6 du
@@ -4822,15 +4827,20 @@ et L. 324-2 du présent code ainsi qu'au présent article sur le territoire rele
 logement. A cette fin, ils sont habilités à se faire présenter toute déclaration par les personnes mentionnées au II de
 l'article L. 324-1-1 et au I du présent article.
 
+**Nota:**
+
+Conformément à l'article 30 de l'ordonnance n° 2019-738 du 17 juillet 2019, ces dispositions s'appliquent aux demandes
+introduites à compter du 1er janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2018-1021 du 23 novembre 2018 - art. 145
+  - Ordonnance n°2019-738 du 17 juillet 2019 - art. 14
 
 _Cite_:
 
-  - Code du tourisme. - art. L324-1-1 (V)
+  - Code du tourisme. - art. L324-1-1 (VD)
   - Code de la construction et de l'habitation. - art. L631-7
 
 _Cité par_:
@@ -6901,7 +6911,15 @@ travail, des 3° et 4° de l'article L. 5424-1 et de l'article L. 5423-3 du mêm
 employeurs, les chefs d'entreprise de moins de cinquante salariés, leurs conjoints, leurs concubins ou leurs partenaires liés
 à eux par un pacte civil de solidarité ainsi que les personnes à leur charge, telles qu'elles sont définies aux articles 6 et
 196 du code général des impôts, peuvent, avec la contribution de leur employeur, acquérir des titres nominatifs appelés
-chèques-vacances.
+chèques-vacances. 
+
+Pour l'application du premier alinéa du présent article, l'effectif salarié et le franchissement du seuil de cinquante
+salariés sont déterminés selon les modalités prévues à l'article L. 130-1 du code de la sécurité sociale.
+
+**Nota:**
+
+Conformément au XIV de l’article 11 de la loi n° 2019-486 du 22 mai 2019, les dispositions entrent en vigueur le 1er janvier
+2020.
 
 **Liens relatifs à cet article**
 
@@ -6913,7 +6931,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - ORDONNANCE n°2015-333 du 26 mars 2015 - art. 3
+  - Loi n°2019-486 du 22 mai 2019 - art. 11 (V)
 
 _Cite_:
 
@@ -6922,10 +6940,10 @@ _Cite_:
   - Code du travail - art. L3141-1
   - Code du travail - art. L5423-3 (V)
   - Code du travail - art. L5424-1
+  - Code de la sécurité sociale. - art. L130-1 (VD)
 
 _Cité par_:
 
-  - Code du tourisme. - art. L411-5 (V)
   - Code du tourisme. - art. L411-6 (V)
   - Code du tourisme. - art. L411-8 (V)
   - Code du tourisme. - art. L411-9 (VT)
@@ -7080,7 +7098,15 @@ donnant droit à exonération, qui ne peut excéder les plafonds fixés au derni
 bénéficiaire et par an, à 30 % du salaire minimum de croissance apprécié sur une base mensuelle. Lorsqu'un redressement de
 cotisations sociales a pour origine la mauvaise application de cette exonération, ce redressement ne porte que sur la
 fraction des cotisations et contributions indûment exonérées ou réduites, sauf en cas de mauvaise foi ou d'agissements
-répétés du cotisant.
+répétés du cotisant. 
+
+Pour l'application du premier alinéa du présent article, l'effectif salarié et le franchissement du seuil de cinquante
+salariés sont déterminés selon les modalités prévues à l'article L. 130-1 du code de la sécurité sociale.
+
+**Nota:**
+
+Conformément au XIV de l’article 11 de la loi n° 2019-486 du 22 mai 2019, les dispositions entrent en vigueur le 1er janvier
+2020.
 
 **Liens relatifs à cet article**
 
@@ -7091,7 +7117,13 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - ORDONNANCE n°2015-333 du 26 mars 2015 - art. 3
+  - Loi n°2019-486 du 22 mai 2019 - art. 11 (V)
+
+_Cite_:
+
+  - Code de la sécurité sociale. - art. L130-1 (VD)
+  - Code du tourisme. - art. L411-11
+  - Code du tourisme. - art. L411-20
 
 _Cité par_:
 
@@ -7100,12 +7132,6 @@ _Cité par_:
   - Code du tourisme. - art. L411-10 (VD)
   - Code du tourisme. - art. L411-6 (V)
   - Code du tourisme. - art. L411-9 (VD)
-
-_Cite_:
-
-  - Code du tourisme. - art. L411-1 (VT)
-  - Code du tourisme. - art. L411-11
-  - Code du tourisme. - art. L411-20
 
 
 ###### Article L411-10
@@ -11943,16 +11969,21 @@ produire.
 
 Dès la notification à l'établissement de crédit de la cessation de la garantie, il ne peut plus être procédé à des retraits
 qu'avec l'accord du garant. Si le titulaire du compte refuse d'effectuer un retrait, la désignation d'un administrateur
-provisoire peut être demandée au président du tribunal de grande instance statuant en référé. 
+provisoire peut être demandée au président du   tribunal judiciaire statuant en référé. 
 
 En cas de changement de garantie, les fonds provenant des opérations en cours au moment de la cessation de celle-ci ne
 peuvent être transférés à un autre compte de même nature que s'ils sont couverts au titre de la nouvelle garantie.
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 1
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
