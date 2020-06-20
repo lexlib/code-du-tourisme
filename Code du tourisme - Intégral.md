@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2020-06-07
+Version Consolidée au 2020-06-21
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-9)](#2)
@@ -16133,9 +16133,8 @@ _Cité par_:
 ###### Article R342-5
 
 A compter du 1er janvier 2009, toute personne exerçant les fonctions du maître d'oeuvre mentionné à l'article R. 342-4 doit
-être préalablement agréée par le ministre chargé des transports. Cet agrément est délivré, après avis du service technique
-des remontées mécaniques et des transports guidés, pour une durée maximale de cinq ans dans les conditions prévues à
-l'article R. 342-16.
+être préalablement agréée par le directeur du service technique des remontées mécaniques et des transports guidés. Cet
+agrément est délivré pour une durée maximale de cinq ans dans les conditions prévues à l'article R. 342-16.
 
 **Liens relatifs à cet article**
 
@@ -16162,16 +16161,16 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
+  - Décret n°2006-1229 du 6 octobre 2006
 
 _Modifié par_:
 
-  - Décret n°2007-934 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+  - Décret n°2020-752 du 19 juin 2020 - art. 22
 
 _Cite_:
 
-  - Code du tourisme. - art. R342-16 (V)
-  - Code du tourisme. - art. R342-4 (V)
+  - Code du tourisme. - art. R342-16
+  - Code du tourisme. - art. R342-4
 
 
 ###### Article R342-6
