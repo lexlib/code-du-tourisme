@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2020-06-21
+Version Consolidée au 2020-10-03
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-9)](#2)
@@ -294,14 +294,13 @@ Version Consolidée au 2020-06-21
           - [Section 2 : Taxes et redevances prélevées au profit des communes et établissements publics de coopération intercommunale. (art. D422-3 à D422-7)](#291)
             - [Sous-section 1 : Taxe de séjour et taxe de séjour forfaitaire. (art. D422-3 à D422-4)](#292)
             - [Sous-section 2 : Taxe communale sur les entreprises exploitant des engins de remontée mécanique. (art. D422-5)](#293)
-            - [Sous-section 5 : Taxe sur les activités commerciales non salariées à durée saisonnière. (art. D422-6)](#294)
-            - [Sous-section 6 : Prélèvement sur le produit des jeux dans les casinos. (art. D422-7)](#295)
-          - [Section 3 : Taxes prélevées au profit des départements. (art. D422-8)](#296)
-            - [Sous-section 2 : Taxe départementale sur les entreprises exploitant des engins de remontée mécanique. (art. D422-8)](#297)
-      - [TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER. (art. R441-1 à R443-4)](#298)
-        - [Chapitre Ier : Dispositions relatives à la Guadeloupe, la Guyane, la Martinique et la Réunion. (art. R441-1)](#299)
-        - [Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon. (art. R442-1 à R442-3)](#300)
-        - [Chapitre III : Dispositions relatives à Mayotte. (art. R443-2 à R443-4)](#301)
+            - [Sous-section 6 : Prélèvement sur le produit des jeux dans les casinos. (art. D422-7)](#294)
+          - [Section 3 : Taxes prélevées au profit des départements. (art. D422-8)](#295)
+            - [Sous-section 2 : Taxe départementale sur les entreprises exploitant des engins de remontée mécanique. (art. D422-8)](#296)
+      - [TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER. (art. R441-1 à R443-4)](#297)
+        - [Chapitre Ier : Dispositions relatives à la Guadeloupe, la Guyane, la Martinique et la Réunion. (art. R441-1)](#298)
+        - [Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon. (art. R442-1 à R442-3)](#299)
+        - [Chapitre III : Dispositions relatives à Mayotte. (art. R443-2 à R443-4)](#300)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME.<a id=2></a>
@@ -19331,31 +19330,7 @@ _Cite_:
   - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R2333-73 (V)
 
 
-##### Sous-section 5 : Taxe sur les activités commerciales non salariées à durée saisonnière.<a id=294></a>
-
-###### Article D422-6
-
-Les règles relatives à la taxe sur les activités commerciales non salariées à durée saisonnière sont fixées par les articles
-R. 2333-133 à R. 2333-138 du code général des collectivités territoriales, pris en application de l'article L. 2333-88 du
-même code.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2020-1207 du 30 septembre 2020 - art. 3
-
-_Cite_:
-
-  - Code général des collectivités territoriales - art. L2333-88
-  - Code général des collectivités territoriales - art. R2333-133
-
-
-##### Sous-section 6 : Prélèvement sur le produit des jeux dans les casinos.<a id=295></a>
+##### Sous-section 6 : Prélèvement sur le produit des jeux dans les casinos.<a id=294></a>
 
 ###### Article D422-7
 
@@ -19517,9 +19492,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2333-57 (V)
 
 
-##### Section 3 : Taxes prélevées au profit des départements.<a id=296></a>
+##### Section 3 : Taxes prélevées au profit des départements.<a id=295></a>
 
-##### Sous-section 2 : Taxe départementale sur les entreprises exploitant des engins de remontée mécanique.<a id=297></a>
+##### Sous-section 2 : Taxe départementale sur les entreprises exploitant des engins de remontée mécanique.<a id=296></a>
 
 ###### Article D422-8
 
@@ -19559,9 +19534,9 @@ _Cite_:
   - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R3333-3 (V)
 
 
-### TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER.<a id=298></a>
+### TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER.<a id=297></a>
 
-#### Chapitre Ier : Dispositions relatives à la Guadeloupe, la Guyane, la Martinique et la Réunion.<a id=299></a>
+#### Chapitre Ier : Dispositions relatives à la Guadeloupe, la Guyane, la Martinique et la Réunion.<a id=298></a>
 
 ###### Article R441-1
 
@@ -19582,7 +19557,7 @@ _Créé par_:
   - Décret n°2015-1002 du 18 août 2015 - art. 5
 
 
-#### Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon.<a id=300></a>
+#### Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon.<a id=299></a>
 
 ###### Article R442-1
 
@@ -19623,7 +19598,7 @@ _Codifié par_:
   - Décret n°2006-1229 2006-10-06 JORF 7 octobre 2006
 
 
-#### Chapitre III : Dispositions relatives à Mayotte.<a id=301></a>
+#### Chapitre III : Dispositions relatives à Mayotte.<a id=300></a>
 
 ###### Article R443-2
 
