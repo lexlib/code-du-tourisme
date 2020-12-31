@@ -1,5 +1,5 @@
 # Code du tourisme  
-Version Consolidée au 2020-10-03
+Version Consolidée au 2021-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L443-5)](#1)
     - [LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME. (art. L111-1 à L163-9)](#2)
@@ -645,11 +645,11 @@ _Codifié par_:
 
 Dans chaque département, le conseil départemental établit, en tant que de besoin, un schéma d'aménagement touristique
 départemental. Ce schéma prend en compte les orientations définies par le schéma régional de développement du tourisme et des
-loisirs. 
+loisirs.
 
-Sur le territoire des départements du Bas-Rhin et du Haut-Rhin, l'organisme mentionné à l'article L. 132-2 est chargé
-d'animer et de coordonner l'action des collectivités territoriales et des autres acteurs concernés, en cohérence avec le
-schéma régional de développement du tourisme et des loisirs.
+Sur le territoire de la Collectivité européenne d'Alsace, l'organisme mentionné à l'article L. 132-2 est chargé d'animer et
+de coordonner l'action des collectivités territoriales et des autres acteurs concernés, en cohérence avec le schéma régional
+de développement du tourisme et des loisirs.
 
 **Nota:**
 
@@ -662,10 +662,6 @@ _Anciens textes_:
   - Loi n°92-1341 1992-12-23 art. 5
   - Loi n°92-1341 du 23 décembre 1992 - art. 5 (AbD)
 
-_Codifié par_:
-
-  - Ordonnance n°2004-1391 du 20 décembre 2004
-
 _Cité par_:
 
   - Décret n°2017-1156 du 10 juillet 2017 - art. 17
@@ -675,7 +671,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2019-816 du 2 août 2019 - art. 4
+  - Loi n°2019-816 du 2 août 2019 - art. 14 (VD)
 
 _Cite_:
 
